@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/SSC.png
+
+# Agency logo
+agency-logo: /images/sportcare-logo.jpg
+
+# Hero Banner
+hero-title: Changing Lives Through Sport
+hero-subtitle: Hero subtitle
+hero-banner: /images/hero-banner.png
+
+#Call to Action Button
+button:
+  - text: Read More
+    url: /who-we-are/
+
+key-highlights:
+  - title: For Youth at Risk
+    description: Transforming Vulnerabilities into Strengths
+    url: https://google.com
+    external: true
+  - title: Play-Ability
+    description: Bridging Communities through Sports
+    url: https://yahoo.com
+    external: true
+  - title: Partnerships
+    description: Harnessing sport for social change
+    url: /page-A/
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resource-room/
