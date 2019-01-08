@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: Sub Page B
-permalink: /left-nav-one/sub-page-B/
-breadcrumb: Sub Page B
+title: Community Partnerships
+permalink: /left-nav-one/community-partnerships/
+breadcrumb: Community Partnerships
 collection_name: left-nav-one
 ---
