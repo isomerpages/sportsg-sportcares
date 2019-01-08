@@ -4,16 +4,16 @@
 #                                #
 ##################################
 
-- title: SportCare
-  url: /SportCares/
-- title: Swagger
+- title: About SportCares
+  url: /about-sportcares/
+- title: Youth-at-Risk
   url: /youth-at-risk/
-- title: Play-Ability
-  url: /play-ability/
-- title: Partnerships
-  url: /Partnerships/
-- title: Resource Room
-  url: /resource-room/
+- title: Persons with Disabilities
+  url: /persons-with-disabilities/
+- title: Communities of Care
+  url: /communities-of-care/
+- title: Media Centre
+  url: /media-centre/
   sub-links:
   - title: All
     url: /resource-room/
