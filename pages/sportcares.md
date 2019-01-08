@@ -1,19 +1,18 @@
 ---
 layout: simple-page
-title: SportCares
-permalink: /sportcares/
+title: About SportCares
+permalink: /about-sportcares/
 breadcrumb: SportCares
 ---
-#### At SportCares, we are set apart by sport.
-We leverage positive sports experiences to make a difference for the at-risk and underserved in our community. Simply because great sports programming opens doors.
+### About SportCares
 
-> Sport engages the mind, body and soul in meaningful ways – it builds self-belief.
- Sport demands that they become leaders – it equips them with integrity.
- Sport reminds them that they are team players – it gives them a sense of belonging.
+SportCares utilises the power of community based sporting experiences to harness the life aspirations of the at-risk and socially disadvantaged. 
 
-A little more sports in the lives of the underprivileged and underserved can empower them to become greater than they ever imagined.
+By using sport as an engagement strategy to bring about positive change in their lives, we are able to empower them with crucial life skills that will help them both on and off the playing field. 
 
-And greater people make a greater nation.
+We design and deliver sport-centric programmes to enhance the lives of disadvantaged children, youth-at-risk, needy seniors and people with physical and/or intellectual disabilities.
+
+Working alongside like-minded partners from government agencies, corporates and non-profit organisations allow us to take a community development approach to bring about long-term change in the lives of our beneficiaries. 
 
 #### HEARTS FRAMEWORK
 SportCares Guiding Principle
