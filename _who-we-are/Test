@@ -1,0 +1,9 @@
+# Sample code snippet for left nav page
+# Always replace the spaces in your permalink with dash (-) otherwise your website will break!
+---
+layout: leftnav-page-content
+title: Fill in your own title description
+permalink: /fill-in-your-own-title-description/
+breadcrumb: Fill in your own title description
+collection_name: Test test test 
+---
