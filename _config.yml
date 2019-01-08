@@ -21,7 +21,11 @@ breadcrumbs:
     image: false # Show image or title text
     
 collections:
-    who-we-are:
+    about-sportcares:
+    output: true
+    youth-at-risk:
+    output: true
+    persons-with-disabilities:
     output: true
 
 # Resource Room and Pagination
