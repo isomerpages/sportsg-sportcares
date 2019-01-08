@@ -6,17 +6,17 @@
 
 - title: About SportCares
   url: /about-sportcares/
+   sub-links:
+  - title: Journey and Milestones
+    url: /our-journey/
+  - title: Communities of Care
+    url: /communities-of-care/
 - title: Youth-at-Risk
   url: /youth-at-risk/
 - title: Persons with Disabilities
   url: /persons-with-disabilities/
 - title: Partner with Us
   url: /partnerships/
-- title: Who We Are
-  url: /who-we-are/
-  sub-links:
-  - title: My team
-    url: /my-team/
 - title: Media Centre
   url: /media-centre/
   sub-links:
