@@ -12,5 +12,12 @@
   url: /play-ability/
 - title: Partnerships
   url: /Partnerships/
+- title: Partnerships with 2 levels
+  url: /left-nav-one/corporate-partnerships/
+  sub-links:
+  - title: Sub Page A
+    url: /left-nav-one/corporate-partnerships/
+  - title: Sub Page B
+    url: /left-nav-one/community-partnerships/
 - title: Contact Us
   url: /contact-us/
