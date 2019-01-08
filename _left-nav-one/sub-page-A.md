@@ -1,7 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Sub Page A
-permalink: /left-nav-one/sub-page-A/
-breadcrumb: Sub Page A
+title: Corporate Partnerships
+permalink: /left-nav-one/corporate-partnerships/
+breadcrumb: Corporate Partnerships
 collection_name: left-nav-one
 ---
+
+Corporate Partnerships text
