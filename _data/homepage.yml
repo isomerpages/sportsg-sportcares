@@ -11,28 +11,27 @@ favicon: /images/SSC.png
 agency-logo: /images/sportcare-logo.jpg
 
 # Hero Banner
-hero-title: Yo whats up!
-hero-subtitle: Hero subtitle
+hero-title: Building Communities of Care
+hero-subtitle: Join us in changing lives through sport
 hero-banner: /images/hero-banner.png
 
 #Call to Action Button
 button:
-  - text: Read More
-    url: /who-we-are/
+  - text: Partner us today
+    url: /partnerships/
 
 key-highlights:
-  - title: For Youth at Risk
+  - title: Youth at Risk
     description: Transforming Vulnerabilities into Strengths
-    url: https://google.com
-    external: true
-  - title: Play-Ability
-    description: Bridging Communities through Sports
-    url: https://yahoo.com
+    url: /youth-at-risk/
+  - title: Persons with Disabilities
+    description: Bridging Communities through Sport
+    url: /persons-with-disabilities/
   - title: Partnerships
     description: Harnessing sport for social change
-    url: /page-A/
+    url: /partnerships/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+resources-title: Find out what we've been up to
+resources-subtitle: Media Centre
+resources-more-button: More
+resources-more-button-url: /media-centre/
