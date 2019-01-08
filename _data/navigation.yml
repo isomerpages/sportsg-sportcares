@@ -12,12 +12,16 @@
   url: /play-ability/
 - title: Partnerships
   url: /Partnerships/
-- title: Partnerships with 2 levels
-  url: /left-nav-one/corporate-partnerships/
+- title: Resource Room
+  url: /resource-room/
   sub-links:
-  - title: Sub Page A
-    url: /left-nav-one/corporate-partnerships/
-  - title: Sub Page B
-    url: /left-nav-one/community-partnerships/
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
+  - title: Subcategory C
+    url: /resource-room/subcategory-C/
 - title: Contact Us
   url: /contact-us/
