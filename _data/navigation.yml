@@ -12,6 +12,11 @@
   url: /persons-with-disabilities/
 - title: Partner with Us
   url: /partnerships/
+- title: Who We Are
+  url: /who-we-are/
+  sub-links:
+  - title: My team
+    url: /my-team/
 - title: Media Centre
   url: /media-centre/
   sub-links:
