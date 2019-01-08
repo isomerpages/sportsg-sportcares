@@ -7,14 +7,30 @@
 - title: About SportCares
   url: /about-sportcares/
   sub-links:
+  - title: About Us
+    url: /about-us/
   - title: Journey and Milestones
     url: /our-journey/
   - title: Communities of Care
     url: /communities-of-care/
 - title: For Youth-at-Risk
   url: /youth-at-risk/
+  sub-links:
+  - title: About Youths-at-Risk
+    url: /about-youths-at-risk/
+  - title: Hearts Framework
+    url: /hearts-framework/
+  - title: Youth Programmes
+    url: /youth-programmes/  
 - title: For Persons with Disabilities
   url: /persons-with-disabilities/
+  sub-links:
+  - title: Disability Sports Master Plan
+    url: /disability-sports-master-plan/
+  - title: Inclusive Facilities
+    url: /inclusive-facilities/
+  - title: Disability Sports Programmes
+    url: /disability-sports-programmes/
 - title: Partner with Us
   url: /partnerships/
 - title: Media Centre
