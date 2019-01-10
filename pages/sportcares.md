@@ -1,18 +1,18 @@
 ---
 layout: simple-page
 title: About SportCares
-permalink: /about-sportcares/
+permalink: /testing1/
 breadcrumb: SportCares
 ---
 ### About SportCares
 
-SportCares utilises the power of community based sporting experiences to harness the life aspirations of the at-risk and socially disadvantaged. 
+SportCares utilises the power of community based sporting experiences to harness the life aspirations of the at-risk and socially disadvantaged.
 
-By using sport as an engagement strategy to bring about positive change in their lives, we are able to empower them with crucial life skills that will help them both on and off the playing field. 
+By using sport as an engagement strategy to bring about positive change in their lives, we are able to empower them with crucial life skills that will help them both on and off the playing field.
 
 We design and deliver sport-centric programmes to enhance the lives of disadvantaged children, youth-at-risk, needy seniors and people with physical and/or intellectual disabilities.
 
-Working alongside like-minded partners from government agencies, corporates and non-profit organisations allow us to take a community development approach to bring about long-term change in the lives of our beneficiaries. 
+Working alongside like-minded partners from government agencies, corporates and non-profit organisations allow us to take a community development approach to bring about long-term change in the lives of our beneficiaries.
 
 #### HEARTS FRAMEWORK
 SportCares Guiding Principle

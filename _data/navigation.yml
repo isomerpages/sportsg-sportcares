@@ -5,7 +5,7 @@
 ##################################
 
 - title: About Us
-  url: /about-sportcares/
+  url: /about-sportcares/about-us/
   sub-links:
   - title: About Us
     url: /about-sportcares/about-us/
@@ -13,17 +13,17 @@
     url: /about-sportcares/our-journey/
   - title: Communities of Care
     url: /about-sportcares/communities-of-care/
-- title: Youth-at-Risk
-  url: /youth-at-risk/
+- title: Youths-at-Risk
+  url: /youths-at-risk/
   sub-links:
   - title: About Youths-at-Risk
-    url: /youth-at-risk/about-youths-at-risk/
+    url: /youths-at-risk/about-youths-at-risk/
   - title: Hearts Framework
-    url: /youth-at-risk/hearts-framework/
+    url: /youths-at-risk/hearts-framework/
   - title: Youth Programmes
-    url: /youth-at-risk/programmes/
+    url: /youths-at-risk/programmes/
   - title: Upcoming Events
-    url: /youth-at-risk/events/  
+    url: /youths-at-risk/events/
 - title: For Persons with Disabilities
   url: /persons-with-disabilities/
   sub-links:
@@ -36,17 +36,22 @@
   - title: Upcoming Events
     url: /persons-with-disabilities/events/
 - title: Partner with Us
-  url: /partnerships/
+  url: /partner-with-us/partnership-schemes/
+  sub-links:
+  - title: Past Partnerships
+    url: /partner-with-us/past-partnership/
+  - title: Partnership Schemes
+    url: /partner-with-us/partnership-schemes/
 - title: Media
   url: /media/
   sub-links:
   - title: All
-    url: /resource-room/
-  - title: Subcategory A
-    url: /resource-room/subcategory-A/
-  - title: Subcategory B
-    url: /resource-room/subcategory-B/
-  - title: Subcategory C
-    url: /resource-room/subcategory-C/
+    url: /media/
+  - title: Press Release
+    url: /media/press-release/
+  - title: Stories
+    url: /media/stories/
+  - title: Events
+    url: /media/events/
 - title: Contact Us
   url: /contact-us/
