@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Inclusive Facilities
 permalink: /persons-with-disabilities/inclusive-facilities/
-breadcrumb: Inclusive Facilities
+breadcrumb: Inclusive Sports Facilities
 collection_name: persons-with-disabilities
 ---
 
