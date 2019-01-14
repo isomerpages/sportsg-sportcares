@@ -23,6 +23,8 @@ HEARTS represents five key pillars:
 >
 >**S** represents the Stories that we hope to tell in order to inspire others.
 
+![HEARTS](/images/hearts-framework.jpg)
+
 An interconnected vision comprising three core pillars—Nurturance, Relationships and Care—the HEARTS framework embraces an approach that combines the grit of sports in order to nurture positive relationships.
 
 Sports promotes respect, resilience, discipline and integrity. These are values that bring out the best in people. We believe that by working through sports and promoting these values, we can help our constituents nurture positive relationships with the people around them. This, in turn, strengthens empathy, self-motivation, care and promotes a deep appreciation of diversity, qualities that will instil a deeper sense of belonging in the community, boost their confidence and grow their potential as an individual.
