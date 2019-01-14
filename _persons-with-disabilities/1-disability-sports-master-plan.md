@@ -6,4 +6,17 @@ breadcrumb: Disability Sports Master Plan
 collection_name: persons-with-disabilities
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi felis, pharetra eu dui eu, bibendum auctor magna. Aenean pulvinar tincidunt massa, eget fermentum tortor euismod in. Maecenas vitae tincidunt mi, a mollis dolor. Etiam tincidunt eros at imperdiet imperdiet. Proin elementum finibus condimentum. Sed purus sem, congue ut metus eu, varius auctor risus. Etiam vehicula enim quam, eget laoreet quam convallis at. Sed ullamcorper, ante volutpat rhoncus eleifend, tellus mi tempor ex, sed ornare massa ex eget nibh. Donec at dui at nisi maximus commodo eget nec velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean nibh tortor, sodales a pretium vel, laoreet in felis. Proin luctus metus sed hendrerit elementum. In fringilla felis pharetra, luctus ligula sed, posuere odio. Integer at lacinia nisl.
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zwgaQqLy_2c&t=14s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
+
+Since 2016, we have undertaken the executor role of the Disability Sports Master Plan (DSMP) as guided by the Ministry of Culture, Community, and Youth (MCCY). Find out more about the DSMP [here](https://www.mccy.gov.sg/Topics/Sports/Articles/DSMP.aspx).
+
+As part of the DSMP, the first Centre of Expertise for disability sports – [Sengkang Sports Centre](https://www.myactivesg.com/facilities/sengkang-sports-centre) – was launched in 2016 together with the Yes! I Can Swimming programme. 4 other Centres of Expertise are scheduled for launch over the next 5 years.
+
+We has since worked to increase accessibility of our sports centres and to provide more opportunities for persons with disabilities to live better through sport.
+
+#### Join Our Mailing List
+
+We are currently working directly with social service organisations, SPED schools, employment centres, support groups, and other disability organisations to introduce sports activities to the community. To find out about upcoming programmes, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://www.bit.ly/inclusivesportsg).
