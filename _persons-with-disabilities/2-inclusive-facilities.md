@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Inclusive Facilities
+title: Inclusive Sports Facilities
 permalink: /persons-with-disabilities/inclusive-facilities/
 breadcrumb: Inclusive Sports Facilities
 collection_name: persons-with-disabilities
