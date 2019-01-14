@@ -7,9 +7,8 @@ collection_name: persons-with-disabilities
 ---
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zwgaQqLy_2c&" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/zwgaQqLy_2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
 
 Since 2016, we have undertaken the executor role of the Disability Sports Master Plan (DSMP) as guided by the Ministry of Culture, Community, and Youth (MCCY). Find out more about the DSMP [here](https://www.mccy.gov.sg/Topics/Sports/Articles/DSMP.aspx).
 
