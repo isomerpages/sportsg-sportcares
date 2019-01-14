@@ -6,4 +6,22 @@ breadcrumb: Communities of Care
 collection_name: about-sportcares
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi felis, pharetra eu dui eu, bibendum auctor magna. Aenean pulvinar tincidunt massa, eget fermentum tortor euismod in. Maecenas vitae tincidunt mi, a mollis dolor. Etiam tincidunt eros at imperdiet imperdiet. Proin elementum finibus condimentum. Sed purus sem, congue ut metus eu, varius auctor risus. Etiam vehicula enim quam, eget laoreet quam convallis at. Sed ullamcorper, ante volutpat rhoncus eleifend, tellus mi tempor ex, sed ornare massa ex eget nibh. Donec at dui at nisi maximus commodo eget nec velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean nibh tortor, sodales a pretium vel, laoreet in felis. Proin luctus metus sed hendrerit elementum. In fringilla felis pharetra, luctus ligula sed, posuere odio. Integer at lacinia nisl.
+(/images/communities-of-care-1.png)
+
+### For our programmes to be truly successful, we believe in working with and alongside the larger community. 
+
+We execute our vision through a model called the Communities of Care, an approach which relies on a network of volunteer welfare organisations, government agencies, corporate partners and the sports fraternity.
+
+Communities of Care aims to bring these partners together, equip them with the right tools, harness their collective energies and channel these forces for good.
+
+By tapping on the abilities of both sports and non-sports related partners, we provide comprehensive and holistic experiences for our beneficiaries. 
+
+Our on-the-ground efforts help us get to the heart of the community and identify issues that require attention. 
+
+Using this knowledge, we then work alongside our partners to help address the issues and develop solutions with sports at the heart of these efforts.
+
+At the same time, we also place a strong emphasis on the growth and empowerment of stakeholders both within and outside of the SportCares organisation. For instance, we provide regular training for coaches so that they are up-to-date with the latest developments in the sporting landscape. 
+
+Above all, the Communities of Care model champions the human spirit by bringing together different groups of people from varied walks of life together as one. 
+
+If you'd like to join us in building Communities of Care through sport, drop us a note at sportcares@sport.gov.sg 
