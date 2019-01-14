@@ -6,7 +6,7 @@ breadcrumb: Communities of Care
 collection_name: about-sportcares
 ---
 
-(/images/communities-of-care-1.png)
+(/images/communities-of-care-1.jpg)
 
 ### For our programmes to be truly successful, we believe in working with and alongside the larger community. 
 
