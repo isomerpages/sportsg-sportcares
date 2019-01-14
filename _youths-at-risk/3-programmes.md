@@ -24,9 +24,8 @@ Through these programmes, we are laying the groundwork for a more inclusive and 
 
 **SATURDAY NIGHT LIGHTS**
 > ##### Saturday Night Lights, or SNL, takes underprivileged and at-risk youths off the streets on a Saturday nights to give them formal football training and a healthy meal at the end of it — without charge. Five years since it started, SNL has grown from a football programme to a development programme, and many SNL youths have gone beyond participating in just football training to regular community volunteering and even leadership courses. 
-> 
-**WATER SPORTS PROGRAMME**
 
+**WATER SPORTS PROGRAMME**
 >##### Since its inception in 2016, the SportCares Swimming Programme has been making waves across Singapore by equipping vulnerable and at-risk youth with water confidence skills. Aside from helping them improve their basic swimming proficiency, the programme positively impacts their lives by providing them with a safe space to express themselves and develop leadership skills while being part of a sporting family.  Under the mentorship of Singapore Swimming Association (SSA) approved swimming coaches, youths undergo a series of weekly training sessions that help to hone both their mental and physical abilities. 
 
 **OTHER SPORTS**
