@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 ---
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zwgaQqLy_2c&t=14s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=zwgaQqLy_2c&" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 
