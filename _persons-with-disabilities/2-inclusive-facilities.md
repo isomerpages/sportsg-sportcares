@@ -6,8 +6,6 @@ breadcrumb: Inclusive Sports Facilities
 collection_name: persons-with-disabilities
 ---
 
-#### **Adding image**
-This is how you can add a image. Remember to change the image file path
 ![Inclusive Sports Facilities](/ActiveSG-Inclusive-Facilities.png)
 
 #### Overview
