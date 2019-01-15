@@ -10,16 +10,15 @@ collection_name: persons-with-disabilities
 <table class="table-v">
   <tr>
     <td>January 19</td>
-    <td>SportCares Picnic at the Istana</td>
+    <td>SportCares Picnic at the Istana (closed door event)</td>
   </tr>
-    <tr>
+  <tr>
     <td>March 3</td>
     <td>ABL FamiliAffairs
-   
-   RSVP Required
-   <BR>
-   **Time**: 0800-1230</BR>
-   **Venue**: West Coast Park (Grand Lawn)</td>
+ RSVP Required
+      Time: 8AM - 1230PM
+      Venue: West Coact Park
+ </td>
   </tr>
     <tr>
     <td>March 16</td>
