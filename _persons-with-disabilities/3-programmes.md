@@ -6,7 +6,7 @@ breadcrumb: Sports Programmes
 collection_name: persons-with-disabilities
 ---
 
-> Through pilot projects, focus groups, needs sensing, and speaking to stakeholders in the community, we have designed several programmes that serve different needs and gaps in the disability sports industry. 
+#### Through pilot projects, focus groups, needs sensing, and speaking to stakeholders in the community, we have designed several programmes that serve different needs and gaps in the disability sports industry. 
 
 <table class="table-v">
   <tr>
@@ -51,6 +51,15 @@ wards to live better through sport.</td>
     <td>Intro a Sport matches an organisation or a special education school with experienced coaches and persons of expertise in a sport or fitness activity so they can learn how to use sport independently and effectively for physical education, team building, cocurricular activities, bonding and more. Starting with a coach-the-coaches learning phase and ending with
 supervised practical sessions, this initiative is designed to ensure
 long term sustainability of sporting activities in schools and organisations.</td>
+  </tr>
+</table>
+
+### Ongoing Programmes
+
+<table>
+      <tr>
+    <td>Open Play-Ability Badminton Sessions for Adults with Intellectual Disabilities (16 and above)</td>
+    <td>Every Thursday, 2-3PM or 3-4PM at Heartbeat@Bedok (Level 4 Sports Hall). Equipment provided. If you are interested in joining, email danielle_HAN@sport.gov.sg or vivian_pek_from.tp@sport.gov.sg with the participant's name, age and disability.</td>
   </tr>
 </table>
 
