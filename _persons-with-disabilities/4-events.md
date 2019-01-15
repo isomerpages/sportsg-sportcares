@@ -18,20 +18,16 @@ SportCares Picnic at the Istana (closed door event)
 
 #### March 2019
 
-**Sunday, 3 March**
-
-PapaMama Kids Ride Series by Ageless Bicyclists
+**Sunday, 3 March** 
+<BR>PapaMama Kids Ride Series by Ageless Bicyclists<BR>
 <BR>Venue: West Coast Park (Grand Lawn)
 <BR>Time: 830AM-1230PM
 <BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
 
 **Saturday, 16 March**
-
-Sport-Bilities by Youth Corps Singapore
-
->> Venue: Heartbeat@Bedok
-
->> Time: 8AM-5PM
+<BR>Sport-Bilities by Youth Corps Singapore
+<BR>Venue: Heartbeat@Bedok
+<BR>Time: 8AM-5PM
 
 #### April 2019
 
