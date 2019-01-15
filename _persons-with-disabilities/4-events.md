@@ -18,7 +18,7 @@ collection_name: persons-with-disabilities
 #### March 2019
 
 **Sunday, 3 March** 
-<BR><U>PapaMama Kids Ride Series by Ageless Bicyclists
+<BR><U>PapaMama Kids Ride Series by Ageless Bicyclists</u>
 <BR>Venue: West Coast Park (Grand Lawn)
 <BR>Time: 830AM-1230PM
 <BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
