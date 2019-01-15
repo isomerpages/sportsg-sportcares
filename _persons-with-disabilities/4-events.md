@@ -11,8 +11,7 @@ collection_name: persons-with-disabilities
 #### January 2019
 
 **Saturday, January 19**
-
-SportCares Picnic at the Istana (closed door event)
+<BR>SportCares Picnic at the Istana (closed door event)
 
 #### February 2019
 
@@ -40,21 +39,15 @@ SportCares Picnic at the Istana (closed door event)
 #### August 2019
 
 **Thursday-Sunday, 1-4 August**
-
-Inclusive Sports Festival
-
->> Venue: Our Tampines Hub
-
->> Time: TBC
+<BR>Inclusive Sports Festival
+<BR>Venue: Our Tampines Hub
+<BR>Time: TBC
 
 **Saturday-Sunday, 24-25 August**
-
-Play Inclusive
-In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
-
->> Venue: OCBC Arena
-
->> Time: TBC
+<BR>Play Inclusive
+<BR>In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
+<BR>Venue: OCBC Arena
+<BR>Time: TBC
 
 #### September 2019
 
