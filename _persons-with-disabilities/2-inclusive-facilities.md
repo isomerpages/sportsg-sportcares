@@ -6,7 +6,7 @@ breadcrumb: Inclusive Sports Facilities
 collection_name: persons-with-disabilities
 ---
 
-![Inclusive Sports Facilities](/ActiveSG-Inclusive-Facilities.png)
+![Inclusive Sports Facilities](/images/ActiveSG-Inclusive-Facilities.png)
 
 #### Overview
 Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. 
