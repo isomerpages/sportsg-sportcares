@@ -56,11 +56,11 @@ long term sustainability of sporting activities in schools and organisations.</t
 
 ### Ongoing Programmes
 
-<table>
-      <tr>
-    <td>Open Play-Ability Badminton Sessions for Adults with Intellectual Disabilities (16 and above)</td>
-    <td>Every Thursday, 2-3PM or 3-4PM at Heartbeat@Bedok (Level 4 Sports Hall). Equipment provided. If you are interested in joining, email danielle_HAN@sport.gov.sg or vivian_pek_from.tp@sport.gov.sg with the participant's name, age and disability.</td>
-  </tr>
-</table>
+##### Open Play-Ability Badminton Sessions for Adults with Intellectual Disabilities (16 and above)
+* Every Thursday
+* 2-3PM, 3-4PM
+* Heartbeat@Bedok (Level 4 Sports Hall, Court 1)
+* Equipment provided
+* If you are interested in joining, email <danielle_HAN@sport.gov.sg> or <vivian_pek_from.tp@sport.gov.sg> with the participant's name, age and disability.
 
 Click [here](http://bit.ly/inclusivesportsg) to sign up for our mailing list!
