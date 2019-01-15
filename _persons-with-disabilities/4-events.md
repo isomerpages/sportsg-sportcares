@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Upcoming Events
-permalink: /persons-with-disabilities/programmes/
+permalink: /persons-with-disabilities/events/
 breadcrumb: Upcoming Events
 collection_name: persons-with-disabilities
 ---
