@@ -24,7 +24,7 @@ collection_name: persons-with-disabilities
 <BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
 
 **Saturday, 16 March**
-<BR><U>Sport-Bilities by Youth Corps Singapore
+<BR><U>Sport-Bilities by Youth Corps Singapore</U>
 <BR>Venue: Heartbeat@Bedok
 <BR>Time: 8AM-5PM
 
@@ -39,12 +39,12 @@ collection_name: persons-with-disabilities
 #### August 2019
 
 **Thursday-Sunday, 1-4 August**
-<BR><U>Inclusive Sports Festival
+<BR><U>Inclusive Sports Festival</u>
 <BR>Venue: Our Tampines Hub
 <BR>Time: TBC
 
 **Saturday-Sunday, 24-25 August**
-<BR><U>Play Inclusive
+<BR><U>Play Inclusive</u>
 <BR>In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
 <BR>Venue: OCBC Arena
 <BR>Time: TBC
