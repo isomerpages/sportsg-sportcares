@@ -18,13 +18,13 @@ collection_name: persons-with-disabilities
 #### March 2019
 
 **Sunday, 3 March** 
-<BR>PapaMama Kids Ride Series by Ageless Bicyclists
+<BR><U>PapaMama Kids Ride Series by Ageless Bicyclists
 <BR>Venue: West Coast Park (Grand Lawn)
 <BR>Time: 830AM-1230PM
 <BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
 
 **Saturday, 16 March**
-<BR>Sport-Bilities by Youth Corps Singapore
+<BR><U>Sport-Bilities by Youth Corps Singapore
 <BR>Venue: Heartbeat@Bedok
 <BR>Time: 8AM-5PM
 
@@ -39,12 +39,12 @@ collection_name: persons-with-disabilities
 #### August 2019
 
 **Thursday-Sunday, 1-4 August**
-<BR>Inclusive Sports Festival
+<BR><U>Inclusive Sports Festival
 <BR>Venue: Our Tampines Hub
 <BR>Time: TBC
 
 **Saturday-Sunday, 24-25 August**
-<BR>Play Inclusive
+<BR><U>Play Inclusive
 <BR>In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
 <BR>Venue: OCBC Arena
 <BR>Time: TBC
