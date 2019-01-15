@@ -22,11 +22,9 @@ SportCares Picnic at the Istana (closed door event)
 
 PapaMama Kids Ride Series by Ageless Bicyclists
 
->> Venue: West Coast Park (Grand Lawn)
-
->> Time: 830AM-1230PM
-
->> RSVP [Link Coming Soon](http://www.rsvplink.com)
+<BR>Venue: West Coast Park (Grand Lawn)</BR>
+<BR>Time: 830AM-1230PM</BR>
+<BR>RSVP [Link Coming Soon](http://www.rsvplink.com)</BR>
 
 **Saturday, 16 March**
 
