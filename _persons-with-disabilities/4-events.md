@@ -22,19 +22,19 @@ SportCares Picnic at the Istana (closed door event)
 
 PapaMama Kids Ride Series by Ageless Bicyclists
 
-> Venue: West Coast Park (Grand Lawn)
+>> Venue: West Coast Park (Grand Lawn)
 
-> Time: 830AM-1230PM
+>> Time: 830AM-1230PM
 
-> RSVP [Link Coming Soon](http://www.rsvplink.com)
+>> RSVP [Link Coming Soon](http://www.rsvplink.com)
 
 **Saturday, 16 March**
 
 Sport-Bilities by Youth Corps Singapore
 
-> Venue: Heartbeat@Bedok
+>> Venue: Heartbeat@Bedok
 
-> Time: 8AM-5PM
+>> Time: 8AM-5PM
 
 #### April 2019
 
@@ -50,18 +50,18 @@ Sport-Bilities by Youth Corps Singapore
 
 Inclusive Sports Festival
 
-> Venue: Our Tampines Hub
+>> Venue: Our Tampines Hub
 
-> Time: TBC
+>> Time: TBC
 
 **Saturday-Sunday, 24-25 August**
 
 Play Inclusive
 In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
 
-> Venue: OCBC Arena
+>> Venue: OCBC Arena
 
-> Time: TBC
+>> Time: TBC
 
 #### September 2019
 
