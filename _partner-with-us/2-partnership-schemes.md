@@ -6,4 +6,38 @@ breadcrumb: Partnership Schemes
 collection_name: partner-with-us
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mi felis, pharetra eu dui eu, bibendum auctor magna. Aenean pulvinar tincidunt massa, eget fermentum tortor euismod in. Maecenas vitae tincidunt mi, a mollis dolor. Etiam tincidunt eros at imperdiet imperdiet. Proin elementum finibus condimentum. Sed purus sem, congue ut metus eu, varius auctor risus. Etiam vehicula enim quam, eget laoreet quam convallis at. Sed ullamcorper, ante volutpat rhoncus eleifend, tellus mi tempor ex, sed ornare massa ex eget nibh. Donec at dui at nisi maximus commodo eget nec velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean nibh tortor, sodales a pretium vel, laoreet in felis. Proin luctus metus sed hendrerit elementum. In fringilla felis pharetra, luctus ligula sed, posuere odio. Integer at lacinia nisl.
+> Harnessing sport for social change is all about teamwork: different partners bringing different strengths to the table. Because we understand that together, we can go further and do better in changing lives through sport. 
+
+Partner with us to bring the big spirit of sports to the arena of social change. 
+
+Write to us at <sportcares@sport.gov.sg> to find out how you can be part of our community of care through the SportCares Partnership Schemes.
+
+#### Community
+* Adding a new dimension of care for partners that have yet to organise sport programmes for their constituents
+* Enhance existing sport offering for the organisations’ constituents
+* Engendering community start-ups to use sport for social good
+
+##### How We Support
+* Equipment and facilities
+* Bursaries & Scholarships
+* Joint sport programming
+* Event partnerships
+
+#### Corporates, Private Foundations & Business Associations
+* Helping corporate partners deliver effective CSR that meet the needs of the intended constituents
+* For sport businesses, linking up with constituents and co-designing programmes that leverages on the business’ core strengths
+
+##### How We Support
+* Staff volunteer training and opportunities
+* Matching company’s expertise to benefit vulnerable communities
+* Joint sport programming 
+
+#### NSAs & NDSAs
+* Delivering greater outreach together to benefit the vulnerable segments of society
+* Ensuring the vulnerable segments of society and equitable access to sport offerings by NSA/NDSAs
+* Opportunities for NSA/NDSA athletes to give-back to society
+
+##### How We Support
+* Partner programming (with social service organisations, schools or special education schools)
+* Athletes volunteer training & opportunities
+* Equipment & facilities
