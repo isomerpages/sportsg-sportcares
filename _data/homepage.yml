@@ -18,7 +18,7 @@ hero-banner: /images/Website-Hero-Banner.jpg
 #Call to Action Button
 button:
   - text: Partner us today
-    url: /partnerships/
+    url: /partner-with-us/partnership-schemes/
 
 key-highlights:
   - title: HEARTS Framework
@@ -29,7 +29,7 @@ key-highlights:
     url: /persons-with-disabilities/inclusive-facilities/
   - title: Partnerships
     description: Harnessing Sport for Social Change
-    url: /partnerships/
+    url: /partner-with-us/partnership-schemes/
 
 resources-title: Highlights
 resources-subtitle: Media Centre
