@@ -2,7 +2,7 @@
 layout: post
 title:  Play Inclusive 2018: The biggest unified sport competition in Singapore
 date:   2018-07-14
-permalink: /media/press-release/play-inclusive-2018
+permalink: /media/press-release/play-inclusive-2018/
 ---
 
 ##### The biggest unified sport competition in Singapore
