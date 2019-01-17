@@ -14,7 +14,7 @@ Since 2016, we have undertaken the executor role of the Disability Sports Master
 
 As part of the DSMP, the first Centre of Expertise for disability sports – [Sengkang Sports Centre](https://www.myactivesg.com/facilities/sengkang-sports-centre) – was launched in 2016 together with the Yes! I Can Swimming programme. 4 other Centres of Expertise are scheduled for launch over the next 5 years.
 
-We has since worked to increase accessibility of our sports centres and to provide more opportunities for persons with disabilities to live better through sport.
+We have since worked to increase accessibility of our sports centres and to provide more opportunities for persons with disabilities to live better through sport.
 
 #### Join Our Mailing List
 
