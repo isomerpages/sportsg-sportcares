@@ -14,18 +14,15 @@ locations:
 
 # Operating Hours [OPTIONAL]
     operating-hours:
-      - days: Mon - Thu
-        time: 8.30am - 6.00pm
-      - days: Fri
-        time: 8.30am - 5.30pm
+      - days: Mon - Fri
+        time: 9am - 5.00pm
         description: Closed on Weekends and Public Holidays
 
 # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
-    - line: +65 6345 7111
-    - line: (email)
+    - line: sportcares@sport.gov.sg(email)
     # If you have an email, put (email) after the actual email
 
 # Image
