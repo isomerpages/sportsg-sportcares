@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Play Inclusive 2018
-date:   2018-01-16
+date:   2018-07-14
 permalink: /media/press-release/play-inclusive-2018/
 ---
 
