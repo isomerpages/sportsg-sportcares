@@ -40,3 +40,5 @@ Lee Lie Han, 13, unified partner from Ping Yi Secondary School has never engaged
 Muhammad Asyraf Bin Abu Zarim, 17, from MINDS Woodlands Garden School shared his experience, “Through the trainings I have made friends with Jun Hong my partner from Evergreen Secondary School. When I am unsure about the competition rules, he will teach and encourage me. I am looking forward to winning some medals together with him at Play Inclusive!"
 
 Over 270 SportCares youth, student and corporate volunteers, and officials were on duty from as early as 7am to ensure the 10-hour event ran like clockwork. Some traditionally paid roles, such as Competition Managers and Umpires, were also helmed by volunteers.
+
+This Media Release was originally published [here](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2018/7/The-biggest-unified-sport-competition-in-Singapore)
