@@ -12,8 +12,20 @@ collection_name: persons-with-disabilities
 
 **Saturday, January 19**
 <BR>SportCares Picnic at the Istana (closed door event)
+  
+**Wednesday, 23 January**
+<BR><U>Let's Play Sitting Volleyball</U> 
+<BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
+<BR>Time: 90AM-12PM
+<BR>RSVP has closed
 
 #### February 2019
+
+**Saturday, 16 February**
+<BR><U>Wheelchair Rugby Tryout</U> 
+<BR>Venue: Toa Payoh Sports Hall
+<BR>Time: 90AM-12PM
+<BR>Closed door event for TTSH clients
 
 **Thursday, 21 February**
 <BR><U>Disability Sports Coaches Onboarding and Networking</U> 
@@ -47,13 +59,13 @@ collection_name: persons-with-disabilities
 **Thursday-Sunday, 1-4 August**
 <BR><U>Inclusive Sports Festival</u>
 <BR>Venue: Our Tampines Hub
-<BR>Time: TBC
+<BR>Time: 9AM-5PM daily
 
 **Saturday-Sunday, 24-25 August**
 <BR><U>Play Inclusive</u>
 <BR>In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
 <BR>Venue: OCBC Arena
-<BR>Time: TBC
+<BR>Time: 9AM-5PM daily
 
 #### September 2019
 
