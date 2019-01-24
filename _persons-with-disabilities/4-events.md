@@ -15,6 +15,12 @@ collection_name: persons-with-disabilities
 
 #### February 2019
 
+**Thursday, 21 February**
+<BR><U>Disability Sports Coaches Onboarding and Networking</U> 
+<BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
+<BR>Time: 10AM-12PM
+<BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
+
 #### March 2019
 
 **Sunday, 3 March** 
