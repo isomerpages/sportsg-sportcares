@@ -16,7 +16,7 @@ collection_name: persons-with-disabilities
 **Wednesday, 23 January**
 <BR><U>Let's Play Sitting Volleyball</U> 
 <BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
-<BR>Time: 90AM-12PM
+<BR>Time: 9AM-12PM
 <BR>RSVP has closed
 
 #### February 2019
