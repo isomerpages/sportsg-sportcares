@@ -31,9 +31,15 @@ collection_name: persons-with-disabilities
 <BR><U>Disability Sports Coaches Onboarding and Networking</U> 
 <BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
 <BR>Time: 10AM-12PM
-<BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
+<BR>RSVP [Find out more here](https://www.sportsingapore.gov.sg/Athletes-Coaches/Course-Calendar/2019/Disability-Sports-Coaches-Onboarding-and-Networking-Session)
 
 #### March 2019
+
+**Friday, 1, 8, 15, 22, 30 March** 
+<BR><U>Pedal enAble Lets Go-CYCLING March 2019 by Ageless Bicyclists</u>
+<BR>Venue: Singapore Sports Hub 100plus Track
+<BR>Time: 0300PM-0430PM
+<BR>RSVP [Register Here](https://form.gov.sg/#!/forms/sportsg/5c46ce1a17d3da001785c6c1)
 
 **Sunday, 3 March** 
 <BR><U>PapaMama Kids Ride Series by Ageless Bicyclists</u>
