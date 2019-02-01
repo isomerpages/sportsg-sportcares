@@ -31,30 +31,43 @@ collection_name: persons-with-disabilities
 <BR><U>Disability Sports Coaches Onboarding and Networking</U> 
 <BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
 <BR>Time: 10AM-12PM
-<BR>RSVP [Find out more here](https://www.sportsingapore.gov.sg/Athletes-Coaches/Course-Calendar/2019/Disability-Sports-Coaches-Onboarding-and-Networking-Session)
+<BR>RSVP: [Register Here](https://www.sportsingapore.gov.sg/Athletes-Coaches/Course-Calendar/2019/Disability-Sports-Coaches-Onboarding-and-Networking-Session)
 
 #### March 2019
 
 **Friday, 1, 8, 15, 22, 30 March** 
 <BR><U>Pedal enAble Lets Go-CYCLING March 2019 by Ageless Bicyclists</u>
 <BR>Venue: Singapore Sports Hub 100plus Track
-<BR>Time: 0300PM-0430PM
-<BR>RSVP [Register Here](https://form.gov.sg/#!/forms/sportsg/5c46ce1a17d3da001785c6c1)
+<BR>Time: 3PM-430PM
+<BR>RSVP: [Register Here](https://form.gov.sg/#!/forms/sportsg/5c46ce1a17d3da001785c6c1)
 
 **Sunday, 3 March** 
 <BR><U>PapaMama Kids Ride Series by Ageless Bicyclists</u>
 <BR>Venue: West Coast Park (Grand Lawn)
 <BR>Time: 830AM-1230PM
-<BR>RSVP [Link Coming Soon](http://www.rsvplink.com)
+<BR>RSVP: Link Coming Soon
 
 **Saturday, 16 March**
 <BR><U>Sport-Bilities by Youth Corps Singapore</U>
 <BR>Venue: Heartbeat@Bedok
 <BR>Time: 8AM-5PM
+<BR>RSVP: [Sign Up As a Volunteer Here](https://portal.youthcorps.sg/Public/ViewProject/2127)
+  
+ **Saturday, 16 March**
+<BR><U>DSA Buddy Run and Carnival 2019 by Down Syndrome Association</U>
+<BR>As part of World Down Syndrome Day
+<BR>Venue: Our Tampines Hub
+<BR>Time: 8AM-3PM
+<BR>RSVP: [Find Out More and Register Here](http://www.downsyndrome-singapore.org/post/view/14/155)
 
 #### April 2019
 
 #### May 2019
+
+**Friday-Sunday, 10-12 May**
+<BR><U>Singapore 2019 World Para Swimming World Series by Singapore Disability Sports Council</u>
+<BR>Venue: To be updated
+<BR>Time: To be updated
 
 #### June 2019
 
