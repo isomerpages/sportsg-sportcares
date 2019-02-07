@@ -56,4 +56,4 @@ long term sustainability of sporting activities in schools and organisations.</t
   </tr>
 </table>
 
-<BR>Click <a href="http://bit.ly/inclusivesportsg">here</a> to sign up for our mailing list!</BR>
+Click <a href="http://bit.ly/inclusivesportsg">here</a> to sign up for our mailing list!
