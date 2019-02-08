@@ -18,26 +18,26 @@ Persons with disabilities, seniors, and beginner gym goers can seek the assistan
    <tr>
     <td>Jurong West Sports Centre</td>
     <td>20 Jurong West Street 93, Singapore 648965
-    <BR><a href="https://www.myactivesg.com/facilities/jurong-west-sports-centre">Operating Hours</a></BR></td>
+    <BR><a href="https://www.myactivesg.com/facilities/jurong-west-sports-centre">Operating Hours</a></td>
  </tr>
    <tr>
     <td>Toa Payoh Sports Centre</td>
     <td>301 Lor 6 Toa Payoh, Singapore 319392
-    <BR><a href="https://www.myactivesg.com/Facilities/toa-payoh-activesg-gym">Operating Hours</a></BR></td>
+    <BR><a href="https://www.myactivesg.com/Facilities/toa-payoh-activesg-gym">Operating Hours</a></td>
   </tr>
   <tr>
     <td>Enabling Village</td>
     <td>20 Lengkok Bahru, #01-05 Enabling Village, Singapore 159053
-    <BR><a href="https://www.myactivesg.com/Facilities/activesg-gym-enabling-village">Operating Hours</a></BR></td>
+    <BR><a href="https://www.myactivesg.com/Facilities/activesg-gym-enabling-village">Operating Hours</a></td>
   </tr>
     <tr>
     <td>Heartbeat@Bedok</td>
     <td>11 Bedok North Street 1, Singapore 469662
-    <BR><a href="https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium">Operating Hours</a></BR></td>
+    <BR><a href="https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium">Operating Hours</a></td>
   </tr>
   <tr>
     <td>Our Tampines Hub</td>
     <td>1 Tampines Walk, Singapore 528523
-    <BR><a href="https://www.myactivesg.com/facilities/tampines-activesg-gym">Operating Hours</a></BR></td>
+    <BR><a href="https://www.myactivesg.com/facilities/tampines-activesg-gym">Operating Hours</a></td>
   </tr>
 </table>
