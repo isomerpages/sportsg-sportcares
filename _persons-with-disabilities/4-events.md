@@ -7,8 +7,9 @@ collection_name: persons-with-disabilities
 ---
 
 ### Upcoming Events in 2019
+[Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
 
-#### January 2019
+#### January to March 2019
 
 **Saturday, January 19**
 <BR>SportCares Picnic at the Istana (closed door event)
@@ -18,8 +19,6 @@ collection_name: persons-with-disabilities
 <BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
 <BR>Time: 9AM-12PM
 <BR>RSVP has closed
-
-#### February 2019
 
 **Saturday, 16 February**
 <BR><U>Wheelchair Rugby Tryout</U> 
@@ -32,8 +31,6 @@ collection_name: persons-with-disabilities
 <BR>Venue: Sport Singapore HQ, SSI Seminar Room 1 and 2
 <BR>Time: 10AM-12PM
 <BR>RSVP: [Register Here](https://www.sportsingapore.gov.sg/Athletes-Coaches/Course-Calendar/2019/Disability-Sports-Coaches-Onboarding-and-Networking-Session)
-
-#### March 2019
 
 **Friday, 1, 8, 15, 22, 30 March** 
 <BR><U>Pedal enAble Lets Go-CYCLING March 2019 by Ageless Bicyclists</u>
@@ -60,20 +57,14 @@ collection_name: persons-with-disabilities
 <BR>Time: 8AM-3PM
 <BR>RSVP: [Find Out More and Register Here](http://www.downsyndrome-singapore.org/post/view/14/155)
 
-#### April 2019
-
-#### May 2019
+#### April to June 2019
 
 **Friday-Sunday, 10-12 May**
 <BR><U>Singapore 2019 World Para Swimming World Series by Singapore Disability Sports Council</u>
 <BR>Venue: To be updated
 <BR>Time: To be updated
 
-#### June 2019
-
-#### July 2019
-
-#### August 2019
+#### July to September 2019
 
 **Thursday-Sunday, 1-4 August**
 <BR><U>Inclusive Sports Festival</u>
@@ -86,10 +77,3 @@ collection_name: persons-with-disabilities
 <BR>Venue: OCBC Arena
 <BR>Time: 9AM-5PM daily
 
-#### September 2019
-
-#### October 2019
-
-#### November 2019
-
-#### December 2019
