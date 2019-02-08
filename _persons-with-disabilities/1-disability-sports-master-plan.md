@@ -13,7 +13,9 @@ Since 2016, we have undertaken the executor role of the Disability Sports Master
 
 As part of the DSMP, the first Centre of Expertise for disability sports – [Sengkang Sports Centre](https://www.myactivesg.com/facilities/sengkang-sports-centre) – was launched in 2016 together with the Yes! I Can Swimming programme. 4 other Centres of Expertise are scheduled for launch over the next 5 years.
 
-We have since worked to increase accessibility of our sports centres and to provide more opportunities for persons with disabilities to live better through sport.
+New sports such as Wheelchair Rugby have been introduced to increase the mix of sport offerings for the PWD community. The Inclusive Sports Festival 2018 at the Singapore Sports Hub saw a record number of sports and fitness activities on showcase, including diving, fencing, rock climbing, and even an inclusive gym showcase. 
+
+We are constantly working to increase accessibility in our sports centres and to provide more opportunities for persons with disabilities to live better through sport. 
 
 #### 2016-2018 Achievements
 
