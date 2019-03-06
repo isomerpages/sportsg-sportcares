@@ -1,8 +1,8 @@
 title: SportCares
 title-abbreviated: SportCares
 description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Changing Lives through Sports
+url: "https://sportcares.sportsingapore.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
