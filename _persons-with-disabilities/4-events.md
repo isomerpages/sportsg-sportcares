@@ -6,14 +6,6 @@ breadcrumb: Upcoming Events
 collection_name: persons-with-disabilities
 ---
 
----
-layout: leftnav-page-content
-title: Upcoming Events
-permalink: /persons-with-disabilities/events/
-breadcrumb: Upcoming Events
-collection_name: persons-with-disabilities
----
-
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
 <BR>Please email inclusivesport@sport.gov.sg if you would like to list your event here. 
