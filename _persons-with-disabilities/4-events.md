@@ -9,27 +9,7 @@ collection_name: persons-with-disabilities
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
 <BR>Please email inclusivesport@sport.gov.sg if you would like to list your event here. 
-
-#### January to March 2019
-
-**Saturday, 16 March**
-<BR><U>Sport-Bilities by Youth Corps Singapore</U>
-<BR>Venue: Heartbeat@Bedok Level 4 Sports Hall
-<BR>Time: 8AM-5PM
-<BR>RSVP: Open to public
-  
- **Saturday, 16 March**
-<BR><U>DSA Buddy Run and Carnival 2019 by Down Syndrome Association</U>
-<BR>As part of World Down Syndrome Day
-<BR>Venue: Our Tampines Hub
-<BR>Time: 8AM-3PM
-<BR>RSVP: [Find Out More and Register Here](http://www.downsyndrome-singapore.org/post/view/14/155)
-
- **Saturday, 23 March**
-<BR><U>DSA Charity Bowl 2019</U>
-<BR>Venue: Our Tampines Hub
-<BR>Time: 9AM-2PM
-<BR>RSVP: For more information, please contact joanne@downsyndrome-singapore.org
+<BR>Last Updated: 3 April 2019
 
 #### April to June 2019
 
@@ -39,13 +19,22 @@ collection_name: persons-with-disabilities
 <BR>Venue: Punggol Waterway Point
 <BR>Time: 9AM-11AM
 <BR>RSVP: For more information, please email malchen@singnet.com.sg 
+<BR>To Volunteer: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdUMQkSkMiU3Ds7Jik7JvHp3e02gh0kJhUUH5oJgsFLJBgwdQ/viewform)
 
 **Friday-Sunday, 10-12 May**
 <BR><U>Singapore 2019 World Para Swimming World Series by Singapore Disability Sports Council</u>
-<BR>Venue: To be updated
-<BR>Time: To be updated
+<BR>Venue: OCBC Aquatic Centre
+<BR>Find out more [here](https://sdsc.org.sg/singapore-2019-world-para-swimming-world-series/)
 
 #### July to September 2019
+
+**Saturday, 27 July**
+<BR><U>Run for Inclusion 2019</u>
+<BR>By [Runninghour](https://runninghour.com/)
+<BR>Venue: Punggol Safra
+<BR>Time: 4PM-7PM
+<BR>Persons with disabilities and special needs can participate for free
+<BR>To Register: [Click Here](https://runninghour.com/registration)
 
 **Thursday-Sunday, 1-4 August**
 <BR><U>Inclusive Sports Festival</u>
