@@ -20,6 +20,7 @@ collection_name: persons-with-disabilities
 <BR>Time: 9AM-11AM
 <BR>RSVP: For more information, please email malchen@singnet.com.sg 
 <BR>To Volunteer: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdUMQkSkMiU3Ds7Jik7JvHp3e02gh0kJhUUH5oJgsFLJBgwdQ/viewform)
+<BR>Find out more about upcoming programmes by Ageless Bicyclists [here](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/upcoming-programmes/)
 
 **Friday-Sunday, 10-12 May**
 <BR><U>Singapore 2019 World Para Swimming World Series by Singapore Disability Sports Council</u>
