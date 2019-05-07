@@ -13,31 +13,23 @@ ActiveSG gymnasiums across Singapore are currently undergoing transformations to
 
 Persons with disabilities, seniors, and beginner gym goers can seek the assistance of ActiveSG Fitness Instructors to create a specialised training plan utilising these machines.
 
-##### Gym Locations
-<table class="table-v">
-   <tr>
-    <td>Jurong West Sports Centre</td>
-    <td>20 Jurong West Street 93, Singapore 648965
-    <BR><a href="https://www.myactivesg.com/facilities/jurong-west-sports-centre">Operating Hours</a></td>
- </tr>
-   <tr>
-    <td>Toa Payoh Sports Centre</td>
-    <td>301 Lor 6 Toa Payoh, Singapore 319392
-    <BR><a href="https://www.myactivesg.com/Facilities/toa-payoh-activesg-gym">Operating Hours</a></td>
-  </tr>
-  <tr>
-    <td>Enabling Village</td>
-    <td>20 Lengkok Bahru, #01-05 Enabling Village, Singapore 159053
-    <BR><a href="https://www.myactivesg.com/Facilities/activesg-gym-enabling-village">Operating Hours</a></td>
-  </tr>
-    <tr>
-    <td>Heartbeat@Bedok</td>
-    <td>11 Bedok North Street 1, Singapore 469662
-    <BR><a href="https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium">Operating Hours</a></td>
-  </tr>
-  <tr>
-    <td>Our Tampines Hub</td>
-    <td>1 Tampines Walk, Singapore 528523
-    <BR><a href="https://www.myactivesg.com/facilities/tampines-activesg-gym">Operating Hours</a></td>
-  </tr>
-</table>
+##### Inclusive Gym Locations
+
+##### Jurong West Sports Centre
+* 20 Jurong West Street 93, Singapore 648965
+* [Operating Hours](https://www.myactivesg.com/facilities/jurong-west-sports-centre)
+##### Toa Payoh Sports Centre
+* 301 Lor 6 Toa Payoh, Singapore 319392
+* [Operating Hours](https://www.myactivesg.com/Facilities/toa-payoh-activesg-gym)
+
+##### Enabling Village (Redhill) 
+* 20 Lengkok Bahru, #01-05 Enabling Village, Singapore 159053
+* [Operating Hours](https://www.myactivesg.com/Facilities/activesg-gym-enabling-village)
+  
+ ##### Heartbeat@Bedok
+ * 11 Bedok North Street 1, Singapore 469662
+  * [Operating Hours](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium)
+ 
+ ##### Our Tampines Hub
+* 1 Tampines Walk, Singapore 528523
+* [Operating Hours](https://www.myactivesg.com/facilities/tampines-activesg-gym)
