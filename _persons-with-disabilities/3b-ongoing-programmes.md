@@ -17,14 +17,16 @@ second_nav_title: "Sports Programmes"
 
 **Open Badminton Sessions for Adults with Intellectual Disabilities (16 and above)**
 * Every Thursday
-* 2-3PM, 3-4PM
+* 2-3PM (Session 1), 3-4PM (Session 2)
 * Heartbeat@Bedok (Level 4 Sports Hall, Court 1)
 * Equipment provided
-* If you are interested in joining, email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
+* JUNE: 6, 13, 20, 27
+* If you are interested in joining, register [here](https://form.gov.sg/5cd123bb03463d0010c580b6) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
 
 **Open Futsal Sessions for Adults with Intellectual Disabilities (16 and above)**
 * Every Monday
 * 10-11.30AM
 * Our Tampines Hub (Level 2 Team Sports Hall)
 * Equipment provided
-* If you are interested in joining, email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
+* JUNE: Term Break
+* If you are interested in joining, register [here](https://form.gov.sg/5cd123bb03463d0010c580b6) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
