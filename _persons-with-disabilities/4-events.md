@@ -6,26 +6,21 @@ breadcrumb: Upcoming Events
 collection_name: persons-with-disabilities
 ---
 
-### Upcoming Events in 2019
-[Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
-<BR>Please email inclusivesport@sport.gov.sg if you would like to list your event here. 
-<BR>Last Updated: 3 April 2019
-
 #### April to June 2019
 
-**Saturday, 6 April**
-<BR><U>ABL Autism Awareness Fun Ride</u>
+**Sunday, 16 June**
+<BR><U>O My PAPA Cycling at Gardens by the Bay</u>
 <BR>By [Ageless Bicyclists](https://www.facebook.com/AgelessBicyclists/)
-<BR>Venue: Punggol Waterway Point
-<BR>Time: 9AM-11AM
-<BR>RSVP: For more information, please email malchen@singnet.com.sg 
-<BR>To Volunteer: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSdUMQkSkMiU3Ds7Jik7JvHp3e02gh0kJhUUH5oJgsFLJBgwdQ/viewform)
-<BR>Find out more about upcoming programmes by Ageless Bicyclists [here](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/upcoming-programmes/)
-
-**Friday-Sunday, 10-12 May**
-<BR><U>Singapore 2019 World Para Swimming World Series by Singapore Disability Sports Council</u>
-<BR>Venue: OCBC Aquatic Centre
-<BR>Find out more [here](https://sdsc.org.sg/singapore-2019-world-para-swimming-world-series/)
+<BR>Venue: Gardens by the Bay
+<BR>Time: 9AM-12PM
+<BR>RSVP: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfVRoh9KyLVsEOux4tmN97z9J81xlXNpZz5A0yW1vXUTpsQdw/viewform) or email malchen@singnet.com.sg to find out more. 
+  
+**Friday, Saturday 28 and 29 June**
+<BR><U>AMAZE Workshop for Swim Coaches</u>
+<BR>By SportCares and [Aquafins](http://www.aquafins.com.sg/)
+<BR>Venue: AWWA School 
+<BR>Time: 8.30AM-5PM and 8.30AM-3PM
+<BR>RSVP: Register [here](https://form.gov.sg/#!/5ce6661aa14e720017d451dc) or email stefanie_ANG@sport.gov.sg to find out more. 
 
 #### July to September 2019
 
