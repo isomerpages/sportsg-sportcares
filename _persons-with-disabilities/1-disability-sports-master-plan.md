@@ -35,6 +35,6 @@ We are constantly working to increase accessibility in our sports centres and to
 </div>
 
 #### Join Our Mailing List
-We are currently working directly with social service organisations, SPED schools, employment centres, support groups, and other disability organisations to introduce sports activities to the community. To find out about upcoming programmes, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://www.bit.ly/inclusivesportsg).
+We are currently working directly with social service organisations, SPED schools, employment centres, support groups, and other disability organisations to introduce sports activities to the community. To find out about upcoming programmes, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://go.gov.sg/dsmp-mailinglist).
 
 ###### Singapore sports for persons with physical disabilties, intellectual disabilities, disabilities, autism spectrum disorder, and special needs
