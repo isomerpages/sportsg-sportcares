@@ -17,11 +17,5 @@ New sports such as Wheelchair Rugby have been introduced to increase the mix of 
 
 We are constantly working to increase accessibility in our sports centres and to provide more opportunities for persons with disabilities to live better through sport. 
 
-#### 2016-2018 Achievements
-
-<div class="bp-youtube">
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/zwgaQqLy_2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 #### Join Our Mailing List
 We are currently working directly with social service organisations, SPED schools, employment centres, support groups, and other disability organisations to introduce sports activities to the community. To find out about upcoming programmes, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://www.bit.ly/inclusivesportsg).
