@@ -45,10 +45,10 @@ Capacity: 8 pairs (caregiver and child) per session.
 [CLICK HERE TO REGISTER](http://bit.ly/2FC4xEn)
 
 **Location/Time**: Level 6 Swimmimng Pool
-* 1 Aug 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
-* 2 Aug 2pm-3.30pm Group A, 3.45pm-5.15pm Group B
-* 3 Aug 2pm-3.30pm Group C, 3.45pm-5.15pm Group A
-* 4 Aug 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
+* 1 Aug - 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
+* 2 Aug - 2pm-3.30pm Group A, 3.45pm-5.15pm Group B
+* 3 Aug - 2pm-3.30pm Group C, 3.45pm-5.15pm Group A
+* 4 Aug - 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
 
 -----------------------------------
 
@@ -145,6 +145,12 @@ Register Here: Coming Soon!
 HUR’s inclusive gym machines are now in 6 locations across Singapore! Learn more about HUR’s gym machines for all abilities, and find out how you can get started on your strength training journey!
 
 [CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f47c2d78510011a60ae0) Walk-ins on the day itself welcome subject to space availability.
+
+**Time/Location**
+* 1 Aug - 9.30am-10am, Level 3, Function Room (via Lobby F)
+* 2 Aug - 9.30am-10am, Level 3, Seminar Room 4 and 5 (by Lobby F)
+* 3 Aug - 12pm-12.30pm, Level 3, Function Room (via Lobby F)
+* 4 Aug - 9.30am-10am, Level 2, IG Room 2 (inside library) 
 
 -----------------------------------
 
