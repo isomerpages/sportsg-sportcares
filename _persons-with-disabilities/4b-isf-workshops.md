@@ -63,6 +63,16 @@ How to Register: Parents who are interested to find out more or to sign up the c
 
 -----------------------------------
 
+##### Dialogue in the Dark
+
+What if you had to go through your daily routine without seeing anything? Enter Dialogue in the Dark Singapore (DID) with colleagues, schoolmates, or family members and experience everyday situations – in complete darkness. It offers a unique and effective platform to raise awareness and facilitate inclusion of all segments in the community, regardless of race, religion and disabilities, as they are no longer visible in the dark. The concept is simple yet powerful, the experience profound. The result? A mind-shift, deeper insights, and strengthened bonds.
+
+Dialogue in the Dark at Inclusive Sports Festival will feature facilitators and athletes with visual impairment.
+
+No registration required. 
+
+-------
+
 ##### Drowning Prevention and Water Safety Talk (By Aquafins)
 
 Safety is always our main concern as parents when our children engage with any sporting activities especially water activities. In this sharing session, we will be sharing the important of understanding and teaching our children to respect safety and setting boundary of safety. We will also share the latest research finding by Autism Swim Australia on why there is a need for us to equip our child with special needs these water safety skills to prevent the world 4th leading killer – drowning. Water Safety is a shared responsibility within the community. Let’s play our part and by part of this amazing community to make zero accidental drowning as our vision.
@@ -86,6 +96,16 @@ Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS
 There is no other sport like Goalball! Goalball is a Paralympics sport played by the visually-impaired. Today, it is played by both sighted and visually-impaired. Get a glimpse of an official Goalball game as our national players battle it out with sighted players! After the official game, the Learn to Play Goalball workshop will allow participants to learn fundamental skills and techniques, as well as experience the game, along with national Goalball athletes!
 
 No registration required. 
+
+-----------------------------------
+
+##### How sports can benefit persons with special needs (By Ong Wee Loon)
+For parents of person with disabilities/special needs, people working with person with disabilities/special needs
+
+
+This workshop explores how people with special needs would benefit from engaging in sport activities. It also creates opportunities for social bonding. The workshop will illustrate a variety of means to engage people with special needs and their caregivers in sports and enable them to develop holistically.
+
+Register Here: Coming Soon!
 
 -----------------------------------
 
@@ -125,6 +145,24 @@ Associate Professor, Physical Education & Sports Science, National Institute of 
 
 Dr Teo-Koh is a tenured Associate Professor in Physical Education and Sports Science at NIE/NTU. She is an experienced educator with over 33 years of teacher education experience in Singapore. Dr Teo-Koh is a specialist consultant for movement and play programs for children with and without special needs, as well as for adapted physical activity programs and sports for individuals with disabilities.
 
+[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55)
+
+-----------------------------------
+
+##### Proud Paralympian Workshop (By Agitos Foundation)
+
+*For athletes with disabilities*
+
+Presented by Nurul Taha, Paralympian
+
+Proud Paralympian will empower you as an athlete with the knowledge and resources that will help you in your development during and after your sporting careers, thus contributing to the IPC’s vision: To enable Para athletes to achieve sporting excellence and inspire and excite the world.
+
+Your life as an athlete requires balanced training, a commitment to fueling your body properly and following the rules off fair-play. In your life outside sport, you need to find a balance between your personal and professional lives, and gain the tools to take your skills beyond your competitive career.
+
+As an active citizen you can make a difference by changing perceptions, contributing towards a more inclusive society by redefining the limits of what is possible.
+
+Proud Paralympian aims to help you do this and more! How to be a Proud Paralympian? Know it! Live it! Share it!
+
 [CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55 )
 
 -----------------------------------
@@ -138,6 +176,8 @@ GRAND PRIZE: The Grand Prize Winner will receive a $250 gift voucher*, as well a
 SEMI FINALIST PRIZE(S): Each Semi-Finalist will receive a $50 gift voucher*.
 
 *Gift voucher applicable for spending at TYR showroom at 8 Jalan Kilang Timor, #03-13 Kewalram House, Singapore 159305*
+
+-----------------------------------
 
 ##### TYR Swim Suit Trade In (By TYR)
 
