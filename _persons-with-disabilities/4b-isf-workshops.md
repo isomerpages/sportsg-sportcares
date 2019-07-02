@@ -7,6 +7,8 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
 ---
 
+Download the activities calendar now! [Activities Calendar](/images/ISF2019-Activities-by-Date.pdf) 
+
 ##### Amazing FMS Race (By Yellow Marketing)
 
 Participants will race around the Inclusive Sports Festival site performing challenges at different legs. Complete each leg to find the clue to the next destination. We will be testing their knowledge in para sports, national day trivia and fundamental movement skills. Complete all legs and collect your mini FMS prize!
@@ -71,3 +73,58 @@ This talk is a one hour sharing session with parents on the important of water s
 
 -----------------------------------
 
+##### Fundamental Movement Skills Workshop (By Yello Marketing)
+
+Introduction of Fundamental Movement Skills and the important impact it has on daily lives, especially for PWDs. Understand what these skills are and how to create simple games using everyday items to practice FMS at home. 
+
+Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS Workshop** to register
+
+-----------------------------------
+
+##### Goalball Demonstration and Learn to Play Workshop (By Goalball Singapore)
+
+There is no other sport like Goalball! Goalball is a Paralympics sport played by the visually-impaired. Today, it is played by both sighted and visually-impaired. Get a glimpse of an official Goalball game as our national players battle it out with sighted players! After the official game, the Learn to Play Goalball workshop will allow participants to learn fundamental skills and techniques, as well as experience the game, along with national Goalball athletes!
+
+No registration required. 
+
+-----------------------------------
+
+##### HUR Activ8 Strength Training for Everyone! (By HUR)
+
+HUR’s inclusive gym machines are now in 6 locations across Singapore! Learn more about HUR’s gym machines for all abilities, and find out how you can get started on your strength training journey!
+
+[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f47c2d78510011a60ae0 )
+
+-----------------------------------
+
+##### Introduction to Scuba Diving for the Disabled (DDI) (By Resorts World Sentosa)
+
+Resorts World Sentosa is first and only Disabled Divers International (DDI) accredited store in Singapore. Come try out scuba diving this Inclusive Sports Festival with RWS’s pool of experienced and accredited coaches who believe that people of all abilities can learn and enjoy diving!
+
+Participants will need to provide the following items upon registration:
+
+* Completed DDI liability release form [Download](/images/ISF2019-DDIriskandliability.pdf) 
+* Completed DDI medical statement [Download](/images/ISF2019-DDImedicalform.pdf) 
+* Doctor’s letter certifying that beneficiary is fit to dive
+
+To register, email <dive@RWSentosa.com> with the subject **ISF 2019 – Intro to Scuba Diving for Disabled – NAME HERE**
+
+-----------------------------------
+
+##### Learning to Move, Moving to Learn
+
+By Special Olympics Singapore, Presented by Dr Teo-Koh Sock Miang
+
+In the early years of life, children must learn to move and move to learn. Movement allows young children, with and without special needs, to explore and learn from the environment, Early control and management of the body in different environments is crucial for young children as movement competency can help to build self-confidence and self-esteem. Competent movement is also necessary for daily living. Early movement competency can also open up a world of play and play interactions with others. Learning to move and learning through movement help children to develop cognitively, socially, emotionally and physically.
+
+In this workshop, participants will learn about the importance of helping children develop competent fundamental movement skills. Basic principles and considerations for providing a multi-disciplinary fundamental movement environment for young children will also be shared during the hands on session.
+
+**About Dr Teo-Koh Sock Miang, PhD, JP,BBM, PBM**
+
+Associate Professor, Physical Education & Sports Science, National Institute of Education, Nanyang Technological University
+
+Dr Teo-Koh is a tenured Associate Professor in Physical Education and Sports Science at NIE/NTU. She is an experienced educator with over 33 years of teacher education experience in Singapore. Dr Teo-Koh is a specialist consultant for movement and play programs for children with and without special needs, as well as for adapted physical activity programs and sports for individuals with disabilities.
+
+[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55 )
+
+-----------------------------------
