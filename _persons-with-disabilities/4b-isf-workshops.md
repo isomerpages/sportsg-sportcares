@@ -26,7 +26,7 @@ Participants can collect a mini prize from a toy capsule machine when they are d
  
 Register: Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – Amazing Race** to register
 
-Location/Time: 1-4 August, 10am-6pm
+**Location/Time:** 1-4 August, 10am-6pm
 
 -----------------------------------
 
@@ -44,7 +44,7 @@ Capacity: 8 pairs (caregiver and child) per session.
 
 [CLICK HERE TO REGISTER](http://bit.ly/2FC4xEn)
 
-Location: Level 6 Swimmimng Pool
+**Location/Time**: Level 6 Swimmimng Pool
 * 1 Aug 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
 * 2 Aug 2pm-3.30pm Group A, 3.45pm-5.15pm Group B
 * 3 Aug 2pm-3.30pm Group C, 3.45pm-5.15pm Group A
@@ -116,6 +116,8 @@ There is no other sport like Goalball! Goalball is a Paralympics sport played by
 
 No registration required. 
 
+**Location:** Level 3, Community Auditorium 
+
 -----------------------------------
 
 ##### How sports can benefit persons with special needs (By Ong Wee Loon)
@@ -147,6 +149,12 @@ Participants will need to provide the following items upon registration:
 * Doctor’s letter certifying that beneficiary is fit to dive
 
 To register, email <dive@RWSentosa.com> with the subject **ISF 2019 – Intro to Scuba Diving for Disabled – NAME HERE**
+
+**Location/Time**: Level 6 Swimmimng Pool
+* 1 Aug - 10.30am-12pm
+* 2 Aug - 3pm-5pm
+* 3 Aug - 3pm-5pm
+* 4 Aug - 10am-12pm, 3pm-5pm
 
 -----------------------------------
 
