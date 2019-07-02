@@ -41,6 +41,7 @@ collection_name: persons-with-disabilities
 <BR><U>Inclusive Sports Festival</u>
 <BR>Venue: Our Tampines Hub
 <BR>Time: 9AM-5PM daily
+<BR>Download the activities calendar now! [Activities Calendar](/images/ISF2019-Activities-by-Date.pdf) 
 
 **Saturday-Sunday, 24-25 August**
 <BR><U>Play Inclusive</u>
