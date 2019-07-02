@@ -190,6 +190,9 @@ Dr Teo-Koh is a tenured Associate Professor in Physical Education and Sports Sci
 
 [CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55) Walk-ins on the day itself welcome subject to space availability.
 
+* 1 Aug - 11am-12pm, Seminar Room 4 and 5, Level 3 (by Lobby F)
+* 2 Aug - Seminar Room 4 and 5, Level 3 (by Lobby F)
+
 -----------------------------------
 
 ##### Proud Paralympian Workshop (By Agitos Foundation)
