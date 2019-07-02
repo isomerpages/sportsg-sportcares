@@ -128,3 +128,17 @@ Dr Teo-Koh is a tenured Associate Professor in Physical Education and Sports Sci
 [CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55 )
 
 -----------------------------------
+
+##### TYR Sport Cap Design Contest (By TYR)
+
+Showcase your creativity! No purchase necessary to enter or win. Limited to one (1) entry per entrant. Prizes will be awarded to top 4 finalists. Head down to Our Tampines Hub Swimming Pool on Level 6 to participate.
+
+GRAND PRIZE: The Grand Prize Winner will receive a $250 gift voucher*, as well as 5 free caps of your design.
+
+SEMI FINALIST PRIZE(S): Each Semi-Finalist will receive a $50 gift voucher*.
+
+*Gift voucher applicable for spending at TYR showroom at 8 Jalan Kilang Timor, #03-13 Kewalram House, Singapore 159305*
+
+##### TYR Swim Suit Trade In (By TYR)
+
+Bring your old swim wear to Inclusive Sports Festival and trade it in to get a brand new TYR swim wear for just $6.90! Terms and conditions apply.
