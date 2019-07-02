@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Workshops, Talks and Experiential Activities
-permalink: /persons-with-disabilities/Inclusive-Sports-Festival/
+permalink: /persons-with-disabilities/isf-workshops/
 breadcrumb: Inclusive Sports Festival
 collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
