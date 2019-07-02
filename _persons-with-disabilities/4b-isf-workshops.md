@@ -53,7 +53,6 @@ Location: Level 6 Swimmimng Pool
 -----------------------------------
 
 ##### Climbing Level 1 Certification (By The Rock School)
-1 – 2 Aug, 6.30pm – 10pm (2 day course) 
 
 Introduction to Climbing: 
 * Background/history and types of climbing
@@ -67,7 +66,11 @@ Introduction to Climbing:
 
 Participants must commit to a total of 7 hours as part of the course requirements. Participants who complete the course can apply their skills during a Run and Climb Challenge on 4 Aug 2019.
 
-How to Register: Parents who are interested to find out more or to sign up the certification class can email to <len@therockschool.sg> 
+**How to Register**: Parents who are interested to find out more or to sign up the certification class can email to <len@therockschool.sg> 
+
+**Location:** The Rock School, Level 2
+
+**Date/Time**: 1 – 2 Aug, 6.30pm – 10pm (2 day course) 
 
 -----------------------------------
 
@@ -79,6 +82,8 @@ Dialogue in the Dark at Inclusive Sports Festival will feature facilitators and 
 
 No registration required. 
 
+**Location:** Level 1 Festival Walk 
+
 -------
 
 ##### Drowning Prevention and Water Safety Talk (By Aquafins)
@@ -87,15 +92,21 @@ Safety is always our main concern as parents when our children engage with any s
 
 This talk is a one hour sharing session with parents on the important of water safety and drowning prevention effort by community. We will be using Autism Swim resources to share with parents especially those with autism on the important of this topic due to a recent research finding by Autism Swim Australia. Parents who attend this talk, walk away with the Wondering and Drowning Prevention Toolkit V2 from Autism Swim (softcopy) worth AUS$29 to further enhance family capability of drowning prevention.
 
-[CLICK HERE TO REGISTER](http://bit.ly/2ISnDrY)
+[CLICK HERE TO REGISTER!](http://bit.ly/2ISnDrY)
+
+**Time/Location**
+* 1 Aug - 12.30pm-1.30pm, Level 3, Function Room (via Lobby F)
+* 2 Aug - 12.30pm-1.30pm, Level 3, Seminar Room 4 and 5 (by Lobby F)
+* 3 Aug - 1pm-2pm, Level 2, IG Room 2 (inside library)
+* 4 Aug - 1pm-2pm, Level 2, IG Room 2 (inside library)
 
 -----------------------------------
 
-##### Fundamental Movement Skills Workshop (By Yello Marketing)
+##### Fundamental Movement Skills Workshop -  FMS Fundamentals and Beyond  (By Yello Marketing)
 
 Introduction of Fundamental Movement Skills and the important impact it has on daily lives, especially for PWDs. Understand what these skills are and how to create simple games using everyday items to practice FMS at home. 
 
-Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS Workshop** to register
+Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS Workshop** to register.
 
 -----------------------------------
 
