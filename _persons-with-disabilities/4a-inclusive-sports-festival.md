@@ -4,7 +4,7 @@ title: About the Event
 permalink: /persons-with-disabilities/Inclusive-Sports-Festival/
 breadcrumb: Inclusive Sports Festival
 collection_name: persons-with-disabilities
-second_nav_title: "Inclusive Sports Facilities"
+second_nav_title: "Inclusive Sports Festival"
 ---
 
 ![Inclusive Sports Festival 2019](/images/ISF2019-Web-Banner.png)
