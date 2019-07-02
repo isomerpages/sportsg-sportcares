@@ -24,7 +24,9 @@ The purpose of this race is for participants to travel across around the Festiva
 
 Participants can collect a mini prize from a toy capsule machine when they are done!
  
-Register: Email <candice.yan@yello-marketing.com> with the email subject [**ISF2019 – Amazing Race**] to register
+Register: Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – Amazing Race** to register
+
+Location/Time: 1-4 August, 10am-6pm
 
 -----------------------------------
 
@@ -41,6 +43,12 @@ The age grouping of this workshop shall be as follows:
 Capacity: 8 pairs (caregiver and child) per session. 
 
 [CLICK HERE TO REGISTER](http://bit.ly/2FC4xEn)
+
+Location: Level 6 Swimmimng Pool
+* 1 Aug 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
+* 2 Aug 2pm-3.30pm Group A, 3.45pm-5.15pm Group B
+* 3 Aug 2pm-3.30pm Group C, 3.45pm-5.15pm Group A
+* 4 Aug 10.45am-12.15pm Group A, 2pm-3.30pm Group B, 3.45pm-5.15pm Group C
 
 -----------------------------------
 
