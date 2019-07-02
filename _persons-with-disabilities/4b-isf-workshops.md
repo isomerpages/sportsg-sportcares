@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Festival"
 ---
 
-Download the activities calendar now! [Activities Calendar](/images/ISF2019-Activities-by-Date.pdf) 
+Download the activities calendar to plan your trip down to ISF now! [Activities Calendar](/images/ISF2019-Activities-by-Date.pdf) 
 
 ##### Amazing FMS Race (By Yellow Marketing)
 
