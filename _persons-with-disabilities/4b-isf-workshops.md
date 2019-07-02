@@ -42,7 +42,7 @@ Capacity: 8 pairs (caregiver and child) per session.
 
 -----------------------------------
 
-#### Climbing Level 1 Certification (By The Rock School)
+##### Climbing Level 1 Certification (By The Rock School)
 1 – 2 Aug, 6.30pm – 10pm (2 day course) 
 
 Introduction to Climbing: 
@@ -60,3 +60,14 @@ Participants must commit to a total of 7 hours as part of the course requirement
 How to Register: Parents who are interested to find out more or to sign up the certification class can email to <len@therockschool.sg> 
 
 -----------------------------------
+
+##### Drowning Prevention and Water Safety Talk (By Aquafins)
+
+Safety is always our main concern as parents when our children engage with any sporting activities especially water activities. In this sharing session, we will be sharing the important of understanding and teaching our children to respect safety and setting boundary of safety. We will also share the latest research finding by Autism Swim Australia on why there is a need for us to equip our child with special needs these water safety skills to prevent the world 4th leading killer – drowning. Water Safety is a shared responsibility within the community. Let’s play our part and by part of this amazing community to make zero accidental drowning as our vision.
+
+This talk is a one hour sharing session with parents on the important of water safety and drowning prevention effort by community. We will be using Autism Swim resources to share with parents especially those with autism on the important of this topic due to a recent research finding by Autism Swim Australia. Parents who attend this talk, walk away with the Wondering and Drowning Prevention Toolkit V2 from Autism Swim (softcopy) worth AUS$29 to further enhance family capability of drowning prevention.
+
+[CLICK HERE TO REGISTER](http://bit.ly/2ISnDrY)
+
+-----------------------------------
+
