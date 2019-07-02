@@ -7,6 +7,8 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
 ---
 
+![Inclusive Sports Festival 2019](/images/ISF2019-Web-Banner.png)
+
 Inclusive Sports Festival (ISF) is Singapore’s largest inclusive sports event, and is part of GetActive! Singapore, a nationwide effort to celebrate national day through sport.
 
 In its third edition this year, ISF has evolved from a gathering of sports tryouts for persons with disabilities (PWDs) to a partner-led event offering workshops, niche and experiential sports and activities for the disability community. More than 15 event partners are coming together to provide 37 different activities across three levels of Our Tampines Hub.
