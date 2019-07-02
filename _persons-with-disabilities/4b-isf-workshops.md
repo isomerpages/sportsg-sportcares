@@ -108,6 +108,16 @@ Introduction of Fundamental Movement Skills and the important impact it has on d
 
 Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS Workshop** to register.
 
+**Time/Location**
+* 1 Aug - 2pm-3pm, Seminar Room 4 and 5, Level 3 (by Lobby F)
+* 1 Aug - 3pm-4pm, Seminar Room 4 and 5, Level 3 (by Lobby F)
+* 2 Aug - 4pm-5pm, Seminar Room 4 and 5, Level 3 (by Lobby F)
+* 2 Aug - 5pm-6pm, Seminar Room 4 and 5, Level 3 (by Lobby F)
+* 3 Aug - 11am-12pm, Level 2, IG Room 2 (inside library)
+* 3 Aug - 2pm-3pm, Level 2, IG Room 2 (inside library) 
+* 4 Aug - 10am-11am, Level 2, IG Room 2 (inside library)
+* 4 Aug - 11am-12pm, Level 2, IG Room 2 (inside library)
+
 -----------------------------------
 
 ##### Goalball Demonstration and Learn to Play Workshop (By Goalball Singapore)
