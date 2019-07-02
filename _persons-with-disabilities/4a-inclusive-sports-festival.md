@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Inclusive Sports Festival 2019
 permalink: /persons-with-disabilities/inclusive-sports-festival/
-breadcrumb: Inclusive Sports Festival
+breadcrumb: Events
 collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Festival"
 ---
