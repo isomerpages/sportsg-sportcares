@@ -24,7 +24,7 @@ The purpose of this race is for participants to travel across around the Festiva
 
 Participants can collect a mini prize from a toy capsule machine when they are done!
  
-Register: Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – Amazing Race** to register
+Register: Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – Amazing Race** to register. Walk-ins on the day itself welcome subject to space availability.
 
 **Location/Time:** 1-4 August, 10am-6pm
 
@@ -92,7 +92,7 @@ Safety is always our main concern as parents when our children engage with any s
 
 This talk is a one hour sharing session with parents on the important of water safety and drowning prevention effort by community. We will be using Autism Swim resources to share with parents especially those with autism on the important of this topic due to a recent research finding by Autism Swim Australia. Parents who attend this talk, walk away with the Wondering and Drowning Prevention Toolkit V2 from Autism Swim (softcopy) worth AUS$29 to further enhance family capability of drowning prevention.
 
-[CLICK HERE TO REGISTER!](http://bit.ly/2ISnDrY)
+[CLICK HERE TO REGISTER!](http://bit.ly/2ISnDrY) Walk-ins on the day itself welcome subject to space availability.
 
 **Time/Location**
 * 1 Aug - 12.30pm-1.30pm, Level 3, Function Room (via Lobby F)
@@ -106,7 +106,7 @@ This talk is a one hour sharing session with parents on the important of water s
 
 Introduction of Fundamental Movement Skills and the important impact it has on daily lives, especially for PWDs. Understand what these skills are and how to create simple games using everyday items to practice FMS at home. 
 
-Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS Workshop** to register.
+Email <candice.yan@yello-marketing.com> with the email subject **ISF2019 – FMS Workshop** to register. Walk-ins on the day itself welcome subject to space availability.
 
 **Time/Location**
 * 1 Aug - 2pm-3pm, Seminar Room 4 and 5, Level 3 (by Lobby F)
@@ -144,7 +144,7 @@ Register Here: Coming Soon!
 
 HUR’s inclusive gym machines are now in 6 locations across Singapore! Learn more about HUR’s gym machines for all abilities, and find out how you can get started on your strength training journey!
 
-[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f47c2d78510011a60ae0 )
+[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f47c2d78510011a60ae0) Walk-ins on the day itself welcome subject to space availability.
 
 -----------------------------------
 
@@ -182,7 +182,7 @@ Associate Professor, Physical Education & Sports Science, National Institute of 
 
 Dr Teo-Koh is a tenured Associate Professor in Physical Education and Sports Science at NIE/NTU. She is an experienced educator with over 33 years of teacher education experience in Singapore. Dr Teo-Koh is a specialist consultant for movement and play programs for children with and without special needs, as well as for adapted physical activity programs and sports for individuals with disabilities.
 
-[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55)
+[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55) Walk-ins on the day itself welcome subject to space availability.
 
 -----------------------------------
 
@@ -200,7 +200,7 @@ As an active citizen you can make a difference by changing perceptions, contribu
 
 Proud Paralympian aims to help you do this and more! How to be a Proud Paralympian? Know it! Live it! Share it!
 
-[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55 )
+[CLICK HERE TO REGISTER](https://form.gov.sg/#!/5d11f17545677e0011c09f55)
 
 -----------------------------------
 
