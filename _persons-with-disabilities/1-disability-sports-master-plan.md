@@ -7,15 +7,9 @@ collection_name: persons-with-disabilities
 ---
 
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143399612-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-143399612-1');
-</script>
+<meta name="keywords" content="disability sports, disabled sports, sports for persons with disabilities, special needs, autism sports, cerebral palsy, ActiveSG, Sport Singapore, para sports, paralympics, goalball, wheelchair rugby"/>
+<meta name="description" content="Sports for persons with disabilities and special needs"/>
+<meta name="subject" content="Disability Sports Master Plan">
 
 <a href="www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
 
@@ -30,3 +24,13 @@ We are constantly working to increase accessibility in our sports centres and to
 
 #### Join Our Mailing List
 To find out about upcoming programmes, events, and new inclusive facilities, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://go.gov.sg/dsmp-mailinglist).
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143399612-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143399612-1');
+</script>
