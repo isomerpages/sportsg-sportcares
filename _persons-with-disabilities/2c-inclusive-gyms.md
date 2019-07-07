@@ -9,7 +9,7 @@ second_nav_title: "Inclusive Sports Facilities"
 
 ![Inclusive Gym](/images/DSMP-inclusivegym.jpg)
 
-ActiveSG fitness gymns across Singapore are undergoing transformations to cater to people from all walks of life. New and upgraded ActiveSG gyms are equipped with specialised machines with adaptable features, such as removable seats for wheelchair users, and Natural Transmission pneumatic technology to ensure all movements, weight and resistance adjustments are safe and easy on the joints. 
+ActiveSG fitness gyms across Singapore are undergoing transformations to cater to people from all walks of life. New and upgraded ActiveSG gyms are equipped with specialised machines with adaptable features, such as removable seats for wheelchair users, and Natural Transmission pneumatic technology to ensure all movements, weight and resistance adjustments are safe and easy on the joints. 
 
 Persons with disabilities, seniors, and beginner gym goers can seek the assistance of ActiveSG Fitness Instructors to create a specialised training plan utilising these machines.
 
