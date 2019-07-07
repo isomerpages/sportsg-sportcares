@@ -6,7 +6,7 @@ breadcrumb: Disability Sports in Singapore
 collection_name: persons-with-disabilities
 ---
 
-<a href="www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
+<a href="https://www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
 
 #### Welcome to inclusivesport.sg 
 
