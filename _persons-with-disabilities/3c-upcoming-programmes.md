@@ -7,6 +7,10 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
+<a href="https://www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
+
+Sign up for disability sports workshops and talks at this year's <a href="http://www.go.gov.sg/isf2019">Inclusive Sports Festival!</a>
+
 ##### Pedal enAble Let's Go Cycling (16 and above)
 * By Ageless Bicyclists
 * Tuesday April 30 / May 07 / 14 / 22 and Saturday June 01 2019
