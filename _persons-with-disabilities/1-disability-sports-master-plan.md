@@ -6,10 +6,20 @@ breadcrumb: Disability Sports
 collection_name: persons-with-disabilities
 ---
 
-![Disability Sports Swimming Class](/images/DSMP-main.jpg)
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-143399612-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-143399612-1');
+</script>
+
+<a href="www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
 
 #### Welcome to inclusivesport.sg 
-Since 2016, SportCares, under the umbrella of ActiveSG, has been administering the recommendations of the Disability Sports Master Plan (DSMP) under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
+Since 2016, SportCares, under the umbrella of ActiveSG, has been executing the recommendations of the Disability Sports Master Plan (DSMP) under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
 
 As part of the DSMP, the first Centre of Expertise for disability sports – [Sengkang Sports Centre](https://www.myactivesg.com/facilities/sengkang-sports-centre) – was launched in 2016 together with the Yes! I Can Swimming programme. 4 other Centres of Expertise are scheduled for launch over the next 5 years.
 
@@ -18,4 +28,4 @@ New sports such as Wheelchair Rugby have been introduced to increase the mix of 
 We are constantly working to increase accessibility in our sports centres and to provide more opportunities for persons with disabilities to live better through sport. 
 
 #### Join Our Mailing List
-We are currently working directly with social service organisations, SPED schools, employment centres, support groups, and other disability organisations to introduce sports activities to the community. To find out about upcoming programmes, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://www.bit.ly/inclusivesportsg).
+To find out about upcoming programmes, events, and new inclusive facilities, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://go.gov.sg/dsmp-mailinglist).
