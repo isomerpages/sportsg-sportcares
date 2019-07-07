@@ -6,7 +6,7 @@ breadcrumb: Disability Sports in Singapore
 collection_name: persons-with-disabilities
 ---
 
-![Disability Sports Swimming Class](/images/DSMP-main.jpg)
+<a href="www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
 
 #### Welcome to inclusivesport.sg 
 
@@ -35,6 +35,5 @@ We are constantly working to increase accessibility in our sports centres and to
 </div>
 
 #### Join Our Mailing List
-We are currently working directly with social service organisations, SPED schools, employment centres, support groups, and other disability organisations to introduce sports activities to the community. To find out about upcoming programmes, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://go.gov.sg/dsmp-mailinglist).
+To find out about upcoming programmes, events, and new inclusive facilities, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://go.gov.sg/dsmp-mailinglist).
 
-###### Singapore sports for persons with physical disabilties, intellectual disabilities, disabilities, autism spectrum disorder, and special needs
