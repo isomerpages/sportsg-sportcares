@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Disability Sports Master Plan
+title: Disability Sports in Singapore
 permalink: /persons-with-disabilities/disability-sports-master-plan/
-breadcrumb: Disability Sports 
+breadcrumb: Disability Sports in Singapore
 collection_name: persons-with-disabilities
 ---
 
@@ -10,7 +10,7 @@ collection_name: persons-with-disabilities
 
 #### Welcome to inclusivesport.sg 
 
-We firmly believe that sports should be accessible to all Singaporeans, including persons with disabilities (PWD) and special needs (PWSN). 
+We believe that sports should be accessible to all Singaporeans, including persons with disabilities (PWD) and special needs (PWSN). 
 
 Since 2016, SportCares, under the umbrella of ActiveSG, has been executing the recommendations of the Disability Sports Master Plan (DSMP) under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan). The broad outcomes of the DSMP are: 
 
