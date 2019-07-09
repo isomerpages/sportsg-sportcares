@@ -8,7 +8,7 @@ collection_name: persons-with-disabilities
 
 <a href="www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
 
-#### Welcome to inclusivesport.sg 
+#### Welcome to InclusiveSport.SG 
 
 We believe that sports should be accessible to all Singaporeans, including persons with disabilities (PWD) and special needs (PWSN). 
 
