@@ -6,13 +6,13 @@ breadcrumb: Upcoming Events
 collection_name: persons-with-disabilities
 ---
 
+
 <iframe src="https://calendar.google.com/calendar/embed?src=jtutdqfljm4ad4l3fm281h937k%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
 <BR>Please email inclusivesport@sport.gov.sg if you would like to list your event here. 
 <BR>Last Updated: 3 April 2019
-
 
 #### April to June 2019
 
