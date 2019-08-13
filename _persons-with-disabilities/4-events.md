@@ -13,7 +13,6 @@ collection_name: persons-with-disabilities
 <BR>Please email inclusivesport@sport.gov.sg if you would like to list your event here. 
 <BR>Last Updated: 3 April 2019
 
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=anR1dGRxZmxqbTRhZDRsM2ZtMjgxaDkzN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZW4uc2luZ2Fwb3JlI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%233F51B5&amp;color=%230B8043" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 #### April to June 2019
 
