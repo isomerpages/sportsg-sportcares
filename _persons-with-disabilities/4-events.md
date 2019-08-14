@@ -50,16 +50,16 @@ collection_name: persons-with-disabilities
 <BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
 <BR>Venue: Rainbow Centre (Margaret Drive)
 <BR>Time: 9AM-4PM
-<BR><I>[Download the course brochure here]()
+<BR>[Download the course brochure here]()
 <BR>Register your interest at [go.gov.sg/acsmworkshop](http://www.go.gov.sg/acsmworkshop)
-<BR>Note this is a registration for interest only, subject to final selection
+<I>Note this is a registration for interest only, subject to final selection</i>
   
 **Saturday, 14 September**
 <BR><U>Challenging Autism with Exercise Parents Workshop</u>
 <BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
 <BR>Venue: Rainbow Centre (Margaret Drive)
 <BR>Time: 9AM-3PM
-<BR><I>[Download the course brochure here]()
+<BR>[Download the course brochure here]()
 <BR>Register your interest at [go.gov.sg/acsmparentworkshop](http://www.go.gov.sg/acsmparentworkshop)
-<BR>Note this is a registration for interest only, subject to final selection
+  <BR><I>Note this is a registration for interest only, subject to final selection</i>
 
