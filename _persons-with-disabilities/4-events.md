@@ -7,10 +7,9 @@ collection_name: persons-with-disabilities
 ---
 
 
-<!--  Start Bravenet.Com Service Code -->
-<a style="font: bold 12px tahoma, sans-serif; color: #004891;" href="http://pub10.bravenet.com/calendar/show.php?usernum=798968761">View my Online Calendar</a><br>
-<a style="font: 10px tahoma, sans-serif; color: #000;" href="http://www.bravenet.com/webtools/calendar/" >Free Calendars by Bravenet.com</a>
-<!-- End Bravenet.Com Service Code -->
+<div data-tockify-component="calendar" data-tockify-calendar="inclusivesport.sg"></div>
+<script data-cfasync="false" data-tockify-script="embed"
+                                  src="https://public.tockify.com/browser/embed.js"></script>
 
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
