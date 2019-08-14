@@ -7,7 +7,10 @@ collection_name: persons-with-disabilities
 ---
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=jtutdqfljm4ad4l3fm281h937k%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<!--  Start Bravenet.Com Service Code -->
+<a style="font: bold 12px tahoma, sans-serif; color: #004891;" href="http://pub10.bravenet.com/calendar/show.php?usernum=798968761">View my Online Calendar</a><br>
+<a style="font: 10px tahoma, sans-serif; color: #000;" href="http://www.bravenet.com/webtools/calendar/" >Free Calendars by Bravenet.com</a>
+<!-- End Bravenet.Com Service Code -->
 
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
