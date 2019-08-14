@@ -9,8 +9,7 @@ collection_name: persons-with-disabilities
 
 Last Updated: 14/8/2019
 
-#### Subscribe to our calendar today!
-[Upcoming Events Calendar](https://calendar.google.com/calendar/b/1?cid=anR1dGRxZmxqbTRhZDRsM2ZtMjgxaDkzN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+#### View/Subscribe to our calendar today! [Upcoming Events Calendar](https://calendar.google.com/calendar/b/1?cid=anR1dGRxZmxqbTRhZDRsM2ZtMjgxaDkzN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 #### July to September 2019
 
