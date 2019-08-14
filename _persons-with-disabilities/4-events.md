@@ -9,9 +9,10 @@ collection_name: persons-with-disabilities
 
 TEST
 
+<P>
 <div data-tockify-component="calendar" data-tockify-calendar="inclusivesport.sg"></div>
 <script data-cfasync="false" data-tockify-script="embed"
-                                  src="https://public.tockify.com/browser/embed.js"></script>
+                                  src="https://public.tockify.com/browser/embed.js"></script></P>
 
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
