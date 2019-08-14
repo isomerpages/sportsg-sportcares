@@ -11,7 +11,6 @@ collection_name: persons-with-disabilities
 <div style="background-color:gray;line-height: 13px;color:white;padding:10px;">
 <a href="http://pub10.bravenet.com/calendar/show.php?usernum=798968761" style="float: left; margin-right: 10px;color:white"><img src="https://assets.bravenet.com/common/images/cpcode/medium-color-calendar.gif" width="32" height="32" alt="Free Website Calendars by Bravenet.com" border="0"></a>
 <a href="http://pub10.bravenet.com/calendar/show.php?usernum=798968761" style="font-size: 12px; font-weight: bold; color:white">View my Online Calendar</a><br>
-<a href="http://www.bravenet.com/webtools/calendar/" style="font-size: 10px; color:white;">Free Calendars by Bravenet.com</a>
 <br style="clear: left;">
 </div>
 <!-- End Bravenet.Com Service Code -->
