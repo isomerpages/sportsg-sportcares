@@ -8,23 +8,8 @@ collection_name: persons-with-disabilities
 
 
 #### View Our Events Calendar Here!
-[Upcoming EVents Calendar](https://calendar.google.com/calendar/b/1?cid=anR1dGRxZmxqbTRhZDRsM2ZtMjgxaDkzN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+[Upcoming Events Calendar](https://calendar.google.com/calendar/b/1?cid=anR1dGRxZmxqbTRhZDRsM2ZtMjgxaDkzN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-#### April to June 2019
-
-**Sunday, 16 June**
-<BR><U>O My PAPA Cycling at Gardens by the Bay</u>
-<BR>By [Ageless Bicyclists](https://www.facebook.com/AgelessBicyclists/)
-<BR>Venue: Gardens by the Bay
-<BR>Time: 9AM-12PM
-<BR>RSVP: Register [here](https://docs.google.com/forms/d/e/1FAIpQLSfVRoh9KyLVsEOux4tmN97z9J81xlXNpZz5A0yW1vXUTpsQdw/viewform) or email malchen@singnet.com.sg to find out more. 
-  
-**Friday, Saturday 28 and 29 June**
-<BR><U>AMAZE Workshop for Swim Coaches</u>
-<BR>By SportCares and [Aquafins](http://www.aquafins.com.sg/)
-<BR>Venue: AWWA School 
-<BR>Time: 8.30AM-5PM and 8.30AM-3PM
-<BR>RSVP: Register [here](https://form.gov.sg/#!/5ce6661aa14e720017d451dc) or email stefanie_ANG@sport.gov.sg to find out more. 
 
 #### July to September 2019
 
@@ -35,15 +20,46 @@ collection_name: persons-with-disabilities
 <BR>Time: 4PM-7PM
 <BR>Persons with disabilities and special needs can participate for free
 <BR>To Register: [Click Here](https://runninghour.com/registration)
-
+  
 **Thursday-Sunday, 1-4 August**
 <BR><U>Inclusive Sports Festival</u>
 <BR>Venue: Our Tampines Hub
 <BR>Time: 9AM-5PM daily
-<BR>Download the activities calendar now! [Activities Calendar](/images/ISF2019-Activities-by-Date.pdf) 
+<BR>Download the activities calendar now! [Activities Calendar](/images/ISF2019-Activities-by-Date.pdf)  
+  
+**Wednesday, 14 August**
+<BR><U>Sharity Day 2019</u>
+<BR>By [Community Chest](https://www.comchest.sg/Campaigns-and-Events/Campaigns/SharityDay2019.aspx)
+<BR>Venue: Gardens by the Bay
+<BR>Time: 8AM-2PM
+<BR>Public event
 
 **Saturday-Sunday, 24-25 August**
 <BR><U>Play Inclusive</u>
 <BR>In partnership with Special Olympics Singapore and Ministry of Education Special Education Branch
 <BR>Venue: OCBC Arena
 <BR>Time: 9AM-5PM daily
+  
+**Thursday, 29 August**
+<BR><U>APSN Katong School Swim Day at Heartbeat@Bedok</u>
+<BR><I>Event Partnership</i>
+<BR>Closed door event
+  
+**Thursday OR Friday, 12 OR 13 September**
+<BR><U>Autism Exercise Specialist Certificate Workshop</u>
+<BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
+<BR>Venue: Rainbow Centre (Margaret Drive)
+<BR>Time: 9AM-4PM
+<BR><I>[Download the course brochure here]()
+<BR>Register your interest at [go.gov.sg/acsmworkshop](http://www.go.gov.sg/acsmworkshop)
+<BR>Note this is a registration for interest only, subject to final selection
+  
+**Saturday, 14 September**
+<BR><U>Challenging Autism with Exercise Parents Workshop</u>
+<BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
+<BR>Venue: Rainbow Centre (Margaret Drive)
+<BR>Time: 9AM-3PM
+<BR><I>[Download the course brochure here]()
+<BR>Register your interest at [go.gov.sg/acsmparentworkshop](http://www.go.gov.sg/acsmparentworkshop)
+<BR>Note this is a registration for interest only, subject to final selection
+
