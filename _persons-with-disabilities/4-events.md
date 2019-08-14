@@ -13,6 +13,10 @@ TEST
 <div data-tockify-component="calendar" data-tockify-calendar="inclusivesport.sg"></div>
 </P>
 
+<div data-tockify-component="mini" data-tockify-calendar="inclusivesport.sg"></div>
+<script data-cfasync="false" data-tockify-script="embed"
+                                  src="https://public.tockify.com/browser/embed.js"></script>
+
 ### Upcoming Events in 2019
 [Download Full Calendar Here](/images/File-DSMPCalendar2019.pdf)
 <BR>Please email inclusivesport@sport.gov.sg if you would like to list your event here. 
