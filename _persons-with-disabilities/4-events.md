@@ -7,12 +7,8 @@ collection_name: persons-with-disabilities
 ---
 
 
-<!--  Start Bravenet.Com Service Code -->
-<div style="background-color:gray;line-height: 13px;color:white;padding:10px;">
-<a href="http://pub10.bravenet.com/calendar/show.php?usernum=798968761" style="float: left; margin-right: 10px;color:white"><img src="https://assets.bravenet.com/common/images/cpcode/medium-color-calendar.gif" width="32" height="32" alt="Free Website Calendars by Bravenet.com" border="0"></a>
-<a href="http://pub10.bravenet.com/calendar/show.php?usernum=798968761" style="font-size: 12px; font-weight: bold; color:white">View my Online Calendar</a><br>
-</div>
-<!-- End Bravenet.Com Service Code -->
+#### View Our Events Calendar Here!
+[Upcoming EVents Calendar](https://calendar.google.com/calendar/b/1?cid=anR1dGRxZmxqbTRhZDRsM2ZtMjgxaDkzN2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 #### April to June 2019
 
