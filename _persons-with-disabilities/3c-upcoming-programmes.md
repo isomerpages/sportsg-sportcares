@@ -7,24 +7,22 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
-<a href="https://www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
+Last Updated: 15 August 2019
 
-Sign up for disability sports workshops and talks at this year's <a href="http://www.go.gov.sg/isf2019">Inclusive Sports Festival!</a>
-
-##### Pedal enAble Let's Go Cycling (16 and above)
-* By Ageless Bicyclists
-* Tuesday April 30 / May 07 / 14 / 22 and Saturday June 01 2019
-* 3-4.30PM
-* 100plus Promenade, Singapore Sports Hub
-* Equipment provided
-* Fees: Please refer to registration page (link below)
-* If you are interested in joining, email <malchen@singnet.com.sg> or [register here](https://docs.google.com/forms/d/e/1FAIpQLScfaB3SND-W0EwiLXLiFFIDRsbt7m0pZVt8VZlPMn011aYjfQ/viewform)
-
-##### AMAZE Workshop for Swim Coaches
-* By SportCares and [AquaFins](http://www.aquafins.com.sg/)
-* Friday 28 June (8.30am-5pm) and Saturday 29 June (8.30am-3pm) (2 day course)
-* AWWA School Swimming Pool (Lorong Napiri campus)
-* Fees: $250*
-* If you are interested in joining, email <stefanie_ang@sport.gov.sg> or [register here](https://form.gov.sg/#!/5ce6661aa14e720017d451dc).
-
-*Course fee is subsidised by SportCares. Original course fee is $500. Participants are required to complete a minimum of 4 hours practicum following the course.*
+**Thursday OR Friday, 12 OR 13 September**
+<BR><U>Autism Exercise Specialist Certificate Workshop</u>
+<BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
+<BR>Venue: Rainbow Centre (Margaret Drive)
+<BR>Time: 9AM-4PM
+<BR>[Download the course brochure here](https://sportcares.sportsingapore.gov.sg/images/ACSMEC%20Autism_WorkshopFlyer.pdf)
+<BR>Register your interest at [go.gov.sg/acsmworkshop](http://www.go.gov.sg/acsmworkshop)
+<I>Note this is a registration for interest only, subject to final selection</i>
+  
+**Saturday, 14 September**
+<BR><U>Challenging Autism with Exercise Parents Workshop</u>
+<BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
+<BR>Venue: Rainbow Centre (Margaret Drive)
+<BR>Time: 9AM-3PM
+<BR>[Download the course brochure here](https://sportcares.sportsingapore.gov.sg/images/EC_Autism Parent WorkshopFlyer.pdf)
+<BR>Register your interest at [go.gov.sg/acsmparentworkshop](http://www.go.gov.sg/acsmparentworkshop)
+  <BR><I>Note this is a registration for interest only, subject to final selection</i>
