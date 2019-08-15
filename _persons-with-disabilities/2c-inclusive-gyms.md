@@ -15,6 +15,18 @@ Persons with disabilities, seniors, and beginner gym goers can seek the assistan
 
 ##### Inclusive Gym Locations
 
+##### ActiveSG Gym @ Ang Mo Kio CC 
+* 795 Ang Mo Kio Ave 1, Singapore 569976 
+* [Operating Hours](https://www.myactivesg.com/Facilities/activesg-gym-at-ang-mo-kio-community-centre)
+
+##### Enabling Village (Redhill) 
+* 20 Lengkok Bahru, #01-05 Enabling Village, Singapore 159053
+* [Operating Hours](https://www.myactivesg.com/Facilities/activesg-gym-enabling-village)
+
+##### Heartbeat@Bedok
+ * 11 Bedok North Street 1, Singapore 469662
+  * [Operating Hours](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium)
+
 ##### Jurong West Sports Centre
 * 20 Jurong West Street 93, Singapore 648965
 * [Operating Hours](https://www.myactivesg.com/facilities/jurong-west-sports-centre)
@@ -26,16 +38,4 @@ Persons with disabilities, seniors, and beginner gym goers can seek the assistan
 ##### Toa Payoh Sports Centre
 * 301 Lor 6 Toa Payoh, Singapore 319392
 * [Operating Hours](https://www.myactivesg.com/Facilities/toa-payoh-activesg-gym)
-
-##### Enabling Village (Redhill) 
-* 20 Lengkok Bahru, #01-05 Enabling Village, Singapore 159053
-* [Operating Hours](https://www.myactivesg.com/Facilities/activesg-gym-enabling-village)
   
-##### Heartbeat@Bedok
- * 11 Bedok North Street 1, Singapore 469662
-  * [Operating Hours](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium)
- 
-##### Our Tampines Hub
-* 1 Tampines Walk, Singapore 528523
-* [Operating Hours](https://www.myactivesg.com/facilities/tampines-activesg-gym)
-
