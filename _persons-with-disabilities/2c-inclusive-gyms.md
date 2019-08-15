@@ -9,7 +9,7 @@ second_nav_title: "Inclusive Sports Facilities"
 
 ![Inclusive Gym](/images/DSMP-inclusivegym.jpg)
 
-ActiveSG gymnasiums across Singapore are currently undergoing transformations to cater to people from all walks of life. New and upgraded ActiveSG gyms are equipped with specialised machines with adaptable features, such as removable seats for wheelchair users, and Natural Transmission pneumatic technology to ensure all movements, weight and resistance adjustments are safe and easy on the joints. 
+ActiveSG gymnasiums across Singapore are progressively undergoing transformations to cater to people from all walks of life. New and upgraded ActiveSG gyms are equipped with specialised machines with adaptable features, such as removable seats for wheelchair users, and Natural Transmission pneumatic technology to ensure all movements, weight and resistance adjustments are safe and easy on the joints. 
 
 Persons with disabilities, seniors, and beginner gym goers can seek the assistance of ActiveSG Fitness Instructors to create a specialised training plan utilising these machines.
 
@@ -36,8 +36,8 @@ Persons with disabilities, seniors, and beginner gym goers can seek the assistan
     <BR><a href="https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium">Operating Hours</a></td>
   </tr>
   <tr>
-    <td>Our Tampines Hub</td>
-    <td>1 Tampines Walk, Singapore 528523
-    <BR><a href="https://www.myactivesg.com/facilities/tampines-activesg-gym">Operating Hours</a></td>
+    <td>ActiveSG Gym @ Ang Mo Kio CC</td>
+    <td>795 Ang Mo Kio Ave 1, Singapore 569976
+    <BR><a href="https://www.myactivesg.com/Facilities/activesg-gym-at-ang-mo-kio-community-centre">Operating Hours</a></td>
   </tr>
 </table>
