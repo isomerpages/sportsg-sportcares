@@ -23,6 +23,6 @@ Last Updated: 15 August 2019
 <BR><I>Workshop by David S. Geslak (BS, ACSM EP-C, CSCS) & Amber Pantaleo (LBS1)</i>
 <BR>Venue: Rainbow Centre (Margaret Drive)
 <BR>Time: 9AM-3PM
-<BR>[Download the course brochure here](https://sportcares.sportsingapore.gov.sg/images/EC_Autism Parent WorkshopFlyer.pdf)
+<BR>[Download the course brochure here](https://sportcares.sportsingapore.gov.sg/images/EC_Autism%20Parent%20WorkshopFlyer.pdf)
 <BR>Register your interest at [go.gov.sg/acsmparentworkshop](http://www.go.gov.sg/acsmparentworkshop)
   <BR><I>Note this is a registration for interest only, subject to final selection</i>
