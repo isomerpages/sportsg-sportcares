@@ -13,13 +13,16 @@ Last Updated: 22/8/2019
 
 [Event Booklet](/images/PI2019-EventBooklet.pdf)
 
-<P> ##### Day 1
-<BR>Hall 1 [Football](/images/PI2019-Football.xls)
-<BR>Hall 2 [Badminton](/images/PI2019-Badminton.xls)
-<BR>Hall 3 [Goalball](/images/PI2019-Goalball.jpeg)
-  </P>
-  <P>
+##### Day 1
+Hall 1 [Football](/images/PI2019-Football.xls)
+
+Hall 2 [Badminton](/images/PI2019-Badminton.xls)
+
+Hall 3 [Goalball](/images/PI2019-Goalball.jpeg)
+
 ##### Day 2
-<BR>Hall 1 [Basketball and Skills Challenge](/images/PI2019-Basketball.xlsx)
-<BR>Hall 2 [Floorball and Skills Challenge](/images/PI2019-Floorball.xls)
-  </P>
+Hall 1 [Basketball and Skills Challenge](/images/PI2019-Basketball.xlsx)
+
+Hall 2 [Floorball and Skills Challenge](/images/PI2019-Floorball.xls)
+
+##### Organised by Special Olympics Singapore and SportCares, with Principal Partner Ministry of Education 
