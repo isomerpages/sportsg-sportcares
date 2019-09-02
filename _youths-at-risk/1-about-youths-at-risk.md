@@ -22,7 +22,7 @@ Referred to as “Youths-at-Risk” (or "at risk youths"), they are identified b
 > * Criminal conduct; and/or 
 > * Poor response to school intervention;
 
-Reference: [Ministry of Social and Family Development](https://www.msf.gov.sg/policies/Children-and-Youth/Rebuilding-Children-and-Youth/Pages/default.aspx)
+Reference: Ministry of Social and Family Development
 
 We have worked with social service organisations, grassroots groups and other government agencies to reach out to these youths-at-risk. 
 
