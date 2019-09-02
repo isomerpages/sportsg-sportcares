@@ -57,58 +57,46 @@ resources_name: media
 
 exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
 
-    <footer class='sgds-footer'>
-        <div class="top-section">
-            <div class="sgds-container is-fluid">
-                <div class="row">
-                    <div class="col">
-                        <h5 class="has-text-white"><b>Singapore Government Design System</b></h5>
-                    </div>
+ <footer class='sgds-footer'>
+    <div class="top-section">
+        <div class="sgds-container is-fluid">
+            <div class="row">
+                <div class="col">
+                    <h5 class="has-text-white"><b>Singapore Government Design System</b></h5>
                 </div>
-                <div class="row">
-                    <div class="col is-3">
-                        <p class="has-text-white"><b>Category 1</b></p>
-                        <p><a href="">Link</a></p>
-                        <p><a href="">Link</a></p>
-                    </div>
-                    <div class="col is-3">
-                        <p class="has-text-white"><b>Category 2</b></p>
-                        <p><a href="">Link</a></p>
-                        <p><a href="">Link</a></p>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col is-right-desktop-only">
-                        <ul>
-                            <li class="is-inline-block-desktop-only">
-                                <p><a href="" target="_blank">Contact</a></p>
-                            </li>
-                            <li class="is-inline-block-desktop-only">
-                                <p><a href="" target="_blank">Feedback</a></p>
-                            </li>
-                        </ul>
-                    </div>
+            </div>
+            <div class="row">
+                <div class="col is-right-desktop-only">
+                    <ul>
+                        <li class="is-inline-block-desktop-only">
+                            <p><a href="" target="_blank">Contact</a></p>
+                        </li>
+                        <li class="is-inline-block-desktop-only">
+                            <p><a href="" target="_blank">Feedback</a></p>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
-        <div class="bottom-section">
-            <div class="sgds-container is-fluid">
-                <div class="row is-multiline">
-                    <div class="col is-12">
-                        <ul>
-                            <li>
-                                <a href="https://tech.gov.sg/report_vulnerability" target="_blank">Report Vulnerability</a>
-                            </li>
-                            <li><a href="">Privacy</a></li>
-                            <li><a href="">Terms of Use</a></li>
-                        </ul>
-                    </div>
-                    <div class="col is-12 has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-                        <p class="is-hidden-touch"> © 2019 Government of Singapore. Last Updated 27 Aug 2019</p>
-                        <p class="is-hidden-desktop">© 2019 Government of Singapore</p>
-                        <p class="is-hidden-desktop last-updated">Last Updated 27 Aug 2019</p>
-                    </div>
+    </div>
+    <div class="bottom-section">
+        <div class="sgds-container is-fluid">
+            <div class="row is-multiline">
+                <div class="col is-12">
+                    <ul>
+                        <li>
+                            <a href="https://tech.gov.sg/report_vulnerability" target="_blank">Report Vulnerability</a>
+                        </li>
+                        <li><a href="">Privacy</a></li>
+                        <li><a href="">Terms of Use</a></li>
+                    </ul>
+                </div>
+                <div class="col is-12 has-text-right-desktop has-text-right-tablet has-text-left-mobile">
+                    <p class="is-hidden-touch"> © 2019 Government of Singapore. Last Updated 27 Aug 2019</p>
+                    <p class="is-hidden-desktop">© 2019 Government of Singapore</p>
+                    <p class="is-hidden-desktop last-updated">Last Updated 27 Aug 2019</p>
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
+</footer>
