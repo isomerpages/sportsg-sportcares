@@ -7,6 +7,8 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
 ---
 
+Last Updated: 2 October 2019
+
 ActiveSG’s inclusive swimming pools are fitted with ramps leading into the pools. Swimming pool wheelchairs are available at selected swimming complexes that have pools with ramps. Visitors may seek the assistance of the pool’s lifeguards or guest officers if they wish to use the swimming pool wheelchairs to enter the pool. 
 
 #### Swimming Pool with Ramps Locations
@@ -18,6 +20,7 @@ ActiveSG’s inclusive swimming pools are fitted with ramps leading into the poo
 * [Operating Hours](https://www.myactivesg.com/Facilities/heartbeat-bedok-activesg-swimming-complex)
 
 **Jurong Lake Gardens Swimmming Pool**
+* NOTE: The swimming pool is undergoing rectification works and will reopen in December 2019. 
 * 30 Yuan Ching Road, Singapore 618664 
 *  Closed on Wednesday for maintenance 
 * [Operating Hours](https://www.myactivesg.com/Facilities/jurong-lake-gardens-pool)
