@@ -11,11 +11,11 @@
     url: /about-sportcares/about-us/
   - title: Journey and Milestones
     url: /about-sportcares/our-journey/
-- title: Youths-at-Risk
-  url: /youths-at-risk/about-youths-at-risk/
+- title: Who We Are
+  url: /about/
   sub-links:
-  - title: About Youths-at-Risk
-    url: /youths-at-risk/about-youths-at-risk/
+  - title: Patron's Message
+    url: /about/patron-message/
   - title: Hearts Framework
     url: /youths-at-risk/hearts-framework/
   - title: Youth Programmes
