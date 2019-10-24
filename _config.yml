@@ -45,7 +45,7 @@ baseurl: ""
 collections:
   test:
     output: true
-  about-sportcares:
+  who-we-are:
     output: true
   youths-at-risk:
     output: true
