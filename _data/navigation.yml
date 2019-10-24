@@ -5,26 +5,38 @@
 #                                #
 ##################################
 
-- title: About Us
-  url: /about-sportcares/about-us/
+- title: Who We Are
   sub-links:
-  - title: About Us
-    url: /about-sportcares/about-us/
-  - title: Journey and Milestones
-    url: /about-sportcares/our-journey/
-  - title: Communities of Care
-    url: /about-sportcares/communities-of-care/
-- title: Youths-at-Risk
-  url: /youths-at-risk/
+  - title: Patron's Message
+    url: /about/about-us/
+  - title: Our Mission and History
+    url: /about/mission-and-history/
+  - title: Our Board
+    url: /about/sportcares-board/
+  - title: SportCares in Numbers
+    url: /about/statistics/
+
+- title: How We Work
   sub-links:
-  - title: About Youths-at-Risk
-    url: /youths-at-risk/about-youths-at-risk/
-  - title: Hearts Framework
-    url: /youths-at-risk/hearts-framework/
   - title: Youth Programmes
-    url: /youths-at-risk/programmes/
-  - title: Upcoming Events
-    url: /youths-at-risk/events/
+    url: /work/youth/
+  - title: Senior Programmes
+    url: /work/seniors/
+  - title: Community Partnerships
+    url: /work/community-partnerships/
+  - title: Empowering Coaches
+    url: /work/coaches/
+  - title: Corporate Partnerships
+    url: /work/corporate-partnerships/
+
+- title: Grants and Funding
+  url: /grants-and-funding/
+  sub-links:
+  - title: Communities of Care Grats
+    url: /grants-and-funding/grants/
+  - title: Application
+    url: /grants-and-funding/application/
+    
 - title: For Persons with Disabilities
   url: /persons-with-disabilities/
   sub-links:
@@ -36,13 +48,7 @@
     url: /persons-with-disabilities/programmes/
   - title: Upcoming Events
     url: /persons-with-disabilities/events/
-- title: Partner with Us
-  url: /partner-with-us/partnership-schemes/
-  sub-links:
-  - title: Past Partnerships
-    url: /partner-with-us/past-partnership/
-  - title: Partnership Schemes
-    url: /partner-with-us/partnership-schemes/
+    
 - title: Media
   url: /media/
   sub-links:
