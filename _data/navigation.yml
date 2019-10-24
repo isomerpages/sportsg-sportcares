@@ -1,3 +1,4 @@
+  
 ##################################
 #                                #
 # Feel free to edit this file :) #
@@ -11,29 +12,31 @@
     url: /about-sportcares/about-us/
   - title: Journey and Milestones
     url: /about-sportcares/our-journey/
-- title: Who We Are
-  url: /about/
+  - title: Communities of Care
+    url: /about-sportcares/communities-of-care/
+- title: Youths-at-Risk
+  url: /youths-at-risk/
   sub-links:
-  - title: Patron's Message
-    url: /about/patron-message/
+  - title: About Youths-at-Risk
+    url: /youths-at-risk/about-youths-at-risk/
   - title: Hearts Framework
     url: /youths-at-risk/hearts-framework/
   - title: Youth Programmes
     url: /youths-at-risk/programmes/
   - title: Upcoming Events
     url: /youths-at-risk/events/
-- title: Persons with Disabilities
-  url: /persons-with-disabilities/disability-sports-master-plan/
+- title: For Persons with Disabilities
+  url: /persons-with-disabilities/
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
-  - title: Inclusive Sports Facilities
-    url: /persons-with-disabilities/inclusive-sports-facilities/
+  - title: Inclusive Facilities
+    url: /persons-with-disabilities/inclusive-facilities/
   - title: Disability Sports Programmes
-    url: /persons-with-disabilities/disability-sports-programmes/
+    url: /persons-with-disabilities/programmes/
   - title: Upcoming Events
     url: /persons-with-disabilities/events/
-- title: Partnerships
+- title: Partner with Us
   url: /partner-with-us/partnership-schemes/
   sub-links:
   - title: Past Partnerships
@@ -53,47 +56,3 @@
     url: /media/events/
 - title: Contact Us
   url: /contact-us/
-
-<footer class='sgds-footer'>
-    <div class="top-section">
-        <div class="sgds-container is-fluid">
-            <div class="row">
-                <div class="col">
-                    <h5 class="has-text-white"><b>Singapore Government Design System</b></h5>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col is-right-desktop-only">
-                    <ul>
-                        <li class="is-inline-block-desktop-only">
-                            <p><a href="" target="_blank">Contact</a></p>
-                        </li>
-                        <li class="is-inline-block-desktop-only">
-                            <p><a href="" target="_blank">Feedback</a></p>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="bottom-section">
-        <div class="sgds-container is-fluid">
-            <div class="row is-multiline">
-                <div class="col is-12">
-                    <ul>
-                        <li>
-                            <a href="https://tech.gov.sg/report_vulnerability" target="_blank">Report Vulnerability</a>
-                        </li>
-                        <li><a href="">Privacy</a></li>
-                        <li><a href="">Terms of Use</a></li>
-                    </ul>
-                </div>
-                <div class="col is-12 has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-                    <p class="is-hidden-touch"> © 2019 Government of Singapore. Last Updated 27 Aug 2019</p>
-                    <p class="is-hidden-desktop">© 2019 Government of Singapore</p>
-                    <p class="is-hidden-desktop last-updated">Last Updated 27 Aug 2019</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
