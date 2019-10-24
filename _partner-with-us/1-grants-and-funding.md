@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Grants and Funding
-permalink: /grants-and-funding/
+permalink: /grants-and-funding/grants/
 breadcrumb: Grants and Funding 
 collection_name: partner-with-us
 second_nav_title: "Grants and Funding"
