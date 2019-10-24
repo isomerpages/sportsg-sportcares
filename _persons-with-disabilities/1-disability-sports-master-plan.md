@@ -11,7 +11,6 @@ collection_name: persons-with-disabilities
 <meta name="description" content="Sports for persons with disabilities and special needs"/>
 <meta name="subject" content="Disability Sports Master Plan">
 
-<a href="https://www.go.gov.sg/isf2019"><img src="https://sportcares.sportsingapore.gov.sg/images/ISF2019-Web-Banner.png"></a>
 
 #### Welcome to inclusivesport.sg 
 Since 2016, SportCares, under the umbrella of ActiveSG, has been executing the recommendations of the Disability Sports Master Plan (DSMP) under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
