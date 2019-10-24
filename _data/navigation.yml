@@ -22,12 +22,14 @@
     url: /work/youth/
   - title: Senior Programmes
     url: /work/seniors/
+  - title: Disability Programmes
+    url: /persons-with-disabilities/disability-sports-master-plan/
   - title: Community Partnerships
     url: /work/community-partnerships/
-  - title: Empowering Coaches
-    url: /work/coaches/
   - title: Corporate Partnerships
     url: /work/corporate-partnerships/
+  - title: Empowering Coaches
+    url: /work/coaches/
 
 - title: Grants and Funding
   url: /grants-and-funding/
@@ -38,27 +40,15 @@
     url: /grants-and-funding/application/
     
 - title: For Persons with Disabilities
-  url: /persons-with-disabilities/
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
-  - title: Inclusive Facilities
+  - title: Inclusive Sports Facilities
     url: /persons-with-disabilities/inclusive-facilities/
   - title: Disability Sports Programmes
     url: /persons-with-disabilities/programmes/
   - title: Upcoming Events
     url: /persons-with-disabilities/events/
     
-- title: Media
-  url: /media/
-  sub-links:
-  - title: All
-    url: /media/
-  - title: Press Release
-    url: /media/press-release/
-  - title: Stories
-    url: /media/stories/
-  - title: Events
-    url: /media/events/
 - title: Contact Us
   url: /contact-us/
