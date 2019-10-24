@@ -4,7 +4,6 @@ title: Grant Application
 permalink: /grants-and-funding/application/
 breadcrumb: Grants and Funding
 collection_name: partner-with-us
-second_nav_title: "Grant Application"
 ---
 
 Coming Soon!
