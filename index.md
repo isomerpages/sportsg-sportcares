@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Sport Singapore - SportsCares
+title: Sport Singapore - SportCares
 description: Changing Lives through Sports
 permalink: /
 ---
