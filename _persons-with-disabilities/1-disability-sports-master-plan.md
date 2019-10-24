@@ -6,12 +6,9 @@ breadcrumb: Disability Sports
 collection_name: persons-with-disabilities
 ---
 
-
 <meta name="keywords" content="disability sports, disabled sports, sports for persons with disabilities, special needs, autism sports, cerebral palsy, ActiveSG, Sport Singapore, para sports, paralympics, goalball, wheelchair rugby"/>
 <meta name="description" content="Sports for persons with disabilities and special needs"/>
 <meta name="subject" content="Disability Sports Master Plan">
-
-
 #### Welcome to inclusivesport.sg 
 Since 2016, SportCares, under the umbrella of ActiveSG, has been executing the recommendations of the Disability Sports Master Plan (DSMP) under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
 
