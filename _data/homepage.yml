@@ -14,8 +14,8 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: Welcome to SportCares Foundation
-hero-subtitle: Nurturing lives through sport
+hero-title: Building Communities of Care
+hero-subtitle: Join us in changing lives through sport
 hero-banner: /images/Website-Hero-Banner.jpg
 
 #Call to Action Button
@@ -23,51 +23,18 @@ button:
   - text: Partner us today
     url: /partner-with-us/partnership-schemes/
 
-resources-title: News
-resources-subtitle: 
+key-highlights:
+  - title: HEARTS Framework
+    description: Transforming Vulnerabilities into Strengths
+    url: /youths-at-risk/hearts-framework/
+  - title: Inclusive Sports Facilities
+    description: Fitness for All Abilities
+    url: /persons-with-disabilities/inclusive-sports-facilities/
+  - title: Partnerships
+    description: Harnessing Sport for Social Change
+    url: /partner-with-us/partnership-schemes/
+
+resources-title: Media Centre
+resources-subtitle: Highlights
 resources-more-button: More
 resources-more-button-url: /media/
-
-<footer class='sgds-footer'>
-    <div class="top-section">
-        <div class="sgds-container is-fluid">
-            <div class="row">
-                <div class="col">
-                    <h5 class="has-text-white"><b>Singapore Government Design System</b></h5>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col is-right-desktop-only">
-                    <ul>
-                        <li class="is-inline-block-desktop-only">
-                            <p><a href="" target="_blank">Contact</a></p>
-                        </li>
-                        <li class="is-inline-block-desktop-only">
-                            <p><a href="" target="_blank">Feedback</a></p>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="bottom-section">
-        <div class="sgds-container is-fluid">
-            <div class="row is-multiline">
-                <div class="col is-12">
-                    <ul>
-                        <li>
-                            <a href="https://tech.gov.sg/report_vulnerability" target="_blank">Report Vulnerability</a>
-                        </li>
-                        <li><a href="">Privacy</a></li>
-                        <li><a href="">Terms of Use</a></li>
-                    </ul>
-                </div>
-                <div class="col is-12 has-text-right-desktop has-text-right-tablet has-text-left-mobile">
-                    <p class="is-hidden-touch"> © 2019 Government of Singapore. Last Updated 27 Aug 2019</p>
-                    <p class="is-hidden-desktop">© 2019 Government of Singapore</p>
-                    <p class="is-hidden-desktop last-updated">Last Updated 27 Aug 2019</p>
-                </div>
-            </div>
-        </div>
-    </div>
-</footer>
