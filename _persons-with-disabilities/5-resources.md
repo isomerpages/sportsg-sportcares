@@ -23,6 +23,10 @@ collection_name: persons-with-disabilities
 
 ------------
 
+**Bowling Association for the Disabled (Singapore)**
+- Website: [http://www.bads.org.sg/index.html](http://www.bads.org.sg/index.html "http://www.bads.org.sg/index.html")
+- Contact:  9380 4355 / bads.ndsa@gmail.com
+
 **Goalball Singapore**
 - Website: [https://goalball.sg/](https://goalball.sg/ "https://goalball.sg/")
 - Contact:  (65) 9221 4705 / team@athlete.sg
