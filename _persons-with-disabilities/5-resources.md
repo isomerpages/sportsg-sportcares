@@ -23,14 +23,21 @@ collection_name: persons-with-disabilities
 
 ------------
 
+**Goalball Singapore**
+- Website: [https://goalball.sg/](https://goalball.sg/ "https://goalball.sg/")
+- Contact:  (65) 9221 4705 / team@athlete.sg
+
 **Riding for the Disabled Association Singapore (RDA Singapore)**
 - Website: [http://rdasingapore.org/](http://rdasingapore.org/ "http://rdasingapore.org/")
 - Contact:  6250 0176 / mail@rdasingapore.org.sg
+
+**Runninghour**
+- Website: [https://runninghour.com/](https://runninghour.com/ "https://runninghour.com/")
+- Contact: +65-90505398 / admin@runninghour.com
 
 **Table Tennis Association for the Disabled (Singapore)**
 - Website: [https://www.facebook.com/pg/TTADS.SG/](https://www.facebook.com/pg/TTADS.SG/ "https://www.facebook.com/pg/TTADS.SG/")
 - Contact: ttads.adm@gmail.com 
 
-**Runninghour**
 
 
