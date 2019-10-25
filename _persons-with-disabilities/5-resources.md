@@ -31,6 +31,14 @@ collection_name: persons-with-disabilities
 - Website: [https://goalball.sg/](https://goalball.sg/ "https://goalball.sg/")
 - Contact:  (65) 9221 4705 / team@athlete.sg
 
+**Lawn Bowls Association for the Disabled**
+- Website: [http://parabowlsingapore.org/](http://parabowlsingapore.org/ "http://parabowlsingapore.org/")
+- Contact: hello@parabowlsingapore.org
+
+**Para Athletics (Singapore)**
+- Website: [https://para-athletics.org.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
+- Contact:  info@para-athletics.org.sg
+
 **Riding for the Disabled Association Singapore (RDA Singapore)**
 - Website: [http://rdasingapore.org/](http://rdasingapore.org/ "http://rdasingapore.org/")
 - Contact:  6250 0176 / mail@rdasingapore.org.sg
