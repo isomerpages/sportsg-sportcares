@@ -7,13 +7,13 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
 ---
 
-![Inclusive Sports Facilities](/images/Inclusive-Facilities.png)
+![Inclusive Sports Facilities](/images/DSMP-2019-Gyms.jpg)
 
 Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. Please refer to the map above for the locations of our inclusive gyms and swimming pools.
 
 #### Inclusive Gyms
+* Ang Mo Kio Community Centre
 * Enabling Village
-* Our Tampines Hub
 * Heartbeat@Bedok
 * Toa Payoh Sports Centre
 * Jurong West Sports Centre
