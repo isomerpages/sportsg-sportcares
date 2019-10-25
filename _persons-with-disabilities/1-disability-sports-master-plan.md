@@ -22,6 +22,7 @@ We are constantly working to increase accessibility in our sports centres and to
 #### Join Our Mailing List
 To find out about upcoming programmes, events, and new inclusive facilities, please email <inclusivesport@sport.gov.sg>, or join our mailing list [here](http://go.gov.sg/dsmp-mailinglist).
 
+<div>
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in at <a href="https://form.gov.sg/5d099271e6ca2a00111f1a85">here</a>.</div>
 
 <!-- Change the width and height values to suit you best -->
@@ -38,3 +39,4 @@ To find out about upcoming programmes, events, and new inclusive facilities, ple
 
   gtag('config', 'UA-143399612-1');
 </script>
+</div>
