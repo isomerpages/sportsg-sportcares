@@ -9,6 +9,12 @@ collection_name: persons-with-disabilities
 ### Welcome to InclusiveSport.sg
 Since 2016, SportCares, under the umbrella of ActiveSG and Sport Singapore, has been executing the recommendations of the **Disability Sports Master Plan (DSMP)** under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
 
+### Progress
+*This video, which describes the progress made from 2016 to 2018, contains subtitles and audio.* 
+<div class="bp-youtube">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/sXf2x0Fkd7s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 ### Timeline and Key Milestones
 -  **January 2015**: MCCY convened an inter-agency Committee for Disability Sports to recommend ways to raise awareness of and participation in disability sports, as well as engender greater inclusiveness and understanding of persons with disabilities (PwDs) through disability sports. The committee was chaired by then Minister of State (Prime Minister’s Office & MCCY) Mr Sam Tan, and comprised partner agencies from the people, private and public sector.-
 - The committee also engaged in public consultation with PwDs, caregivers, teachers, administrators, and Singapore Disability Sports Council, Special Olympics Singapore and the Deaf Sports Association – the three main national disability sports associations providing sports programmes for PwDs.
