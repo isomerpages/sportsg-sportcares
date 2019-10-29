@@ -16,6 +16,7 @@ Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) i
 * Enabling Village
 * Heartbeat@Bedok
 * Toa Payoh Sports Centre
+* Jurong Lake Gardens Sports Centre
 * Jurong West Sports Centre
 
 ##### Inclusive Swimming Pools
