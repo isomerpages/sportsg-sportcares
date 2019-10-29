@@ -10,11 +10,11 @@ second_nav_title: "Sports Programmes"
 Last Updated: 29 October 2019
 
 ### Registration of Interest
-
+<DIV>
 **Yes! I Can Canoe**
 <img src="/images/YIC-Canoe.jpg" alt="Image" height="" width="400" alt="Yes! I Can Canoe Registration of Interest Information">
-Yes! I Can Canoe is a learn-to-play programme for persons with disabilities to enjoy recreational canoeing. The programme will take place at MacRitchie Resevoir over 10 sessions. To register your interest, please email scfpccoordinator@gmail.com
-
+Yes! I Can Canoe is a learn-to-play programme for persons with disabilities to enjoy recreational canoeing. The programme will take place at MacRitchie Resevoir over 10 sessions. To register your interest, please email scfpccoordinator@gmail.com</DIV>
+<DIV>
 **Yes! I Can Climb (Adaptive Climbing)**
 <img src="/images/YIC-Climbing.jpg" alt="Image" height="" width="400" alt="Yes! I Can Climb Registration of Interest Information">
-Yes! I Can Climb is designed to build confidence, develop coordination, strength, and problem solving skills! Register your interest for the **Introduction to Climbing** or **Developmental Climbing** course by emailing bookings@climbcentral.sg
+Yes! I Can Climb is designed to build confidence, develop coordination, strength, and problem solving skills! Register your interest for the **Introduction to Climbing** or **Developmental Climbing** course by emailing bookings@climbcentral.sg</DIV>
