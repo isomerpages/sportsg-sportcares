@@ -7,14 +7,20 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
 ---
 
-ActiveSG’s inclusive swimming pools are fitted with ramps leading into the pools. Swimming pool wheelchairs are available at swimming complexes that have pools with ramps. Visitors may seek the assistance of the pool’s lifeguards or guest officers if they wish to use the swimming pool wheelchairs to enter the pool. 
+ActiveSG’s inclusive swimming pools are fitted with ramps leading into the pools. Swimming pool wheelchairs are available at swimming complexes that have pools with ramps. Visitors may seek the assistance of the pool’s Guest Officers if they wish to use the swimming pool wheelchairs. 
 
-##### Swimming Pool (with Ramps) Locations
+##### Swimming Pool with Ramps Locations
 <table class="table-v">
    <tr>
     <td>Jurong West Swimming Complex</td>
     <td>20 Jurong West Street 93, Singapore 648965
     <BR><a href="https://www.myactivesg.com/facilities/jurong-west-swimming-complex">Operating Hours</a></td>
+ </tr>
+    <tr>
+    <td>Jurong Lake Gardens Swimming Pool</td>
+    <td>30 Yuan Ching Road, Singapore 618664
+    <BR><a href="https://www.myactivesg.com/Facilities/jurong-lake-gardens-pool">Operating Hours</a>
+	<BR>*The swimming pool is undergoing rectification works and will reopen in December 2019.* </BRL></td>
  </tr>
   <tr>
     <td>Sengkang Swimming Complex</td>
@@ -24,7 +30,7 @@ ActiveSG’s inclusive swimming pools are fitted with ramps leading into the poo
     <BR><a href="https://www.myactivesg.com/facilities/sengkang-swimming-complex">Operating Hours</a></td>
   </tr>
     <tr>
-    <td>Heartbeat@Bedok</td>
+    <td>Heartbeat @ Bedok</td>
     <td>11 Bedok North Street 1, Singapore 469662
     <BR>Sheltered pool available
     <BR>Closed on Thursdays for maintenance
