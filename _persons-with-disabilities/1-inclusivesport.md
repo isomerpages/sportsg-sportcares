@@ -13,6 +13,15 @@ Since 2016, SportCares, under the umbrella of ActiveSG and Sport Singapore, has 
 - Read a copy of the [DSMP Summary Report](https://www.mccy.gov.sg/-/media/MCCY-corp/Sectors/Disability-Sports-Master-Plan_Executive-Summary.pdf?la=en&hash=A0EDAB2D0FA04DBED210E6AD5AFD64F583AD2DC2)
 - Find out what's on in the [Disability Sports Calendar](https://teamup.com/kszzuuzwp4j1c2he1f "Disability Sports Calendar")
 - [Sign up for our mailing list](http://go.gov.sg/dsmp-mailinglist "Sign up for our mailing list")
+- For general enquiries, please email inclusivesport@sport.gov.sg
+
+#### Target Audience
+The DSMP aims to benefit people who have been medically certified to have one of the following:
+- Physical Disability
+- Intellectual Disability
+- Visual Impairment
+- Hearing Impairment
+- Autism Spectrum Disorder
 
 #### Progress
 *This video, which describes the progress made from 2016 to 2018, contains subtitles and audio.* 
