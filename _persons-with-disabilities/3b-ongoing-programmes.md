@@ -8,19 +8,7 @@ second_nav_title: "Sports Programmes"
 ---
 
 #### Play-Ability Open Sessions
-[Play-Ability](https://www.temasekfoundation-cares.org.sg/journal/13/the-joy-of-play) is a recreational sports programme for persons with disabilities launched in partnership with Temasek Foundation Cares. The programme aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. Play-Ability's current participants include:
-
-* Residents of disability homes
-* Clients of day centres and employment centres 
-* SPED school graduates
-* Special needs support groups
-
-##### Experience a Play-Ability Day!
-*This video shows how the residents from Thye Hua Kwan Home enjoy weekly play sessions through Play-Ability. This video has contains music, limited dialogue and no subtitles.*
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/VmiXCVLBVEw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-
+[Play-Ability](https://www.temasekfoundation-cares.org.sg/journal/13/the-joy-of-play) is a recreational sports programme for persons with disabilities launched in partnership with Temasek Foundation Cares. The programme aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. 
 
 **Open Badminton Sessions for Adults with Intellectual Disabilities (16 and above)**
 * Every Thursday
