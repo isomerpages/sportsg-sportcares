@@ -1,9 +1,9 @@
 ---
-layout: leftnav-page-content
+layout: 
 title: Play Inclusive 2019
 permalink: /persons-with-disabilities/play-inclusive-2019/
-breadcrumb: Play Inclusive 2019
-collection_name: persons-with-disabilities
+breadcrumb: 
+collection_name: 
 ---
 
 ![Play Inclusive 2019 General Schedule](/images/PI2019-generalschedule.jpg)
