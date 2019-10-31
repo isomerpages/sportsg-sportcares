@@ -1,11 +1,11 @@
 ---
 layout: leftnav-page-content
-title: Upcoming Events
+title: Events
 permalink: /persons-with-disabilities/events/
-breadcrumb: Upcoming Events
+breadcrumb: Events
 collection_name: persons-with-disabilities
+second_nav_title: "Events"
 ---
-
 
 Last Updated: 14/8/2019
 
