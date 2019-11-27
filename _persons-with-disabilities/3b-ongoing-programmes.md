@@ -15,7 +15,7 @@ second_nav_title: "Sports Programmes"
 * 2-3PM (Session 1), 3-4PM (Session 2)
 * Heartbeat@Bedok (Level 4 Sports Hall, Court 1)
 * Equipment provided
-* NOV 7, 28
+* NOV 7, 28, DEC 5, 12
 * If you are interested in joining, register [here](https://form.gov.sg/5cd123bb03463d0010c580b6) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
 
 **Open Futsal Sessions for Adults with Intellectual Disabilities (16 and above)**
@@ -23,5 +23,23 @@ second_nav_title: "Sports Programmes"
 * 10-11.30AM
 * Our Tampines Hub (Level 2 Team Sports Hall)
 * Equipment provided
-* NOV 4, 11
+* NOV 4, 11, DEC 2, 9
 * If you are interested in joining, register [here](https://form.gov.sg/5cd123bb03463d0010c580b6) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
+
+#### Innervate Fitness Adaptive Fitness Program
+Our Sporting Partner Innervate Fitness is pleased to extend 12 sessions of our Adaptive Fitness Program for free to 15 persons with disabilities aged 16 and above!
+
+* Free sessions are valid until 31 December 2019
+* First come first served
+* Participants who wish to continue after the 12 free sessions are up may do so at a cost of $100 for 12 sessions (U.P. for Adaptive Program)
+* Facility located at 994 Bendemeer Road, #01-04, Singapore 339943
+
+Session Times
+* Monday 8AM
+* Tuesday 7.30PM
+* Wednesday 8AM
+* Thursday 7PM
+* Friday 8AM
+* Saturday 12.30PM
+
+For more information, please email info@innervatefit.com
