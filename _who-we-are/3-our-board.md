@@ -46,7 +46,7 @@ collection_name: who-we-are
   </tr>
 </table>
 
-##Organisational Structure 
+## Organisational Structure 
 
 Kerk Kim Por
 Head, SportCares 
@@ -54,7 +54,7 @@ Head, SportCares
 Dr. Katrina Hall-Engle
 Deputy Head, SportCares 
 
-##Teams
+## Teams
 •	Inclusive Programming
 •	Disability Sports Master Plan
 •	Master Plan Secretariat (Communities of Care)
