@@ -36,4 +36,15 @@ collection_name: who-we-are
 |                AXA Insurance                |              Sport Singapore              |
 +---------------------------------------------+-------------------------------------------+
 
-Our 
+##Organisational Structure 
+
+Kerk Kim Por
+Head, SportCares 
+
+Dr. Katrina Hall-Engle
+Deputy Head, SportCares 
+
+##Teams
+•	Inclusive Programming
+•	Disability Sports Master Plan
+•	Master Plan Secretariat (Communities of Care)
