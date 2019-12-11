@@ -6,14 +6,14 @@ breadcrumb: Grants and Funding
 collection_name: grants-and-funding
 ---
 
-###Be part of our community of care and join us in strengthening and nurturing a national movement of sport to make a difference in the lives of the local communities. Find out more about our Communities of Care Fund. 
+### Be part of our community of care and join us in strengthening and nurturing a national movement of sport to make a difference in the lives of the local communities. Find out more about our Communities of Care Fund. 
 
 SportCares Communities of Care Fund Grants aim to:
 - Use sport to make a positive difference to the lives of the vulnerable and the underserved; helping them overcome barriers to a life of growth & confidence
 - Use sport to inspire volunteers, activists and leaders to rise, find common ground, connect and do good together
 - Use sport to learn more about the community through insights gained, and partnering others as part of integrated solutions to solve complex social issues
 
-####How We Support
+#### How We Support
 We offer opportunities for individuals and organisations to receive funding from the following Grants:
 - Starter Grant
 - Research Grant
