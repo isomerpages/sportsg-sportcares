@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Our Board
-permalink: /_who-we-are/our-board/
+permalink: /who-we-are/our-board/
 breadcrumb: Who We Are
 collection_name: who-we-are
 ---
