@@ -33,6 +33,8 @@
     url: /persons-with-disabilities/disability-sports-programmes/
   - title: Upcoming Events
     url: /persons-with-disabilities/events/
+  - title: Volunteer Opportunities
+    url: /persons-with-disabilities/volunteer/
 - title: Partnerships
   url: /partner-with-us/partnership-schemes/
   sub-links:
@@ -40,16 +42,5 @@
     url: /partner-with-us/past-partnership/
   - title: Partnership Schemes
     url: /partner-with-us/partnership-schemes/
-- title: Media
-  url: /media/
-  sub-links:
-  - title: All
-    url: /media/
-  - title: Press Release
-    url: /media/press-release/
-  - title: Stories
-    url: /media/stories/
-  - title: Events
-    url: /media/events/
 - title: Contact Us
   url: /contact-us/
