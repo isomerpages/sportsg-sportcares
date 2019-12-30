@@ -7,9 +7,9 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sports Facilities"
 ---
 
-![A drawing of inclusive sports facilities locations on a Singapore map](/images/DSMP-2019-Gyms.jpg)
+##### Inclusive ActiveSG Facilities
 
-Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. Please refer to the map above for the locations of our inclusive gyms and swimming pools, or [search here](https://www.myactivesg.com/Facilities?sport=All&q=&type=accessible-facilities "search here"). 
+Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. Please refer [here](https://www.myactivesg.com/Facilities?sport=All&q=&type=accessible-facilities "search here for accessible facilities") for the list of accessible gyms and pools. 
 
 ##### Why Use ActiveSG Facilities?
 *This video describes how the ActiveSG inclusive gym has benefitted members Natalie and Leonard. The video contains subtitles and audio.*
