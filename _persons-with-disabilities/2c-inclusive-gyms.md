@@ -27,10 +27,6 @@ Persons with disabilities, seniors, and beginner gym goers can seek the assistan
  * 11 Bedok North Street 1, Singapore 469662
   * [Operating Hours](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-gymnasium)
 
-##### Jurong West Sports Centre
-* 20 Jurong West Street 93, Singapore 648965
-* [Operating Hours](https://www.myactivesg.com/facilities/jurong-west-sports-centre)
-
 ##### Jurong Lake Gardens Gym
 * 30 Yuan Ching Road, Singapore 618664
 * [Operating Hours](https://www.myactivesg.com/Facilities/jurong-lake-gardens-gym)
