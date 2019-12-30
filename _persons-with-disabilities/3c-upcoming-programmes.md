@@ -8,10 +8,19 @@ second_nav_title: "Sports Programmes"
 ---
 
 #### Registration of Interest
-<P>
-  <B>Yes! I Can Climb (Adaptive Climbing)</B><BR>
-  Yes! I Can Climb is designed to build confidence, develop coordination, strength, and problem solving skills! Register your interest for the Introduction to Climbing or Developmental Climbing course by emailing bookings@climbcentral.sg<BR>
-<img src="/images/YIC-Climbing.jpg" alt="Image" alt="Yes! I Can Climb Registration of Interest Information"></P>
 
+Play-Ability Badminton Play Session for Youth and Adults with Autism
 
-<B>Last Updated:</B> 29 October 2019
+Time: 10am - 11am
+Venue: Radin Mas Community Centre
+Age Limit: 16 and above
+Maximum: 8 participants
+Session Dates: February 6, 13, 20, 27
+
+Please note that is is not a learn-to-play/skills acquisition session. There will be coaches on site to facilitate activities and ensure the safety and well-being of participants.
+
+To register your interest, please fill in this form: https://form.gov.sg/#!/5e09a1fadf378700118f0ae0
+Questions can be directed to inclusivesport@sport.gov.sg 
+Deadline: 24 January 2020
+
+<B>Last Updated:</B> 30 December 2019
