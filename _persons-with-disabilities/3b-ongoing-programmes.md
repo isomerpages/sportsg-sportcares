@@ -15,16 +15,16 @@ second_nav_title: "Sports Programmes"
 * 2-3PM (Session 1), 3-4PM (Session 2)
 * Heartbeat@Bedok (Level 4 Sports Hall, Court 1)
 * Equipment provided
-* NOV 7, 28, DEC 5, 12
-* If you are interested in joining, register [here](https://form.gov.sg/5cd123bb03463d0010c580b6) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
+* January 2, 9, 16, 23, 30
+* If you are interested in joining, register [here](https://go.gov.sg/playability) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
 
 **Open Futsal Sessions for Adults with Intellectual Disabilities (16 and above)**
 * Every Monday
 * 10-11.30AM
 * Our Tampines Hub (Level 2 Team Sports Hall)
 * Equipment provided
-* NOV 4, 11, DEC 2, 9
-* If you are interested in joining, register [here](https://form.gov.sg/5cd123bb03463d0010c580b6) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
+* January 6, 13, 20
+* If you are interested in joining, register [here](https://go.gov.sg/playability) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
 
 #### Innervate Fitness Adaptive Fitness Program
 Our Sporting Partner Innervate Fitness is pleased to extend 12 sessions of our Adaptive Fitness Program for free to 15 persons with disabilities aged 16 and above!
@@ -43,3 +43,5 @@ Session Times
 * Saturday 12.30PM
 
 For more information, please email info@innervatefit.com
+
+Last Updated: 30 December 2019
