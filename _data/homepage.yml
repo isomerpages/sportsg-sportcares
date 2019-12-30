@@ -20,21 +20,16 @@ hero-banner: /images/Website-Hero-Banner.jpg
 
 #Call to Action Button
 button:
-  - text: Partner us today
-    url: /partner-with-us/partnership-schemes/
+  - text: Start a Conversation
+    url: /contact-us/
 
 key-highlights:
   - title: HEARTS Framework
     description: Transforming Vulnerabilities into Strengths
     url: /youths-at-risk/hearts-framework/
-  - title: Inclusive Sports Facilities
-    description: Fitness for All Abilities
-    url: /persons-with-disabilities/inclusive-sports-facilities/
+  - title: InclusiveSport.SG
+    description: Sports for Persons with Disabilities 
+    url: /persons-with-disabilities/
   - title: Partnerships
     description: Harnessing Sport for Social Change
     url: /partner-with-us/partnership-schemes/
-
-resources-title: Media Centre
-resources-subtitle: Highlights
-resources-more-button: More
-resources-more-button-url: /media/
