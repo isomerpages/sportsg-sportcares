@@ -9,7 +9,7 @@ second_nav_title: "Inclusive Sports Facilities"
 
 ##### Inclusive ActiveSG Facilities
 
-Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. Please refer [here](https://www.myactivesg.com/Facilities?sport=All&q=&type=accessible-facilities "search here for accessible facilities") for the list of accessible gyms and pools. 
+Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and training sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. Please refer [here](https://www.myactivesg.com/Facilities?sport=All&q=&type=accessible-facilities "search here for accessible facilities") for the list of accessible gyms and pools. 
 
 ##### Why Use ActiveSG Facilities?
 *This video describes how the ActiveSG inclusive gym has benefitted members Natalie and Leonard. The video contains subtitles and audio.*
