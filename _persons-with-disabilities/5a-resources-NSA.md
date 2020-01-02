@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 second_nav_title: "Resources"
 ---
 
-### Disability Sports Providers and National Sports Associations (NSA)
+### National Sports Associations (NSA)
 
 **Singapore Disability Sports Council**
 - Website: [https://sdsc.org.sg/](https://sdsc.org.sg/ "https://sdsc.org.sg/")
@@ -23,6 +23,8 @@ second_nav_title: "Resources"
 
 
 ------------
+
+### Para Sports Organisations / Service Providers
 
 **Bowling Association for the Disabled (Singapore)**
 - Website: [http://www.bads.org.sg/index.html](http://www.bads.org.sg/index.html "http://www.bads.org.sg/index.html")
@@ -40,7 +42,7 @@ second_nav_title: "Resources"
 - Website: [https://para-athletics.org.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
 - Contact:  info@para-athletics.org.sg
 
-**Para Cycling Federation of Singapore **
+**Para Cycling Federation of Singapore**
 - Website: [http://www.paracycling.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
 - Contact:  [http://www.paracycling.sg/contact-us/](http://www.paracycling.sg/contact-us/ "http://www.paracycling.sg/contact-us/")
 
