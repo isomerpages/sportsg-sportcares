@@ -39,16 +39,19 @@
     url: /grants-and-funding/application/
     
 - title: InclusiveSport.SG
-  url: /persons-with-disabilities/
   sub-links:
-  - title: Accessible Sports Facilities
-    url: /persons-with-disabilities/inclusive-facilities/
-  - title: Programmes and Courses
-    url: /persons-with-disabilities/programmes/
-  - title: Upcoming Events
+  - title: Disability Sports Master Plan
+    url: /disability-sports-master-plan/
+  - title: Sports Facilities
+    url: /persons-with-disabilities/inclusive-sports-facilities/
+  - title: Sports Programmes
+    url: /persons-with-disabilities/disability-sports-programmes/
+  - title: Events
     url: /persons-with-disabilities/events/
-  - title: Useful Resources & Links
+   - title: Volunteering Opportunities
+    url: /persons-with-disabilities/volunteer/
+   - title: Resources
     url: /persons-with-disabilities/resources/
-    
+ 
 - title: Contact Us
   url: /contact-us/
