@@ -5,35 +5,57 @@
 #                                #
 ##################################
 
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
 - title: Who We Are
   sub-links:
-  - title: Coming soon 
-   url:
+  - title: Patron's Message
+    url: /who-we-are/patrons-message/
+  - title: Our Mission and History
+    url: /who-we-are/mission-and-history/
+  - title: Our Board
+    url: /who-we-are/sportcares-board/
+  - title: SportCares in Numbers
+    url: /who-we-are/statistics/
 
 - title: How We Work
   sub-links:
-  - title: Coming Soon
-   url:
+  - title: Youth Programmes
+    url: /work/youth/
+  - title: Senior Programmes
+    url: /work/seniors/
+  - title: Disability Programmes
+    url: /persons-with-disabilities/disability-sports-master-plan/
+  - title: Community Partnerships
+    url: /work/community-partnerships/
+  - title: Corporate Partnerships
+    url: /work/corporate-partnerships/
+  - title: Empowering Coaches
+    url: /work/coaches/
 
 - title: Grants and Funding
   sub-links:
-  - title: Coming Soon
-   url:
+  - title: Communities of Care Grants
+    url: /grants-and-funding/grants/
+  - title: Application
+    url: /grants-and-funding/application/
     
 - title: InclusiveSport.SG
   sub-links:
   - title: Disability Sports Master Plan
     url: /disability-sports-master-plan/
   - title: Sports Facilities
-    url: /persons-with-disabilities/inclusive-sports-facilities/
-  - title: Sports Programmes
-    url: /persons-with-disabilities/disability-sports-programmes/
-  - title: Events
+    url: /persons-with-disabilities/inclusive-facilities/
+  - title: Programmes and Courses
+    url: /persons-with-disabilities/programmes/
+  - title: Upcoming Events
     url: /persons-with-disabilities/events/
-   - title: Volunteering Opportunities
-    url: /persons-with-disabilities/volunteer/
-   - title: Resources
+  - title: Useful Resources & Links
     url: /persons-with-disabilities/resources/
- 
+    
 - title: Contact Us
   url: /contact-us/
