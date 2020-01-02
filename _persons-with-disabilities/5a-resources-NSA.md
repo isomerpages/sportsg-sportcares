@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 second_nav_title: "Resources"
 ---
 
-### Disability Sports Providers / National Sports Associations (NSA)
+### Disability Sports Providers and National Sports Associations (NSA)
 
 **Singapore Disability Sports Council**
 - Website: [https://sdsc.org.sg/](https://sdsc.org.sg/ "https://sdsc.org.sg/")
@@ -40,6 +40,10 @@ second_nav_title: "Resources"
 - Website: [https://para-athletics.org.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
 - Contact:  info@para-athletics.org.sg
 
+**Para Cycling Federation of Singapore **
+- Website: [http://www.paracycling.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
+- Contact:  [http://www.paracycling.sg/contact-us/](http://www.paracycling.sg/contact-us/ "http://www.paracycling.sg/contact-us/")
+
 **Riding for the Disabled Association Singapore (RDA Singapore)**
 - Website: [http://rdasingapore.org/](http://rdasingapore.org/ "http://rdasingapore.org/")
 - Contact:  6250 0176 / mail@rdasingapore.org.sg
@@ -52,5 +56,7 @@ second_nav_title: "Resources"
 - Website: [https://www.facebook.com/pg/TTADS.SG/](https://www.facebook.com/pg/TTADS.SG/ "https://www.facebook.com/pg/TTADS.SG/")
 - Contact: ttads.adm@gmail.com 
 
-
+**Wheelchair Basketball Association of Singapore**
+- Website: [https://www.facebook.com/WheelchairBasketballAssociationSingapore](https://www.facebook.com/WheelchairBasketballAssociationSingapore "https://www.facebook.com/WheelchairBasketballAssociationSingapore")
+- Contact: https://www.facebook.com/WheelchairBasketballAssociationSingapore
 
