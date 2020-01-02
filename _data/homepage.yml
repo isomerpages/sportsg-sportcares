@@ -20,7 +20,7 @@ hero-banner: /images/Website-Hero-Banner.jpg
 
 #Call to Action Button
 button:
-  - text: Talk To Us
+  - text: Dear visitor, we are currently updating our website. Please reach out to us via email if you have any questions. 
     url: /contact-us/
 
 key-highlights:
@@ -32,5 +32,5 @@ key-highlights:
     url: /disability-sports-master-plan/
   - title: Partnerships
     description: Harnessing Sport for Social Change
-    url: /partner-with-us/partnership-schemes/
+    url: /contact-us/
 
