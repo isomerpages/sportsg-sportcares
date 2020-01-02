@@ -7,4 +7,6 @@ collection_name: persons-with-disabilities
 second_nav_title: "Events"
 ---
 
-Coming Soon!
+If you would like to join us as a partner, service provider or participant in Inclusive Sports Festival, please email inclusivesport@sport.gov.sg
+
+More Details Coming Soon!
