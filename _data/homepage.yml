@@ -20,7 +20,7 @@ hero-banner: /images/Website-Hero-Banner.jpg
 
 #Call to Action Button
 button:
-  - text: Dear visitor, we are currently updating our website. Please reach out to us via email (sportcares@sport.gov.sg) if you have any questions. 
+  - text: Dear visitor, we are currently updating our website. You may contact us at sportcares@sport.gov.sg for more information.
     url: /contact-us/
 
 key-highlights:
