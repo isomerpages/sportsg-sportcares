@@ -7,9 +7,9 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
-#### Registration of Interest
+## Registration of Interest
 
-##### Play-Ability Badminton Play Session for Youth and Adults with Autism
+### Play-Ability Badminton Play Session for Youth and Adults with Autism
 
 Time: 10am - 11am
 
