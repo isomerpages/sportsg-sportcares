@@ -12,10 +12,14 @@ second_nav_title: "Sports Programmes"
 ##### Play-Ability Badminton Play Session for Youth and Adults with Autism
 
 Time: 10am - 11am
+
 Venue: Radin Mas Community Centre
+
 Age Limit: 16 and above
+
 Maximum: 8 participants
-Session Dates: February 6, 13, 20, 27
+
+Session Dates: February 6, 13, 20, 27, March 5, 12, 19, 26
 
 Please note that is is not a learn-to-play/skills acquisition session. There will be coaches on site to facilitate activities and ensure the safety and well-being of participants.
 
