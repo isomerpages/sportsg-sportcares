@@ -7,24 +7,12 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
-#### Registration of Interest
-
-##### Play-Ability Badminton Play Session for Youth and Adults with Autism
-
-Time: 10am - 11am
-
-Venue: Radin Mas Community Centre
-
-Age Limit: 16 and above
-
-Maximum: 8 participants
-
-Session Dates: February 6, 13, 20, 27, March 5, 12, 19, 26
-
-Please note that is is not a learn-to-play/skills acquisition session. There will be coaches on site to facilitate activities and ensure the safety and well-being of participants.
-
-To register your interest, please fill in this form: https://form.gov.sg/#!/5e09a1fadf378700118f0ae0
-
-Questions can be directed to inclusivesport@sport.gov.sg 
-
-Deadline: 24 January 2020
+**Open Badminton Sessions for Adults with ASD (16 and above)**
+* Every Thursday
+* 10am-11am
+* Radin Mas Community Centre
+* Equipment provided
+* Feb 6, 13, 20, 27
+* Mar 5, 12, 19, 26
+* Temperature taking and hand washing is compulsory before every session 
+* If you are interested in joining, register [here](https://form.gov.sg/#!/5e09a1fadf378700118f0ae0) or email <inclusivesport@sport.gov.sg> with the participant's name, age and disability type.
