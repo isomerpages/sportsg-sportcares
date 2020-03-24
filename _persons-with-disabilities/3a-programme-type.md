@@ -7,7 +7,9 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
-Sport Singapore (SportSG) will be suspending all of ActiveSG’s children and youth-centric organised programmes at ActiveSG facilities with immediate effect until 7 Apr 2020 to coincide with efforts by schools to minimise the risk of transmission of COVID-19.  The make-up programme sessions will be held after the suspension is lifted.
+#### Notice
+
+(24/3/2020) Sport Singapore (SportSG) will be suspending all of ActiveSG’s children and youth-centric organised programmes at ActiveSG facilities with immediate effect until 7 Apr 2020 to coincide with efforts by schools to minimise the risk of transmission of COVID-19.  The make-up programme sessions will be held after the suspension is lifted.
 
 The affected children and youth-centric programmes include the following:
 
@@ -16,8 +18,7 @@ The affected children and youth-centric programmes include the following:
 * Learn-To-Play programmes at ActiveSG Sport Centres
 * SportCares programmes
 
-SportSG would like to advise all private academies and clubs, as well as our partners to follow suit to protect our young ones.  Despite the inconveniences caused, we seek the cooperation of our partners and parents during this period to remain committed to work together with us to keep our children safe.
-
+Thank you.
 
 #### Through pilot projects, focus groups, needs sensing, and speaking to stakeholders in the community, we have designed several programmes that serve different needs and gaps in the disability sports industry. 
 
