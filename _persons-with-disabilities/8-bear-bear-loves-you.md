@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: New Page
-permalink: /persons-with-disabilities/new-page/
-breadcrumb: New Page
+title: Bear Bear Loves You
+permalink: /persons-with-disabilities/bear-bear-loves-you/
+breadcrumb: Bear Bear Loves You
 collection_name: persons-with-disabilities
 ---
 
