@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: New page
-permalink: /persons-with-disabilities/new-page/
+title: New page test
+permalink: /persons-with-disabilities/new-page-test/
 breadcrumb: New Page
 collection_name: persons-with-disabilities
 ---
