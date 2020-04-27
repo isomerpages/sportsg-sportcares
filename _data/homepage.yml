@@ -20,7 +20,7 @@ hero-subtitle: SportSG’s Advisory On Tightened Measures For Sport And Physical
 more details. 
 hero-banner: /images/Website-Hero-Banner.jpg
 
-#Call to Action Button
+# Call to Action Button
 button:
   - text: Advisory and FAQs
     url: https://www.myactivesg.com/read/2020/4/covid-19-latest-updates
