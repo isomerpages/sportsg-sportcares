@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
-title: FAQ - Coaches
-permalink: /persons-with-disabilities/FAQ-coaches/
+title: Teaching Materials
+permalink: /persons-with-disabilities/teaching-materials/
 breadcrumb: Resources and Useful Links
 collection_name: persons-with-disabilities
 second_nav_title: "Resources"
