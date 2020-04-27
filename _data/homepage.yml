@@ -15,12 +15,12 @@ google-analytics: UA-38157167-4
 
 # Hero Banner
 hero-title: We are currently updating our site. 
-hero-subtitle: Please note SportSG’s Advisory On Tightened Measures For Sport And Physical Exercise During The Extended Circuit Breaker Period.
+hero-subtitle: 
 hero-banner: /images/Website-Hero-Banner.jpg
 
 # Call to Action Button
 button:
-  - text: Advisory and FAQs
+  - text: Advisory and FAQs on Extended Circuit Breaker Period
     url: https://www.myactivesg.com/read/2020/4/covid-19-latest-updates
 
 
