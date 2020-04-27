@@ -14,14 +14,17 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: SportCares
-hero-subtitle: Join us in changing lives through sport
+hero-title: We are currently updating our site. 
+hero-subtitle: SportSG’s Advisory On Tightened Measures For Sport And Physical Exercise During The Extended Circuit Breaker Period 
+(Till 1 June 2020) has additional measures to look after your health and wellbeing. Refer to our latest advisory and FAQs for 
+more details. 
 hero-banner: /images/Website-Hero-Banner.jpg
 
 #Call to Action Button
 button:
-  - text: Dear visitor, we are currently updating our website. Please contact us through sportcares@sport.gov.sg.
-    url: /contact-us/
+  - text: Advisory and FAW
+    url: https://www.myactivesg.com/read/2020/4/covid-19-latest-updates
+
 
 key-highlights:
   - title: HEARTS Framework
