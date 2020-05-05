@@ -13,7 +13,6 @@ Or subscribe to [SportCares TV Inclusive Sport Playlist](https://www.youtube.com
 The Circuit Breaker is no reason to stop exercising. Exercising at home can be just as fun for people of all abilities, so grab your parents and siblings and get active together with these adaptive workouts!
 
 ##### Easy Core Workout 
-*Things to Prepare:* Exercise mat, towel
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1cYR2ujHRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
