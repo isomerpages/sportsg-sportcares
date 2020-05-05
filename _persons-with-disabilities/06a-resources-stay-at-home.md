@@ -9,29 +9,28 @@ second_nav_title: "Resources"
 
 #### Circuit Breaker Adaptive Workouts!
 
-The Circuit Breaker is no reason to stop exercising. Exercising at home can be just as fun, so grab your parents and siblings and get active together with these adaptive workouts!
+The Circuit Breaker is no reason to stop exercising. Exercising at home can be just as fun for people of all abilities, so grab your parents and siblings and get active together with these adaptive workouts!
 
 ##### Easy Core Workout 
+*Things to Prepare:* Exercise mat, towel
 
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=A1cYR2ujHRY" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A1cYR2ujHRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Fun Chair Workout Pt 1
 Do this workout seated or standing!
 
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/AZwVhmiwfp8" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9gRTA6Wlqfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Fun Chair Workout Pt 2
+Do this workout seated or standing!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2b7PL8zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Toning Workout 
 Do this workout seated or standing!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AZwVhmiwfp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Groovy Aerobics Workout 
 
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=_2TXjnKB-YE&t=5s" allowfullscreen></iframe>
-</div>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_2TXjnKB-YE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
