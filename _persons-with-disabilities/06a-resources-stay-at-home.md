@@ -27,9 +27,7 @@ Do this workout seated or standing!
 ##### Fun Chair Workout Pt 2
 Do this workout seated or standing!
 
-<div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=AZwVhmiwfp8" allowfullscreen></iframe>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZwVhmiwfp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Groovy Aerobics Workout 
 
