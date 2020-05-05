@@ -21,7 +21,7 @@ The Circuit Breaker is no reason to stop exercising. Exercising at home can be j
 Do this workout seated or standing!
 
 <div class="bp-youtube">
-      <iframe width="560" height="315" src="https://www.youtube.com/watch?v=9gRTA6Wlqfo&t=122s" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/AZwVhmiwfp8" allowfullscreen></iframe>
 </div>
 
 ##### Fun Chair Workout Pt 2
