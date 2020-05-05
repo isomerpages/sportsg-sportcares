@@ -14,14 +14,15 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: SportCares
-hero-subtitle: Join us in changing lives through sport
+hero-title: We are currently updating our site. 
+hero-subtitle: 
 hero-banner: /images/Website-Hero-Banner.jpg
 
-#Call to Action Button
+# Call to Action Button
 button:
-  - text: Dear visitor, we are currently updating our website. Please contact us through sportcares@sport.gov.sg.
-    url: /contact-us/
+  - text: Advisory and FAQs on Extended Circuit Breaker Period
+    url: https://www.myactivesg.com/read/2020/4/covid-19-latest-updates
+
 
 key-highlights:
   - title: HEARTS Framework
