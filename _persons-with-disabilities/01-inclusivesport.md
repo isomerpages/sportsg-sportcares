@@ -6,6 +6,11 @@ breadcrumb: Disability Sports Master Plan
 collection_name: persons-with-disabilities
 ---
 
+### Notice:
+* All programmes organised or supported by the Disability Sports Master Plan team has been postponed due to Covid-19
+* For the latest advisories on sport, please [refer here](https://www.myactivesg.com/read/2020/5/covid-19-latest-updates-may)
+* We have prepared some stay at home activities so the community can continue to stay active. You may visit the Stay at Home Activities Page [here](https://isomer-sportcares-staging.netlify.app/persons-with-disabilities/stay-at-home-activities/)!
+
 ### Welcome to InclusiveSport.sg
 Since 2016, SportCares, under the umbrella of ActiveSG and Sport Singapore, has been executing the recommendations of the **Disability Sports Master Plan (DSMP)** under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
 
