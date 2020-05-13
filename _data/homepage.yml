@@ -14,14 +14,14 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: We are currently updating our site. 
-hero-subtitle: 
+hero-title: GetActive@Home
+hero-subtitle: Stay active and pick up new skills with SportCares' Stay at Home videos for children, youth and persons with disabilities!
 hero-banner: /images/Website-Hero-Banner.jpg
 
 # Call to Action Button
 button:
-  - text: Advisory and FAQs on Extended Circuit Breaker Period
-    url: https://www.myactivesg.com/read/2020/4/covid-19-latest-updates
+  - text: Free Fitness Resources
+    url: https://www.youtube.com/channel/UCBM8YMwqOIxdSbR48YH8qTQ
 
 
 key-highlights:
