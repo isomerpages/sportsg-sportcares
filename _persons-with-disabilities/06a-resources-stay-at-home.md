@@ -20,9 +20,14 @@ To get notified whenever a new video is uploaded, subscribe to [SportCares TV In
 ##### Fun Chair Workout
 Do these workouts seated or standing!
 
+*Basic Chair Workout*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9gRTA6Wlqfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+*Sports Movements*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sn2b7PL8zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Toning*
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AZwVhmiwfp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Chair Yoga Workout
 
@@ -31,12 +36,6 @@ Do these workouts seated or standing!
 
 *Improve Spine Mobility*
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8JmuUxHEqXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-##### Toning Workout 
-Do this workout seated or standing!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AZwVhmiwfp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Dance Workouts
 
@@ -49,6 +48,4 @@ Do this workout seated or standing!
 *K-Kardio Fitness Workout* 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xczSrB9Q9Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-
-These workouts were created by the SportCares Disability Sports Masterplan team in collaboration with the sports and fitness industry. In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG
+*These workouts were created by the SportCares Disability Sports Masterplan team in collaboration with the sports and fitness industry. In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG*
