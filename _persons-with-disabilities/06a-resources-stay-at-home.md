@@ -17,15 +17,24 @@ To get notified whenever a new video is uploaded, subscribe to [SportCares TV In
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1cYR2ujHRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Fun Chair Workout Pt 1
+##### Fun Chair Workout
+
 Do this workout seated or standing!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9gRTA6Wlqfo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Fun Chair Workout Pt 2
-Do this workout seated or standing!
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sn2b7PL8zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Chair Yoga Workout
+
+*Strength & Flexibility Around the Arms*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZIiILX28Fqk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Improve Spine Mobility*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8JmuUxHEqXA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ##### Toning Workout 
 Do this workout seated or standing!
@@ -35,3 +44,5 @@ Do this workout seated or standing!
 ##### Groovy Aerobics Workout 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_2TXjnKB-YE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+These workouts were created by the SportCares Disability Sports Masterplan team in collaboration with the sports and fitness industry. In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG
