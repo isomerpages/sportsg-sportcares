@@ -5,7 +5,7 @@
 ##################################
 
 - title: About SportCares
-url: /about-sportcares/
+  url: /about-sportcares/
   sub-links:
   - title: Who We Are
     url: /about-sportcares/
@@ -17,13 +17,12 @@ url: /about-sportcares/
     url: /about-sportcares/advisory-board/
 
 - title: Children and Youth
-url: /children-and-youth/
+  url: /children-and-youth/
   sub-links:
-- title: Who We Serve
+  - title: Who We Serve
     url: /children-and-youth/
-- title: Programmes
+  - title: Programmes
     url: /children-and-youth/programmes/
-  sub-links:
   - title: Resources
     url: /children-and-youth/resources/
 
@@ -35,7 +34,6 @@ url: /children-and-youth/
     url: /seniors/resources/    
       
 - title: Persons with Disabilities
-  url: /persons-with-disabilities/disability-sports-master-plan/
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
@@ -50,7 +48,7 @@ url: /children-and-youth/
   - title: Resources and Links
     url: /persons-with-disabilities//stay-at-home-activities/
     
- - title: Communities of Care Grant
+- title: Communities of Care Grant
   sub-links:
   - title: About the Grant
     url: /grants/overview/
