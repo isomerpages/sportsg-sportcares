@@ -7,5 +7,16 @@ collection_name: children-and-youth
 second_nav_title: "Train at Home"
 ---
 
+The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones! These videos were created together with our SportCares coaches and sport providers with children and youth in mind. 
+To get notified whenever a new video is uploaded, subscribe to [SportCares TV Inclusive Sport Playlist](https://www.youtube.com/playlist?list=PLcB7q5Kh1WQqOysgj66n-76HgNqt_8sKi).
+
+#### Proper Warm-Up Before your Swim
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dViqsX7ezkc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Learning & Perfecting Backstroke & Butterfly techniques
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9fX_l-8Y3kw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Learn to Perfect your Freestyle & Breaststroke Techniques
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oF6xnZ8BLB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+These workouts were created by the SportCares Disability Sports Masterplan team in collaboration with the sports and fitness industry to encourage persons with disabilities to stay active. In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG
