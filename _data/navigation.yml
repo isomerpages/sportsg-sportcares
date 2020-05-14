@@ -14,15 +14,21 @@ url: /about-sportcares/
 
 - title: Children and Youth
   sub-links:
-  - title: Coming Soon
-    url: /
+  - title: Programmes
+    url: /children-and-youth/programmes/
+  sub-links:
+  - title: Resources
+    url: /children-and-youth/resources/
 
 - title: Seniors
   sub-links:
-  - title: Coming Soon
-    url: /
-    
+  - title: Programmes
+    url: /seniors/programmes/
+  - title: Resources
+    url: /seniors/resources/    
+      
 - title: Persons with Disabilities
+  url: /persons-with-disabilities/disability-sports-master-plan/
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
@@ -39,8 +45,10 @@ url: /about-sportcares/
     
  - title: Communities of Care Grant
   sub-links:
-  - title: Coming Soon
-    url: /
+  - title: About the Grant
+    url: /coc/about/
+  - title: Grant Application
+    url: /coc/application/
     
 - title: Contact Us
   url: /contact-us/
