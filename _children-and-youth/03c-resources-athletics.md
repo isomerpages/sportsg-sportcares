@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Athletics
-permalink: /children-and-youth/resources-football/
+permalink: /children-and-youth/resources-athletics/
 breadcrumb: Children and Youth
 collection_name: children-and-youth
 second_nav_title: "Train at Home"
