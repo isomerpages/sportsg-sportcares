@@ -48,11 +48,13 @@ collection_name: about-sportcares
 
 ## Organisational Structure 
 
-Kerk Kim Por
-Head, SportCares 
+<B>Kerk Kim Por</B>
+<BR>Head, SportCares 
+<BR>kerk_kim_por@sport.gov.sg
 
-Dr. Katrina Hall-Engle
-Deputy Head, SportCares 
+<B>Dr. Katrina Hall-Engle</B>
+<BR>Deputy Head, SportCares 
+<BR>katrina_engle@sport.gov.sg
 
 ## Teams
 •	Inclusive Programming
