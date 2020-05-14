@@ -19,4 +19,4 @@ To get notified whenever a new video is uploaded, subscribe to [SportCares TV In
 #### Learn to Perfect your Freestyle & Breaststroke Techniques
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oF6xnZ8BLB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG**
+*In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG*
