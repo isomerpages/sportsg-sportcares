@@ -57,6 +57,11 @@ collection_name: about-sportcares
 <BR>katrina_engle@sport.gov.sg
 
 ## Teams
-<BR> Inclusive Programme Development
-<BR> Disability Sports Master Plan
-<BR> Master Plan Secretariat (Communities of Care)
+<BR> <B>Inclusive Programme Development</B>
+<BR> Team Lead: Mr Javen Tee (javen_tee@sport.gov.sg)
+<BR>
+<BR> <B>Disability Sports Master Plan</B>
+<BR> Team Lead: Ms Lau Kim Lan (lau_kim_lan@sport.gov.sg)
+<BR>
+<BR><B>Master Plan Secretariat and Communities of Care</B>
+<BR> Team Lead: Mr Fayeruz Surahman (fayeruz_surahman@sport.gov.sg)
