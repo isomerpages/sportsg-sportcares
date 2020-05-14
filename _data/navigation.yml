@@ -12,17 +12,17 @@ url: /about-sportcares/
   - title: Communities of Care
     url: /about-sportcares/communities-of-care/
 
-- title: How We Work
+- title: Children and Youth
   sub-links:
   - title: Coming Soon
     url: /
 
-- title: Grants and Funding
+- title: Seniors
   sub-links:
   - title: Coming Soon
     url: /
     
-- title: InclusiveSport.SG
+- title: Persons with Disabilities
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
@@ -36,6 +36,11 @@ url: /about-sportcares/
     url: /persons-with-disabilities/volunteer/
   - title: Resources and Links
     url: /persons-with-disabilities//stay-at-home-activities/
+    
+ - title: Communities of Care Grant
+  sub-links:
+  - title: Coming Soon
+    url: /
     
 - title: Contact Us
   url: /contact-us/
