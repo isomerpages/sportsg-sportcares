@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: About Us
 permalink: /about-sportcares/about-us/
-breadcrumb: About Us
+breadcrumb: About SportCares
 collection_name: about-sportcares
 ---
 
