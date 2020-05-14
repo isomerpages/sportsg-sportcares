@@ -7,14 +7,19 @@
 - title: About SportCares
 url: /about-sportcares/
   sub-links:
-  - title: Our Constituents
+  - title: Who We Are
+    url: /about-sportcares/
+    - title: Our Constituents
     url: /about-sportcares/our-constituents/
   - title: Communities of Care
     url: /about-sportcares/communities-of-care/
 
 - title: Children and Youth
+url:/ children-and-youth/
   sub-links:
-  - title: Programmes
+- title: Who We Serve
+    url: /children-and-youth/
+- title: Programmes
     url: /children-and-youth/programmes/
   sub-links:
   - title: Resources
