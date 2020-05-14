@@ -4,7 +4,22 @@
 #                                #
 ##################################
 
-- title: Persons with Disabilities
+- title: Who We Are
+  sub-links:
+  - title: Test
+    url: /
+
+- title: How We Work
+  sub-links:
+  - title: Coming Soon
+    url: /
+
+- title: Grants and Funding
+  sub-links:
+  - title: Coming Soon
+    url: /
+    
+- title: InclusiveSport.SG
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
