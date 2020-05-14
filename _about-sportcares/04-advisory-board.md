@@ -46,8 +46,8 @@ collection_name: about-sportcares
   </tr>
 </table>
 
-## Organisational Structure 
 
+### Organisational Structure 
 <B>Kerk Kim Por</B>
 <BR>Head, SportCares 
 <BR>kerk_kim_por@sport.gov.sg
@@ -55,8 +55,7 @@ collection_name: about-sportcares
 <B>Dr. Katrina Hall-Engle</B>
 <BR>Deputy Head, SportCares 
 <BR>katrina_engle@sport.gov.sg
-
-## Teams
+  
 <BR> <B>Inclusive Programme Development</B>
 <BR> Team Lead: Mr Javen Tee (javen_tee@sport.gov.sg)
 <BR>
