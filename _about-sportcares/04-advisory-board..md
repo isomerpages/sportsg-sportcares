@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Our Board
-permalink: /who-we-are/sportcares-board/
-breadcrumb: Who We Are
+permalink: /about-sportcares/advisory-board/
+breadcrumb: About Us
 collection_name: who-we-are
 ---
 
