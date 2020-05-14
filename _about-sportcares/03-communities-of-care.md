@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Communities of Care
 permalink: /about-sportcares/communities-of-care/
-breadcrumb: Communities of Care
+breadcrumb: About Us
 collection_name: about-sportcares
 ---
 
