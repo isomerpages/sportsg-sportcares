@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Our Board
+title: Advisory Board and Teams
 permalink: /about-sportcares/advisory-board/
 breadcrumb: About Us
 collection_name: about-sportcares
@@ -57,6 +57,6 @@ collection_name: about-sportcares
 <BR>katrina_engle@sport.gov.sg
 
 ## Teams
-•	Inclusive Programming
-•	Disability Sports Master Plan
-•	Master Plan Secretariat (Communities of Care)
+<BR> Inclusive Programme Development
+<BR> Disability Sports Master Plan
+<BR> Master Plan Secretariat (Communities of Care)
