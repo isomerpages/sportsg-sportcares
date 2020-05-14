@@ -4,6 +4,7 @@ title: Resources
 permalink: /children-and-youth/resources/
 breadcrumb: Children and Youth
 collection_name: children-and-youth
+second_nav_title: "Resources"
 ---
 
 ### Industry Resources and Links
