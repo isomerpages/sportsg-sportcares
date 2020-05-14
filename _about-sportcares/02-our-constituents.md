@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Our Constituents
 permalink: /about-sportcares/our-constituents/
-breadcrumb: About Us
+breadcrumb: About SportCares
 collection_name: about-sportcares
 ---
 
