@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: About Us
-permalink: /about-sportcares/about-us/
+permalink: /about-sportcares/
 breadcrumb: About Us
 collection_name: about-sportcares
 ---
