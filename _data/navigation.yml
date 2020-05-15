@@ -55,5 +55,11 @@
   - title: Grant Application
     url: /grants/application/
     
+- title: Stories
+  url: /stories/overview/
+  sub-links:
+  - title: Our Champions
+    url: /stories/overview/
+    
 - title: Contact Us
   url: /contact-us/
