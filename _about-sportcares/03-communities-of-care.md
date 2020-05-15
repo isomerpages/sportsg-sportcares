@@ -8,13 +8,13 @@ collection_name: about-sportcares
 
 ![Communities of Care](/images/communities-of-care-1.jpg)
 
-### For our programmes to be truly successful, we believe in working with and alongside the larger community. 
+### For our work in the community to be truly successful, we believe in working closely with and alongside the larger community. 
 
-We execute our vision through a model called the Communities of Care, an approach which relies on a network of volunteer welfare organisations, government agencies, corporate partners and the sports fraternity.
+We execute our vision through a model called the Communities of Care, an approach which relies on a network of social service organisations, government agencies, corporate partners, social enterprises and the sports fraternity.
 
 Communities of Care aims to bring these partners together, equip them with the right tools, harness their collective energies and channel these forces for good.
 
-By tapping on the abilities of both sports and non-sports related partners, we provide comprehensive and holistic experiences for our beneficiaries. 
+By tapping on the abilities of both sports and non-sports related partners, we provide comprehensive and holistic experiences for the communities we serve. 
 
 Our on-the-ground efforts help us get to the heart of the community and identify issues that require attention. 
 
