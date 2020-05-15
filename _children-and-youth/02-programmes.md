@@ -8,7 +8,7 @@ collection_name: children-and-youth
 
 ![Alternative text for screen readers](/images/youth-programmes.jpg)
 
-#### We believe that structured sports can bring about holistic behavioural change to help youth at-risk feel more positive and confident & lead better lives.
+#### We believe that structured sports can bring about holistic behavioural change to help youth at-risk feel positive, confident and lead better lives.
 
 Aside from improving their mental and physical wellbeing, the skills that they gain through sports become guiding principles for them both at home and at school.  This empowers them to give back to society as active and responsible citizens capable of bringing about positive change in the world. 
 
