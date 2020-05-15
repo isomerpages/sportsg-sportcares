@@ -4,17 +4,17 @@
 #                                #
 ##################################
 
-- title: About SportCares
-  url: /about-sportcares/about-us/
+- title: About
+  url: /about/about-us/
   sub-links:
   - title: About SportCares
-    url: /about-sportcares/about-us/
+    url: /about/about-us/
   - title: Our Constituents
-    url: /about-sportcares/our-constituents/
+    url: /about/our-constituents/
   - title: Communities of Care
-    url: /about-sportcares/communities-of-care/
+    url: /about/communities-of-care/
   - title: Advisory Board
-    url: /about-sportcares/advisory-board/
+    url: /about/advisory-board/
     
 - title: Children and Youth
   url: /children-and-youth/
