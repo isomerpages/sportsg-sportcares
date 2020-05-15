@@ -24,5 +24,5 @@ Referred to as “Youth At-Risk” (or "at risk youth"), they are identified bas
 
 Reference: [Ministry of Social and Family Development](https://www.msf.gov.sg/policies/Children-and-Youth/Rebuilding-Children-and-Youth/Pages/default.aspx)
 
-We partner social service organisations, grassroots groups and government agencies to reach out & engage these youth at-risk through preventive, intervention or development sport programmes and activities. 
+SportCares works closely with social service organisations, grassroots groups and government agencies to actively reach out to youth at-risk in the community; and engaging them after in sport-based developmental, preventive or intervention programmes aimed at helping them overcome barriers to a life of growth and confidence.  
  
