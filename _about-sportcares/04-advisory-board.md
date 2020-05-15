@@ -50,17 +50,17 @@ collection_name: about-sportcares
 ### Organisational Structure 
 <B>Kerk Kim Por</B>
 <BR>Head, SportCares 
-<BR>kerk_kim_por@sport.gov.sg
+<BR><kerk_kim_por@sport.gov.sg>
 
 <B>Dr. Katrina Hall-Engle</B>
 <BR>Deputy Head, SportCares 
-<BR>katrina_engle@sport.gov.sg
+<BR><katrina_engle@sport.gov.sg>
   
 <BR> <B>Inclusive Programme Development</B>
-<BR> Team Lead: Mr Javen Tee (javen_tee@sport.gov.sg)
+<BR> Team Lead: Mr Javen Tee (<javen_tee@sport.gov.sg>)
 <BR>
 <BR> <B>Disability Sports Master Plan</B>
-<BR> Team Lead: Ms Lau Kim Lan (lau_kim_lan@sport.gov.sg)
+<BR> Team Lead: Ms Lau Kim Lan (<lau_kim_lan@sport.gov.sg>)
 <BR>
 <BR><B>Master Plan Secretariat and Communities of Care</B>
-<BR> Team Lead: Mr Fayeruz Surahman (fayeruz_surahman@sport.gov.sg)
+<BR> Team Lead: Mr Fayeruz Surahman (<fayeruz_surahman@sport.gov.sg>)
