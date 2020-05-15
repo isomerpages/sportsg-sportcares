@@ -24,4 +24,4 @@ At the same time, we also place a strong emphasis on the growth and empowerment 
 
 Above all, the Communities of Care model champions the human spirit by bringing together different groups of people from varied walks of life together as one. 
 
-If you'd like to join us in building Communities of Care through sport, drop us a note at sportcares@sport.gov.sg 
+If you'd like to join us in building Communities of Care through sport, drop us a note at sportcares@sport.gov.sg <sportcares@sport.gov.sg>
