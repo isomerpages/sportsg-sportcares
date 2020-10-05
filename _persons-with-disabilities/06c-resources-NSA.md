@@ -17,7 +17,7 @@ second_nav_title: "Resources"
 - Website: [http://www.specialolympics.org.sg/](http://www.specialolympics.org.sg/ "http://www.specialolympics.org.sg/")
 - Contact: +65-6293 3182 / admin@specialolympics.org.sg
 
-**Deaf Sports Association**
+**Deaf Sports Association (Singapore)**
 - Website: https://dsa.org.sg/
 - Contact: info@dsa.org.sg / [Online Contact Form](https://dsa.org.sg/contact-us/ "Online Contact Form")
 
