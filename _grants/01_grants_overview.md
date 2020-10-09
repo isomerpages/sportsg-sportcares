@@ -2,8 +2,8 @@
 layout:	leftnav-page-content
 title: Grants Overview
 permalink: /grants/overview/
-breadcrumb: Grants and Funding
-collection_name: grants-and-funding
+breadcrumb: SportCares Grants
+collection_name: grants
 ---
 
 ### Be part of our community of care and join us in strengthening and nurturing a national movement of sport to make a difference in the lives of the local communities. Find out more about our Communities of Care Fund Grants. 

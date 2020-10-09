@@ -45,12 +45,14 @@ baseurl: ""
 collections:
   test:
     output: true
-  who-we-are:
+  about-sportcares:
     output: true
-  youths-at-risk:
+  children-and-youth:
     output: true
   persons-with-disabilities:
     output: true
-  partner-with-us:
+  seniors:
+    output: true
+  grants:
     output: true
 resources_name: media
