@@ -9,7 +9,7 @@ second_nav_title: "Resources"
 
 ### National Sports Associations (NSA)
 
-**Singapore Disability Sports Council**
+**Singapore Disability Sports Council (SDSC)**
 - Website: [https://sdsc.org.sg/](https://sdsc.org.sg/ "https://sdsc.org.sg/")
 - Contact: (65) 6342 3501 / [Online Contact Form](https://sdsc.org.sg/contact/ "Online Contact Form")
 
