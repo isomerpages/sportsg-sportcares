@@ -8,20 +8,26 @@ collection_name: about-sportcares
 
 ### IPC Status
 SportCares
+
 c/o Vision 2030 Fund
+
 (UEN: T14CC0007H)
 
 ### Address
 3 Stadium Drive
+
 Singapore 397630
 
 ### Enquiries
 General:  sportcares@sport.gov.sg
+
 Disability sport:  inclusivesport@sport.gov.sg
 
 ### Social Media
 [SportCares Facebook Page](www.facebook.com/SportCaresSG)
+
 [SportCares Instagram Page](www.instagram.com/sportcares)
+
 [SportCaresTV](www.go.gov.sg/sportcarestv)
 
 ### Donation
