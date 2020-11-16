@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Our Patron & Advisory Board
 permalink: /about-sportcares/advisory-board/
-breadcrumb: who we are
+breadcrumb: patron and advisory board
 collection_name: about-sportcares
 ---
 
