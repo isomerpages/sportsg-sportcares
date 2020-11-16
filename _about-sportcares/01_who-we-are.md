@@ -22,7 +22,7 @@ An inclusive nation where individuals are resilient and communities are closely-
 * __Connect__ stakeholders from the the social development sector for increased outreach.  SportCares partners public, private and people organisations as well as individuals to create more sport opportunities for the communities we serve. 
 * __Enable__ holistic development of the sport for social good ecosystem, through funding, capacity building, resources and training. 
 
-## Who We Serve
+### Who We Serve
 
 * Children from low-income families
 * Youth at-risk
