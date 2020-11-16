@@ -6,17 +6,19 @@ breadcrumb: sportcares team
 collection_name: about-sportcares
 ---
 
-### Head
-[Mr Kerk Kim Por](kerk_kim_por@sport.gov.sg)
+<B>Kerk Kim Por</B>
+<BR>Head, SportCares 
+<BR><kerk_kim_por@sport.gov.sg>
 
-### Deputy Head
-[Dr. Katrina Hall Engle](katrina_engle@sport.gov.sg)
-
-### Team Lead, Programme Innovation
-[Mr Javen Tee](javen_tee@sport.gov.sg)
-
-### Team Lead, Disability & Inclusion
-[Ms Lau Kim Lan](lau_kim_lan@sport.gov.sg)
-
-### Team Lead, Masterplan Secretariat & Communities of Care
-[Ms Miruna Ranjan](miruna_ranjan@sport.gov.sg)
+<B>Dr. Katrina Hall-Engle</B>
+<BR>Deputy Head, SportCares 
+<BR><katrina_engle@sport.gov.sg>
+  
+<BR> <B>Programme Innovation</B>
+<BR> Team Lead: Mr Javen Tee (<javen_tee@sport.gov.sg>)
+<BR>
+<BR> <B>Disability & Inclusion</B>
+<BR> Team Lead: Ms Lau Kim Lan (<lau_kim_lan@sport.gov.sg>)
+<BR>
+<BR><B>Master Plan Secretariat and Communities of Care</B>
+<BR> Team Lead: Ms Miruna Ranjan (<miruna_ranjan@sport.gov.sg>)
