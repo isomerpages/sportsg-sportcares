@@ -38,7 +38,7 @@ collection_name: about-sportcares
   </tr>
   <tr>
     <td class="tg-baqh">Mr Derek Tan Kai Juay<br>Group Director, Estate &amp; Housing Management<br>Housing &amp; Development Board</td>
-    <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights &amp; <br>National Volunteer & Philanthropy Centre</td>
+    <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights<br>National Volunteer & Philanthropy Centre</td>
   </tr>
   <tr>
     <td class="tg-baqh">Mr Jean Drouffe<br>Chief Executive Officer<br>AXA Insurance (Singapore)</td>
