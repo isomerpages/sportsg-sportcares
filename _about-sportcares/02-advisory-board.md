@@ -32,7 +32,7 @@ collection_name: about-sportcares
   </tr>
   <tr>
     <td class="tg-baqh">Dr. Wong Loong Mun<br>Principal Consultant<br>Agency for Integrated Care</td>
-    <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>Vice President<br>Singapore Disability Sports Council</td>
+    <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>President<br>Singapore Disability Sports Council</td>
   </tr>
   <tr>
     <td class="tg-baqh">Mr Derek Tan Kai Juay<br>Group Director, Estate &amp; Housing Management<br>Housing &amp; Development Board</td>
