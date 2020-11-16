@@ -15,13 +15,13 @@ google-analytics: UA-38157167-4
 
 # Hero Banner
 hero-title: 
-hero-subtitle: Empowering the Vulnerable & Persons with Disabilities Through Sport
+hero-subtitle: 
 hero-banner: /images/FA_041120_SportCares Website Banner.jpg
 
 # Call to Action Button
 button:
-  - text: JOIN THE MOVEMENT
-    url: https://www.youtube.com/channel/UCBM8YMwqOIxdSbR48YH8qTQ
+  - text: Empowering the Vulnerable & Persons with Disabilities Through Sport
+    url: 
 
 key-highlights:
   - title: Stay Strong, Stay United
