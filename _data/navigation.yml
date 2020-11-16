@@ -7,6 +7,9 @@
 - title: Who we are
   url: /about-sportcares/who-we-are/
   
+- title: Programme & Impact
+  url: /children-and-youth/
+    
 - title: Children & Youth
   url: /children-and-youth/
   sub-links:
@@ -17,12 +20,7 @@
   - title: Resources
     url: /children-and-youth/resources-football/
     
-- title: Seniors
-  sub-links:
-  - title: Coming Soon
-    url: /
-    
-- title: Persons with Disabilities
+- title: Inclusive Sport
   url: /persons-with-disabilities/disability-sports-master-plan/
   sub-links:
   - title: Disability Sports Master Plan
@@ -46,11 +44,3 @@
   - title: Grant Application
     url: /grants/application/
     
-- title: Stories
-  url: /stories/overview/
-  sub-links:
-  - title: Our Champions
-    url: /stories/overview/
-    
-- title: Contact Us
-  url: /contact-us/
