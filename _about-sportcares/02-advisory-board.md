@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: SportCares Patron & Advisory Board
+title: Our Patron & Advisory Board
 permalink: /about-sportcares/advisory-board/
 breadcrumb: who we are
 collection_name: about-sportcares
