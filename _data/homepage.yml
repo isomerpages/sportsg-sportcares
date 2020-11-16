@@ -14,8 +14,8 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: Empowering the Vulnerable & Persons with Disabilities Through Sport
-hero-subtitle: 
+hero-title: 
+hero-subtitle: Empowering the Vulnerable & Persons with Disabilities Through Sport
 hero-banner: /images/FA_041120_SportCares Website Banner.jpg
 
 # Call to Action Button
@@ -34,7 +34,7 @@ key-highlights:
     description: Help us harness Sport for social change
     url: https://www.giving.sg/vision2030/changelives
 
-sections:
+# Sections
   - infobar:
        title: Work for public good
        subtitle: careers
