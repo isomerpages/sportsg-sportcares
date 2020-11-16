@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Advisory Board and Teams
 permalink: /about-sportcares/advisory-board/
-breadcrumb: About Us
+breadcrumb: who we are
 collection_name: about-sportcares
 ---
 
@@ -47,7 +47,7 @@ collection_name: about-sportcares
 </table>
 
 
-### Organisational Structure 
+## Organisational Structure 
 <B>Kerk Kim Por</B>
 <BR>Head, SportCares 
 <BR><kerk_kim_por@sport.gov.sg>
@@ -56,11 +56,11 @@ collection_name: about-sportcares
 <BR>Deputy Head, SportCares 
 <BR><katrina_engle@sport.gov.sg>
   
-<BR> <B>Inclusive Programme Development</B>
+<BR> <B>Programme Innovation</B>
 <BR> Team Lead: Mr Javen Tee (<javen_tee@sport.gov.sg>)
 <BR>
-<BR> <B>Disability Sports Master Plan</B>
+<BR> <B>Disability & Inclusion</B>
 <BR> Team Lead: Ms Lau Kim Lan (<lau_kim_lan@sport.gov.sg>)
 <BR>
 <BR><B>Master Plan Secretariat and Communities of Care</B>
-<BR> Team Lead: Mr Fayeruz Surahman (<fayeruz_surahman@sport.gov.sg>)
+<BR> Team Lead: Ms Miruna Ranjan (<miruna_ranjan@sport.gov.sg>)
