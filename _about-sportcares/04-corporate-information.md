@@ -16,7 +16,7 @@ c/o Vision 2030 Fund (UEN: T14CC0007H)
 ### Enquiries
 General:  [sportcares@sport.gov.sg](sportcares@sport.gov.sg)
 
-Disability sport:  [inclusivesport@sport.gov.sg](inclusivesport@sport.gov.sg
+Disability sport:  [inclusivesport@sport.gov.sg](inclusivesport@sport.gov.sg)
 
 ### Social Media
 [SportCares Facebook Page](www.facebook.com/SportCaresSG)
