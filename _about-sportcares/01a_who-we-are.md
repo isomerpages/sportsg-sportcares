@@ -8,8 +8,25 @@ collection_name: about-sportcares
 
 ![Alternative text for screen readers](/images/about-us-main.jpg)
 
-SportCares started in 2012 as the first recommendation launched under Sport Singapore's Vision 2030 Live Better Through Sport Master Plan.  
+SportCares was established in 2012 as the philanthropic arm of Sport Singapore to enable vulnerable individuals and persons with disabilities to experience and reap the benefits of sport by instilling confidence and elevating one's outlook to life.  In addition, SportCares was to cultivate a spirit of sport philanthropy among corporates and community partners where Sport Singapore provides dollar-for-dollar matching for [donations](www.giving.sg/vision2030/changelives) to SportCares.
 
-The mission was to use sport as a force for social good - enabling the vulnerable and persons with disabilities to experience and reap the benefits of sport by harnessing the power of sport to unite people from different communities and beliefs, instil confidence, and elevate one's outlook on life.
+# Who We Are
 
-SportCares was to also seed a movement that cultivates a spirit of sport philanthropy within the community.  To catalyse these efforts, Sport Singapore provides dollar-for-dollar matching for donations to SportCares.
+SportCares is the philanthropic arm of Sport Singapore that is:
+
+* Backed by an approved Institution of Public Character, __Vision 2030 Fund__ (UEN: T14CC0007H)
+* Provides 250% tax deductions for qualifying [donations](https://www.giving.sg/vision2030/changelives)
+
+# Who We Serve
+
+* Children from low-income families
+* Youth at-risk
+* Persons with disabilities & special needs
+* Vulnerable seniors (low-income & socially isolated)
+
+# What We Do
+
+* __Advocate__ active citizenry for our constituents - positive development, engagement, leadership and voice for causes and issues - through research, programming and recognition
+* __Connect__ 
+
+
