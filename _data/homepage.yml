@@ -14,14 +14,14 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: 
+hero-title: SportCares
 hero-subtitle: 
 hero-banner: /images/FA_041120_SportCares Website Banner.jpg
 
 # Call to Action Button
 button:
   - text: Empowering the Vulnerable & Persons with Disabilities Through Sport
-    url: 
+    url: /about-sportcares/who-we-are
 
 # Key Highlights
 key-highlights:
@@ -34,13 +34,6 @@ key-highlights:
   - title: Donate to SportCares
     description: Help us harness Sport for social change
     url: https://www.giving.sg/vision2030/changelives
-
-# Programmes Section
-programmes-title: Products and Services
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-programmes-more-button: More Products and Services
-programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
 
 # Resources Section
 resources-title: Media
