@@ -23,7 +23,6 @@ button:
   - text: JOIN THE MOVEMENT
     url: https://www.youtube.com/channel/UCBM8YMwqOIxdSbR48YH8qTQ
 
-
 key-highlights:
   - title: Stay Strong, Stay United
     description: Fitness and sports skills resources for children and youth
@@ -35,3 +34,9 @@ key-highlights:
     description: Help us harness Sport for social change
     url: https://www.giving.sg/vision2030/changelives
 
+sections:
+  - infobar:
+       title: Work for public good
+       subtitle: careers
+       description: Unleash your passion and be rewarded with a fulfilling career!
+       url: https://www.youtube.com
