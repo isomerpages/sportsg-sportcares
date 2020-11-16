@@ -1,5 +1,5 @@
 ---
-layout: about-sportcares
+layout: leftnav-page-content
 title: Our Team
 permalink: /about-sportcares/sportcares-team/
 breadcrumb: sportcares team
