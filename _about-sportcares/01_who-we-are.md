@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Who We Are
+title: About SportCares
 permalink: /about-sportcares/who-we-are/
 breadcrumb: who we are
 collection_name: about-sportcares
