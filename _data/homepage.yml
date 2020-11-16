@@ -23,6 +23,7 @@ button:
   - text: Empowering the Vulnerable & Persons with Disabilities Through Sport
     url: 
 
+# Key Highlights
 key-highlights:
   - title: Stay Strong, Stay United
     description: Fitness and sports skills resources for children and youth
@@ -34,9 +35,15 @@ key-highlights:
     description: Help us harness Sport for social change
     url: https://www.giving.sg/vision2030/changelives
 
-# Sections
-  - infobar:
-       title: Work for public good
-       subtitle: careers
-       description: Unleash your passion and be rewarded with a fulfilling career!
-       url: https://www.youtube.com
+# Programmes Section
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+
+# Resources Section
+resources-title: Media
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/?utm_source=media_homepage
