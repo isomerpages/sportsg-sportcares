@@ -6,7 +6,7 @@ breadcrumb: vulnerable-seniors
 collection_name: programme-and-impact
 ---
 
-![Alternative text for screen readers](/images/Senior_picture.jpg)
+![Alternative text for screen readers](/images/Seniors_picture.jpg)
 
 ### Connecting Vulnerable Seniors Through Sport 
 
