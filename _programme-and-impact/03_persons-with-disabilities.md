@@ -8,7 +8,7 @@ collection_name: programme-and-impact
 
 ![Alternative text for screen readers](/images/dsmp_infographics.png)
 
-## Achieving Sport Without Boundaries, Building an Inclusive Society Through Sport
+### Achieving Sport Without Boundaries, Building an Inclusive Society Through Sport
 
 Since 2017, SportCares led inclusion efforts in the community by promoting play and sport opportunities for persons with disabilities and special needs, including empowering those who can, to give back to the community. 
 
