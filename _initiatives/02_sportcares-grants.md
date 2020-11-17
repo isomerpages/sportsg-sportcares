@@ -6,4 +6,6 @@ breadcrumb: sportcares grants
 collection_name: initiatives
 ---
 
+![SportCares Grants](/images/Grants_Picture.jpg)
+
 ## Asia
