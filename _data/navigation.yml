@@ -6,6 +6,15 @@
 
 - title: Who we are
   url: /about-sportcares/who-we-are/
+  sub-links:
+  - title: About SportCares
+    url: /about-sportcares/who-we-are/
+  - title: Patron & Advisory Board
+    url: /about-sportcares/advisory-board/
+  - title: Our Team
+    url: /about-sportcares/sportcares-team/
+  - title: Corporate Information
+    url: /about-sportcares/corporate-information/
   
 - title: Programme & Impact
   url: /programme-and-impact/overview/
