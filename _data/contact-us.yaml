@@ -8,8 +8,8 @@
 
 locations:
   # HQ Address [REQUIRED]
-  - title: 3 Stadium Drive, Singapore 397630
-    address: Attn:  SportCares, Sport Singapore
+  - title: SportCares, Sport Singapore
+    address: Attn:  3 Stadium Drive, Singapore 397630
     find-directions: https://www.google.com.sg/maps/place/Sport+Singapore/@1.3030835,103.8729567,17z/data=!3m1!4b1!4m5!3m4!1s0x31da18465f1bf1b1:0x79b332e6e8135c59!8m2!3d1.3030835!4d103.8751454.8461813
 
 # Operating Hours [OPTIONAL]
