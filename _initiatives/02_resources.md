@@ -12,4 +12,4 @@ collection_name: initiatives
 
 The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones! These videos were created together with our SportCares coaches and sport providers with children, youth, persons with disabilities and individuals with special needs in mind. 
 
-To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](www.go.gov.sg/sportcarestv).
+To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV).
