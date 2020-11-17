@@ -55,8 +55,6 @@ collections:
     output: true
   programme-and-impact:
     output: true
-  communities-of-care:
-    output: true
   resources:
     output: true
 resources_name: media
