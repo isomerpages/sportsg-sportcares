@@ -18,5 +18,5 @@ __Full Awardees List__
 
 ![SportCares Awards List](/images/SportCares_Awardees_List.jpg)
 
-#### If you know of any individuals or organisations who are igniting change or doing good in the community through sport, celebrate their talents and achievements by nominating them for the next edition of SportCares Awards.  Watch out for this space for more details. 
+#### If you know of any individuals or organisations who are igniting change or doing good in the community through sport, celebrate their talents and achievements by nominating them for the next edition of SportCares Awards.  Watch this space for updates. 
 
