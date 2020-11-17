@@ -6,4 +6,6 @@ breadcrumb: programme and impact
 collection name: programme-and-impact
 ---
 
-## testing
+### Our programmes have shown us the power that sport can bring to our constituents.  Beyond maintaining physical wellbeing, sport can empower them to lead better lives. 
+
+![Alternative text for screen readers](/images/programme_picture.png)
