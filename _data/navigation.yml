@@ -31,12 +31,12 @@
     url: /programme-and-impact/vulnerable-seniors/
  
  - title: Initiatives
-  url: /initiatives/
-  sub-links:
-  - title: SportCares Awards
-    url: /initiatives/sportcares-awards/
-  - title: Online Fitness Videos
-    url: /initiatives/resources/
+   url: /initiatives/
+   sub-links:
+   - title: SportCares Awards
+     url: /initiatives/sportcares-awards/
+   - title: Online Fitness Videos
+     url: /initiatives/resources/
     
 - title: Media Centre
   url: /media/
