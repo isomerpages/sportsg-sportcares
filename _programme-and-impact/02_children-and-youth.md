@@ -8,11 +8,11 @@ collection_name: programme-and-impact
 
 ![Alternative text for screen readers](/images/children_youth_programme.png)
 
-### SportCares' methodology uses sport and active coaching to engage young people to build self-esteem, nurture confidence and enable a strong sense of autonomy through personal development. 
+### SportCares' methodology uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
 
-Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to meet positive youth development outomes through transferable skill development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
+Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to achieve positive youth development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
 
-__Transferable skills learnt through sport include:__
+__Life skills learnt through sport:__
 
 * Commitment & Accountability
 * Communication skills
@@ -21,7 +21,7 @@ __Transferable skills learnt through sport include:__
 * Dealing with stress, and;
 * Goal setting and Future Planning
 
-__Participation in sport has additional benefits for youth development including:__
+__Additional benefits of sport engagement:__
 
 * Overall improvements in health and mental health
 * Self-confidence
@@ -48,5 +48,4 @@ __Participation in sport has additional benefits for youth development including
 * Triathlon
 * Mixed Martial Arts
 * Outdoor Adventure
-
- [Join us](sportcares@sport.gov.sg) in helping to change lives through sport.  
+ 
