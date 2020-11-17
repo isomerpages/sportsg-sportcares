@@ -29,6 +29,12 @@
     url: /programme-and-impact/persons-with-disabilities/
   - title: Sport for Vulnerable Seniors
     url: /programme-and-impact/vulnerable-seniors/
+ 
+ - title: Resources
+  url: /resources/
+  sub-links:
+  - title: Online Fitness Videos
+    url: /resources/online-fitness-resources/
     
 - title: Media Centre
   url: /media/
@@ -37,6 +43,3 @@
 - title: Contact Us
   url: /contact-us/
   
-
-  
-    
