@@ -6,9 +6,11 @@ breadcrumb: children-and-youth
 collection_name: programme-and-impact
 ---
 
-![Alternative text for screen readers](/images/children_youth_programme.png)
+![Alternative text for screen readers](/images/Children_youth_programme.png)
 
-### SportCares' methodology uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
+### Developing Children & Youth:  Leader of Confidence through Sport
+
+SportCares' methodology uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
 
 Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to achieve positive youth development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
 
