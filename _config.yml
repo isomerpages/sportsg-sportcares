@@ -51,8 +51,6 @@ collections:
     output: true
   persons-with-disabilities:
     output: true
-  seniors:
-    output: true
   grants:
     output: true
   programme-and-impact:
