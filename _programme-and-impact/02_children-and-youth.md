@@ -6,11 +6,13 @@ breadcrumb: children-and-youth
 collection_name: programme-and-impact
 ---
 
-### SportCares' methodology uses sport and active coaching to engage young people to build self-esteem, nurture confidence and enable a strong sense of autonomy through personal development. 
-
 ![Alternative text for screen readers](/images/youth-programmes.jpg)
 
+### SportCares' methodology uses sport and active coaching to engage young people to build self-esteem, nurture confidence and enable a strong sense of autonomy through personal development. 
+
 Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to meet positive youth development outomes through transferable skill development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
+
+SportCares works closely with social service organisations, grassroots groups and government agencies to actively reach out to young people in the community and engaging them in sport programmes and activities. [Join us](sportcares@sport.gov.sg) in helping to change lives through sport.  
 
 __Transferable skills learnt through sport include:__
 
@@ -28,5 +30,24 @@ __Participation in sport has additional benefits for youth development including
 * Increased sense of social inclusion and community participation, and;
 * Self-discipline
 
+### Featured **Sport Programmes**
 
-SportCares works closely with social service organisations, grassroots groups and government agencies to actively reach out to children and youth in the community and engaging them in development, preventive or intervention sport programmes.
+**SATURDAY NIGHT LIGHTS**
+> ##### Saturday Night Lights, or SNL, takes underprivileged and youth at-risk off the streets on Saturday nights to give them formal football training and a community of support — without charge. Seven years since it started, SNL has grown from a football programme to a development programme, and many SNL youth have gone beyond participating in just football training to regular community volunteering and even leadership courses. 
+
+**SWIMMING PROGRAMME**
+>##### Since its inception in 2016, the SportCares Swimming Programme has been making waves across Singapore by equipping youth at-risk with water confidence skills. Aside from helping them improve their basic swimming proficiency, the programme positively impacts their lives by providing them with a safe space to express themselves and develop leadership skills while being part of a sporting family.  Under the mentorship of Singapore Swimming Association (SSA) approved swimming coaches, youth undergo a series of weekly training sessions that help to hone both their mental and physical abilities. 
+
+**OTHER SPORTS**
+
+* Futsal (community-based programme)
+* Rugby
+* Floorball
+* Sailing
+* Athletics
+* Sepak Takraw
+* E-sports
+* Triathlon
+* Mixed Martial Arts
+* Outdoor Adventure
+
