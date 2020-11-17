@@ -40,6 +40,22 @@
   - title: Sport & Fitness Videos
     url: /initiatives/football/
     
+- title: Persons with Disabilities
+  url: /persons-with-disabilities/disability-sports-master-plan/
+  sub-links:
+  - title: Disability Sports Master Plan
+    url: /persons-with-disabilities/disability-sports-master-plan/
+  - title: Sports Facilities
+    url: /persons-with-disabilities/inclusive-sports-facilities/
+  - title: Programmes
+    url: /persons-with-disabilities/disability-sports-programmes/
+  - title: Events
+    url: /persons-with-disabilities/events/
+  - title: Volunteering Opportunities
+    url: /persons-with-disabilities/volunteer/
+  - title: Resources and Links
+    url: /persons-with-disabilities//stay-at-home-activities/
+
 - title: Media Centre
   url: /media/
   sub-links:
