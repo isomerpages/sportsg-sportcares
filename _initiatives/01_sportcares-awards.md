@@ -6,7 +6,9 @@ breadcrumb: sportcares awards
 collection_name: initiatives
 ---
 
-![SportCares Awards](/images/SportCares_Awards_2019.jpg)
+### SportCares Awards 2019
 
-## Test
+![SportCares Awards](/images/SportCares_Awards.jpg)
+
+
 
