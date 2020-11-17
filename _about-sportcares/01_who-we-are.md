@@ -29,4 +29,9 @@ An inclusive nation where individuals are resilient and communities are closely-
 * Persons with disabilities
 * Vulnerable seniors (low-income & socially isolated)
 
+### IPC Status
+
+SportCares c/o Vision 2030 Fund (UEN: T14CC0007H)
+
+
 
