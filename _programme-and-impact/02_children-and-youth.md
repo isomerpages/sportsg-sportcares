@@ -8,7 +8,7 @@ collection_name: programme-and-impact
 
 ![Alternative text for screen readers](/images/Children_youth_programme.png)
 
-### Developing Children & Youth:  Leader of Confidence through Sport
+### Developing Children & Youth:  Leader of Confidence Through Sport
 
 SportCares' methodology uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
 
