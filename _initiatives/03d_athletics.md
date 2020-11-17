@@ -21,3 +21,5 @@ __Get Better at Your Movements__
 
 __Learning Jumps__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uxTqq-oswtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV).
