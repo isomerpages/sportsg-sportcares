@@ -53,8 +53,8 @@ collections:
     output: true
   grants:
     output: true
-  programme-and-impact:
-    output: true
   initiatives:
+    output: true
+  programme-and-impact:
     output: true
 resources_name: media
