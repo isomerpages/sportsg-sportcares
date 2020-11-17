@@ -6,13 +6,11 @@ breadcrumb: children-and-youth
 collection_name: programme-and-impact
 ---
 
-![Alternative text for screen readers](/images/youth-programmes.jpg)
+![Alternative text for screen readers](/images/children_youth_programme.png)
 
 ### SportCares' methodology uses sport and active coaching to engage young people to build self-esteem, nurture confidence and enable a strong sense of autonomy through personal development. 
 
 Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to meet positive youth development outomes through transferable skill development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
-
-SportCares works closely with social service organisations, grassroots groups and government agencies to actively reach out to young people in the community and engaging them in sport programmes and activities. [Join us](sportcares@sport.gov.sg) in helping to change lives through sport.  
 
 __Transferable skills learnt through sport include:__
 
@@ -51,3 +49,4 @@ __Participation in sport has additional benefits for youth development including
 * Mixed Martial Arts
 * Outdoor Adventure
 
+ [Join us](sportcares@sport.gov.sg) in helping to change lives through sport.  
