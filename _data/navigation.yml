@@ -40,10 +40,6 @@
     url: /persons-with-disabilities//stay-at-home-activities/
  
 - title: Grants
-  url: /grants/overview/
-  sub-links:
-  - title: Communities of Care Grant
-    url: /grants/overview/
-  - title: Grant Application
-    url: /grants/application/
+  url: /communities-of-care/overview/
+  
     
