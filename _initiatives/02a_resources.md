@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Online Fitness Videos
+title: Sport & Fitness Videos
 permalink: /initiatives/resources/
 breadcrumb: resources
 collection_name: initiatives
