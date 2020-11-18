@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Advisory Board and Teams
+title: Our Patron, Advisory Board & Teams
 permalink: /about-sportcares/advisory-board/
-breadcrumb: About Us
+breadcrumb: patron and advisory board
 collection_name: about-sportcares
 ---
 
-## SportCares Patron & Advisory Board 
+### SportCares Patron & Advisory Board 
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,11 +34,11 @@ collection_name: about-sportcares
   </tr>
   <tr>
     <td class="tg-baqh">Dr. Wong Loong Mun<br>Principal Consultant<br>Agency for Integrated Care</td>
-    <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>Vice President<br>Singapore Disability Sports Council</td>
+    <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>President<br>Singapore Disability Sports Council</td>
   </tr>
   <tr>
     <td class="tg-baqh">Mr Derek Tan Kai Juay<br>Group Director, Estate &amp; Housing Management<br>Housing &amp; Development Board</td>
-    <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights &amp; <br>National Volunteer & Philanthropy Centre</td>
+    <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights<br>National Volunteer & Philanthropy Centre</td>
   </tr>
   <tr>
     <td class="tg-baqh">Mr Jean Drouffe<br>Chief Executive Officer<br>AXA Insurance (Singapore)</td>
@@ -46,21 +46,24 @@ collection_name: about-sportcares
   </tr>
 </table>
 
+### SportCares Leadership & Teams
 
-### Organisational Structure 
-<B>Kerk Kim Por</B>
+<B>Mr Kerk Kim Por</B>
 <BR>Head, SportCares 
 <BR><kerk_kim_por@sport.gov.sg>
 
 <B>Dr. Katrina Hall-Engle</B>
 <BR>Deputy Head, SportCares 
 <BR><katrina_engle@sport.gov.sg>
-  
-<BR> <B>Inclusive Programme Development</B>
-<BR> Team Lead: Mr Javen Tee (<javen_tee@sport.gov.sg>)
-<BR>
-<BR> <B>Disability Sports Master Plan</B>
-<BR> Team Lead: Ms Lau Kim Lan (<lau_kim_lan@sport.gov.sg>)
-<BR>
-<BR><B>Master Plan Secretariat and Communities of Care</B>
-<BR> Team Lead: Mr Fayeruz Surahman (<fayeruz_surahman@sport.gov.sg>)
+
+<B>Mr Javen Tee</B>
+<BR>Team Lead, Programme Innovation 
+<BR><javen_tee@sport.gov.sg>
+
+<B>Ms Lau Kim Lan</B>
+<BR>Team Lead, Disability & Inclusion 
+<BR><lau_kim_lan@sport.gov.sg>
+
+<B>Ms Miruna Ranjan</B>
+<BR>Team Lead, Masterplan Secretariat & Communities of Care 
+<BR><miruna_ranjan@sport.gov.sg>

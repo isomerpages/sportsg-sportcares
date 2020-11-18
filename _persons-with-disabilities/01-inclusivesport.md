@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 ---
 
 ### Notice:
-* All programmes organised or supported by the Disability Sports Master Plan team has been postponed due to Covid-19
+* All programmes organised or supported by the Disability & Inclusion team has been postponed due to COVID-19
 * For the latest advisories on sport, please [refer here](https://www.myactivesg.com/read/2020/5/covid-19-latest-updates-may)
 * We have prepared some stay at home activities so the community can continue to stay active. You may visit the Stay at Home Activities Page [here](https://isomer-sportcares-staging.netlify.app/persons-with-disabilities/stay-at-home-activities/)!
 
@@ -18,7 +18,7 @@ Since 2016, SportCares, under the umbrella of ActiveSG and Sport Singapore, has 
 - Read a copy of the [DSMP Summary Report](https://www.mccy.gov.sg/-/media/MCCY-corp/Sectors/Disability-Sports-Master-Plan_Executive-Summary.pdf?la=en&hash=A0EDAB2D0FA04DBED210E6AD5AFD64F583AD2DC2)
 - Find out what's on in the [Disability Sports Calendar](https://teamup.com/kszzuuzwp4j1c2he1f "Disability Sports Calendar")
 - [Sign up for our mailing list](http://go.gov.sg/dsmp-mailinglist "Sign up for our mailing list")
-- For general enquiries, please email inclusivesport@sport.gov.sg
+- For general enquiries, please email <inclusivesport@sport.gov.sg>
 
 #### Target Audience
 The DSMP aims to benefit people who have been medically certified to have one of the following:

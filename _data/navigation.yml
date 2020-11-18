@@ -4,34 +4,47 @@
 #                                #
 ##################################
 
-- title: About
-  url: /about-sportcares/about-us/
+- title: Who we are
+  url: /about-sportcares/who-we-are/
   sub-links:
   - title: About SportCares
-    url: /about-sportcares/about-us/
-  - title: Our Constituents
-    url: /about-sportcares/our-constituents/
+    url: /about-sportcares/who-we-are/
+  - title: Patron, Advisory Board & Teams
+    url: /about-sportcares/advisory-board/
   - title: Communities of Care
     url: /about-sportcares/communities-of-care/
-  - title: Advisory Board
-    url: /about-sportcares/advisory-board/
-    
-- title: Children & Youth
-  url: /children-and-youth/
+  - title: Corporate Information
+    url: /about-sportcares/corporate-information/
+  
+- title: Programmes & Impact
+  url: /programme-and-impact/overview/
   sub-links:
-  - title: Who We Serve
-    url: /children-and-youth/
-  - title: Programmes
-    url: /children-and-youth/programmes/
-  - title: Resources
-    url: /children-and-youth/resources-football/
-    
-- title: Seniors
+  - title: Overview
+    url: /programme-and-impact/overview/
+  - title: Sport for Children & Youth Development
+    url: /programme-and-impact/children-and-youth/
+  - title: Sport for Persons with Disabilities
+    url: /programme-and-impact/persons-with-disabilities/
+  - title: Sport for Vulnerable Seniors
+    url: /programme-and-impact/vulnerable-seniors/
+  - title: COVID-19 Sport & Fitness Response
+    url: /programme-and-impact/football
+ 
+- title: Initiatives
+  url: /initiatives/sportcares-awards/
   sub-links:
-  - title: Coming Soon
-    url: /
+  - title: SportCares Awards
+    url: /initiatives/sportcares-awards/
+  - title: SportCares Grants
+    url: /initiatives/sportcares-grants/
+  - title: Inclusive Sports Festival
+    url: /initiatives/inclusive-sports-festival/
+  - title: Play Inclusive
+    url: /initiatives/play-inclusive
+  - title: Inclusive Sports e-Conference & Carnival
+    url: /initiatives/inclusive-sports-conference/
     
-- title: Persons with Disabilities
+- title: Inclusive Sport
   url: /persons-with-disabilities/disability-sports-master-plan/
   sub-links:
   - title: Disability Sports Master Plan
@@ -40,26 +53,21 @@
     url: /persons-with-disabilities/inclusive-sports-facilities/
   - title: Programmes
     url: /persons-with-disabilities/disability-sports-programmes/
-  - title: Events
-    url: /persons-with-disabilities/events/
   - title: Volunteering Opportunities
     url: /persons-with-disabilities/volunteer/
   - title: Resources and Links
     url: /persons-with-disabilities//stay-at-home-activities/
- 
-- title: Grants
-  url: /grants/overview/
+
+- title: Media Centre
+  url: /media/
   sub-links:
-  - title: Communities of Care Grant
-    url: /grants/overview/
-  - title: Grant Application
-    url: /grants/application/
-    
-- title: Stories
-  url: /stories/overview/
-  sub-links:
-  - title: Our Champions
-    url: /stories/overview/
-    
+  - title: Featured Stories
+    url: /media/stories/
+  - title: Events
+    url: /media/events/
+  - title: Press Releases
+    url: /media/press-release
+  
 - title: Contact Us
   url: /contact-us/
+  

@@ -14,24 +14,32 @@ agency-logo: /images/sportcares-logo.png
 google-analytics: UA-38157167-4
 
 # Hero Banner
-hero-title: GetActive@Home
-hero-subtitle: Stay active and pick up new skills with SportCares Stay at Home resources for children, youth and persons with disabilities!
-hero-banner: /images/staystrongstayunited.jpg
+hero-title: 
+hero-subtitle: 
+hero-banner: /images/FA_041120_SportCares Website Banner.jpg
 
 # Call to Action Button
 button:
-  - text: Free Fitness Resources
-    url: https://www.youtube.com/channel/UCBM8YMwqOIxdSbR48YH8qTQ
+  - text: Empowering the Vulnerable & Persons with Disabilities Through Sport
+    url: /about-sportcares/who-we-are
 
-
+# Key Highlights
 key-highlights:
-  - title: Stay Strong, Stay United
-    description: Fitness and sports skills resources for children and youth
-    url: https://www.youtube.com/playlist?list=PLcB7q5Kh1WQp429yGtLz9sApMMJVkysNR
-  - title: InclusiveSport.SG
-    description: Disability and Special Needs Sports Resource
-    url: /persons-with-disabilities/disability-sports-master-plan/
+  - title: COVID-19 Sport & Fitness Resources
+    description: Online workout videos to staying active and keeping fit
+    url: /programme-and-impact/football
+  - title: What's On
+    description: Be in the know of past, current and upcoming events & activities
+    url: /media/
   - title: Donate to SportCares
-    description: Help us harness Sport for social change
+    description: Partner us to bring the big spirit of sport to the arena of social change
     url: https://www.giving.sg/vision2030/changelives
+  - title: InclusiveSport.SG
+    description: Disability and special needs sports resource
+    url: /persons-with-disabilities/disability-sports-master-plan/
 
+# Resources Section
+resources-title: Media Centre
+resources-subtitle: Be in the know
+resources-more-button: More Media
+resources-more-button-url: /media/?utm_source=media_homepage

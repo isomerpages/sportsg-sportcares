@@ -1,11 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Stay At Home Activities
-permalink: /persons-with-disabilities/stay-at-home-activities/
-breadcrumb: Resources and Useful Links
-collection_name: persons-with-disabilities
-second_nav_title: "Resources"
+title: Inclusive Fitness Videos
+permalink: /programme-and-impact/inclusive-fitness-videos/
+breadcrumb: programme and impact
+collection_name: programme-and-impact
+second_nav_title: "COVID-19 Sport & Fitness Response"
 ---
+
+![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
 
 #### Bookmark this Page for More Inclusive Fitness Workout Videos!
 

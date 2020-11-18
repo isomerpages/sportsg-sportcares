@@ -51,8 +51,10 @@ collections:
     output: true
   persons-with-disabilities:
     output: true
-  seniors:
-    output: true
   grants:
+    output: true
+  initiatives:
+    output: true
+  programme-and-impact:
     output: true
 resources_name: media
