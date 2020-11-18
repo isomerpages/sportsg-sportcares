@@ -10,7 +10,7 @@ category: events
 ### AXA Rallies Individuals in Singapore to Show Care through Virtual #AXAHugsForGood Challenge and support SportCares
 
 This year's edition of AXA's 'For Good' Challenge sees itself rallying everyone in Singapore to show care for the people in their lives through a virtual hug.  
-In these COVID-19 times where individuals continue to be more digitally connected but physically distanced, the virtual hugs sent, together with personalised messages, reflects an individual's care and support for one another. 
+During these COVID-19 times where individuals continue to be more digitally connected but physically distanced, the virtual hugs sent, together with personalised messages, reflects an individual's care and support for one another. 
 
 From today till 31 December 2020, every one is invited to join the #AXAHUgsForGood challenge by creating and sending personalised virtual hugs to family members, friends, colleagues or anyone in their life via [AXAHugsForGood website](https://axahugsforgood.com/)
 
