@@ -20,4 +20,4 @@ Unified teams have to train together in the respective sports for a minimum of e
 
 2020's edition of the competition was reimagined, taking into account Safe Management Measures due to COVID-19.  More than 100 participants and their unified partners joined in the first ever virtual sport training for a period of eight weeks before culminating in a finale that involved them meeting face-to-face for the first time since Circuit Breaker.  
 
-SportCares also specially curated a [resource pack](https://go.gov.sg/inclusive-sportsg) comprising exercise videos pegged at various levels of fitness difficulty - easy, standard, advance, that are suitabkle for all ability groups.
+SportCares also specially curated a [resource pack](https://go.gov.sg/inclusive-sportsg) comprising exercise videos pegged at various levels of fitness difficulty - easy, standard, advance - that are suitable for all ability groups.
