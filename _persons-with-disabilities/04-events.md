@@ -4,7 +4,6 @@ title: Events
 permalink: /persons-with-disabilities/events/
 breadcrumb: Events
 collection_name: persons-with-disabilities
-second_nav_title: "Events"
 ---
 
 #### View our calendar for the latest events and programmes!
