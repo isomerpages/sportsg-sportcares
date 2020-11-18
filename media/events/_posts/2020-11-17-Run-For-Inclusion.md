@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Run For Inclusion 2020"
+title:  "UPCOMING-Run For Inclusion 2020"
 permalink: "/media/events/run-for-inclusion"
 category: events
 ---
