@@ -6,6 +6,8 @@ breadcrumb: patron and advisory board
 collection_name: about-sportcares
 ---
 
+### SportCares Patron & Advisory Board 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -43,3 +45,25 @@ collection_name: about-sportcares
     <td class="tg-baqh">Mr Sng Hock Lin<br>Chief, ActiveSG<br>Sport Singapore</td>
   </tr>
 </table>
+
+### SportCares Leadership & Teams
+
+<B>Mr Kerk Kim Por</B>
+<BR>Head, SportCares 
+<BR><kerk_kim_por@sport.gov.sg>
+
+<B>Dr. Katrina Hall-Engle</B>
+<BR>Deputy Head, SportCares 
+<BR><katrina_engle@sport.gov.sg>
+
+<B>Mr Javen Tee</B>
+<BR>Team Lead, Programme Innovation 
+<BR><javen_tee@sport.gov.sg>
+
+<B>Ms Lau Kim Lan</B>
+<BR>Team Lead, Disability & Inclusion 
+<BR><lau_kim_lan@sport.gov.sg>
+
+<B>Ms Miruna Ranjan</B>
+<BR>Team Lead, Masterplan Secretariat & Communities of Care 
+<BR><miruna_ranjan@sport.gov.sg>
