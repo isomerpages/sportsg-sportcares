@@ -7,7 +7,7 @@ category: events
 
 ![Run For Inclusion](/images/Run_For_Inclusion.jpg)
 
-### Come Support & Celebrate Inclusion
+### Come Support & Celebrate Inclusion by Participating in Run For Inclusion this 28 November
 
 Run For Inclusion will be a rallying call for Singaporeans to come together and show their support towards integrating people with special needs.
 
