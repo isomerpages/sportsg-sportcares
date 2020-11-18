@@ -12,7 +12,8 @@ collection_name: initiatives
 
 At Play Inclusive, athletes with intellectual disabilities are teamed up with unified partners (who are persons without disabilities).  A process called 'divisioning', where athletes are assessed for their playing abilities and then placed in a division where the athletes' skills are similar, is used to ensure equal and quality participation. The presence of unified partners in each team is to encourage and facilitate meaningful game play, and penalties are imposed if unified partners dominate the game. 
 
-Unified teams have to train together in the respective sports for a minimum of eight weeks to qualify for Play Inclusive.  Sports featured in Play Inclusive include badminton, basketball, football and floorball.  In 2019, the sport of goalball was included in the competition, and fielded, for the first time, athletes with visual impairment as well. 
+Unified teams have to train together in the respective sports for a minimum of eight weeks to qualify for Play Inclusive.  Sports featured in Play Inclusive include badminton, basketball, football and floorball.  In 2019, the sport of goalball was included in the competition, and fielded, for the first time, athletes with visual impairment. 
+
 
 ### Play Inclusive 2020
 
