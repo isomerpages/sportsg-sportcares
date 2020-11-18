@@ -11,7 +11,7 @@ second_nav_title: "COVID-19 Sport & Fitness Response"
 
 ### Train At Home with SportCares Football Fitness Videos 
 
-The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones! For more workout videos, visit and subscribe to [SportCaresTV](http://www.youtube.com/c/SportCaresTV) and [ActiveSG Circle](https://circle.myactivesg.com/).
+The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones. For more workout videos, visit and subscribe to [SportCaresTV](http://www.youtube.com/c/SportCaresTV) and [ActiveSG Circle](https://circle.myactivesg.com/).
 
 __Warm Up & Ball Mastery__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fvCFL33o6VM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
