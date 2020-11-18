@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AXA For Good Campaign"
+title:  "AXA For Good Campaign In Support of SportCares"
 permalink: "/media/events/axa-hugs-for-good"
 category: events
 ---
@@ -16,7 +16,7 @@ From today till 31 December 2020, every one is invited to join the #AXAHUgsForGo
 
 For every virtual hug sent, AXA willa add $5 to a donation pool for its two supported social causes, SportCares and Singapore Cancer Society, up to a total of S$50,000.
 
->> "At SportCares, we strive to inculcate strong social values including care for one another and the community through sport.  Initiatives like the #AXAHugsForGood challenge are critical especially in a time such as this where community support is necessary.  We are encouraged by the continued efforts of AXA to rally individuals in Singapore to play a part for the collective good and are honoured to be part of the challenge." Lim Teck Yin, CEO, Sport Singapore
+> "At SportCares, we strive to inculcate strong social values including care for one another and the community through sport.  Initiatives like the #AXAHugsForGood challenge are critical especially in a time such as this where community support is necessary.  We are encouraged by the continued efforts of AXA to rally individuals in Singapore to play a part for the collective good and are honoured to be part of the challenge." Lim Teck Yin, CEO, Sport Singapore
 
 
 
