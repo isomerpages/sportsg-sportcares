@@ -24,4 +24,5 @@ __Learning Jumps__
 
 *In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG
 
-#### To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV).
+#### To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV) & [ActiveSG Circle](https://circle.myactivesg.com/)
+
