@@ -25,15 +25,18 @@ button:
 
 # Key Highlights
 key-highlights:
-  - title: Stay Strong, Stay United
-    description: Fitness and sports skills resources for children and youth
-    url: https://www.youtube.com/playlist?list=PLcB7q5Kh1WQp429yGtLz9sApMMJVkysNR
+  - title: COVID-19 Sport & Fitness Resources
+    description: Online workout videos to staying active and keeping fit
+    url: /programme-and-impact/football
+  - title: What's On
+    description: Be in the know of past, current and upcoming events & initiatives
+    url: /media/
+  - title: Donate to SportCares
+    description: Partner us to bring the big spirit of sport to the arena of social change
+    url: https://www.giving.sg/vision2030/changelives
   - title: InclusiveSport.SG
     description: Disability and Special Needs Sports Resource
     url: /persons-with-disabilities/disability-sports-master-plan/
-  - title: Donate to SportCares
-    description: Help us harness Sport for social change
-    url: https://www.giving.sg/vision2030/changelives
 
 # Resources Section
 resources-title: Media Centre
