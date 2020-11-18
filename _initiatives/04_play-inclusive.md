@@ -6,4 +6,7 @@ breadcrumb: play inclusive
 collection_name: initiatives
 ---
 
-## test
+![Play Inclusive](/images/Play_Inclusive_2020.jpg)
+
+### Play Inclusive
+
