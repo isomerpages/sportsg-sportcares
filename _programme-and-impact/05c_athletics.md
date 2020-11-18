@@ -4,7 +4,7 @@ title: Athletics
 permalink: /programme-and-impact/athletics/
 breadcrumb: programme and impact
 collection_name: programme-and-impact
-second_nav_title: "COVID-19 Sport & Fitness Resources"
+second_nav_title: "COVID-19 Sport & Fitness Response"
 ---
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
