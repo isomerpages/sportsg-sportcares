@@ -63,6 +63,10 @@
 - title: Media Centre
   url: /media/
   sub-links:
+  - title: Featured Stories
+    url: /media/stories/
+  - title: Events
+    url: /media/events/
   
 - title: Contact Us
   url: /contact-us/
