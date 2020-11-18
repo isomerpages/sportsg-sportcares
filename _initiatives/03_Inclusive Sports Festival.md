@@ -12,7 +12,7 @@ collection_name: initiatives
 
 Designed and delivered by SportCares, the Inclusive Sports Festival (ISF) offers free fun and family-friendly sports taster days for persons with disabilities (PwDs) - raising the awareness of sport for PwDs, health and wellbeing activities and to encourage PwDs to try something new.  ISF also acts as an important platform that encourages the community to embrace the differences between individuals to build a more caring and cohesive society.  
 
-Organised as part of the larger Get Active! Singapore annual festivities, ISF has quickly made its mark as Singapore's largest inclusive sport event.  The inaugural edition in 2017 attracted 1,000 PwD and 19,000 public participants and last year (2019), ISF was attended by 2,500 PwDs and 26,000 individuals, families and seniors from the public. 
+Organised as part of the larger Get Active! Singapore annual festivities, ISF has quickly made its mark as Singapore's largest inclusive sport event.  The inaugural edition in 2017 attracted 1,000 PwDs and 19,000 public participants and last year (2019), ISF was attended by 2,500 PwDs and 26,000 individuals, families and seniors from the public. 
 
 ISF's programming has also evolved from a gathering of sport try-outs in 2017 to a partner-driven event with experiential sports, activities and workshops in the subsequent editions of the event.
 
