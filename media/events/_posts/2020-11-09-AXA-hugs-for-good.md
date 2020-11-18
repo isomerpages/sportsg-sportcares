@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "AXA For Good Campaign In Support of SportCares"
+title:  "AXA For Good Campaign 2020 In Support of SportCares"
 permalink: "/media/events/axa-hugs-for-good"
 category: events
 ---
