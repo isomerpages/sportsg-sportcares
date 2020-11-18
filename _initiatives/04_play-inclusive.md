@@ -6,8 +6,6 @@ breadcrumb: play inclusive
 collection_name: initiatives
 ---
 
-![Play Inclusive](/images/Play_Inclusive_2020.jpg)
-
 ### Play Inclusive
 
 [Special Olympics Singapore](https://www.facebook.com/SpecialOlympicsSingapore/) and SportCares, supported by the Ministry of Education, have joined hands to organise the annual Play Inclusive competition since 2018 to promote inclusion in the community through shared sporting experiences between persons with and without intellectual disabilities and special needs. 
@@ -18,4 +16,8 @@ Unified teams have to train together in the respective sports for a minimum of e
 
 ### Play Inclusive 2020
 
-2020's edition of the competition ws reimagined, taking into account Safe M
+![Play Inclusive](/images/Play_Inclusive_2020.jpg)
+
+2020's edition of the competition was reimagined, taking into account Safe Management Measures due to COVID-19.  More than 100 participants and their unified partners joined in the first ever virtual sport training for a period of eight weeks before culminating in a finale that involved them meeting face-to-face for the first time since Circuit Breaker.  
+
+SportCares also specially curated a [resource pack](https://go.gov.sg/inclusive-sportsg) comprising exercise videos pegged at various levels of fitness difficulty - easy, standard, advance, that are suitabkle for all ability groups.
