@@ -6,7 +6,7 @@ breadcrumb: inclusive sports conference
 collection_name: initiatives
 ---
 
-From March 16 - 18 2021, SportCares, together with [Singapore Disability Sports Council](https://sdsc.org.sg/) and [Special Olympics Singapore](https://www.facebook.com/SpecialOlympicsSingapore/) will be hosting the 1st Inclusive Sports e-Conference & Carnival (ISeCC). 
+From March 16 - 18 2021, SportCares, together with [Singapore Disability Sports Council](https://sdsc.org.sg/) and [Special Olympics Singapore](https://www.facebook.com/SpecialOlympicsSingapore/), will host the 1st Inclusive Sports e-Conference & Carnival (ISeCC). 
 
 Themed __*Emerging Stronger Together, Strengthened Through Sport*__, ISeCC builds on the [Inclusive Sports Festival](/initiatives/inclusive-sports-festival/) platform to focus on conversations around care, empowerment and inclusion for persons with disabilities and special needs.  
 
