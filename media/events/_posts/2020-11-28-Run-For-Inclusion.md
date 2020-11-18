@@ -9,9 +9,9 @@ category: events
 
 ### Come Support & Celebrate Inclusion
 
-Run For Inclusion will be a rallying call for Singaporean’s to come together and show their support towards integrating people with special needs.
+Run For Inclusion will be a rallying call for Singaporeans to come together and show their support towards integrating people with special needs.
 
 Join the First In-Person Sports Event since COVID-19 where you run alongside people with special needs. Only Limited slots available to 50pax per 7 Flag Offs.
 
-Register [today](https://runninghour.com/registration)
+Register [today](https://runninghour.com/registration)!
 
