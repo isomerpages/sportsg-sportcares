@@ -18,7 +18,4 @@ ISF's programming has also evolved from a gathering of sport try-outs in 2017 to
 
 >>"Sport has the ability to enhance the physical, social and emotional well-being of people and I think persons with disabilities should equally access the benefits.  The Inclusive Sports Festival aims to do that, to bring sports to people of all abilities." then Minister for Culture, Community and Youth, Grace Fu.
 
-__In March 2021, SportCares will host the Inclusive Sports e-Conference & Carnival (ISeCC).  Themed *Emerging Stronger Together, Strengthened Through Sport*, ISeCC builds on the ISF platform to focus on conversations around care, empowerment and inclusion for persons with disabilities and special needs.__  
-
-__If you would like to join us as a partner, service provider or participant in ISeCC, please email us at <inclusivesport@sport.gov.sg>__
-
+__In March 2021, SportCares will be hosting the [Inclusive Sports e-Conference & Carnival (ISeCC)](/initiatives/inclusive-sports-conference/) that serves to continue the conversations and initiatives built from the Inclusive Sports Festival.__
