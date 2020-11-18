@@ -11,7 +11,7 @@ second_nav_title: "COVID-19 Sport & Fitness Response"
 
 ### Train At Home with SportCares Cardio & Flexibility Fitness Videos 
 
-The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones!
+The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones. For more workout videos, visit and subscribe to [SportCaresTV](http://www.youtube.com/c/SportCaresTV) and [ActiveSG Circle](https://circle.myactivesg.com/).
 
 __Flexibility: Improving Wall Exercises & Stretches__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0GtvrhP4OZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -23,6 +23,4 @@ __Mountain Climbers Cardio & Core Exercise__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6GT6V-FOt0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG
-
-#### To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV) & [ActiveSG Circle](https://circle.myactivesg.com/).
 
