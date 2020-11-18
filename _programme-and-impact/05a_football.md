@@ -4,8 +4,7 @@ title: Football
 permalink: /programme-and-impact/football/
 breadcrumb: programme and impact
 collection_name: programme-and-impact
-second_nav_title: "Resources"
-third_nav_title: "Sport & Fitness Videos"
+second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
@@ -25,4 +24,5 @@ __Core Exercises & Ball Control__
 
 *In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG*
 
-#### To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV).
+#### To get notified whenever a new video is uploaded, subscribe to [SportCaresTV](https://www.youtube.com/c/SportCaresTV) & [ActiveSG Circle](https://circle.myactivesg.com/).
+
