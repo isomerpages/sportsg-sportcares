@@ -7,12 +7,12 @@ collection_name: persons-with-disabilities
 ---
 
 ### Notice:
-* All programmes organised or supported by the Disability & Inclusion team has been postponed due to COVID-19
-* For the latest advisories on sport, please [refer here](https://www.myactivesg.com/read/2020/5/covid-19-latest-updates-may)
-* We have prepared some stay at home activities so the community can continue to stay active. You may visit the Stay at Home Activities Page [here](https://isomer-sportcares-staging.netlify.app/persons-with-disabilities/stay-at-home-activities/)!
+* All sport programmes for persons with disabilities that SportCares organises or supports have been postponed due to COVID-19.
+* For the latest advisories on resumption of sport activities, please [refer here](https://www.myactivesg.com/read/2020/11/updated-18-nov-advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-two)
+* We have prepared some stay at home activities so the community can continue to stay active. You may visit the Stay at Home Activities Page [here](/persons-with-disabilities/stay-at-home-activities/)!
 
-### Welcome to InclusiveSport.sg
-Since 2016, SportCares, under the umbrella of ActiveSG and Sport Singapore, has been executing the recommendations of the **Disability Sports Master Plan (DSMP)** under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
+### Sport for Persons with Disabilities
+Since 2016, [SportCares](https://sportcares.sportsingapore.gov.sg), under the umbrella of ActiveSG and Sport Singapore, executes the recommendations of the **Disability Sports Master Plan (DSMP)** under the guidance of the Ministry of Culture, Community, and Youth [MCCY](https://www.mccy.gov.sg/sector/initiatives/disability-sports-master-plan).
 
 #### Quick Links
 - Read a copy of the [DSMP Summary Report](https://www.mccy.gov.sg/-/media/MCCY-corp/Sectors/Disability-Sports-Master-Plan_Executive-Summary.pdf?la=en&hash=A0EDAB2D0FA04DBED210E6AD5AFD64F583AD2DC2)
