@@ -6,3 +6,6 @@ breadcrumb: adaptive sports toolkit
 collection_name: initiatives
 ---
 
+### Adaptive Sports Toolkit
+
+SportCares is introducing this toolkit for seniors. 
