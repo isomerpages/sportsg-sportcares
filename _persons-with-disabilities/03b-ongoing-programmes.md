@@ -9,7 +9,7 @@ second_nav_title: "Sports Programmes"
 
 ### Notice
 
-* All programme are currently on hold till further notice. 
+* All programmes are currently on hold till further notice. 
 
 * For latest advisories on resumption of sport activities, please [refer here.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2020/Advisory-For-Resumption-Of-Sport-And-Physical-Exercise-and-Activity-For-Phase-Two-Safe-Transition)
 
