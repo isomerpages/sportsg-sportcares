@@ -5,6 +5,8 @@ date:   2018-01-01
 permalink: /media/stories/playability-taking-root/
 ---
 
+![Play-Ability](/images/PlayAbility_Article.jpg)
+
 > “I always remind myself that being here is about...creating opportunities for everyone in the community (PWDs, seniors, and families) to play badminton.” 
 
 Play-Ability has taken a life of its own since it was first introduced to the Bedok-Chai Chee community in March 2018. The recreational sports programme for persons with disabilities (PWD) was first planted in Heartbeat@Bedok to capitalise on its inclusive facilities. 
