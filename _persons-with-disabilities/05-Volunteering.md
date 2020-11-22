@@ -14,4 +14,4 @@ We are looking for regular sports buddies to serve as befrienders to beneficiari
 * Assist the coaches with activity demonstration if needed
 * Most importantly, put a smile on someone's face!
 
-All programmes are currently on hold till 1 June 2020. To stay updated about upcoming volunteering opportunities with SportCares Disability Sports team, sign up for our mailing list [here](https://go.gov.sg/dsmp-mailinglist), or email inclusivesport@sport.gov.sg.
+All programmes are currently on hold till further notice. To stay updated about upcoming volunteering opportunities with SportCares Disability Sports team, sign up for our mailing list [here](https://go.gov.sg/dsmp-mailinglist), or email <inclusivesport@sport.gov.sg>.
