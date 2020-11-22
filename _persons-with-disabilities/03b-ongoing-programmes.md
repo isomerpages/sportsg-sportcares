@@ -9,16 +9,7 @@ second_nav_title: "Sports Programmes"
 
 #### Notice
 
-(24/3/2020) Sport Singapore (SportSG) will be suspending all of ActiveSG’s children and youth-centric organised programmes at ActiveSG facilities with immediate effect until 7 Apr 2020 to coincide with efforts by schools to minimise the risk of transmission of COVID-19.  The make-up programme sessions will be held after the suspension is lifted.
-
-The affected children and youth-centric programmes include the following:
-
-* ActiveSG Academies and Clubs programmes
-* Swim Safer assessment
-* Learn-To-Play programmes at ActiveSG Sport Centres
-* SportCares programmes
-
-Thank you.
+For latest advisories on resumption of sport activities, please [refer here.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2020/Advisory-For-Resumption-Of-Sport-And-Physical-Exercise-and-Activity-For-Phase-Two-Safe-Transition)
 
 #### Play-Ability Open Sessions
 [Play-Ability](https://www.temasekfoundation-cares.org.sg/journal/13/the-joy-of-play) is a recreational sports programme for persons with disabilities launched in partnership with Temasek Foundation Cares. The programme aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. 
