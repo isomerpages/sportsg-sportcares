@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "More Than Just A Coach"
-permalink: "/media/press-release/coach-chris"
+permalink: "/media/stories/coach-chris"
 category: stories
 ---
 
 ### More Than Just A Coach
 
-![Coach Chris](/images/Coach_Chris.jpg)
+![Coach Chris](/images/Coach_Chris.JPG)
 
 It is not easy to pick out Coach Chris from the throng of soccer girls standing around the grandstand of the stadium. The unassuming 24-year-old Coach of the Saturday Night Lights (SNL) girls soccer team blends in effortlessly with her team, betraying the close rapport she shares with them.
 
