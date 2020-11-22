@@ -7,9 +7,11 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
-#### Notice
+### Notice
 
-For latest advisories on resumption of sport activities, please [refer here.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2020/Advisory-For-Resumption-Of-Sport-And-Physical-Exercise-and-Activity-For-Phase-Two-Safe-Transition)
+* All programmes are currently on hold till further notice. 
+
+* For latest advisories on resumption of sport activities, please [refer here.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2020/Advisory-For-Resumption-Of-Sport-And-Physical-Exercise-and-Activity-For-Phase-Two-Safe-Transition)
 
 #### Through pilot projects, focus groups, needs sensing, and speaking to stakeholders in the community, we have designed several programmes that serve different needs and gaps in the disability sports industry. 
 
