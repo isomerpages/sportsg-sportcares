@@ -10,7 +10,7 @@ collection_name: about-sportcares
 
 ### Background
 
-SportCares was established in 2012 as the philanthropic arm of Sport Singapore to enable vulnerable individuals and persons with disabilities to experience and reap the benefits of sport by instilling confidence and elevating one's outlook to life.  In addition, SportCares was to cultivate a spirit of sport philanthropy among corporates and community partners where Sport Singapore provides dollar-for-dollar matching for [donations](www.giving.sg/vision2030/changelives) to SportCares.
+SportCares was established in 2012 as the philanthropic arm of Sport Singapore to enable vulnerable individuals and persons with disabilities to experience and reap the benefits of sport by instilling confidence and elevating one's outlook to life.  In addition, SportCares was to cultivate a spirit of sport philanthropy among corporates and community partners where Sport Singapore provides dollar-for-dollar matching for [donations](https://www.giving.sg/vision2030/changelives) to SportCares.
 
 ### Our Vision
 
