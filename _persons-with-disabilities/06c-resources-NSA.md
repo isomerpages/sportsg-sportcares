@@ -14,7 +14,7 @@ second_nav_title: "Resources"
 - Contact: (65) 6342 3501 / [Online Contact Form](https://sdsc.org.sg/contact/ "Online Contact Form")
 
 **Special Olympics Singapore**
-- Website: [http://www.specialolympics.org.sg/](http://www.specialolympics.org.sg/ "http://www.specialolympics.org.sg/")
+- Facebook page: [Special Olympics Singapore](https://www.facebook.com/SpecialOlympicsSingapore)
 - Contact: +65-6293 3182 / admin@specialolympics.org.sg
 
 **Deaf Sports Association (Singapore)**
