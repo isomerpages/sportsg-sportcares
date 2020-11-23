@@ -27,4 +27,4 @@ Disability sport:  <inclusivesport@sport.gov.sg>
 <www.go.gov.sg/sportcarestv>
 
 ### Donation
-<www.giving.sg/vision2030/changelives>
+![GivingSG](/images/givingsg.png)<www.giving.sg/vision2030/changelives>
