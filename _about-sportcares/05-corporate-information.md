@@ -19,11 +19,12 @@ General:  <sportcares@sport.gov.sg>
 Disability sport:  <inclusivesport@sport.gov.sg>
 
 ### Social Media
-[SportCares Facebook Page](www.facebook.com/SportCaresSG)
 
-[SportCares Instagram Page](www.instagram.com/sportcares)
+<www.facebook.com/SportCaresSG>
 
-[SportCaresTV YouTube Page](www.go.gov.sg/sportcarestv)
+<www.instagram.com/sportcares>
+
+<www.go.gov.sg/sportcarestv>
 
 ### Donation
-[SportCares Giving.SG Page](www.giving.sg/vision2030/changelives)
+<www.giving.sg/vision2030/changelives>
