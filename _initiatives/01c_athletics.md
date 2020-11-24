@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Athletics
-permalink: /programme-and-impact/athletics/
-breadcrumb: programme and impact
-collection_name: programme-and-impact
+permalink: /initiatives/athletics/
+breadcrumb: initiatives
+collection_name: initiatives
 second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
