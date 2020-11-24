@@ -9,6 +9,37 @@ second_nav_title: "Sport for Vulnerable Seniors"
 
 ### Adaptive Sports Toolkit
 
-Jointly developed by the Agency for Integrated Care (AIC) and Sport Singapore, the Adaptive Sports Toolkit contains a selection of adaptive sports suitable for Community Care seniors who are wheelchair users.  The toolkit provides facilitation tips and step-by-step instructions to set-up and play adaptive sports, with additional assistance offered through instructiona videos.  Together, these resources allow for staff and volunteers to facilitate adaptive sports sessions (for individuals and teams) confidently.
+Jointly developed by the Agency for Integrated Care (AIC) and Sport Singapore, the Adaptive Sports Toolkit contains a selection of adaptive sports suitable for Community Care seniors who are wheelchair users.  The toolkit provides facilitation tips and step-by-step instructions to set-up and play adaptive sports, with additional assistance offered through instructional videos.  Together, these resources allow for staff and volunteers to facilitate adaptive sports sessions (for individuals and teams) confidently.
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ueIiAVohYHY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Download Adaptive Sports Toolkit](https://www.aic.sg/care-services/Documents/Wellness/Adaptive%20Sport/Adaptive%20Sports%20Toolkit.pdf)
+
+#### Adaptive Sports Toolkit Training
+
+The training will be at [Heartbeat@Bedok](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-sports-centre) Level 4 Training Room.  Training is free for eligible applicants only. 
+
+__Who can apply__
+
+Community Care Sector Staff from:
+* Nursing Homes
+* Senior Care Centres
+* Senior Activity Centres (SACs)
+
+__Training dates in 2021__
+
+| Thursdays     | Saturdays           
+|:-------------:|:-------------:| 
+| 14 January    | 23 January | 
+| 11 February   | 27 February |   
+| 11 March      | 27 March |
+| 8 April       | 24 April |
+| 13 May        | 22 May
+| 10 June       | 26 June |
+
+Time:  1.30 - 5.30pm
+
+Class size: 10
+
+Register your interest for the Adaptive Sports Toolkit training [here](https://share.hsforms.com/1GwuVMpR3TfGpNJGoiFWfXA3p5mz)
+
