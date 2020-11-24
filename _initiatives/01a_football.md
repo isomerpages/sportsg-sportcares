@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Football
-permalink: /programme-and-impact/football/
-breadcrumb: programme and impact
-collection_name: programme-and-impact
+permalink: /initiatives/football/
+breadcrumb: initiatives
+collection_name: initiatives
 second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
