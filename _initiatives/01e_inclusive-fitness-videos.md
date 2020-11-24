@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Inclusive Fitness Videos
-permalink: /programme-and-impact/inclusive-fitness-videos/
-breadcrumb: programme and impact
-collection_name: programme-and-impact
+permalink: /initiatives/inclusive-fitness-videos/
+breadcrumb: initiatives
+collection_name: initiatives
 second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
