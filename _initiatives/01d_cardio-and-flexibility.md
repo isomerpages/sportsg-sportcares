@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Cardio & Flexibility
-permalink: /programme-and-impact/cardio-and-flexibility/
-breadcrumb: programme and impact
-collection_name: programme-and-impact
-second_nav_title: "COVID-19 Sport & Fitness Response"
+permalink: /initiatives/cardio-and-flexibility/
+breadcrumb: initiatives
+collection_name: initiatives
+second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
