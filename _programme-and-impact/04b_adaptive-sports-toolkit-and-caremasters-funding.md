@@ -28,7 +28,7 @@ Community Care Sector Staff from:
 
 __Training dates in 2021__
 
-![Training Dates](/images/Training_Dates_2.png)
+![Training Dates](/images/Dates_Table_v2.png)
 
 Time:  1.30 - 5.30pm
 
