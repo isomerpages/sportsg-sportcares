@@ -67,5 +67,5 @@ __Pre-conditions for reimbursement__
 * Organise adaptive sport sessions or events and submit the quarterly reports
 * Attend the Adaptive Sports Trainings organised by SportSG & AIC
 
-[Register interest for "CareMasters" funding.](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz)
+[Register interest for "CareMasters" funding](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz)
 
