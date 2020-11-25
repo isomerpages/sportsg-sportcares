@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Swimming
-permalink: /programme-and-impact/swimming/
-breadcrumb: programme and impact
-collection_name: programme-and-impact
-second_nav_title: "COVID-19 Sport & Fitness Response"
+title: Football
+permalink: /initiatives/swimming/
+breadcrumb: initiatives
+collection_name: initiatives
+second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
@@ -23,4 +23,3 @@ __Learn to Perfect your Freestyle & Breaststroke Techniques__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oF6xnZ8BLB0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG*
-

@@ -15,6 +15,8 @@
     url: /about-sportcares/communities-of-care/
   - title: Corporate Information
     url: /about-sportcares/corporate-information/
+  - title: Donate to SportCares
+    url: https://www.giving.sg/vision2030/changelives
   
 - title: Programmes & Impact
   url: /programme-and-impact/overview/
@@ -27,12 +29,12 @@
     url: /programme-and-impact/persons-with-disabilities/
   - title: Sport for Vulnerable Seniors
     url: /programme-and-impact/vulnerable-seniors/
-  - title: COVID-19 Sport & Fitness Response
-    url: /programme-and-impact/football
  
 - title: Initiatives
   url: /initiatives/sportcares-awards/
   sub-links:
+  - title: COVID-19 Sport & Fitness Resources
+    url: /initiatives/football
   - title: SportCares Awards
     url: /initiatives/sportcares-awards/
   - title: SportCares Grants

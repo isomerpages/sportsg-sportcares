@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: Cardio & Flexibility
-permalink: /programme-and-impact/cardio-and-flexibility/
-breadcrumb: programme and impact
-collection_name: programme-and-impact
-second_nav_title: "COVID-19 Sport & Fitness Response"
+permalink: /initiatives/cardio-and-flexibility/
+breadcrumb: initiatives
+collection_name: initiatives
+second_nav_title: "COVID-19 Sport & Fitness Resources"
 ---
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
@@ -23,4 +23,3 @@ __Mountain Climbers Cardio & Core Exercise__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6GT6V-FOt0I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *In support of GetActive!@Home, #SGUnited #GetActiveTV #GetActiveSG #GetActiveStayStrong #StayHomeForSG
-
