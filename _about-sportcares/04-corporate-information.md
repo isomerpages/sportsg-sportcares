@@ -20,7 +20,7 @@ Disability sport:  <inclusivesport@sport.gov.sg>
 
 ### Social Media
 
-[![alt text](/images/Facebook_Icon.png)SportCaresSG](https://www.facebook.com/SportCaresSG)
+[![alt text](/images/Facebook_Icon_v2.png)SportCaresSG](https://www.facebook.com/SportCaresSG)
 
 [SportCares Instagram page](https://www.instagram.com/sportcares)
 
