@@ -38,6 +38,14 @@ key-highlights:
     description: Inclusive sport resources suitable for all abilities
     url: /persons-with-disabilities/disability-sports-master-plan/
 
+# Programmes Section
+# To edit the programme details, go to programmes.yml
+programmes-title: Products and Services
+programmes-subtitle: Co-creating for better value
+programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+programmes-more-button: More Products and Services
+programmes-more-button-url: /products-and-services/?utm_source=programmes_homepage
+
 # Resources Section
 resources-title: Media Centre
 resources-subtitle: Be in the know
