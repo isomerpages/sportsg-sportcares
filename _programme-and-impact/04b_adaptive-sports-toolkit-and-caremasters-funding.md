@@ -24,7 +24,7 @@ __Who can apply__
 Community Care Sector Staff from:
 * Nursing Homes
 * Senior Care Centres
-* Senior Activity Centres (SACs)
+* Senior Activity Centres
 
 __Training dates in 2021__
 
@@ -41,5 +41,31 @@ Time:  1.30 - 5.30pm
 
 Class size: 10
 
-Register your interest for the Adaptive Sports Toolkit training [here](https://share.hsforms.com/1GwuVMpR3TfGpNJGoiFWfXA3p5mz)
+Register your interest for the Adaptive Sports Toolkit training [here.](https://share.hsforms.com/1GwuVMpR3TfGpNJGoiFWfXA3p5mz)
+
+
+### "CareMasters" Funding
+
+"CareMasters" funding equips and supports nursing homes and centres to introduce and organise adaptive sports in their facilities for a period of three years.
+
+__Who can apply__
+
+* Nursing Homes
+* Senior Care Centres
+* Senior Activity Centres
+
+__Amount and expenses eligible for reimbursement__
+
+| Item     | Estimated Value | Additional Value |           
+|-------------|:-------------:|:-------------:|
+| Reimbursement    | $500 | - | 
+| Sports equipment (such as badminton racquets, boccia sets, etc.)   | $700 | $300 |   
+| Transportation      | $300 | $200 |
+
+__Pre-conditions for reimbursement__
+
+* Organise adaptive sport sessions or events and submit the quarterly reports
+* Attend the Adaptive Sports Trainings organised by SportSG & AIC
+
+[Register interest for "CareMasters" funding.](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz)
 
