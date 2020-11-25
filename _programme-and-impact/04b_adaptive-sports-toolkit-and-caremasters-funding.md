@@ -28,14 +28,7 @@ Community Care Sector Staff from:
 
 __Training dates in 2021__
 
-| Thursdays     | Saturdays           
-|:-------------:|:-------------:| 
-| 14 January    | 23 January | 
-| 11 February   | 27 February |   
-| 11 March      | 27 March |
-| 8 April       | 24 April |
-| 13 May        | 22 May
-| 10 June       | 26 June |
+![Training Dates](/images/Training_Dates_2.png)
 
 Time:  1.30 - 5.30pm
 
