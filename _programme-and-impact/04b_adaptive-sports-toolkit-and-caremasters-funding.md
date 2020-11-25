@@ -49,11 +49,7 @@ __Who can apply__
 
 __Amount and expenses eligible for reimbursement__
 
-| Item     | Estimated Value | Additional Value |           
-|-------------|:-------------:|:-------------:|
-| Reimbursement    | $500 | - | 
-| Sports equipment (such as badminton racquets, boccia sets, etc.)   | $700 | $300 |   
-| Transportation      | $300 | $200 |
+![Reimbursement Table](/images/Reimbursement_Table_v2.jpg)
 
 __Pre-conditions for reimbursement__
 
