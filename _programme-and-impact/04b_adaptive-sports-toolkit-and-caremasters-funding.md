@@ -13,7 +13,7 @@ Jointly developed by the Agency for Integrated Care (AIC) and Sport Singapore (S
 
 The toolkit provides facilitation tips and step-by-step instructions to set-up and play adaptive sports, with additional assistance offered through instructional videos.  Together, these resources allow for staff and volunteers to facilitate adaptive sports sessions (for individuals and teams) confidently.
 
-![AIC Qr code](/images/AIC_QRcode.png)
+![AIC Qr code](/images/AIC_QRcode.jpg)
 
 Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download the an e-copy of the Adapative Sports Toolkit. 
 
