@@ -21,7 +21,7 @@ Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download the an 
 
 From January to June 2021, Sport Singapore is conducting __free adaptive sports training__ at [Heartbeat@Bedok.](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-sports-centre)
 
-Two training sessions, one on a Thursday and the other on a Saturday, will be conducted each month. 
+Two training sessions, __one on a Thursday and the other on a Saturday__, will be conducted each month. 
 
 __Training content__ includes:
 
