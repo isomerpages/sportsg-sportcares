@@ -15,7 +15,7 @@ The toolkit provides facilitation tips and step-by-step instructions to set-up a
 
 ![AIC Qr code](/images/AIC_QRcode.jpg)
 
-Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download the an e-copy of the Adapative Sports Toolkit. 
+Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download an e-copy of the Adapative Sports Toolkit. 
 
 
 ### Adaptive Sports Toolkit Training
