@@ -17,7 +17,8 @@ The toolkit provides facilitation tips and step-by-step instructions to set-up a
 
 Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download the an e-copy of the Adapative Sports Toolkit. 
 
-#### Adaptive Sports Toolkit Training
+
+### Adaptive Sports Toolkit Training
 
 From January to June 2021, Sport Singapore is conducting __free adaptive sports training__ at [Heartbeat@Bedok.](https://www.myactivesg.com/facilities/heartbeat-bedok-activesg-sports-centre)
 
@@ -58,5 +59,7 @@ __Obligations for Funding__
 * Send minimum 2 staff to attend the Adaptive Sports Trainings organised by SportSG & AIC
 * Participate in Senior Sports Day and/or other designated events held by SportSG 
 
-[Register interest for "CareMasters" funding.](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz) For enquiries, please contact Ms Vivian Gao at <vivian_gao@sport.gov.sg>
+[Register interest for "CareMasters" funding](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz) 
+
+For enquiries on "CareMasters" funding, please contact Ms Vivian Gao at <vivian_gao@sport.gov.sg>
 
