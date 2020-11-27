@@ -58,5 +58,5 @@ __Obligations for Funding__
 * Send minimum 2 staff to attend the Adaptive Sports Trainings organised by SportSG & AIC
 * Participate in Senior Sports Day and/or other designated events held by SportSG 
 
-[Register interest for "CareMasters" funding.](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz) For enquiries, please write to Ms Vivian Gao at <vivian_gao@sport.gov.sg>
+[Register interest for "CareMasters" funding.](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz) For enquiries, please contact Ms Vivian Gao at <vivian_gao@sport.gov.sg>
 
