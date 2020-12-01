@@ -7,15 +7,15 @@ collection_name: programme-and-impact
 second_nav_title: "Sport for Vulnerable Seniors"
 ---
 
-### "Fun And Fit" Adaptive Sports Toolkit
+### "Fit & Fun" Adaptive Sports Toolkit
 
-Jointly developed by the trainers from the Agency for Integrated Care (AIC) and Sport Singapore (SportSG), the "Fun And Fit" Adaptive Sports Toolkit is targeted at community care partners, as a resource pack to help them keep seniors fit and happy.  The toolkit includes modified games that are suitable for seniors of all abilities, including seniors on wheelchairs, stroke-recovery patients and seniors with early/intermediate stages of dementia.  The toolkit aims to improve the physical, mental and emotional wellbeing of our seniors as they stay fit, active and socially connected when playing the sport activities.
+Jointly developed by the trainers from the Agency for Integrated Care (AIC) and Sport Singapore (SportSG), the "Fit & Fun" Adaptive Sports Toolkit is targeted at community care partners, as a resource pack to help them keep seniors fit and happy.  The toolkit includes modified games that are suitable for seniors of all abilities, including seniors on wheelchairs, stroke-recovery patients and seniors with early/intermediate stages of dementia.  The toolkit aims to improve the physical, mental and emotional wellbeing of our seniors as they stay fit, active and socially connected when playing the sport activities.
 
 The free toolkit provides facilitation tips and step-by-step instructions on setting up and executing the games for the seniors, with additional assistance offered through instructional videos.  These resources are provided for Community Care staff and volunteers to organise and facilitate the sports sessions confidently.
 
 ![AIC Qr code](/images/AIC_QRcode.jpg)
 
-Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download an e-copy of the Adaptive Sports Toolkit (Vol 1). 
+Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download an e-copy of the "Fit & Fun" Adaptive Sports Toolkit (Vol 1). 
 
 
 ### Adaptive Sports Toolkit Training
