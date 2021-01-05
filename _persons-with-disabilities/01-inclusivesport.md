@@ -7,8 +7,7 @@ collection_name: persons-with-disabilities
 ---
 
 ### Notice:
-* All sport programmes for persons with disabilities that SportCares organises or supports have been postponed due to COVID-19.
-* For the latest advisories on resumption of sport activities, please [refer here](https://www.myactivesg.com/read/2020/11/updated-18-nov-advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-two)
+* For the latest advisories on resumption of sport activities, please [refer here](https://www.myactivesg.com/read/2020/12/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-three-safe-nation)
 * We have prepared some stay at home activities so the community can continue to stay active. You may visit the Stay at Home Activities Page [here](/persons-with-disabilities/stay-at-home-activities/)!
 
 ### Sport for Persons with Disabilities
