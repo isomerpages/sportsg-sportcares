@@ -9,9 +9,5 @@ category: press release
 
 Sport Singapore’s Advisory For Resumption Of Sport And Physical Exercise & Activity For Phase Three (“Safe Nation”) has important measures to look after your health and wellbeing.
 
-[DOWNLOAD ADVISORY PDF](/_pdf/Phase-3-adviosry.pdf)
-
-[DOWNLOAD ANNEX](/_pdf/Annex-for-Phase-3.pdf)
-
-[DOWNLOAD FAQs PDF](/_pdf/FAQs-for-Phase=3.pdf)
+To read the full advisory, annex and FAQs, click [here.](https://www.myactivesg.com/read/2020/12/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-three-safe-nation)
 
