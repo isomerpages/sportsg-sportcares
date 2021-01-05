@@ -7,12 +7,6 @@ collection_name: persons-with-disabilities
 second_nav_title: "Sports Programmes"
 ---
 
-### Notice
-
-* All programmes are currently on hold till further notice. 
-
-* For latest advisories on resumption of sport activities, please [refer here.](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2020/Advisory-For-Resumption-Of-Sport-And-Physical-Exercise-and-Activity-For-Phase-Two-Safe-Transition)
-
 #### Play-Ability Open Sessions
 [Play-Ability](https://www.temasekfoundation-cares.org.sg/journal/13/the-joy-of-play) is a recreational sports programme for persons with disabilities launched in partnership with Temasek Foundation Cares. The programme aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. 
 
