@@ -13,7 +13,7 @@ Jointly developed by the trainers from the Agency for Integrated Care (AIC) and 
 
 The free toolkit provides facilitation tips and step-by-step instructions on setting up and executing the games for the seniors, with additional assistance offered through instructional videos.  These resources are provided for Community Care staff and volunteers to organise and facilitate the sports sessions confidently.
 
-![AIC Qr code](/images/AIC_QRcode2.png)
+![AIC Qr code](/images/AIC_QRcode.jpg)
 
 Scan the QR code or visit <https://aic.buzz/aic-wellness> to download an e-copy of the "Fit & Fun" Adaptive Sports Toolkit (Vol 1). 
 
