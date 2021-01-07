@@ -15,7 +15,7 @@ The free toolkit provides facilitation tips and step-by-step instructions on set
 
 ![AIC Qr code](/images/AIC_QRcode.jpg)
 
-Scan the QR code or visit <https://aic.buzz/fit-fun-toolkit> to download an e-copy of the "Fit & Fun" Adaptive Sports Toolkit (Vol 1). 
+Scan the QR code or visit <https://aic.buzz/aic-wellness> to download an e-copy of the "Fit & Fun" Adaptive Sports Toolkit (Vol 1). 
 
 
 ### Adaptive Sports Toolkit Training
