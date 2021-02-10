@@ -52,6 +52,10 @@ Register now at www.go.gov.sg/isc2021
 
 For the programme outline, click [here](www.isc2021.sg) for more.
 
-In addition, feel free to read more about the [Disability Sports Master Plan](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-master-plan/)
+In addition, feel free to read more about the [Disability Sports Master Plan.](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-master-plan/)
 
 For more details on ISC 2021, please contact Ms. Stefanie Ang at <stefanie_ang@sport.gov.sg>
+
+
+
+###### All information is correct at the time of publishing.
