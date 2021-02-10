@@ -8,7 +8,7 @@ collection_name: initiatives
 
 ## Inclusive Sport Conference 2021
 
-The inaugural Inclusive Sport Conference 2021 (ISC 2021) will take place from **16 to 18 March**. The Conference is a signature platform where stakeholders from the disability sports ecosystem come together to share knowledge and promote inclusive practices as part of the Disability Sports Master Plan (DSMP). 
+The inaugural Inclusive Sport Conference 2021 (ISC 2021) will take place from **16 to 18 March**. The Conference is a signature platform where stakeholders from the disability sports ecosystem come together to share knowledge and promote inclusive practices as part of the [Disability Sports Master Plan (DSMP).](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-master-plan/) 
 
 ISC 2021 will be focusing on how Singapore can foster greater inclusivity with key stakeholders to build a collaborative ecosystem through partnerships as we forge forward together towards a more inclusive society through sports. Come join us and learn how we can build a more inclusive and sustainable future together!
 
@@ -18,7 +18,7 @@ This Conference will be conducted by the following organisations and a range of 
 
 **Host**
 
-**Sport Singapore** is a statutory board of the Ministry of Culture, Community and Youth. Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. For more details on the Disability Sports Master Plan, click [here.](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-master-plan/)
+**Sport Singapore** is a statutory board of the Ministry of Culture, Community and Youth. Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities.
 
 **Co-Hosts**
 
