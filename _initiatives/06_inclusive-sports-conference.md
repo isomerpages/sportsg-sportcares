@@ -7,7 +7,6 @@ collection_name: initiatives
 ---
 
 ## Inclusive Sport Conference 2021
-#### For All NROC Coaches
 
 The inaugural Inclusive Sport Conference 2021 (ISC 2021) will take place from **16 to 18 March**. The Conference is a signature platform where stakeholders from the disability sports ecosystem come together to share knowledge and promote inclusive practices as part of the Disability Sports Master Plan (DSMP). 
 
