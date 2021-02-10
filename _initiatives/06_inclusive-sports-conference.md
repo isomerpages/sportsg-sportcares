@@ -29,7 +29,10 @@ This Conference will be conducted by the following organisations and a range of 
 
 #### Date & Timing
 
-ISC 2021 will take place during the March 2021 school holidays: 16 to 18 March (Tues - Thurs), 9am to 5pm (Daily).
+ISC 2021 will take place during the March 2021 school holidays: 
+
+ * 16 to 18 March (Tues - Thurs)
+ * 9am to 5pm daily
 
 #### Venue
 
@@ -41,9 +44,8 @@ ISC 2021 is **FREE** for all to attend.
 
 #### CCE Hours
 
-NROC Coaches can claim up to 10 CCE hours from attending ISC 2021.  Do note the following:
+NROC Coaches can claim up to **10 CCE hours** from attending ISC 2021.  Do note the following:
  * Up to 5 CCE hours can be claimed for 1 full-day attendance at ISC 2021
-
  * Up to 2.5 CCE hours can be claimed for 0.5 day attendance at ISC 2021
 
 #### Registration
