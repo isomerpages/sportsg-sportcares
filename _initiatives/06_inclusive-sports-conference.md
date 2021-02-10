@@ -19,7 +19,7 @@ This Conference will be conducted by the following organisations and a range of 
 
 **Host**
 
-**Sport Singapore** is a statutory board of the Ministry of Culture, Community and Youth. Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. For more details, please visit (www.inclusivesport.sg) for details on the Disability Sports Master Plan.
+**Sport Singapore** is a statutory board of the Ministry of Culture, Community and Youth. Sport Singapore’s core purpose is to inspire the Singapore spirit and transform Singapore through sport. Through innovative, fun and meaningful sporting experiences, our mission is to reach out and serve communities across Singapore with passion and pride. With Vision 2030 – Singapore’s sports master plan, our mandate goes beyond winning medals. Sport Singapore uses sport to create greater sporting opportunities and access, more inclusivity and integration as well as broader development of capabilities. For more details, please visit [www.inclusivesport.sg] for details on the Disability Sports Master Plan.
 
 **Co-Hosts**
 
@@ -48,7 +48,7 @@ NROC Coaches can claim up to 10 CCE hours from attending ISC 2021.  Do note the 
 
 #### Registration
 
-Register now at (www.go.gov.sg/isc2021)
+Register now at [www.go.gov.sg/isc2021].
 
 For the programme outline, click [here](www.isc2021.sg) for more.
 
