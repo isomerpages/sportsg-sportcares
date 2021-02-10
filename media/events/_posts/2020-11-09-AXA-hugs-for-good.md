@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "(Happening Now) AXA For Good Campaign 2020"
+title:  "AXA For Good Campaign 2020"
 permalink: "/media/events/axa-hugs-for-good"
 category: events
 ---
