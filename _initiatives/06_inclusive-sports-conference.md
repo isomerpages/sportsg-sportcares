@@ -50,9 +50,9 @@ NROC Coaches can claim up to **10 CCE hours** from attending ISC 2021.  Do note 
 
 #### Registration
 
-To register for ISC 2021, click [here.](www.go.gov.sg/isc2021)
+To register for ISC 2021, click [here.](https://go.gov.sg/isc2021)
 
-For the programme outline, click [here](www.isc2021.sg) for more.
+For the programme outline, click [here](https://isc2021.sg) for more.
 
 For more details on ISC 2021, please contact Ms. Stefanie Ang at <stefanie_ang@sport.gov.sg>
 
