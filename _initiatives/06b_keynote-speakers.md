@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 title: Keynote Speakers
 permalink: /initiatives/keynote-speakers/
-breadcrumb: inclusive sports conference
+breadcrumb: initiatives
 collection_name: initiatives
-second_nav_title: "Keynote Speakers"
+second_nav_title: "Inclusive Sport Conference"
 ---
 
 ## test
