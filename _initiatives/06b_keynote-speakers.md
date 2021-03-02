@@ -7,4 +7,4 @@ collection_name: initiatives
 second_nav_title: "Inclusive Sport Conference"
 ---
 
-## test
+![Keynote Speakers](/images/ISC2021_EDM.jpg)
