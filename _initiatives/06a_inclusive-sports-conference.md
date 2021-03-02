@@ -1,9 +1,10 @@
 ---
 layout: leftnav-page-content
-title: Inclusive Sport Conference 
+title: Overview
 permalink: /initiatives/inclusive-sports-conference/
 breadcrumb: inclusive sports conference
 collection_name: initiatives
+second_nav_title: "Inclusive Sport Conference"
 ---
 
 ## Inclusive Sport Conference 2021
