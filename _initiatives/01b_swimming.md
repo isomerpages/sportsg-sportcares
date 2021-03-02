@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Football
+title: Swimming
 permalink: /initiatives/swimming/
 breadcrumb: initiatives
 collection_name: initiatives
