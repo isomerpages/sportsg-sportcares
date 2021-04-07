@@ -11,5 +11,5 @@ second_nav_title: "Inclusive Sport Conference 2021"
 
 | Video | Synopsis |
 | --- | --- |
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/A1cYR2ujHRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | List all new or modified files |
+| <iframe width="560" height="315" src="https://www.youtube.com/embed/bOKXQj6MfC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
