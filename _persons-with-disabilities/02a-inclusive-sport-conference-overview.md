@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sport Conference 2021"
 ---
 
-![ISC](/images/isc01.jpg)
+![ISC](/images/isc01a.jpg)
 
 Hosted by the Ministry of Culture, Community and Youth (MCCY) and Sport Singapore (SportSG), and co-hosted by Singapore Disability Sports Council and Special Olympics Singapore, the inaugural Inclusive Sport Conference 2021 (ISC 2021) took place from 16 – 18 March.
 
@@ -15,7 +15,7 @@ Emphasising the importance of embracing inclusivity within the community, Presid
 
 The three-day virtual conference discussed topics ranging from the individual level to community and ecosystem levels, targeting specific focus areas and knowledge gaps surrounding inclusion and adapted sports. The conference aims to strengthen Singapore’s ecosystem for inclusive sports by first establishing a baseline on disability sports and capability building, with a long-term view towards international and regional partnerships.
 
-![ISC](/images/isc02.jpg)
+![ISC](/images/isc02a.jpg)
 
 Themed Forge Forward Together tying in with its tagline Towards an Inclusive Society through Sports, the conference takes a multi-pronged approach to inform the basis of the ecosystem surrounding disability sports, with its sub-themes focusing on:
 
