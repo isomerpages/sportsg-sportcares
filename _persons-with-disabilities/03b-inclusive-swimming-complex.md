@@ -4,7 +4,7 @@ title: Swimming Pools
 permalink: /persons-with-disabilities/inclusive-swimming-pools/
 breadcrumb: Inclusive Sports Facilities
 collection_name: persons-with-disabilities
-second_nav_title: "Inclusive Sports Facilities"
+second_nav_title: "Inclusive Sport Facilities"
 ---
 
 ActiveSG’s inclusive swimming pools are fitted with ramps leading into the pools. Swimming pool wheelchairs are available at selected swimming complexes that have pools with ramps. Visitors may seek the assistance of the pool’s lifeguards or guest officers if they wish to use the swimming pool wheelchairs to enter the pool. 
