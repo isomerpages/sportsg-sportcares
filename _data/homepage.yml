@@ -26,17 +26,14 @@ button:
 # Key Highlights
 key-highlights:
   - title: Inclusive Sport Conference 2021
-    description: Learn how sport empowers PWDs & Special Needs individuals
-    url: /initiatives/inclusive-sports-conference
-  - title: Sport for Persons with Disabilities
-    description: Inclusive sport resources suitable for individuals of all abilities
-    url: /persons-with-disabilities/disability-sports-master-plan/
+    description: Sport for PWDs & Special Needs individuals
+    url: /persons-with-disabilities/isc-overview/
   - title: Fit & Fun Adaptive Sports Toolkit
     description: Adaptive sport activities enabling seniors to enjoy sport and stay fit
     url: /programme-and-impact/adaptive-sports-toolkit/
-  - title: Phase 3 Sport Resumption Advisory
+  - title: Latest Sport Resumption Advisory
     description: Details on updated Safe Management Measures
-    url: https://www.myactivesg.com/read/2020/12/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-three-safe-nation
+    url: https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/April/Addendum-To-Information-On-Organising-Sport-Event-Pilots
 
 # Resources Section
 resources-title: Media Centre
