@@ -4,7 +4,7 @@ title: Overview
 permalink: /persons-with-disabilities/Inclusive-Sports-Facilities/
 breadcrumb: Sports Facilities
 collection_name: persons-with-disabilities
-second_nav_title: "Inclusive Sports Facilities"
+second_nav_title: "Inclusive Sport Facilities"
 ---
 
 ##### Inclusive ActiveSG Facilities
