@@ -4,7 +4,7 @@ title: Inclusive Sports Festival
 permalink: /persons-with-disabilities/inclusive-sports-festival/
 breadcrumb: inclusive events
 collection_name: persons-with-disabilities
-second_nav_title: "Events"
+second_nav_title: "Inclusive Sport Events"
 ---
 
 ![Inclusive Sports Festival](/images/Inclusive_Sports_Festival.jpg)
