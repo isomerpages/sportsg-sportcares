@@ -12,5 +12,5 @@ second_nav_title: "Inclusive Sport Conference 2021"
 
 | Programme | Links |
 | --- | --- |
-| Applying principles of inclusive physical activity in the home, at school and the wider environment. *Presenter: Ken Black (The Inclusion Club)* | List all new or modified files |
+| **Applying principles of inclusive physical activity in the home, at school and the wider environment.**<br>*Presenter: Ken Black (The Inclusion Club)* | Watch the video [here.](https://www.youtube.com/watch?v=bOKXQj6MfC4&list=PLq_iyD5SmqtbG9RGam919OstsmGcF6iB2&index=2)<br>Click here for the slides.<br>Click here for the transcript. |
 | git diff | Show file differences that haven't been staged |
