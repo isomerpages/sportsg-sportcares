@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sport Conference 2021"
 ---
 
-### Resources from Day 1 of the Inclusive Sport Conference 2021
+#### Resources from Day 1 of the Inclusive Sport Conference 2021
 
 
 | Programme | Links |
