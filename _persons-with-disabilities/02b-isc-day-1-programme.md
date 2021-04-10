@@ -7,12 +7,11 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sport Conference 2021"
 ---
 
-#### Resources from Day 1, Inclusive Sport Conference 2021
+#### Resources from Day 1 of the Inclusive Sport Conference 2021
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bOKXQj6MfC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-| Video | Synopsis |
+| Programme | Links |
 | --- | --- |
-| <iframe width="560" height="315" src="https://www.youtube.com/embed/bOKXQj6MfC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> | List all new or modified files |
+| Keynote Presentation | List all new or modified files |
+  ahsbdhbfbebbasbdjasb
 | git diff | Show file differences that haven't been staged |
