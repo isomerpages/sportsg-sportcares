@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 second_nav_title: "Inclusive Sport Conference 2021"
 ---
 
-#### Resources from Day 1 of the Inclusive Sport Conference 2021
+### Resources from Day 1 of the Inclusive Sport Conference 2021
 
 
 | Programme | Links |
@@ -19,8 +19,5 @@ second_nav_title: "Inclusive Sport Conference 2021"
 | **Hangout with Athletes Adelia Naomi Yokoyama & Lim Jia Yi**<br>*Deaf Sports Association* | [Presentation video](https://www.youtube.com/watch?v=Isk-DDaDRKM&list=PLq_iyD5SmqtbG9RGam919OstsmGcF6iB2&index=5) |
 | **Hangout with Athletes (Physical Impairment) Pauline Ang & Nur'Aini Binte Mohamad Yasli**<br>*Singapore Disability Sports Council* | [Presentation video](https://www.youtube.com/watch?v=_MlcOtIEy7M&list=PLq_iyD5SmqtbG9RGam919OstsmGcF6iB2&index=5)<br><a href="/misc/transcript_4.pdf">Transcript</a> |
 | **Hangout with Athletes (Intellectual Impairment) Loh Ngiap Kiang, Suhairi Suhani, Salihin Bin Nawi & Cassandra Lee**<br>*Singapore Disability Sports Council & Special Olympics Singapore* | [Presentation video](https://www.youtube.com/watch?v=TPia1DnAavw&list=PLq_iyD5SmqtbG9RGam919OstsmGcF6iB2&index=6)<br><a href="/misc/transcript_5.pdf">Transcript</a> |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
-| git diff | Show file differences that haven't been staged |
+| **Sports Pathway - Recreational to High Performance**<br>*Presenter: Justinian Chua (Singapore Disability Sports Council)* | [Presentation video](https://www.youtube.com/watch?v=qGtsec3MQ60&list=PLq_iyD5SmqtbG9RGam919OstsmGcF6iB2&index=7)<br><a href="/misc/transcript_6.pdf">Transcript</a> |
+
