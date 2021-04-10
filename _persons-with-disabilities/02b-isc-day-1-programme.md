@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Day 1 Programme
+title: Resources from Day 1
 permalink: /persons-with-disabilities/isc-day-1-programme/
 breadcrumb: Inclusive Sport Conference
 collection_name: persons-with-disabilities
