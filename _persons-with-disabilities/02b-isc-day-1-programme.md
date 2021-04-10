@@ -12,5 +12,5 @@ second_nav_title: "Inclusive Sport Conference 2021"
 
 | Programme | Links |
 | --- | --- |
-| Keynote Presentation<br>fayeruzishandsome | List all new or modified files |
+| Keynote Presentation<br>Applying principles of inclusive physical activity in the home, at school and the wider environment.<br>Ken Black (The Inclusion Club) | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
