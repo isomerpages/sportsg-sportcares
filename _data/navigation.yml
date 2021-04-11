@@ -65,8 +65,8 @@
     url: /media/stories/
   - title: Events
     url: /media/events/
-  - title: Press Releases
-    url: /media/press-release
+  - title: Press Release
+    url: /media/press-release/
   
 - title: Contact Us
   url: /contact-us/
