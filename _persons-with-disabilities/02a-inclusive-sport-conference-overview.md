@@ -24,3 +24,5 @@ Themed Forge Forward Together tying in with its tagline Towards an Inclusive Soc
 3. Co-creation of projects and initiatives for greater social integration through sports
 
 ISC 2021 attracted more than 700 registered participants including persons with disabilities and their families, Special Olympics athletes, sport practitioners, educators, students, allied professionals, caregivers and volunteers. Keynote speakers include Mr Ken Black from The Inclusion Club, Dr Teo-Koh Sock Miang from the Singapore Disability Sports Council and Captain Roger Loh from Special Olympics Singapore.
+
+For more details on ISC 2021, please contact Ms. Stefanie Ang at <stefanie_ang@sport.gov.sg>
