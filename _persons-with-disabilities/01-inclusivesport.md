@@ -7,7 +7,7 @@ collection_name: persons-with-disabilities
 ---
 
 ### Notice:
-* For the latest advisories on resumption of sport activities, please [refer here](https://www.myactivesg.com/read/2020/12/advisory-for-resumption-of-sport-and-physical-exercise-and-activity-for-phase-three-safe-nation)
+* For the latest advisories on resumption of sport activities, please [refer here](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/April/Addendum-To-Information-On-Organising-Sport-Event-Pilots)
 * We have prepared some stay at home activities so the community can continue to stay active. You may visit the Stay at Home Activities Page [here](/persons-with-disabilities/stay-at-home-activities/)!
 
 ### Sport for Persons with Disabilities

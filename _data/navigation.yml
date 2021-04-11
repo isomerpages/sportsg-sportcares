@@ -39,22 +39,20 @@
     url: /initiatives/sportcares-awards/
   - title: SportCares Grants
     url: /initiatives/sportcares-grants/
-  - title: Inclusive Sports Festival
-    url: /initiatives/inclusive-sports-festival/
-  - title: Play Inclusive
-    url: /initiatives/play-inclusive
-  - title: Inclusive Sport Conference
-    url: /initiatives/inclusive-sports-conference/
     
 - title: Sport for Pwd
   url: /persons-with-disabilities/disability-sports-master-plan/
   sub-links:
   - title: Disability Sports Master Plan
     url: /persons-with-disabilities/disability-sports-master-plan/
-  - title: Sports Facilities
+  - title: Inclusive Sport Conference
+    url: /persons-with-disabilities/isc-overview/
+  - title: Inclusive Sport Facilities
     url: /persons-with-disabilities/inclusive-sports-facilities/
-  - title: Programmes
+  - title: Sports Programmes
     url: /persons-with-disabilities/disability-sports-programmes/
+  - title: Inclusive Sport Events
+    url: /persons-with-disabilities/inclusive-sports-festival/
   - title: Volunteering Opportunities
     url: /persons-with-disabilities/volunteer/
   - title: Resources and Links
@@ -67,8 +65,8 @@
     url: /media/stories/
   - title: Events
     url: /media/events/
-  - title: Press Releases
-    url: /media/press-release
+  - title: Press Release
+    url: /media/press-release/
   
 - title: Contact Us
   url: /contact-us/
