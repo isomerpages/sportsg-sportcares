@@ -21,4 +21,4 @@ Over the past 3 months, participants had the opportunity to exercise online toge
 
 “I enjoyed myself very much over the past three months, getting to play sport with my classmates and my new friends from ITE College West. It was fun when we played games together and I felt that I could keep myself healthy. This is the first time I joined Play Inclusive and I look forward to continue our play sessions together after this,” said Chong Jun Fong, 18, from APSN Delta Senior School.
 
-For more information on Play Inclusive, click [here](/initiatives/play-inclusive/)
+For more information on Play Inclusive, click [here](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/play-inclusive/)
