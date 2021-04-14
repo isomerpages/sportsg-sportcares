@@ -48,9 +48,9 @@ collection_name: about-sportcares
 
 ### SportCares Leadership & Teams
 
-<B>Mr Kerk Kim Por</B>
+<B>Mr Shawn Lim</B>
 <BR>Head, SportCares 
-<BR><kerk_kim_por@sport.gov.sg>
+<BR><shawn_lim@sport.gov.sg>
 
 <B>Dr. Katrina Hall-Engle</B>
 <BR>Deputy Head, SportCares 

@@ -19,4 +19,4 @@ ISF's programming has also evolved from a gathering of sport try-outs in 2017 to
 
 >>"Sport has the ability to enhance the physical, social and emotional well-being of people and I think persons with disabilities should equally access the benefits.  The Inclusive Sports Festival aims to do that, to bring sports to people of all abilities." then Minister for Culture, Community and Youth, Grace Fu.
 
-__In March 2021, SportCares hosted the inaugural [Inclusive Sport Conference](/initiatives/inclusive-sports-conference/) that serves to continue the conversations and initiatives built from the Inclusive Sports Festival.__
+__In March 2021, SportCares hosted the inaugural [Inclusive Sport Conference](https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/isc-overview/) that serves to continue the conversations and initiatives built from the Inclusive Sports Festival.__
