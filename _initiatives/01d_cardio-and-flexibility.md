@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Cardio & Flexibility
+title: 'Cardio & Flexibility'
 permalink: /initiatives/cardio-and-flexibility/
 breadcrumb: initiatives
-collection_name: initiatives
-second_nav_title: "COVID-19 Sport & Fitness Resources"
+third_nav_title: 'COVID-19 Sport & Fitness Resources'
+
 ---
+
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
 
