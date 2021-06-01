@@ -1,13 +1,25 @@
 logo: /images/sportcares-logo.png
 links:
     - title: 'Who we are'
-      collection: who-we-are
+      false_collection: true
+      url: /about-sportcares/who-we-are/
+      sublinks:
+        - title: About SportCares
+          url: /about-sportcares/who-we-are/
+        - title: Patron, Advisory Board & Teams
+          url: /about-sportcares/advisory-board/
+        - title: Communities of Care
+          url: /about-sportcares/communities-of-care/
+        - title: Corporate Information
+          url: /about-sportcares/corporate-information/
+        - title: Donate to SportCares
+          url: https://www.giving.sg/vision2030/changelives
     - title: 'Programmes & Impact'
-      collection: programmes-impact
+      collection: programme-and-impact
     - title: Initiatives
       collection: initiatives
     - title: 'Sport for Pwd'
-      collection: sport-for-pwd
+      collection: persons-with-disabilities
     - title: 'Media Centre'
       resource_room: true
     - title: 'Contact Us'
