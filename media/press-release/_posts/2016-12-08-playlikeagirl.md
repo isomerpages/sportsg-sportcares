@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Play Like a Girl, Break The Silence | Against Family Violence
-date:   2016-12-08
+title: 'Play Like a Girl, Break The Silence | Against Family Violence'
+date: 2016-12-08T00:00:00.000Z
 permalink: /media/press-release/play-like-a-girl-2016/
+
 ---
+
 
 
 **Singapore, 8 December 2016** – Through the influence and reach of football, SportCares had an important conversation today about family violence to a group of girls and young women. 
