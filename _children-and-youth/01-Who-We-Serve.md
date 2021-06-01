@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Who We Serve
+title: 'Who We Serve'
 permalink: /children-and-youth/
-breadcrumb: Children and Youth
-collection_name: children-and-youth
+breadcrumb: 'Children and Youth'
+
 ---
+
 
 Singaporean youth come up tops when it comes to enjoying a high quality of life while being able to tap on some of the best opportunities the country has to offer.
 
