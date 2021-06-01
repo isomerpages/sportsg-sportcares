@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Football
 permalink: /initiatives/football/
 breadcrumb: initiatives
-collection_name: initiatives
-second_nav_title: "COVID-19 Sport & Fitness Resources"
+third_nav_title: 'COVID-19 Sport & Fitness Resources'
+
 ---
+
 
 ![Stay Strong, Stay United](/images/staystrongstayunited.jpg)
 

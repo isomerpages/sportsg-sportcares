@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Disability Sports Providers
+title: 'Disability Sports Providers'
 permalink: /persons-with-disabilities/resources/
-breadcrumb: Resources and Useful Links
-collection_name: persons-with-disabilities
-second_nav_title: "Resources"
+breadcrumb: 'Resources and Useful Links'
+third_nav_title: Resources
+
 ---
+
 
 ### National Sports Associations (NSA)
 

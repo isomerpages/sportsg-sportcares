@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Teaching Materials
+title: 'Teaching Materials'
 permalink: /persons-with-disabilities/teaching-materials/
-breadcrumb: Resources and Useful Links
-collection_name: persons-with-disabilities
-second_nav_title: "Resources"
+breadcrumb: 'Resources and Useful Links'
+third_nav_title: Resources
+
 ---
+
 
 The following sports visual aids are available free for caregivers and educators to use. Images are available in jpeg, png and pdf format. To suggest more sports and images, please email inclusivesport@sport.gov.sg!
 

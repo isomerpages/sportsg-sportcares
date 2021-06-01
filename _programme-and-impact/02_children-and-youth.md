@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Sport for Children & Youth Development
+title: 'Sport for Children & Youth Development'
 permalink: /programme-and-impact/children-and-youth/
 breadcrumb: children-and-youth
-collection_name: programme-and-impact
+
 ---
+
 
 ![Alternative text for screen readers](/images/Children_youth_programme.png)
 

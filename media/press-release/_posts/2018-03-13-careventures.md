@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  CareVentures Pilot
-date:   2018-06-30
+title: 'CareVentures Pilot'
+date: 2018-06-30T00:00:00.000Z
 permalink: /media/press-release/careventures-2018/
+
 ---
+
 
 
 #### CareVentures – Strangers to Friends

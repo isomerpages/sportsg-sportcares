@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Programmes
 permalink: /children-and-youth/programmes/
-breadcrumb: Children and Youth
-collection_name: children-and-youth
+breadcrumb: 'Children and Youth'
+
 ---
+
 
 ![Alternative text for screen readers](/images/youth-programmes.jpg)
 

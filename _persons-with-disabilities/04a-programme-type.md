@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Programme Offerings
+title: 'Programme Offerings'
 permalink: /persons-with-disabilities/disability-sports-programmes/
-breadcrumb: Programme Offerings
-collection_name: persons-with-disabilities
-second_nav_title: "Sports Programmes"
+breadcrumb: 'Programme Offerings'
+third_nav_title: 'Sports Programmes'
+
 ---
+
 
 #### Through pilot projects, focus groups, needs sensing, and speaking to stakeholders in the community, we have designed several programmes that serve different needs and gaps in the disability sports industry. 
 

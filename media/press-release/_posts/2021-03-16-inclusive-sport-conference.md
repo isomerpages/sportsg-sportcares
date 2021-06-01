@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "President Encourages Persons With Disabilities To Play Sport Regularly At The Inaugural Inclusive Sport Conference 2021"
-permalink: "/media/press-release/inclusive-sport-conference"
-category: press release
+title: 'President Encourages Persons With Disabilities To Play Sport Regularly At The Inaugural Inclusive Sport Conference 2021'
+permalink: /media/press-release/inclusive-sport-conference
+category: 'press-release'
+
 ---
+
 
 #### President Encourages Persons With Disabilities To Play Sport Regularly At The Inaugural Inclusive Sport Conference 2021
 

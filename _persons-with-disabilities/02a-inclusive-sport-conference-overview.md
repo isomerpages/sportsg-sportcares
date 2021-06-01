@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /persons-with-disabilities/isc-overview/
-breadcrumb: Inclusive Sport Conference
-collection_name: persons-with-disabilities
-second_nav_title: "Inclusive Sport Conference 2021"
+breadcrumb: 'Inclusive Sport Conference'
+third_nav_title: 'Inclusive Sport Conference 2021'
+
 ---
+
 
 ![ISC](/images/isc01a.jpg)
 

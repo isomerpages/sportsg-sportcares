@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Play Inclusive 2019"
-permalink: "/media/press-release/play-inclusive-2019"
-category: press release
+title: 'Play Inclusive 2019'
+permalink: /media/press-release/play-inclusive-2019
+category: 'press-release'
+
 ---
+
 
 ![Play Inclusive 2019](/images/Play_Inclusive_2019.jpg)
 

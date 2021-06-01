@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Inclusive Sports Festival 2017
-date:   2017-07-29
+title: 'Inclusive Sports Festival 2017'
+date: 2017-07-29T00:00:00.000Z
 permalink: /media/press-release/inclusive-sports-festival-2017/
+
 ---
+
 
 
 #### A weekend of inclusive sports activities at the soft-launch of sports facilities at Our Tampines Hub

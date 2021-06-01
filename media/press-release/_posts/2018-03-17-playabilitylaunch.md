@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Official Launch - Play-Ability
-date:   2018-03-17
+title: 'Official Launch - Play-Ability'
+date: 2018-03-17T00:00:00.000Z
 permalink: /media/press-release/playability-launch/
+
 ---
+
 
 #### Sport ‘Play-Ability’ For All
 

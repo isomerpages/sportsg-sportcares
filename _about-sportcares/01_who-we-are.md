@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: About SportCares
+title: 'About SportCares'
 permalink: /about-sportcares/who-we-are/
-breadcrumb: who we are
-collection_name: about-sportcares
+breadcrumb: 'who we are'
+
 ---
+
 
 ![Alternative text for screen readers](/images/about-us-main.jpg)
 

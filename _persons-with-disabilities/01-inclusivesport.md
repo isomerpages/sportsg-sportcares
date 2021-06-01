@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Disability Sports Master Plan
+title: 'Disability Sports Master Plan'
 permalink: /persons-with-disabilities/disability-sports-master-plan/
-breadcrumb: Disability Sports Master Plan
-collection_name: persons-with-disabilities
+breadcrumb: 'Disability Sports Master Plan'
+
 ---
+
 
 ### Notice:
 * For the latest advisories on resumption of sport activities, please [refer here](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/April/Addendum-To-Information-On-Organising-Sport-Event-Pilots)

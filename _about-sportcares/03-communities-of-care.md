@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Communities of Care
+title: 'Communities of Care'
 permalink: /about-sportcares/communities-of-care/
-breadcrumb: communities of care
-collection_name: about-sportcares
+breadcrumb: 'communities of care'
+
 ---
+
 
 ![Communities of Care](/images/communities-of-care-1.jpg)
 

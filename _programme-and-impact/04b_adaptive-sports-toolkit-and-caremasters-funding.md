@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Adaptive Sports Toolkit & CareMasters Funding
+title: 'Adaptive Sports Toolkit & CareMasters Funding'
 permalink: /programme-and-impact/adaptive-sports-toolkit/
 breadcrumb: vulnerable-seniors
-collection_name: programme-and-impact
-second_nav_title: "Sport for Vulnerable Seniors"
+third_nav_title: 'Sport for Vulnerable Seniors'
+
 ---
+
 
 ### "Fit & Fun" Adaptive Sports Toolkit
 

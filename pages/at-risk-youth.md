@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: For Youths at Risk
+title: 'For Youths at Risk'
 permalink: /testing2
-breadcrumb: For Youth at Risk
+breadcrumb: 'For Youth at Risk'
+
 ---
+
 #### For At-Risk Youth
 Great sports programming is only the beginning for the at-risk youth in our programmes. Because through sports, comes myriad possibilities.
 

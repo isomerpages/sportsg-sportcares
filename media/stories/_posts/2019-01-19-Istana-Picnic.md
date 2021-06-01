@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Unsung Heroes Lauded at SportCares Awards 2019"
-permalink: "/media/stories/istana-picnic"
+title: 'Unsung Heroes Lauded at SportCares Awards 2019'
+permalink: /media/stories/istana-picnic
 category: stories
+
 ---
+
 
 ![Istana Picnic](/images/Istana_Picnic_2.jpg)
 
