@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Taking Root in a Community of Care
-date:   2018-01-01
+title: 'Taking Root in a Community of Care'
+date: 2018-01-01T00:00:00.000Z
 permalink: /media/stories/playability-taking-root/
+
 ---
+
 
 ![Play-Ability](/images/PlayAbility_Article.jpg)
 
