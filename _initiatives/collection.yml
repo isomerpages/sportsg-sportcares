@@ -1,0 +1,12 @@
+collections:
+  initiatives:
+    output: true
+    order:
+      - covid-19-sport-fitness-resources/.keep
+      - covid-19-sport-fitness-resources/football.md
+      - covid-19-sport-fitness-resources/swimming.md
+      - covid-19-sport-fitness-resources/athletics.md
+      - covid-19-sport-fitness-resources/cardio-flexibility.md
+      - covid-19-sport-fitness-resources/inclusive-fitness-videos.md
+      - sportcares-awards.md
+      - sportcares-grants.md
