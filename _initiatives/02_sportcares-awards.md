@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: SportCares Awards
+title: 'SportCares Awards'
 permalink: /initiatives/sportcares-awards/
-breadcrumb: sportcares awards
-collection_name: initiatives
+breadcrumb: 'sportcares awards'
+
 ---
+
 
 ![SportCares Awards](/images/SportCares_Awards.jpg)
 
