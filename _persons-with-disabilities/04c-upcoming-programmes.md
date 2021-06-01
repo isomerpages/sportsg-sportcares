@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Upcoming Programmes
+title: 'Upcoming Programmes'
 permalink: /persons-with-disabilities/upcoming-programmes/
-breadcrumb: Upcoming Programmes
-collection_name: persons-with-disabilities
-second_nav_title: "Sports Programmes"
+breadcrumb: 'Upcoming Programmes'
+third_nav_title: 'Sports Programmes'
+
 ---
+
 
 **Open Badminton Sessions for Adults with ASD (16 and above)**
 * Every Thursday
