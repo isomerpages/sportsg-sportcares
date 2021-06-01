@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Play-Abilty
 permalink: /play-ability/
 breadcrumb: play-ability
+
 ---
+
 #### What is Play-Ability
 Play-Ability is a recreational sports programme for persons with disabilities (PWDs) that allows PWDs to enjoy sports ina  fun & engaging social settings.
 
