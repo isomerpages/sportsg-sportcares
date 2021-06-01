@@ -1,0 +1,26 @@
+collections:
+  persons-with-disabilities:
+    output: true
+    order:
+      - disability-sports-master-plan.md
+      - inclusive-sport-conference-2021/.keep
+      - inclusive-sport-conference-2021/overview.md
+      - inclusive-sport-conference-2021/resources-from-day-1.md
+      - inclusive-sport-conference-2021/resources-from-day-2.md
+      - inclusive-sport-conference-2021/resources-from-day-3.md
+      - inclusive-sport-facilities/.keep
+      - inclusive-sport-facilities/overview.md
+      - inclusive-sport-facilities/swimming-pools.md
+      - inclusive-sport-facilities/gyms.md
+      - sports-programmes/.keep
+      - sports-programmes/programme-offerings.md
+      - sports-programmes/ongoing-programmes.md
+      - sports-programmes/upcoming-programmes.md
+      - inclusive-sport-events/.keep
+      - inclusive-sport-events/inclusive-sports-festival.md
+      - inclusive-sport-events/play-inclusive.md
+      - volunteering-opportunities.md
+      - resources/.keep
+      - resources/stay-at-home-activities.md
+      - resources/teaching-materials.md
+      - resources/disability-sports-providers.md
