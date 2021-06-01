@@ -1,7 +1,7 @@
 ---
 title: 'Addendum To Advisory On Safe Resumption Of Sport And Physical Exercise & Activity For Phase Three (“Safe Nation”) – Information On Organising Sport Event Pilots'
 permalink: /media/press-release/addendum-to-smm
-category: 'press release'
+category: 'press-release'
 
 ---
 
