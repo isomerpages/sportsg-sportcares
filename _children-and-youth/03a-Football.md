@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Football
 permalink: /children-and-youth/resources-football/
-breadcrumb: Children and Youth
-collection_name: children-and-youth
-second_nav_title: "Train at Home"
+breadcrumb: 'Children and Youth'
+third_nav_title: 'Train at Home'
+
 ---
+
 
 The Circuit Breaker is no reason to stop exercising! Use your time to learn new skills or refresh old ones! These videos were created together with our SportCares coaches and sport providers with children and youth in mind. 
 To get notified whenever a new video is uploaded, subscribe to [SportCaresTV Stay Strong, Stay United Fitness Video Playlist](https://www.youtube.com/playlist?list=PLcB7q5Kh1WQp429yGtLz9sApMMJVkysNR).
