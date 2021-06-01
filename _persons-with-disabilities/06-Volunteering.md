@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Volunteering Opportunities
+title: 'Volunteering Opportunities'
 permalink: /persons-with-disabilities/volunteer/
-breadcrumb: Volunteering Opportunities
-collection_name: persons-with-disabilities
+breadcrumb: 'Volunteering Opportunities'
+
 ---
+
 
 #### Play-Ability Sports Buddy
 We are looking for regular sports buddies to serve as befrienders to beneficiaries of the programme! As a Sports Buddy, you will:
