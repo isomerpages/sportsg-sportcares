@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
-title: Stay At Home Activities
+title: 'Stay At Home Activities'
 permalink: /persons-with-disabilities/stay-at-home-activities/
-breadcrumb: Resources and Useful Links
-collection_name: persons-with-disabilities
-second_nav_title: "Resources"
+breadcrumb: 'Resources and Useful Links'
+third_nav_title: Resources
+
 ---
+
 
 #### Bookmark this Page for More Inclusive Fitness Workout Videos!
 
