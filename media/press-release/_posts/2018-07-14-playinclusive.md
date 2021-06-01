@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  Play Inclusive 2018
-date:   2018-07-14
+title: 'Play Inclusive 2018'
+date: 2018-07-14T00:00:00.000Z
 permalink: /media/press-release/play-inclusive-2018/
+
 ---
+
 
 #### The biggest unified sport competition in Singapore
 
