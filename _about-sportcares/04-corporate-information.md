@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Corporate Information
+title: 'Corporate Information'
 permalink: /about-sportcares/corporate-information/
-breadcrumb: corporate information
-collection_name: about-sportcares
+breadcrumb: 'corporate information'
+
 ---
+
 
 ### IPC Status
 SportCares
