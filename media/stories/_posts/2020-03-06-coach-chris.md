@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "More Than Just A Coach"
-permalink: "/media/stories/coach-chris"
+title: 'More Than Just A Coach'
+permalink: /media/stories/coach-chris
 category: stories
+
 ---
+
 
 ### More Than Just A Coach
 
