@@ -1,11 +1,11 @@
 ---
-layout: leftnav-page-content
 title: Overview
 permalink: /programme-and-impact/vulnerable-seniors/
 breadcrumb: vulnerable-seniors
-collection_name: programme-and-impact
-second_nav_title: "Sport for Vulnerable Seniors"
+third_nav_title: 'Sport for Vulnerable Seniors'
+
 ---
+
 
 ![Alternative text for screen readers](/images/Seniors_picture.jpg)
 
