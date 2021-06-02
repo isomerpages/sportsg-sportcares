@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'My GPS For Life'
 permalink: /media/stories/rafiqin
 category: stories

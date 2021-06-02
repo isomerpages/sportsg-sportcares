@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Inclusive Sport Conference 2021'
 permalink: /media/events/inclusive-sport-conference-2021
 category: events
