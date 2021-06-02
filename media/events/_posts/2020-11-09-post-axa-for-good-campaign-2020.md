@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'AXA For Good Campaign 2020'
 permalink: /media/events/axa-hugs-for-good
 category: events

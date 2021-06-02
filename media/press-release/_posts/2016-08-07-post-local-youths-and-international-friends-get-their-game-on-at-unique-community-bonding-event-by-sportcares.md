@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Local Youths and International Friends Get their Game ON at Unique Community Bonding Event by SportCares'
 date: 2016-08-07T00:00:00.000Z
 permalink: /media/press-release/game-on-2016/

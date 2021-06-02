@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Expanding Her Horizons'
 permalink: /media/stories/zana
 category: stories
