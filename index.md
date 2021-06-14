@@ -19,7 +19,7 @@ sections:
           url: /programme-and-impact/adaptive-sports-toolkit/
         - title: Latest Sport Resumption Advisory
           description: Safe Management Measures
-          url: https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/April/Addendum-To-Information-On-Organising-Sport-Event-Pilots
+          url: https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2021/June/Calibrated-Easing-of-SMM-for-Sport
   - resources:
       title: Be in the know
       subtitle: Media Centre
