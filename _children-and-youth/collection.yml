@@ -1,0 +1,11 @@
+collections:
+  children-and-youth:
+    output: true
+    order:
+      - who-we-serve.md
+      - programmes.md
+      - train-at-home/.keep
+      - train-at-home/football.md
+      - train-at-home/swimming.md
+      - train-at-home/athletics.md
+      - train-at-home/strength-cardio-and-flexibility.md

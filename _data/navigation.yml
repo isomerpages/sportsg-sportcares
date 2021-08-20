@@ -1,73 +1,26 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Who we are
-  url: /about-sportcares/who-we-are/
-  sub-links:
-  - title: About SportCares
-    url: /about-sportcares/who-we-are/
-  - title: Patron, Advisory Board & Teams
-    url: /about-sportcares/advisory-board/
-  - title: Communities of Care
-    url: /about-sportcares/communities-of-care/
-  - title: Corporate Information
-    url: /about-sportcares/corporate-information/
-  - title: Donate to SportCares
-    url: https://www.giving.sg/vision2030/changelives
-  
-- title: Programmes & Impact
-  url: /programme-and-impact/overview/
-  sub-links:
-  - title: Overview
-    url: /programme-and-impact/overview/
-  - title: Sport for Children & Youth Development
-    url: /programme-and-impact/children-and-youth/
-  - title: Sport for Persons with Disabilities
-    url: /programme-and-impact/persons-with-disabilities/
-  - title: Sport for Vulnerable Seniors
-    url: /programme-and-impact/vulnerable-seniors/
- 
-- title: Initiatives
-  url: /initiatives/sportcares-awards/
-  sub-links:
-  - title: COVID-19 Sport & Fitness Resources
-    url: /initiatives/football
-  - title: SportCares Awards
-    url: /initiatives/sportcares-awards/
-  - title: SportCares Grants
-    url: /initiatives/sportcares-grants/
-    
-- title: Sport for Pwd
-  url: /persons-with-disabilities/disability-sports-master-plan/
-  sub-links:
-  - title: Disability Sports Master Plan
-    url: /persons-with-disabilities/disability-sports-master-plan/
-  - title: Inclusive Sport Conference
-    url: /persons-with-disabilities/isc-overview/
-  - title: Inclusive Sport Facilities
-    url: /persons-with-disabilities/inclusive-sports-facilities/
-  - title: Sports Programmes
-    url: /persons-with-disabilities/disability-sports-programmes/
-  - title: Inclusive Sport Events
-    url: /persons-with-disabilities/inclusive-sports-festival/
-  - title: Volunteering Opportunities
-    url: /persons-with-disabilities/volunteer/
-  - title: Resources and Links
-    url: /persons-with-disabilities//stay-at-home-activities/
-
-- title: Media Centre
-  url: /media/
-  sub-links:
-  - title: Featured Stories
-    url: /media/stories/
-  - title: Events
-    url: /media/events/
-  - title: Press Release
-    url: /media/press-release/
-  
-- title: Contact Us
-  url: /contact-us/
-  
+logo: /images/sportcares-logo.png
+links:
+    - title: 'Who we are'
+      false_collection: true
+      url: /about-sportcares/who-we-are/
+      sublinks:
+        - title: About SportCares
+          url: /about-sportcares/who-we-are/
+        - title: Patron, Advisory Board & Teams
+          url: /about-sportcares/advisory-board/
+        - title: Communities of Care
+          url: /about-sportcares/communities-of-care/
+        - title: Corporate Information
+          url: /about-sportcares/corporate-information/
+        - title: Donate to SportCares
+          url: https://www.giving.sg/vision2030/changelives
+    - title: 'Programmes & Impact'
+      collection: programme-and-impact
+    - title: Initiatives
+      collection: initiatives
+    - title: 'Sport for Pwd'
+      collection: persons-with-disabilities
+    - title: 'Media Centre'
+      resource_room: true
+    - title: 'Contact Us'
+      url: /contact-us/

@@ -1,60 +1,41 @@
 title: SportCares
 title-abbreviated: SportCares
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+description: Description
+url: ""
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
+paginate: 12
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+resources_name: media
+favicon: /images/SSC.png
+google_analytics: UA-38157167-4
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+colors:
+  primary-color: '#CC2436'
+  secondary-color: '#0054A6'
+  media-colors:
+    - title: media-color-one
+      color: '#BA0C2F'
+    - title: media-color-two
+      color: '#00A89C'
+    - title: media-color-three
+      color: '#575756'
+    - title: media-color-four
+      color: '#0054A6'
+    - title: media-color-five
+      color: '#BA0C2F'
+staging: https://isomer-sportcares-staging.netlify.app
+prod: https://isomer-sportcares-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-paginate
   - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
-paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: true
-homepage_programmes: false
-homepage_careers: false
-
-# Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-baseurl: ""
-
-collections:
-  test:
-    output: true
-  about-sportcares:
-    output: true
-  children-and-youth:
-    output: true
-  persons-with-disabilities:
-    output: true
-  grants:
-    output: true
-  initiatives:
-    output: true
-  programme-and-impact:
-    output: true
-resources_name: media
+  - jekyll-remote-theme

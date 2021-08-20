@@ -1,0 +1,8 @@
+collections:
+  about-sportcares:
+    output: true
+    order:
+      - about-sportcares.md
+      - our-patron-advisory-board-teams.md
+      - communities-of-care.md
+      - corporate-information.md

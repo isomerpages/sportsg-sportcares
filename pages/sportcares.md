@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: About SportCares
+title: 'About SportCares'
 permalink: /testing1/
 breadcrumb: SportCares
+
 ---
+
 ### About SportCares
 
 SportCares utilises the power of community based sporting experiences to harness the life aspirations of the at-risk and socially disadvantaged.

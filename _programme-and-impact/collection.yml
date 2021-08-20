@@ -1,0 +1,10 @@
+collections:
+  programme-and-impact:
+    output: true
+    order:
+      - overview.md
+      - sport-for-children-youth-development.md
+      - sport-for-persons-with-disabilities.md
+      - sport-for-vulnerable-seniors/.keep
+      - sport-for-vulnerable-seniors/overview.md
+      - sport-for-vulnerable-seniors/adaptive-sports-toolkit-caremasters-funding.md
