@@ -1,11 +1,8 @@
 ---
-title: 'Our Patron, Advisory Board & Teams'
+title: Our Patron, Advisory Board & Teams
 permalink: /about-sportcares/advisory-board/
-breadcrumb: 'patron and advisory board'
-
+breadcrumb: patron and advisory board
 ---
-
-
 ### SportCares Patron & Advisory Board 
 
 <style type="text/css">
@@ -42,7 +39,7 @@ breadcrumb: 'patron and advisory board'
   </tr>
   <tr>
     <td class="tg-baqh">Mr Jean Drouffe<br>Chief Executive Officer<br>AXA Insurance (Singapore)</td>
-    <td class="tg-baqh">Mr Sng Hock Lin<br>Chief, ActiveSG<br>Sport Singapore</td>
+    <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
   </tr>
 </table>
 
@@ -57,13 +54,17 @@ breadcrumb: 'patron and advisory board'
 <BR><katrina_engle@sport.gov.sg>
 
 <B>Mr Javen Tee</B>
-<BR>Team Lead, Programme Innovation 
+<BR>Team Lead, Programme Innovation Team 1
 <BR><javen_tee@sport.gov.sg>
 
+<B>Ms Stefanie Ang</B>
+<BR>Team Lead, Programme Innovation Team 2
+<BR><stefanie_ang@sport.gov.sg>
+	
 <B>Ms Lau Kim Lan</B>
 <BR>Team Lead, Disability & Inclusion 
 <BR><lau_kim_lan@sport.gov.sg>
 
 <B>Ms Miruna Ranjan</B>
-<BR>Team Lead, Masterplan Secretariat & Communities of Care 
+<BR>Team Lead, SportCares Masterplan Secretariat 
 <BR><miruna_ranjan@sport.gov.sg>
