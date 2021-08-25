@@ -23,7 +23,7 @@ breadcrumb: patron and advisory board
     <td class="tg-amwm" colspan="2">Co-Chairs</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Laurence Lien<br>Sport Singapore Board Member<br>Chairman, Lien Foundation</td>
+    <td class="tg-baqh">Mr Laurence Lien<br>Chairman<br>Lien Foundation</td>
     <td class="tg-baqh">Dr. Chiang Hock Woon<br>Deputy CEO<br>Sport Singapore</td>
   </tr>
   <tr>
