@@ -6,7 +6,7 @@ permalink: /
 sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
-      button: Empowering the Vulnerable & Persons with Disabilities Through Sport
+      button: Changing Lives Through sport
       url: /about-sportcares/who-we-are
       key_highlights:
         - title: Inclusive Sport Conference 2021
