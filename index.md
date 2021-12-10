@@ -6,8 +6,6 @@ permalink: /
 sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
-      button: Changing Lives Through sport
-      url: /about-sportcares/who-we-are
       key_highlights:
         - title: Inclusive Sport Conference 2021
           description: Ideas & discussions promoting sport for PWDs & Special Needs
