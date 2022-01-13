@@ -38,7 +38,6 @@ breadcrumb: patron and advisory board
     <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights<br>National Volunteer & Philanthropy Centre</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Jean Drouffe<br>Chief Executive Officer<br>AXA Insurance (Singapore)</td>
     <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
   </tr>
 </table>
@@ -53,9 +52,9 @@ breadcrumb: patron and advisory board
 <BR>Deputy Head, SportCares 
 <BR><katrina_engle@sport.gov.sg>
 
-<B>Mr Javen Tee</B>
+<B>Vacant</B>
 <BR>Team Lead, Programme Innovation Team 1
-<BR><javen_tee@sport.gov.sg>
+<BR>
 
 <B>Ms Stefanie Ang</B>
 <BR>Team Lead, Programme Innovation Team 2
