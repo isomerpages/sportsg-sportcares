@@ -15,7 +15,7 @@ The free toolkit provides facilitation tips and step-by-step instructions on set
 Scan the QR code or visit <https://aic.buzz/aic-wellness> to download an e-copy of the "Fit & Fun" Adaptive Sports Toolkit (Full Volume). 
 
 
-### Adaptive Sports Toolkit Training
+### [SUSPENDED]                         Adaptive Sports Toolkit Training
 
 Due to the current Safe Management Measures (SMM), we have suspended our training sessions. More details will be shared here when we are able to resume our training sessions.  
 
