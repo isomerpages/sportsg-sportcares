@@ -21,7 +21,7 @@ Due to the current Safe Management Measures (SMM), we have suspended our trainin
 
 __Who can apply__
 
-Staff & volunteers from the Community Care sector and SportSG 
+Staff & volunteers from the Community Care sector and SportSG. 
 
 
 ### "CareMasters" Funding
