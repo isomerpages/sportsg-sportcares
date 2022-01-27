@@ -21,9 +21,7 @@ Due to the current Safe Management Measures (SMM), we have suspended our trainin
 
 __Who can apply__
 
-Staff & volunteers from Community Care sector and SportSG 
-
-Class size: 10 in Phase 2 (class size will expand in Phase 3)
+Staff & volunteers from the Community Care sector and SportSG. 
 
 
 ### "CareMasters" Funding
