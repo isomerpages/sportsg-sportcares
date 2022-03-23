@@ -1,11 +1,8 @@
 ---
-title: 'SportCares Grants'
+title: SportCares Grants
 permalink: /initiatives/sportcares-grants/
-breadcrumb: 'sportcares grants'
-
+breadcrumb: sportcares grants
 ---
-
-
 ![SportCares Grants](/images/Grants_Picture.jpg)
 
 ### SportCares Communities of Care Grants
@@ -23,12 +20,9 @@ __Four Main Types of Grant Funding__
 3. Research Grant
    * Funding for research that strengthens the evidence for sport-based social development initiatives and improve the delivery of sport as a force for social good.
 
-4. SportCares Bursaries
-   * Financial support for children & youth from low income families, persons with disabilities and individuals with special needs to participate in structured sport programmes (e.g ActiveSG Academies & Club).
 
 ### Grant Application
 
-Currently, applications for the next SportCares Communities of Care Grant cycle has not opened.  
+We are currently not accepting new grant applications. The next Grant Call will be announced in May 2022.    
 
-For further queries, you may contact our friendly Grant Managers at <sportcares@sport.gov.sg>
-
+For further queries, you may contact us at <sportcares@sport.gov.sg>
