@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - SportCares Bursary.md
       - covid-19-sport-fitness-resources/.keep
       - covid-19-sport-fitness-resources/football.md
       - covid-19-sport-fitness-resources/swimming.md
