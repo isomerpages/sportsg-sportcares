@@ -34,7 +34,7 @@ All SportCares Bursary Recipients are expected to attend at least 70% of the tra
 -
 * To start your application process, click [here](https://go.gov.sg/sportcaresbursaries-applicationform).  
 
-Please note the following before beginning your application:
+Please note the following before filling up the application form:
 * Head over to the ActiveSG [website](https://www.myactivesg.com/programmes/academy) to find out about the venues, session details (dates and timing) for the various A&Cs before applying. You will be asked to indicate your preferred venue, session day and time on the application form. 
 * Applicants must be current recipients of a financial assistance scheme. For verification, you will be asked to submit proof of the financial assistance scheme. This submission can be in the form of a confirmation letter or email from the relevant agency and you are required to upload it in PDF or JPEG format.
 * If your application is successful, you will be contacted by the respective A&C with the administrative details at least two weeks before the start of the A&C season.
