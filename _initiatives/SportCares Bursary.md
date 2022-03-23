@@ -16,7 +16,7 @@ Our aspiration through this initiative is to see SportCares Bursary recipients e
 -
 * Singapore Citizens and Permanent Residents are welcome to apply. 
 * Children and youth aged 3 – 16 years old from ^low-income families.
-^Low-income is defined as persons who are receiving financial assistance from a government organisation and/or self-help group. Please refer to the list below for examples of eligible financial assistance schemes.
+> ^Low-income is defined as persons who are receiving financial assistance from a government organisation and/or self-help group. Please refer to the list below for examples of eligible financial assistance schemes.
 
 
 ![Financial Assistance Schemes](/images/FA%20Schemes_Website.png)
