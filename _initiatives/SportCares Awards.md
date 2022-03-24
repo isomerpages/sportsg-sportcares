@@ -1,9 +1,10 @@
 ---
-title: 'SportCares Awards'
-permalink: /initiatives/sportcares-awards/
-breadcrumb: 'sportcares awards'
-
+title: SportCares Awards
+permalink: /initiatives/SportCares-Awards/
+breadcrumb: sportcares awards
+description: ""
 ---
+
 
 
 ![SportCares Awards](/images/SportCares_Awards.jpg)
