@@ -12,7 +12,7 @@ Singapore Sports Hub, Monday, April 11, 2022 — As a nation, we are slowly adap
 
 After a long wait, SportCares got to step back into the majestic National Stadium for a community activation clinic led by HSBC Singapore Rugby Sevens Ambassadors Nathan Hirayama and Waisale Serevi. 
 
-Held on the National Stadium pitch, the clinic saw 11participants aged 6 to 12 years come together with three youth coaches from SportCares’ new community initiative, Project Kind, learning and building upon their fundamental rugby skills from these rugby legends.
+Held on the National Stadium pitch, the clinic saw 11 participants aged 6 to 12 come together with three youth coaches from SportCares’ new community initiative, Project Kind, learning and building upon their fundamental rugby skills from these rugby legends.
 
 It was a little hard for the participants to contain their excitement of being on the pitch of the National Stadium, and it was visible too, with them running around and getting their photos taken by their crew on site. But the moment they saw the legends, Hirayama and Serevi, walking towards them, the excitement turned into nervousness for some and inspiration for a few others. 
 
