@@ -8,7 +8,6 @@ sections:
       background: /images/FA_041120_SportCares Website Banner.jpg
   - infobar:
       title: "What's new with SportCares? "
-      description: "Read our most recent story! "
       button: More stories
       url: https://sportcares.sportsingapore.gov.sg/media/stories/permalink
 notification: "\n"
