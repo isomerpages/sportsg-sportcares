@@ -24,6 +24,6 @@ We spoke to one of our youth coaches assigned to Project Kind, Nur Shahirah, and
 
 Echoing similar thoughts was 12-year-old Shazrie Rizki, the participant who got to go up against Nathan Hirayama during an activity at the clinic, “I’ve never met a legend before face to face. It was very fun to play with them because they set up very activities that we were practicing in our training programme. Through the rugby programme, I’ve learned how to be calm when faced with challenges.” 
 
-We want to thank the organizers and sponsors for giving us the opportunity to meet the legends and create an impactful event for our participants. Now, we go back to the drawing block to plan the next special event on our calendar.
+We want to thank the organizers and sponsors for giving us the opportunity to meet the legends and create an impactful event for our participants. 
 
-Follow us on Instagram (@sportcares) or Facebook (@SportCaresSG) to get regular and timely updates!
+We now go back to the drawing block to plan the next special event on our calendar. Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) to get regular and timely updates!
