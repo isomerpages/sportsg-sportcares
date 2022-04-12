@@ -7,7 +7,6 @@ description: HSBC Singapore Rugby Sevens 2022, Project Kind
 image: /images/7sClinic2022groupphoto.jpg
 ---
 
-
 ![](/images/7sClinic2022groupphoto.jpg)
 
 Singapore Sports Hub, Monday, April 11, 2022 — As a nation, we are slowly adapting to the new normal with the recent changes to the safe management measures. For SportCares, it meant the opportunity to bring some special events back into our programming. And yesterday was a perfect start for us to do so.
