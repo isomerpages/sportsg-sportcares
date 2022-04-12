@@ -24,7 +24,7 @@ Serevi, nicknamed "The Wizard" by rugby commentators and widely considered the g
 
 We spoke to one of our youth coaches assigned to Project Kind, Nur Shahirah, and she mentioned “I hope that by playing sports, it does not only teach them (the SportCares participants) the importance of physical fitness, but also teaches them life values like having courage, perseverance, and a never give up attitude…From seeing their smiles and energy today, it showed me that they had a lot of fun.” 
 
-Echoing similar thoughts was 12-year-old Shazrie Rizki, the participant who got to go up against Nathan Hirayama during an activity at the clinic, “I’ve never met a legend before face to face. It was very fun to play with them because they set up very activities that we were practicing in our training programme. Through the rugby programme, I’ve learned how to be calm when faced with challenges.” 
+Echoing similar thoughts was 12-year-old Shazrie Rizki, the participant who got to go up against Hirayama during an activity at the clinic, “I’ve never met a legend before face to face. It was very fun to play with them because they set up very activities that we were practicing in our training programme. Through the rugby programme, I’ve learned how to be calm when faced with challenges.” 
 
 We want to thank the organizers and sponsors for giving us the opportunity to meet the legends and create an impactful event for our participants. 
 
