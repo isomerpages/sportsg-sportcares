@@ -6,10 +6,10 @@ permalink: /
 sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
-  - resources:
-      title: Be in the know
-      subtitle: Media Centre
-      button: More Media
-      url: /media/?utm_source=media_homepage
+  - infobar:
+      title: "What's new with SportCares? "
+      button: For more details
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/permalink
+      description: "Read all about our most recent update! "
 notification: "\n"
 ---
