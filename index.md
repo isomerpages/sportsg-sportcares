@@ -9,7 +9,7 @@ sections:
   - infobar:
       title: "What's new with SportCares? "
       button: For more details
-      url: https://sportcares.shttps://go.gov.sg/sportcaresatsg7s
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/sportcaresatsg7s
       description: "Read all about our most recent update! "
 notification: "\n"
 ---
