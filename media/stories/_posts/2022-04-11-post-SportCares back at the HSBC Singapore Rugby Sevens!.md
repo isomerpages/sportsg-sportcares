@@ -6,9 +6,6 @@ layout: post
 description: HSBC Singapore Rugby Sevens 2022, Project Kind
 image: /images/7sClinic2022groupphoto.jpg
 ---
-
-****By Shoban
-
 As a nation, we are slowly adapting to the new normal with the recent changes to the safe management measures. For SportCares, it meant the opportunity to bring some special events back into our programming. And yesterday was a perfect start for us to do so.
 
 After a long wait, SportCares got to step back into the majestic National Stadium for a community activation clinic led by HSBC Singapore Rugby Sevens Ambassadors Nathan Hirayama and Waisale Serevi. 
@@ -33,4 +30,4 @@ We would like to thank the organizers and sponsors for giving us the opportunity
 
 Now we go back to the drawing block to plan the next special event on our calendar. 
 
-Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) for more updates! 
+Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) for more updates!
