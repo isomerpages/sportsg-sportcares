@@ -6,12 +6,13 @@ layout: post
 description: HSBC Singapore Rugby Sevens 2022, Project Kind
 image: /images/7sClinic2022groupphoto.jpg
 ---
+****By Shoban
 
-![](/images/7sClinic2022groupphoto.jpg)
-
-Singapore Sports Hub, Monday, April 11, 2022 — As a nation, we are slowly adapting to the new normal with the recent changes to the safe management measures. For SportCares, it meant the opportunity to bring some special events back into our programming. And yesterday was a perfect start for us to do so.
+As a nation, we are slowly adapting to the new normal with the recent changes to the safe management measures. For SportCares, it meant the opportunity to bring some special events back into our programming. And yesterday was a perfect start for us to do so.
 
 After a long wait, SportCares got to step back into the majestic National Stadium for a community activation clinic led by HSBC Singapore Rugby Sevens Ambassadors Nathan Hirayama and Waisale Serevi. 
+
+![](/images/7sClinic2022groupphoto.jpg)
 
 Held on the National Stadium pitch, the clinic saw 11 participants aged 6 to 12 come together with three youth coaches from SportCares’ new community initiative, Project Kind, learning and building upon their fundamental rugby skills from these rugby legends.
 
@@ -27,6 +28,8 @@ We spoke to one of our youth coaches assigned to Project Kind, Nur Shahirah, and
 
 Echoing similar thoughts was 12-year-old Shazrie Rizki, the participant who got to go up against Hirayama during an activity at the clinic, “I’ve never met a legend before face to face. It was very fun to play with them because they set up very activities that we were practicing in our training programme. Through the rugby programme, I’ve learned how to be calm when faced with challenges.” 
 
-We want to thank the organizers and sponsors for giving us the opportunity to meet the legends and create an impactful event for our participants. 
+We would like to thank the organizers and sponsors for giving us the opportunity to meet the legends and create an impactful event for our participants. 
 
-We now go back to the drawing block to plan the next special event on our calendar. Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) to get regular and timely updates!
+Now we go back to the drawing block to plan the next special event on our calendar. 
+
+Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) for more updates! 
