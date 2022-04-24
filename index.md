@@ -6,10 +6,14 @@ permalink: /
 sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
-  - infobar:
-      title: "What's new with SportCares? "
-      button: For more details
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/sportcaresatsg7s
-      description: "Read all about our most recent update! "
+  - infopic:
+      title: Goals for SportCares
+      subtitle: "What's new at Sportcares? "
+      description: "Here's more on the new donation drive by Albirex Niigata FC (S)'s
+        Tanadari Lee! "
+      button: "read now "
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/goalsforsportcares
+      image: /images/Lee training with SNL Clementi_1_website.jpg
+      alt: Image alt text
 notification: "\n"
 ---
