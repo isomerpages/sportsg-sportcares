@@ -12,7 +12,7 @@ sections:
       description: "Here's more on the new donation drive by Albirex Niigata FC (S)'s
         Tanadari Lee! "
       button: "read now "
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/goalsforsportcares
+      url: /media/stories/goalsforsportcares-tanadarilee
       image: /images/Lee training with SNL Clementi_1_website.jpg
       alt: Image alt text
 notification: "\n"
