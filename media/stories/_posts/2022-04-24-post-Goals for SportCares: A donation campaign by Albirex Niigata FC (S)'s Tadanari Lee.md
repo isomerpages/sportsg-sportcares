@@ -7,8 +7,6 @@ layout: post
 description: Donation campaign by Albirex Niigata FC (S)'s Tanadari Lee for SportCares
 image: /images/Lee training with SNL Clementi_1_website.jpg
 ---
-****By Shoban 
-
 Initiated by Albirex Niigata FC (S)’s Tadanari Lee, ‘Goals for SportCares’ is a donation campaign in which Lee will be donating all of his goal bonus pay-outs worth $200 per goal to SportCares. The campaign kicked off on 23 April 2022 and will last till the end of the AIA Singapore Premier League 2022 season on 15 October 2022. The donations will be made to SportCares via its [campaign page](https://go.gov.sg/goalsforsportcares-campaignpage2022) on GIVE Asia.
 
 ![](/images/Lee%20training%20with%20SNL%20Clementi_1_website.jpg)
