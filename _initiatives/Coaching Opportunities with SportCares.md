@@ -4,11 +4,11 @@ permalink: /initiatives/coaching-opportunities
 description: coaching with sportcares
 image: /images/Istana_Picnic_2.jpg
 ---
-SportCares uses sport as a force for social good and coach-mentoring to engage a variety of participants, from young to seniors, to build self-esteem, develop life skills and enable a strong sense of independence through personal development.
+![](/images/Istana_Picnic_2.jpg)
 
-Our coaches play an integral role in our programmes, covering key developmental components in our programme curriculum. And we are looking for coaches to join us in our journey to change lives through sport. 
+Our coaches play an integral role in our programmes, covering key developmental components while creating a safe and engaging environment for our participants. And we are looking for motivated coaches to join us in our journey to change lives through sport. 
 
-If you are passionate, patient, kind and eager about guiding and mentoring participants, send us your resume detailing your background and coaching experiences, as well as supporting documents and certificates to [sportcares@sport.gov.sg](sportcares@sport.gov.sg).
+If you are passionate, kind, patient and eager about guiding and mentoring participants, send us your resume detailing your background and coaching experiences, as well as supporting documents and certificates to [sportcares@sport.gov.sg](sportcares@sport.gov.sg).
 
 All applications will be evaluated, and successful applicants will be contacted.
 
@@ -26,14 +26,13 @@ All applications will be evaluated, and successful applicants will be contacted.
 * Persons with Disabilities (PwDs) 
 * Isolated seniors 
 
-And here’s a quick look of the coaching opportunities at SportCares: 
-* Community Sports Programmes (i.e., Community Futsal Programme, Community Swimming Programme) covering rugby, swimming, futsal, athletics, basketball and others 
+**And here’s a quick look at some of the coaching opportunities at SportCares:** 
+* Community Sports Programmes (i.e., Community Futsal Programme, Community Swimming Programme) covering various sports such as rugby, swimming, futsal, athletics, basketball
 
-* Youth Sports Programmes (i.e., Saturday Night Lights, MulitSport Programme) covering football, basketball, sepak takraw and others 
+* Youth Sports Programmes (i.e., Saturday Night Lights, MulitSport Programme) covering various sports such as football, basketball, sepak takraw 
 
-* PwD Programmes (i.e., Play-Ability, Yes! I Can), covering football, swimming, basketball, tennis, badminton and others 
+* PwD Programmes (i.e., Play-Ability, Yes! I Can), covering various sports such as football, swimming, basketball, tennis, badminton
 
-* Supporting outreach events 
+* Supporting outreach events hosted by SportCares and our community partners
 
-* Relief coaching
-
+* Relief coaching 
