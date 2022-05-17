@@ -2,7 +2,7 @@ collections:
   initiatives:
     output: true
     order:
-      - Coaching Opportunities with SportCares.md
+      - Coaching Opportunities.md
       - SportCares Bursary.md
       - SportCares Grants.md
       - SportCares Awards.md
