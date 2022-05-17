@@ -1,12 +1,9 @@
 ---
-title: 'Programme Offerings'
+title: Programme Offerings
 permalink: /persons-with-disabilities/disability-sports-programmes/
-breadcrumb: 'Programme Offerings'
-third_nav_title: 'Sports Programmes'
-
+breadcrumb: Programme Offerings
+third_nav_title: Sports Programmes
 ---
-
-
 #### Through pilot projects, focus groups, needs sensing, and speaking to stakeholders in the community, we have designed several programmes that serve different needs and gaps in the disability sports industry. 
 
 #### Yes! I Can
@@ -25,4 +22,4 @@ From getting equipped with watersafety skills to learning how to adapt sports to
 #### Intro to Sport
 Intro a Sport matches an organisation or a special education school with experienced coaches and persons of expertise in a sport or fitness activity so they can learn how to use sport independently and effectively for physical education, team building, cocurricular activities, bonding and more. Starting with a train-the-trainer learning phase and ending with supervised practical sessions, this initiative is designed to ensure long term sustainability of sporting activities in schools and organisations.
 
-Click [here](http://bit.ly/inclusivesportsg) to sign up for our mailing list!
+Click **[here](https://form.gov.sg/606c1a0b1c08cf0012b2139d)** to sign up for our mailing list!
