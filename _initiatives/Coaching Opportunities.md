@@ -16,8 +16,8 @@ All applications will be evaluated, and successful applicants will be contacted.
 * National Registry of Coaches (NROC) Membership  
 (*For more details on NROC, see  **[here](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/National-Registry-of-Coaches/How-to-be-an-NROC-Coach))***
 * Level 1 Coaching Certification (or equivalent)
-*Standard First Aid + AED Certification
-*Completed Safe Sport Workshop
+* Standard First Aid + AED Certification
+* Completed Safe Sport Workshop
 
 **Preferred Skills (in addition to above mentioned qualifications):** 
 * Experience in coaching and working with any one of our target audience: 
