@@ -13,13 +13,14 @@ If you are passionate, kind, patient and eager about guiding and mentoring parti
 All applications will be evaluated, and successful applicants will be contacted.
 
 **Applicants should minimally possess the following:**
-* National Registry of Coaches (NROC) Membership
-* Minimum 1st Level Coaching Certification (or equivalent)
+* National Registry of Coaches (NROC) Membership  
+(*For more details on NROC, see  **[here](https://www.sportsingapore.gov.sg/Athletes-Coaches/Coaches-Corner/National-Registry-of-Coaches/How-to-be-an-NROC-Coach))***
+* Level 1 Coaching Certification (or equivalent)
 *Standard First Aid + AED Certification
 *Completed Safe Sport Workshop
 
 **Preferred Skills (in addition to above mentioned qualifications):** 
-* Experience in coaching and working with any one of our target audience:
+* Experience in coaching and working with any one of our target audience: 
 	* Children from families on financial assistance
 	* At-risk youth including ex-offenders 
 	* Persons with Disabilities (PwDs) 
@@ -32,6 +33,6 @@ All applications will be evaluated, and successful applicants will be contacted.
 
 * PwD Programmes (i.e., Play-Ability, Yes! I Can), covering various sports such as football, swimming, basketball, tennis, badminton and others
 
-* Supporting outreach events hosted by SportCares and our community partners
+* Supporting outreach events hosted by SportCares and/or our community partners
 
 * Relief coaching
