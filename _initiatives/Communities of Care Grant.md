@@ -52,7 +52,7 @@ __Active Lifestyle:__ Programme increases engagement in physical activities and 
 
 We are accepting new grant applications now. To submit your application, please follow the steps below. 
 
-__Step 1__: Read the [COC Grant Info Deck]() 
+__Step 1__: Read the [COC Grant Info Deck](/files/Infokit%20for%20Potential%20Grantees_Website.pdf)
 
 __Step 2__: Complete the [COC Grant Application Form Supporting Details](https://docs.google.com/file/d/1VDp1ChXkNobO9OG0WosXil2wtwYqvAq9/edit?usp=docslist_api&filetype=msword)
 
