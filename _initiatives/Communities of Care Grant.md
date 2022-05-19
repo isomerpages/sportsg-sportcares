@@ -37,13 +37,13 @@ __Building Communities:__ Build networks in neighbourhoods across Singapore, usi
 
 **Our Desired Programme Outcomes** 
 
-__Wellness:__ Participants experience increased psychological, emotional, and social well-being
+__Wellness:__ Participants experience increased psychological, emotional, and social well-being. 
 
-__Values:__ Participants build positive values through sport
+__Values:__ Participants build positive values through sport. 
 
-__Inclusion:__ Programme enhances a narrative of inclusion and strengthens bonds in the community
+__Inclusion:__ Programme enhances a narrative of inclusion and strengthens bonds in the community. 
 
-__Active Lifestyle:__ Programme increases engagement in physical activities and a healthy lifestyle
+__Active Lifestyle:__ Programme increases engagement in physical activities and a healthy lifestyle. 
 
 
 
@@ -53,8 +53,8 @@ We are accepting new grant applications now.
 
 __Step 1__: Read the [COC Grant Info Deck]() 
 
-__Step 2__: Complete the COC Grant Application Form Supporting DetailsInsert links to application forms 
-For more details, contact us via sportcares@sport.gov.sg. 
-We are currently not accepting new grant applications. The next Grant Call will be announced in May 2022.    
+__Step 2__: Complete the COC Grant Application Form Supporting Details
 
-For further queries, you may contact us at <sportcares@sport.gov.sg>
+__Step 3__: Complete the [COC Grant Application Form](https://form.gov.sg/61e14d9b80623800132494fd ) 
+
+For further queries, you may contact us at <sportcares@sport.gov.sg>. 
