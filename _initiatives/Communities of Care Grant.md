@@ -21,14 +21,13 @@ This grant, based on a one-year funding timeline, aims to develop the capabiliti
 >It is renewable yearly (up to a maximum of three years) and renewal assessment will be based on key performance indicators during past grant timelines. 
 
 
-###
 
 >__Development Grant__                                                                                                       
 >This grant will be based on a three-year funding timeline, with the funding quantum decreasing each year.  
 
 > To ensure continuity after the initial grant timeline, we encourage potential grantees to bring on board corporate partners or donors who can work with them to provide longer term funding support.
 
-###
+
 
 ### Our Key Focus Areas for COC Grants                                              
 
