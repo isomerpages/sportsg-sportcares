@@ -12,7 +12,7 @@ Looking for funding to bring a sports programme to the community you live or wor
 
 SportCares offers two types of Communities of Care (COC) grants to help individuals and organisations bring their programmes to the communities we serve. 
 
-### Types of COC Grant
+### Types of COC Grants
 
 
 >__Starter Grant__  
