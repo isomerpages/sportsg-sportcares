@@ -12,7 +12,7 @@ Looking for funding to bring a sports programme to the community you live or wor
 
 SportCares offers two types of Communities of Care (COC) grants to help individuals and organisations bring their programmes to the communities we serve. 
 
-### Types of COC Grant
+### Types of COC Grants
 
 
 >__Starter Grant__  
@@ -21,14 +21,13 @@ This grant, based on a one-year funding timeline, aims to develop the capabiliti
 >It is renewable yearly (up to a maximum of three years) and renewal assessment will be based on key performance indicators during past grant timelines. 
 
 
-###
 
 >__Development Grant__                                                                                                       
 >This grant will be based on a three-year funding timeline, with the funding quantum decreasing each year.  
 
 > To ensure continuity after the initial grant timeline, we encourage potential grantees to bring on board corporate partners or donors who can work with them to provide longer term funding support.
 
-###
+
 
 ### Our Key Focus Areas for COC Grants                                              
 
@@ -53,7 +52,7 @@ __Active Lifestyle:__ Programme increases engagement in physical activities and 
 
 We are accepting new grant applications now. To submit your application, please follow the steps below. 
 
-__Step 1__: Read the [COC Grant Info Deck]() 
+__Step 1__: Read the [COC Grant Info Deck](/files/Infokit%20for%20Potential%20Grantees_Website.pdf)
 
 __Step 2__: Complete the [COC Grant Application Form Supporting Details](https://docs.google.com/file/d/1VDp1ChXkNobO9OG0WosXil2wtwYqvAq9/edit?usp=docslist_api&filetype=msword)
 
