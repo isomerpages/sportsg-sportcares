@@ -5,7 +5,8 @@ date: 2022-05-25
 layout: post
 description: ""
 ---
-25 May 2022 – SportCares officially kicked off its 10th Year Celebrations today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok.  
+SportCares officially kicked off its 10th Year Celebrations today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok.  
+
 
 
 
@@ -25,4 +26,4 @@ ActiveSG Football Academy (AFA) Head Coach, Jeremy Chiang, who has been conducti
 
 These disability sport tryouts are very useful in sparking an interest in sports. I’ve seen many participants who become keen to take part up a sport after participating in these tryouts. You can see them having fun and enjoying themselves, and this encourages them to want to do more.”
 
-As SportCares continues expand its reach in the community to change lives through sport, here’s an update on our work through the Disability Sport Master Plan (DSMP). 
+As SportCares continues expand its reach in the community to change lives through sport, here’s an update on our work through the Disability Sport Master Plan (DSMP).
