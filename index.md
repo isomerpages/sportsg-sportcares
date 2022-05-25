@@ -9,21 +9,20 @@ sections:
   - infopic:
       title: SportCares Bursary
       subtitle: "Our Initiatives "
-      description: The SportCares Bursary aims to increase opportunities for children
+      description: "The SportCares Bursary aims to increase opportunities for children
         and youth from low-income families to learn a sport at ActiveSG
-        Academies and Clubs (A&Cs)
+        Academies and Clubs. "
       button: Find out more
       url: https://sportcares.sportsingapore.gov.sg/initiatives/sportcaresbursary
       image: /images/7sClinic2022groupphoto.jpg
       alt: Image alt text
   - infopic:
-      title: Goals for SportCares
+      title: Experience SPORTS!
       subtitle: "What's new at Sportcares? "
-      description: "Here's more on the new donation drive by Albirex Niigata FC (S)'s
-        Tanadari Lee! "
+      description: "Here's more on our first 10th Year Celebration event.  "
       button: "read now "
-      url: /media/stories/goalsforsportcares-tanadarilee
-      image: /images/Lee training with SNL Clementi_1_website.jpg
+      url: /media/stories/experiencesports-25052022
+      image: /images/ES_25May2022.jpg
       alt: Image alt text
   - infopic:
       title: Sport for PWDs
