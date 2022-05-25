@@ -5,7 +5,7 @@ date: 2022-05-25
 layout: post
 description: ""
 ---
-SportCares officially kicked off its 10th Year Celebrations today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok.  
+SportCares officially kicked off its 10th Year Celebration today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok.  
 
 ![](/images/ES_25May2022.jpg)
 
