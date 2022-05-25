@@ -7,8 +7,7 @@ description: ""
 ---
 SportCares officially kicked off its 10th Year Celebrations today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok.  
 
-
-
+![](/images/ES_25May2022.jpg)
 
 This year, SportCares celebrates its 10th year of changing lives through sport with a series of celebratory events that are catered to the different segments that it serves – persons with disabilities (PwDs), children & youth from vulnerable backgrounds, and isolated seniors.
 
@@ -21,6 +20,8 @@ Speaking on the sidelines of the event was Marcus Tan, Chief of Sport Developmen
 These initiatives have all taken a collaborative approach, allowing us to reach out to and serve the disability segment in a holistic manner. We will continue to use sport for social good by collaborating with our partners and constituents to deliver new and relevant opportunities, and strengthen pathways in disability sport, so PwDs of all participation levels can reap the benefits of sport.”
 
 “I didn’t use to do much sports before but I play badminton and bowling now and I feel healthier. I enjoyed the session today because I get to meet with friends and coaches.” - Max David, 32-year-old participant from TOUCH Centre for Independent Living who has intellectual disability. 
+
+![](/images/ES_25May2022_2.jpg)
 
 ActiveSG Football Academy (AFA) Head Coach, Jeremy Chiang, who has been conducting football classes for persons with special needs under AFA, shared his thoughts on the event, “As a coach, I’ve had an enjoyable experience coaching special needs football classes, learning to break down drills so everyone can play, build confidence, learn and improve. 
 
