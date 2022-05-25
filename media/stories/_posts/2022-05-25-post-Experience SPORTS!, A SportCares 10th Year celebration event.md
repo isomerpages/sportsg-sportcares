@@ -27,4 +27,4 @@ ActiveSG Football Academy (AFA) Head Coach, Jeremy Chiang, who has been conducti
 
 These disability sport tryouts are very useful in sparking an interest in sports. I’ve seen many participants who become keen to take part up a sport after participating in these tryouts. You can see them having fun and enjoying themselves, and this encourages them to want to do more.”
 
-As SportCares continues expand its reach in the community to change lives through sport, here’s an update on our work through the Disability Sport Master Plan ([DSMP]()).
+As SportCares continues expand its reach in the community to change lives through sport, here’s an update on our work through the Disability Sport Master Plan ([DSMP](/files/Update%20on%20DSMP_25%20May%202022.pdf)).
