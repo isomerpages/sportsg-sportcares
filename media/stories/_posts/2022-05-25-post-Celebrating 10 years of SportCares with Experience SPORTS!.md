@@ -1,12 +1,14 @@
 ---
-title: Experience SPORTS!, a SportCares 10th Year celebration event
+title: Celebrating 10 years of SportCares with Experience SPORTS!
 permalink: /media/stories/experiencesports-25052022
 date: 2022-05-25
 layout: post
 description: ""
 ---
 
-SportCares officially kicked off its 10th Year Celebration today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok.  
+SportCares officially kicked off its 10th Year celebrations today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok. 
+
+The first day of the event saw over 150 participants from 12 organisations such as MINDS Towner Gardens School and Touch Centre for Independent Living (Bukit Merah) taking part in sports such as Boccia, Paracanoe  and Football. 
 
 ![](/images/ES_25May2022.jpg)
 
@@ -20,12 +22,14 @@ Speaking on the sidelines of the event was Marcus Tan, Chief of Sport Developmen
 
 These initiatives have all taken a collaborative approach, allowing us to reach out to and serve the disability segment in a holistic manner. We will continue to use sport for social good by collaborating with our partners and constituents to deliver new and relevant opportunities, and strengthen pathways in disability sport, so PwDs of all participation levels can reap the benefits of sport.”
 
-“I didn’t use to do much sports before but I play badminton and bowling now and I feel healthier. I enjoyed the session today because I get to meet with friends and coaches.” - Max David, 32-year-old participant from TOUCH Centre for Independent Living who has intellectual disability. 
+![](/images/ES2_25May2022.jpg)
 
-![](/images/ES_25May2022_2.jpg)
+“I didn’t use to do much sports before but I play badminton and bowling now and I feel healthier. I enjoyed the session today because I get to meet with friends and coaches.” said Max David, 32-year-old participant from TOUCH Centre for Independent Living who has intellectual disability. 
 
 ActiveSG Football Academy (AFA) Head Coach, Jeremy Chiang, who has been conducting football classes for persons with special needs under AFA, shared his thoughts on the event, “As a coach, I’ve had an enjoyable experience coaching special needs football classes, learning to break down drills so everyone can play, build confidence, learn and improve. 
 
 These disability sport tryouts are very useful in sparking an interest in sports. I’ve seen many participants who become keen to take part up a sport after participating in these tryouts. You can see them having fun and enjoying themselves, and this encourages them to want to do more.”
 
 As SportCares continues expand its reach in the community to change lives through sport, here’s an update on our work through the Disability Sport Master Plan ([DSMP](/files/Update%20on%20DSMP_25%20May%202022.pdf)).
+
+On our 10th Year anniversary celebrations, there's more to come for the communities we serve so follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) for more updates!
