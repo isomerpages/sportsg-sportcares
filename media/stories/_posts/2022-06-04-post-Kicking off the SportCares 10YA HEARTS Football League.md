@@ -5,7 +5,6 @@ date: 2022-06-04
 layout: post
 description: ""
 ---
-
 ![](/images/HEARTS-League-Serangoon-4June.jpeg)
 
 We could not have planned for a better year to launch our inaugural football league for our Satruday Night Lights (SNL) participants. 
@@ -47,7 +46,7 @@ As more teams get match time over the next few months, we believe we will have m
 
 Till then, for more updates on the league, follow us on [Facebook](https://www.facebook.com/SportCaresSG) and [Instagram](https://www.instagram.com/sportcares/)! 
 
-And here are the results from Matchweek One results of the SportCares 10YA HEARTS Football League: 
+And here are the results from Matchweek One of the SportCares 10YA HEARTS Football League: 
 
 **Women's Open Category:**
 * DWU (Team 1) 1-4 NTU
@@ -59,4 +58,4 @@ And here are the results from Matchweek One results of the SportCares 10YA HEART
 * Hokkaido Wolves 1-3 East Warriors
 * Enfuego United FC 0-1 District West United 
 * Eagles 2-1 Okami FC 
-* SNL Alumni 12-0 SportSG Rec Club 
+* SNL Alumni 12-0 SportSG Rec Club
