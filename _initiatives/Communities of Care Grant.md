@@ -60,7 +60,4 @@ __Step 2__: Complete the [COC Grant Application Form Supporting Details](https:/
 __Step 3__: Complete the [COC Grant Application Form](https://form.gov.sg/61e14d9b80623800132494fd )  
 (*You will be asked to attach  the completed COC Grant Application Form Supporting Details from Step 2 when submitting this form)*
 
-__Optional Step__: Register for the [COC Grant Workshop by NVPC](https://form.gov.sg/#!/628301cac27fbc00120e8782)
-(*registration closes on 6 June, 12 noon*)
-
 If you require further assistance after going through the information shared above, reach out to us at <sportcares@sport.gov.sg>.
