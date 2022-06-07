@@ -15,9 +15,11 @@ The free toolkit provides facilitation tips and step-by-step instructions on set
 Scan the QR code or visit [fit & fun toolkit](http://aic.buzz/fit-fun-toolkit ) to download an e-copy of the "Fit & Fun" Adaptive Sports Toolkit (Full Volume). 
 
 
-### [ON HOLD]                         Adaptive Sports Toolkit Training
+###                         Adaptive Sports Toolkit Training
 
-Our training sessions are currently on hold. More details will be shared here when we resume our training sessions.  
+Register for our training session [HERE](https://go.gov.sg/sportcares-ast-training-2022). 
+
+The training sessions will be conducted at Training Room 1 & 2 on Level 4, Heartbeat@Bedok (11 Bedok North Street 1, S469662). 
 
 __Who can apply__
 
