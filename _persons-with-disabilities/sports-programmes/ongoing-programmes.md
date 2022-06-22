@@ -30,7 +30,7 @@ These are the sessions that are currently ongoing:
 
 * Every Monday, 8am – 10am and Every Saturday, 4pm – 6pm
 
-* Venues: [Heartbeat @ Bedok ActiveSG Tennis Centre](https://www.myactivesg.com/Facilities/heartbeat-bedok-activesg-tennis-centre) or [Farrer Park Tennis Centre](https://www.myactivesg.com/Facilities/farrer-park-tennis-centre) *(Subject to changes)*
+* Venue: [Heartbeat @ Bedok ActiveSG Tennis Centre](https://www.myactivesg.com/Facilities/heartbeat-bedok-activesg-tennis-centre) or [Farrer Park Tennis Centre](https://www.myactivesg.com/Facilities/farrer-park-tennis-centre) *(Subject to changes)*
 
 * Suitable for Persons with Visual Impairment
 
