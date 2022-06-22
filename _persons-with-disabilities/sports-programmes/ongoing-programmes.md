@@ -13,7 +13,7 @@ These are the sessions that are currently ongoing:
 
 * Every Friday, 7pm – 9.30pm
 
-* [ActiveSG Toa Payoh Sport Centre](https://www.myactivesg.com/Facilities/toa-payoh-sports-centre)
+* Venue: [ActiveSG Toa Payoh Sport Centre](https://www.myactivesg.com/Facilities/toa-payoh-sports-centre)
 
 * Suitable for Persons with Physical Impairment
 
@@ -30,7 +30,7 @@ These are the sessions that are currently ongoing:
 
 * Every Monday, 8am – 10am and Every Saturday, 4pm – 6pm
 
-* [Heartbeat @ Bedok ActiveSG Tennis Centre](https://www.myactivesg.com/Facilities/heartbeat-bedok-activesg-tennis-centre) or [Farrer Park Tennis Centre](https://www.myactivesg.com/Facilities/farrer-park-tennis-centre) *(Subject to changes)*
+* Venues: [Heartbeat @ Bedok ActiveSG Tennis Centre](https://www.myactivesg.com/Facilities/heartbeat-bedok-activesg-tennis-centre) or [Farrer Park Tennis Centre](https://www.myactivesg.com/Facilities/farrer-park-tennis-centre) *(Subject to changes)*
 
 * Suitable for Persons with Visual Impairment
 
