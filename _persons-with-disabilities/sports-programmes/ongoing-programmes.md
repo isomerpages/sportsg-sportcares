@@ -11,26 +11,24 @@ These are the sessions that are currently ongoing:
 
 #### 1) **Wheelchair Rugby**
 
-* Every Friday
-
-* 7pm – 9.30pm
+* Every Friday, 7pm – 9.30pm
 
 * [ActiveSG Toa Payoh Sport Centre](https://www.myactivesg.com/Facilities/toa-payoh-sports-centre)
 
 * Suitable for Persons with Physical Impairment
 
-* Age 16 and above
+* Partcipants must be ****16 years old and above
 
 * Equipment provided
 
-* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or email inclusivesport@sport.gov.sg for more information. 
+* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or email us at [inclusivesport@sport.gov.sg](inclusivesport@sport.gov.sg) for more information. 
 
 *(Information is correct as of 22 June 2022)*
 
 
 #### 2) **Soundball (Blind Tennis)**
 
-* Every Monday: 8am – 10am and Every Saturday: 4pm – 6pm
+* Every Monday, 8am – 10am and Every Saturday, 4pm – 6pm
 
 * [Heartbeat @ Bedok ActiveSG Tennis Centre](https://www.myactivesg.com/Facilities/heartbeat-bedok-activesg-tennis-centre) or [Farrer Park Tennis Centre](https://www.myactivesg.com/Facilities/farrer-park-tennis-centre) *(Subject to changes)*
 
@@ -38,6 +36,6 @@ These are the sessions that are currently ongoing:
 
 * Equipment provided
 
-* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or email inclusivesport@sport.gov.sg for more information.
+* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or email us at [inclusivesport@sport.gov.sg](inclusivesport@sport.gov.sg) for more information.
 
 *(Information is correct as of 22 June 2022)*
