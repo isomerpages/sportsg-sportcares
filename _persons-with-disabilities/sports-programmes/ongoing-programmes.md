@@ -38,6 +38,6 @@ These are the sessions that are currently ongoing:
 
 * Equipment provided
 
-* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist)here (https://go.gov.sg/dsmp-mailinglist) or email inclusivesport@sport.gov.sg for more information.
+* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or email inclusivesport@sport.gov.sg for more information.
 
 *(Information is correct as of 22 June 2022)*
