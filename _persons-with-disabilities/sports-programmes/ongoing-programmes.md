@@ -17,7 +17,7 @@ These are the sessions that are currently ongoing:
 
 * Suitable for Persons with Physical Impairment
 
-* Partcipants must be ****16 years old and above
+* Partcipants must be **16 years old and above**
 
 * Equipment provided
 
