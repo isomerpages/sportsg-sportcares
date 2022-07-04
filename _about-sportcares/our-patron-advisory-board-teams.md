@@ -38,17 +38,5 @@ breadcrumb: patron and advisory board
   <tr>
     <td class="tg-baqh">Mr Lim Teck Kiat<br>Senior Director, Social Policy and Services Group<br>Ministry of Social and Family Development</td>
 			    <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
-		
   </tr>
-</table>
-
-
-### SportCares Leadership
-
-<B>Mr Shawn Lim</B>
-<BR>Head, SportCares 
-<BR><shawn_lim@sport.gov.sg>
-
-<B>Dr. Katrina Hall-Engle</B>
-<BR>Deputy Head, SportCares 
-<BR><katrina_engle@sport.gov.sg>
+	<table>
