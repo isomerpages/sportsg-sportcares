@@ -4,7 +4,6 @@ permalink: /about-sportcares/advisory-board/
 breadcrumb: patron and advisory board
 description: ""
 ---
-
 ### SportCares Patron & Advisory Board 
 
 
@@ -35,7 +34,7 @@ description: ""
     <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>President<br>Singapore Disability Sports Council</td>
   </tr>
   <tr>
-    		    <td class="tg-baqh">Mdm  Tuminah Sapawi<br>CEO<br> PPIS - Singapore Muslim Women Association</td>
+    		    <td class="tg-baqh">Mdm  Tuminah Sapawi<br>CEO<br> PPIS - Singapore Muslim Women's Association</td>
     <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights<br>National Volunteer & Philanthropy Centre</td>
   </tr>
   <tr>
