@@ -1,9 +1,12 @@
 ---
-title: Our Patron, Advisory Board & Teams
+title: Our Patron & Advisory Board
 permalink: /about-sportcares/advisory-board/
 breadcrumb: patron and advisory board
+description: ""
 ---
+
 ### SportCares Patron & Advisory Board 
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -20,12 +23,10 @@ breadcrumb: patron and advisory board
     <td class="tg-amwm" colspan="2">Advisory Board</td>
   </tr>
   <tr>
-    <td class="tg-amwm" colspan="2">Co-Chairs</td>
+    <td class="tg-amwm" colspan="2">Chairman</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Laurence Lien<br>Chairman<br>Lien Foundation</td>
-    <td class="tg-baqh">Dr. Chiang Hock Woon<br>Deputy CEO<br>Sport Singapore</td>
-  </tr>
+      <td class="tg-baqh" colspan="2">Dr. Chiang Hock Woon<br>Deputy CEO<br> Sport Singapore</td>
   <tr>
     <td class="tg-amwm" colspan="2">Members</td>
   </tr>
@@ -34,36 +35,11 @@ breadcrumb: patron and advisory board
     <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>President<br>Singapore Disability Sports Council</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Derek Tan Kai Juay<br>Group Director, Estate &amp; Housing Management<br>Housing &amp; Development Board</td>
+    		    <td class="tg-baqh">Mdm  Tuminah Sapawi<br>CEO<br> PPIS - Singapore Muslim Women Association</td>
     <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights<br>National Volunteer & Philanthropy Centre</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
+    <td class="tg-baqh">Mr Lim Teck Kiat<br>Senior Director, Social Policy and Services Group<br>Ministry of Social and Family Development</td>
+			    <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
   </tr>
-</table>
-
-### SportCares Leadership & Teams
-
-<B>Mr Shawn Lim</B>
-<BR>Head, SportCares 
-<BR><shawn_lim@sport.gov.sg>
-
-<B>Dr. Katrina Hall-Engle</B>
-<BR>Deputy Head, SportCares 
-<BR><katrina_engle@sport.gov.sg>
-
-<B>Vacant</B>
-<BR>Team Lead, Programme Innovation Team 1
-<BR>
-
-<B>Ms Stefanie Ang</B>
-<BR>Team Lead, Programme Innovation Team 2
-<BR><stefanie_ang@sport.gov.sg>
-	
-<B>Ms Lau Kim Lan</B>
-<BR>Team Lead, Disability & Inclusion 
-<BR><lau_kim_lan@sport.gov.sg>
-
-<B>Ms Miruna Ranjan</B>
-<BR>Team Lead, SportCares Masterplan Secretariat 
-<BR><miruna_ranjan@sport.gov.sg>
+	<table>
