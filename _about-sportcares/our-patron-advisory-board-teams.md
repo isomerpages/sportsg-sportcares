@@ -14,7 +14,7 @@ breadcrumb: patron and advisory board
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-amwm" colspan="2"><span style="font-weight:bold">Patron</span><br>Madam Halimah Yacob<br>President of the Republic of Singapore</th>
+    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">Patron</span><br>Madam Halimah Yacob<br>President of the Republic of Singapore</th>
   </tr>
   <tr>
     <td class="tg-amwm" colspan="2">Advisory Board</td>
