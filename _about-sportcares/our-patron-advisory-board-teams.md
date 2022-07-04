@@ -14,7 +14,7 @@ breadcrumb: patron and advisory board
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-baqh" colspan="2"><span style="font-weight:bold">Patron</span><br>Madam Halimah Yacob<br>President of the Republic of Singapore</th>
+    <th class="tg-amwm" colspan="2"><span style="font-weight:bold">Patron</span><br>Madam Halimah Yacob<br>President of the Republic of Singapore</th>
   </tr>
   <tr>
     <td class="tg-amwm" colspan="2">Advisory Board</td>
@@ -32,15 +32,16 @@ breadcrumb: patron and advisory board
     <td class="tg-baqh">Dr. Teo-Koh Sock Miang<br>President<br>Singapore Disability Sports Council</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Derek Tan Kai Juay<br>Group Director, Estate &amp; Housing Management<br>Housing &amp; Development Board</td>
+    		    <td class="tg-baqh">Mdm  Tuminah Sapawi<br>CEO<br> PPIS - Singapore Muslim Women Association</td>
     <td class="tg-baqh">Ms Fazlin Abdullah<br>Director, Knowledge & Insights<br>National Volunteer & Philanthropy Centre</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
+    <td class="tg-baqh">Mr Lim Teck Kiat<br>Senior Director, Social Policy and Services Group<br>Ministry of Social and Family Development</td>
+			    <td class="tg-baqh">Mr Marcus Tan<br>Chief, Sport Development Group<br>Sport Singapore</td>
   </tr>
 </table>
 
-### SportCares Leadership & Teams
+### SportCares Leadership
 
 <B>Mr Shawn Lim</B>
 <BR>Head, SportCares 
@@ -49,19 +50,3 @@ breadcrumb: patron and advisory board
 <B>Dr. Katrina Hall-Engle</B>
 <BR>Deputy Head, SportCares 
 <BR><katrina_engle@sport.gov.sg>
-
-<B>Vacant</B>
-<BR>Team Lead, Programme Innovation Team 1
-<BR>
-
-<B>Ms Stefanie Ang</B>
-<BR>Team Lead, Programme Innovation Team 2
-<BR><stefanie_ang@sport.gov.sg>
-	
-<B>Ms Lau Kim Lan</B>
-<BR>Team Lead, Disability & Inclusion 
-<BR><lau_kim_lan@sport.gov.sg>
-
-<B>Ms Miruna Ranjan</B>
-<BR>Team Lead, SportCares Masterplan Secretariat 
-<BR><miruna_ranjan@sport.gov.sg>
