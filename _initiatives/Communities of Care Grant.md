@@ -53,11 +53,11 @@ __Active Lifestyle:__ Programme increases engagement in physical activities and 
 
 We are accepting new grant applications now. To submit your application, please follow the steps below. 
 
-__Step 1__: Read the [COC Grant Info Deck](/files/Infokit%20for%20Potential%20Grantees_Website.pdf)
+__Step 1__: Read the [COC Grant Info Deck](/files/Infokit%20for%20Potential%20Grantees_Website_July2022.pdf)
 
-__Step 2__: Complete the [COC Grant Application Form Supporting Details](https://docs.google.com/file/d/1VDp1ChXkNobO9OG0WosXil2wtwYqvAq9/edit?usp=docslist_api&filetype=msword)
+__Step 2__: Complete the [COC Grant Supporting Details Form](https://go.gov.sg/coc-grant-form-supporting-details)
 
 __Step 3__: Complete the [COC Grant Application Form](https://form.gov.sg/61e14d9b80623800132494fd )  
-(*You will be asked to attach  the completed COC Grant Application Form Supporting Details from Step 2 when submitting this form)*
+(*You will be asked to attach the completed COC Grant Supporting Details form (see Step 2 above) when submitting this form)*
 
-If you require further assistance after going through the information shared above, reach out to us at <sportcares@sport.gov.sg>.
+If you require further assistance after going through the information shared here, reach out to us at <sportcares@sport.gov.sg>.
