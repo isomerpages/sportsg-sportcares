@@ -22,10 +22,11 @@ description: ""
     <td class="tg-amwm" colspan="2">Advisory Board</td>
   </tr>
   <tr>
-    <td class="tg-amwm" colspan="2">Chairman</td>
+    <td class="tg-amwm" colspan="2">Co-Chair</td>
   </tr>
   <tr>
-      <td class="tg-baqh" colspan="2">Dr. Chiang Hock Woon<br>Deputy CEO<br> Sport Singapore</td>
+          		    <td class="tg-baqh">Mr Keith Magnus<br>CEO<br> Evercore</td>
+<td class="tg-baqh" colspan="2">Dr. Chiang Hock Woon<br>Deputy CEO<br> Sport Singapore</td>
   <tr>
     <td class="tg-amwm" colspan="2">Members</td>
   </tr>
