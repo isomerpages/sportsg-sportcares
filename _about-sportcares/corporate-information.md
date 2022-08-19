@@ -1,14 +1,10 @@
 ---
-title: 'Corporate Information'
+title: Corporate Information
 permalink: /about-sportcares/corporate-information/
-breadcrumb: 'corporate information'
-
+breadcrumb: corporate information
 ---
-
-
 ### IPC Status
-SportCares
-c/o Vision 2030 Fund (UEN: T14CC0007H)
+Vision 2030 Fund (UEN: T14CC0007H)
 
 ### Address
 3 Stadium Drive, Singapore 397630
@@ -28,4 +24,4 @@ Disability sport:  <inclusivesport@sport.gov.sg>
 
 ### Donation
 
-[SportCares Giving.SG page](https://www.giving.sg/vision2030/changelives)
+[SportCares on giving.sg](https://www.giving.sg/vision2030/sportcares2022)

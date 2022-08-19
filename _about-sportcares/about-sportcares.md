@@ -1,12 +1,10 @@
 ---
-title: 'About SportCares'
+title: About SportCares
 permalink: /about-sportcares/who-we-are/
-breadcrumb: 'who we are'
-
+breadcrumb: who we are
 ---
 
 
-![Alternative text for screen readers](/images/about-us-main.jpg)
 
 ### Background
 
@@ -24,7 +22,7 @@ An inclusive nation where individuals are resilient and communities are closely-
 
 ### Who We Serve
 
-* Children from low-income families
+* Children and youth from vulnerable backgrounds
 * Youth at-risk
 * Persons with disabilities
-* Vulnerable seniors (low-income & socially isolated)
+* Vulnerable seniors
