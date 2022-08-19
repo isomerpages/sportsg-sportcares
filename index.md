@@ -4,7 +4,8 @@ title: Sport Singapore - SportCares
 description: Changing Lives through Sports
 permalink: /
 sections:
-  - hero: {}
+  - hero:
+      background: /images/FA_041120_SportCares Website Banner.jpg
   - infopic:
       title: Experience SPORTS!
       subtitle: "What's new at Sportcares? "
