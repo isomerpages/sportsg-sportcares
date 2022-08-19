@@ -34,5 +34,7 @@ sections:
       url: https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-programmes/
       image: /images/Website-Hero-Banner.jpg
       alt: Image alt text
-notification: ""
+notification: "As we celebrate 10 years of Changing Lives Through Sport this
+  year, you can join us on the SportCares Journey by giving to our cause,
+  https://go.gov.sg/giving-sg-sportcares2022! "
 ---
