@@ -6,6 +6,11 @@ permalink: /
 sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
+      key_highlights:
+        - title: Donate to SportCares
+          description: "We celebrate 10 years of Changing Lives Through Sport this year!
+            Join us on the SportCares Journey by giving to our cause! "
+          url: https://www.giving.sg/vision2030/sportcares2022
   - infopic:
       title: Experience SPORTS!
       subtitle: "What's new at Sportcares? "
@@ -34,7 +39,5 @@ sections:
       url: https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-programmes/
       image: /images/Website-Hero-Banner.jpg
       alt: Image alt text
-notification: "As we celebrate 10 years of Changing Lives Through Sport this
-  year, you can join us on the SportCares Journey by giving to our cause,
-  https://go.gov.sg/giving-sg-sportcares2022! "
+notification: ""
 ---
