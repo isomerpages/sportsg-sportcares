@@ -2,7 +2,6 @@ collections:
   programme-and-impact:
     output: true
     order:
-      - overview.md
       - sport-for-children-youth-development.md
       - sport-for-persons-with-disabilities.md
       - sport-for-vulnerable-seniors/.keep
