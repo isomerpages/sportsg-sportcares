@@ -1,5 +1,5 @@
 collections:
-  programme-and-impact:
+  programmes:
     output: true
     order:
       - sport-for-children-youth-development.md
