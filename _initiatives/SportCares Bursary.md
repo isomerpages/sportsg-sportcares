@@ -22,7 +22,7 @@ Our aspiration through this initiative is to see SportCares Bursary recipients e
 
 **Bursary** **Coverage** 
 - 
-The bursary will cover seasonal participation fees for ten (10) ActiveSG Academies & Clubs (A&C): Athletics, Basketball, Football, Hockey, Tennis, Volleyball, Water Polo, Canoeing, Gymnastics, and Table Tennis.
+The bursary will cover seasonal participation fees for ten (10) ActiveSG Academies & Clubs (A&C): Athletics, Basketball, Football, Hockey, Tennis, Volleyball, Water Polo, Canoe, Gymnastics, and Table Tennis.
 
 **Expectations of Bursary Recipients**
 -

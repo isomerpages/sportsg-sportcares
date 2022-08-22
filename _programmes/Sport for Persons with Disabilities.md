@@ -1,9 +1,11 @@
 ---
-title: 'Sport for Persons with Disabilities'
-permalink: /programme-and-impact/persons-with-disabilities/
+title: Sport for Persons with Disabilities
+permalink: /programmes/persons-with-disabilities/
 breadcrumb: persons-with-disabilities
-
+description: ""
 ---
+
+
 
 
 ![Alternative text for screen readers](/images/dsmp_infographics.png)
