@@ -5,17 +5,10 @@ breadcrumb: who we are
 ---
 ### Background
 
-SportCares was established in 2012 as the philanthropic arm of Sport Singapore to enable vulnerable individuals and persons with disabilities to experience and reap the benefits of sport by instilling confidence and elevating one's outlook to life.  In addition, SportCares was to cultivate a spirit of sport philanthropy among corporates and community partners. 
+SportCares was established in 2012 as the philanthropic arm of Sport Singapore to enable vulnerable individuals and persons with disabilities to experience and reap the benefits of sport by instilling confidence and elevating one's outlook to life.
 
-### Our Vision
-
-An inclusive nation where individuals are resilient and communities are closely-knitted through sport. 
-
-### Our Strategic Thrusts
-
-* __Advocate__ active citizenry for our vulnerable individuals and persons with disabilities - positive development, engagement, leadership and voice for causes and issues - through research, programming and recognition
-* __Connect__ stakeholders from the the social development sector for increased outreach.  SportCares partners public, private and people organisations as well as individuals to create more sport opportunities for the communities we serve. 
-* __Enable__ holistic development of the sport for social good ecosystem, through funding, capacity building, resources and training. 
+In addition, SportCares was to cultivate a spirit of sport philanthropy among corporates and community partners. 
+ 
 
 ### Who We Serve
 
