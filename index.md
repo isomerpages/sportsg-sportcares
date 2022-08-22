@@ -39,6 +39,6 @@ sections:
       image: /images/Website-Hero-Banner.jpg
       alt: Image alt text
 notification: "We celebrate 10 years of Changing Lives Through Sport this year!
-  And you can join us on the SportCares Journey by giving to our cause at the
+  And you can join us on the SportCares Journey by giving to our cause via the
   link below this image. "
 ---
