@@ -2,7 +2,7 @@ collections:
   programmes:
     output: true
     order:
-      - sport-for-children-youth-development.md
+      - Sport for Children & Youth.md
       - sport-for-persons-with-disabilities.md
       - Sport For Seniors/.keep
       - Sport For Seniors/overview.md
