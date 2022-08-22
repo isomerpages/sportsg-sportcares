@@ -1,5 +1,0 @@
-collections:
-  grants:
-    output: true
-    order:
-      - grant-application.md
