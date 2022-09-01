@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 'More Than Just A Coach'
-permalink: /media/stories/coach-chris
+title: More Than Just A Coach
+permalink: /media/stories/coach-chris/
 category: stories
-
 ---
-
-
 ### More Than Just A Coach
 
 ![Coach Chris](/images/Coach_Chris.JPG)
@@ -29,13 +26,17 @@ The fact that she was out of their sight for a quarter of the year did not mean 
 
 This relationship that Coach Chris shares with her young team is one that is quite rare. Mutual respect, care and support are the obvious undercurrents of their bond but beyond that, the girls have a steadfast faith in their coach - knowing that she will not forget nor abandon them - and are perceptive enough to acknowledge that their coach has pursuits beyond them. 
 
-As Coach Chris continued to talk about her experience in SNL, I was completely floored by what she was willing to do for “her kids”. The coach goes above and beyond for her team, caring not only about their football abilities but also their personal development and well-being. When needed, she gives the girls tuition before practices and also helps them to procure training attire like shoes and jerseys, even donating some of her own to the girls. She also makes sure they know they can always talk to her if they need a listening ear. The level of care and support that she has for her girls is astounding and definitely goes far beyond any average person. 
+As Coach Chris continued to talk about her experience in SNL, I was completely floored by what she was willing to do for “her kids”. The coach goes above and beyond for her team, caring not only about their football abilities but also their personal development and well-being. 
 
-I asked her why she she felt it was necessary to be invested in her girls’ personal lives and why she did not just simply coach soccer. 
+When needed, she gives the girls tuition before practices and also helps them to procure training attire like shoes and jerseys, even donating some of her own to the girls. She also makes sure they know they can always talk to her if they need a listening ear. 
+
+The level of care and support that she has for her girls is astounding and definitely goes far beyond any average person. I asked her why she felt it was necessary to be invested in her girls’ personal lives and why she did not just simply coach soccer. 
 
 She drew back to her own personal experience. “My parents got divorced when I was very young. Like my kids, I understood what it is like to have so many uncertainties in life. At that time, I just wished that there was somebody to be there for me. So, right now as a coach, I use my life experience as a reference and become that somebody to my kids, the figure that the 12-year-old me wished for.”
 
-This is a welcome support for many on her team. I got the chance to talk to three of the girls during one of their practices. They were eager to share everything about their favourite coach, overlapping mid-conversation and finishing each other’s sentences. But they all shared the same sentiments: Coach Chris is simply unlike any other coach they have ever had and they all look up to her.
+This is a welcome support for many on her team. I got the chance to talk to three of the girls during one of their practices. They were eager to share everything about their favourite coach, overlapping mid-conversation and finishing each other’s sentences. 
+
+But they all shared the same sentiments: Coach Chris is simply unlike any other coach they have ever had and they all look up to her.
 
 “She’s our idol. She gives us the motivation to be our best selves.”
 
@@ -56,4 +57,3 @@ Of course, I just had to ask.
 The girls looked at each other with an indecipherable expression before one of them said, “One, two, three, just say yes or no. Okay, one, two, three,”
 
 “No.” Grins all around.
-
