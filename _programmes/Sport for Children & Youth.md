@@ -27,16 +27,15 @@ __Additional benefits of sport engagement:__
 * Increased sense of social inclusion and community participation, and;
 * Self-discipline
 
-### Featured Sport Programmes
-
-**SATURDAY NIGHT LIGHTS**
-> ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
-
-
-**OTHER SPORTS**
+**Types of sport we use:**
 * Futsal
 * Athletics
 * Sepak Takraw
 * Multi-Sports (Running, Swimming, Cycling) 
 * Swimming 
 * Outdoor Adventure
+
+### Featured SportCares Programme
+
+**SATURDAY NIGHT LIGHTS**
+> ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
