@@ -11,7 +11,7 @@ SportCares uses sport and coach-mentoring to engage young people to build self-e
 
 Across our programmes, sport operates as a platform to engage young people, to encourage health and wellbeing, and to achieve positive youth development. Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
 
-__Learning life skills through sport:__
+##### Learning life skills through sport:
 
 * Commitment & Accountability
 * Communication skills
@@ -20,22 +20,23 @@ __Learning life skills through sport:__
 * Dealing with stress, and;
 * Goal setting and Future Planning
 
-__Additional benefits of sport engagement:__
+##### Additional benefits of sport engagement:
 
 * Overall improvements in health and mental health
 * Self-confidence
 * Increased sense of social inclusion and community participation, and;
 * Self-discipline
 
-**Types of sport we use:**
+##### Types of sport we use:
 * Futsal
 * Athletics
+* Basketball
 * Sepak Takraw
-* Multi-Sports (Running, Swimming, Cycling) 
+* Multi-Sport (*Running, Swimming, Cycling*) 
 * Swimming 
 * Outdoor Adventure
 
 ### Featured SportCares Programme
 
 **SATURDAY NIGHT LIGHTS**
-> ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
+> ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
