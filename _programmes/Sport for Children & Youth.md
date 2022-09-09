@@ -4,42 +4,33 @@ permalink: /programmes/children-and-youth/
 breadcrumb: children-and-youth
 description: ""
 ---
-
 ![Alternative text for screen readers](/images/Children_youth_programme.png)
 
-### Developing Children & Youth:  Leader of Confidence Through Sport
 
-SportCares' methodology uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
+SportCares uses sport and coach-mentoring to work with children and youth to build self-esteem, learn life skills and enable a strong sense of independence through personal development. 
 
-Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to achieve positive youth development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
+Across our programmes, sport is the platform we use to engage participants, encourage health and wellbeing, and achieve positive development. Friendships and relationships built through sport also remove them from negative influences, including anti-social peer groups, dependence & addiction, low self-esteem and boredom. 
 
-__Learning life skills through sport:__
+And mentioned below are the community programmes that we currently manage with the support of various community partners and donors. 
 
-* Commitment & Accountability
-* Communication skills
-* Problem solving
-* Team work
-* Dealing with stress, and;
-* Goal setting and Future Planning
+##### SportCares Programmes for Children:
+* Community Futsal Programme
+* Community Basketball Programme
+* Community Swimming Programme 
+* CareRunners (Athletics)
+* Project Kind (Multi-Sport) 
 
-__Additional benefits of sport engagement:__
+##### SportCares Programmes for Youth:
+* Saturday Night Lights (Football)
+* Let's Sepak (Sepak Takraw) 
+* Multi-Sport Programme (Running, Swimming, Cycling) 
+* SportCares Champions (Leadership Programme) 
 
-* Overall improvements in health and mental health
-* Self-confidence
-* Increased sense of social inclusion and community participation, and;
-* Self-discipline
-
-### Featured **Sport Programmes**
-
-**SATURDAY NIGHT LIGHTS**
-> ##### Saturday Night Lights, or SNL, takes underprivileged and youth at-risk off the streets on Saturday nights to give them formal football training and a community of support — without charge. Seven years since it started, SNL has grown from a football programme to a development programme, and many SNL youth have gone beyond participating in just football training to regular community volunteering and even leadership courses. 
+#### Featured SportCares Programme
+###### SATURDAY NIGHT LIGHTS
+> ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
 
 
-**OTHER SPORTS**
-
-* Futsal
-* Athletics
-* Sepak Takraw
-* Multi-Sports (Running, Swimming, Cycling) 
-* Swimming 
-* Outdoor Adventure
+We also work with government agencies such as the Ministry of Social and Family Development ([MSF](https://www.msf.gov.sg/about-MSF/Pages/default.aspx)) and the Ministry of Home Affairs ([MHA](https://www.mha.gov.sg/)) to bring our sport-based development programmes to the rehabilitation institutions such as Singapore Girls' 
+Home, Singapore Boys' Home and Tanah Merah Prison under their purview. 
+Our partnership with MHA through the Singapore Prison Service ([SPS](https://www.sps.gov.sg/)) allows us to use sport to complement the efforts of SPS' [Throughcare Approach](https://www.sps.gov.sg/throughcare-approach) in the rehabilitation of offenders.
