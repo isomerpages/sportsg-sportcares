@@ -4,14 +4,12 @@ permalink: /programmes/children-and-youth/
 breadcrumb: children-and-youth
 description: ""
 ---
-
 ![Alternative text for screen readers](/images/Children_youth_programme.png)
 
-### Developing Children & Youth:  Leader of Confidence Through Sport
 
-SportCares' methodology uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
+SportCares uses sport and coach-mentoring to engage young people to build self-esteem, pick-up life skills and enable a strong sense of autonomy through personal development. 
 
-Across our programmes, sport operates as a 'hook' to engage young people, to encourage health and wellbeing, and to achieve positive youth development.   Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
+Across our programmes, sport operates as a platform to engage young people, to encourage health and wellbeing, and to achieve positive youth development. Friendships and relationships built through sport also remove young people from negative influences including anti-social peer groups, dependence & addiction, low self-esteem and boredom.
 
 __Learning life skills through sport:__
 
@@ -29,14 +27,13 @@ __Additional benefits of sport engagement:__
 * Increased sense of social inclusion and community participation, and;
 * Self-discipline
 
-### Featured **Sport Programmes**
+### Featured Sport Programmes
 
 **SATURDAY NIGHT LIGHTS**
-> ##### Saturday Night Lights, or SNL, takes underprivileged and youth at-risk off the streets on Saturday nights to give them formal football training and a community of support — without charge. Seven years since it started, SNL has grown from a football programme to a development programme, and many SNL youth have gone beyond participating in just football training to regular community volunteering and even leadership courses. 
+> ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
 
 
 **OTHER SPORTS**
-
 * Futsal
 * Athletics
 * Sepak Takraw
