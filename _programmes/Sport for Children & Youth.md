@@ -18,6 +18,7 @@ And mentioned below are the community programmes that we currently manage with t
 * Community Basketball Programme
 * Community Swimming Programme 
 * CareRunners (Athletics)
+* Project Kind (Multi-Sport) 
 
 ##### SportCares Programmes for Youth:
 * Saturday Night Lights (Football)
@@ -25,7 +26,10 @@ And mentioned below are the community programmes that we currently manage with t
 * Multi-Sport Programme (Running, Swimming, Cycling) 
 * SportCares Champions (Leadership Programme) 
 
-
 #### Featured SportCares Programme
 ###### SATURDAY NIGHT LIGHTS
 > ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
+
+
+We also work with government agencies such as the Ministry of Social and Family Development (MSF) and Ministry of Home Affairs (MHA) to bring our sport-based development programmes to the rehabilitation institutions under their purview. 
+This is in line with our intention to use sport to support the Singapore Prison Services' (SPS) [Throughcare Approach](https://www.sps.gov.sg/throughcare-approach) in the rehabilitation of offenders. 
