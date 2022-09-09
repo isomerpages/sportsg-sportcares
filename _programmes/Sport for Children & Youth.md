@@ -31,5 +31,6 @@ And mentioned below are the community programmes that we currently manage with t
 > ##### Saturday Night Lights, or SNL, is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
 
 
-We also work with government agencies such as the Ministry of Social and Family Development (MSF) and Ministry of Home Affairs (MHA) to bring our sport-based development programmes to the rehabilitation institutions under their purview. 
-This is in line with our intention to use sport to support the Singapore Prison Services' (SPS) [Throughcare Approach](https://www.sps.gov.sg/throughcare-approach) in the rehabilitation of offenders. 
+We also work with government agencies such as the Ministry of Social and Family Development ([MSF](https://www.msf.gov.sg/about-MSF/Pages/default.aspx)) and the Ministry of Home Affairs ([MHA](https://www.mha.gov.sg/)) to bring our sport-based development programmes to the rehabilitation institutions such as Singapore Girls' 
+Home, Singapore Boys' Home and Tanah Merah Prison under their purview. 
+Our partnership with MHA through the Singapore Prison Service ([SPS](https://www.sps.gov.sg/)) allows us to use sport to complement the efforts of SPS' [Throughcare Approach](https://www.sps.gov.sg/throughcare-approach) in the rehabilitation of offenders.
