@@ -11,12 +11,11 @@ sections:
           description: Join us on our journey!
           url: https://www.giving.sg/vision2030/sportcares2022
   - infopic:
-      title: Experience SPORTS!
+      title: Kampong of Care @ Jalan Kukoh
       subtitle: "What's new at Sportcares? "
-      description: "Here's more on our first 10th Year Celebration event.  "
+      description: "Here's more on our second 10th Year Anniversary Celebration event!  "
       button: "read now "
-      url: /media/stories/experiencesports-25052022
-      image: /images/ES_25May2022.jpg
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/koc2022/
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
