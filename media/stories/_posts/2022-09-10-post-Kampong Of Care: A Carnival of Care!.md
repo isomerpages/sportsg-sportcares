@@ -5,10 +5,9 @@ date: 2022-09-10
 layout: post
 description: ""
 ---
-
 ![](/images/Main%20Photo%20for%20KOC%202022.png)
 
-With the weather on our side this morning, we held Kampong of Care@Jalan Kukoh (KOC), a half-day carnival aimed at building a caring society with “kampong spirit” and promoting social inclusion through sport, at the rooftop of the multi-storey carpark of Block 8A, Jalan Kukoh (Level 4).
+With the weather on our side this morning, we held Kampong of Care@Jalan Kukoh (KOC), a half-day carnival aimed at building a caring society with “kampong spirit” and promoting social inclusion through sport, at the rooftop of the multi-storey carpark of Block 8A, Jalan Kukoh.
 
 KOC is part of a series of celebratory events for SportCares’ 10th Year Anniversary focused on engaging the different segments (persons with disabilities, children & youth from vulnerable backgrounds, and isolated seniors) that we serve in the community.
 
