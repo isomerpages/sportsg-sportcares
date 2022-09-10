@@ -17,6 +17,7 @@ sections:
       button: "read now "
       url: https://sportcares.sportsingapore.gov.sg/media/stories/koc2022/
       alt: Image alt text
+      image: /images/Main Photo for KOC 2022.png
   - infopic:
       title: SportCares Bursary
       subtitle: "Our Initiatives "
