@@ -11,9 +11,11 @@ image: ""
 
 After months of planning, 11 weeks of matches and 581 goals, we concluded our inaugural 10YA HEARTS Football League 2022 with a prize-giving ceremony this evening at the ActiveSG Woodlands Stadium with our guest of honour, Mr Edwin Tong, Minister for Culture, Community & Youth and over 500 supporters comprising SNL players, families, friends, and partner representatives of SportCares.
 
-The ceremony hosted various teams from the top of the league table, honouring them for their hard work. We also presented awards to players and teams with inspiring records on the field, covering Golden Boot (Individual), Sportsmanship (Team), Fair Play (Team), and Golden Glove (Team).
+The ceremony hosted various teams from the top of the league table, honouring them for their hard work. We also presented awards to players and teams with inspiring records on the field, covering Golden Boot (Individual), Golden Glove (Individual), Sportsmanship (Team), and Fair Play (Team) categories.
 
-The SportCares 10YA HEARTS Football League was set up to provide youths from vulnerable backgrounds with opportunities to play in a competitive setting and build positive interactions with the community. Held in conjunction with our 10th year anniversary, the league saw the participation of 20 Saturday Night Lights (SNL) teams and five invited teams made up of SportCares’ partners and stakeholders, competing across the three league categories.
+The 10YA HEARTS Football League was set up to provide youths from vulnerable backgrounds with opportunities to play in a competitive setting and build positive interactions with the community. 
+
+Held in conjunction with our 10th year anniversary, the league saw the participation of 20 Saturday Night Lights (SNL) teams and five invited teams made up of SportCares’ partners and stakeholders, competing across the three league categories.
 
 The evening also saw the title-deciding match for the Men’s Open category between SNL Alumni and District West United, with the former taking all three points at the final whistle. After the game, we spoke to 27-year-old Muhammad Fadhil Ishak, a former SNL participant and now a SportCares youth coach and SNL Alumni's player-coach.
 
