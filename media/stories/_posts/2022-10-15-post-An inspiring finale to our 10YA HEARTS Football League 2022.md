@@ -18,11 +18,13 @@ The SportCares 10YA HEARTS Football League was set up to provide youths from vul
 The evening also saw the title-deciding match for the Men’s Open category between SNL Alumni and District West United, with the former taking all three points at the final whistle. After the game, we spoke to 27-year-old Muhammad Fadhil Ishak, a former SNL participant and now a SportCares youth coach and SNL Alumni's player-coach.
 
 ![](/images/RovingStudios-FootballLeague2022-FastEdit-23-4D0A4585.jpg)
-Beaming with joy, Fadhil said, “SNL gave me a lot on the pitch, and it prepared me for life off the pitch too. The weekly sessions, training and access to football were something that I could not afford as my family needed to prioritise other needs.
+*Muhammad Fadhil Ishak, a former SNL participant, currently a SportCares youth coach and SNL Alumni's player-coach, at Woodlands Stadium.*
 
-“Through SportCares’ Youth Coaching Development Pathway, I am now able to give back by coaching other youths.
+> Beaming with joy, Fadhil said, “SNL gave me a lot on the pitch, and it prepared me for life off the pitch too. The weekly sessions, training and access to football were something that I could not afford as my family needed to prioritise other needs.
 
-“Today, as a player-coach, I am thrilled that my team had reached the finals. Throughout the HEARTS League, we pushed through each match more determined and instilled in the players self-belief, that with hard work, success can be achieved.”
+> “Through SportCares’ Youth Coaching Development Pathway, I am now able to give back by coaching other youths.
+
+> “Today, as a player-coach, I am thrilled that my team had reached the finals. Throughout the HEARTS League, we pushed through each match more determined and instilled in the players self-belief, that with hard work, success can be achieved.”
 
 Mr Marcus Tan, Chief of Sport Development Group, Sport Singapore, who oversees SportCares and is the organiser of SportCares 10YA HEARTS Football League, added, “Over the past few months, the HEARTS Football League has provided youths from our flagship Saturday Night Lights football programme the opportunity to practice what they have learnt during their training, from technical skills to values, in a competitive environment.
 
@@ -36,7 +38,7 @@ In the meantime, we leave you with the list of award winners and the top three t
 
 The list is as follow: 
 
-**Top Three League Teams** 
+**Top Three Teams** 
 * Under-17 Boys League: **Spex Titans (Champions)**, Hawks (1st Runner-Up), Football Plus (2nd Runner-Up)
 
 * Women’s Open League: **Singapore Cricket Club (Champions)**, Arion (1st Runner-Up), NTU (2nd Runner-Up)
@@ -45,7 +47,7 @@ The list is as follow:
 
 **Fair Play Award**:
 
-* Under-17 Boys: **Xerox United 
+* Under-17 Boys: Xerox United 
 * Women’s Open: District West United Team 1 
 * Men’s Open: Okami FC 
 
@@ -63,3 +65,6 @@ The list is as follow:
 * Under-17 Boys: Nathan Raj, Hawks (12 goals) 
 * Women’s Open: Ang Wei Xuan, Arion (14 goals) 
 * Men’s Open: Haresh Sasitaran, Hiyaku (23 goals)
+
+
+Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG) for more updates!
