@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/MCCY_GroupShot.jpg)
-Photo: Ministry of Culture, Community and Youth
+*A group photo of all the teams and invited guests present at Woodlands Stadium. Photo: Ministry of Culture, Community and Youth.*
 
 After months of planning, 11 weeks of matches and 581 goals, we concluded our inaugural 10YA HEARTS Football League 2022 with a prize-giving ceremony this evening at the ActiveSG Woodlands Stadium with our guest of honour, Mr Edwin Tong, Minister for Culture, Community & Youth and over 500 supporters comprising SNL players, families, friends, and partner representatives of SportCares.
 
