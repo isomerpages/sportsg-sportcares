@@ -3,7 +3,6 @@ title: SportCares HEARTS Book
 permalink: /initiatives/heartsbook/
 description: ""
 ---
-
 ![](/images/HEARTS%20Book%20Website%202022.png)
 
 The SportCares HEARTS book was launched by our patron President Halimah Yacob at the SportCares 10-Year Anniversary Dinner at Our Tampines Hub on 19 November 2022.
