@@ -9,4 +9,4 @@ The SportCares HEARTS book was launched by our patron President Halimah Yacob at
 
 The key reflections and learnings from delivering programmes to the communities we serve have been encapsulated in the SportCares HEARTS book, providing a resource guide for organisations, corporations and schools that wish to leverage sport for social good.
 
-To download a copy of the HEARTS book, click [here](https://go.gov.sg/sportcares-hearts-book-2022).
+To download a copy of the SportCares HEARTS book, click [here](https://go.gov.sg/sportcares-hearts-book-2022).
