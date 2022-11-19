@@ -5,8 +5,6 @@ breadcrumb: sportcares awards
 description: ""
 third_nav_title: SportCares Awards
 ---
-
-
 ![SportCares Awards](/images/SportCares_Awards.jpg)
 
 ### SportCares Awards 2019
