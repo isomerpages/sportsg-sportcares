@@ -4,9 +4,7 @@ permalink: /initiatives/SportCares-Awards-2022/
 description: ""
 third_nav_title: SportCares Awards
 ---
-
-
-### ABOUT SPORTCARES AWARDS 2022
+### SportCares Awards 2022
 
 The SportCares Award was first established in 2019 to honour individuals, corporates, ground-up movements, non-profit organisations, and educational institutions that have achieved excellence in empowering communities we serve through sport.
 
