@@ -4,7 +4,6 @@ permalink: /initiatives/SportCares-Awards-2019/
 breadcrumb: sportcares awards
 description: ""
 ---
-
 ![SportCares Awards](/images/SportCares_Awards.jpg)
 
 ### SportCares Awards 2019
@@ -16,4 +15,3 @@ SportCares Awards 2019 saw four individual and two organisational winners, recog
 __SportCares Awards 2019 Full Awardees List__
 
 ![SportCares Awards List](/images/SportCares_Awardees_List.jpg)
-
