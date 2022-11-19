@@ -2,7 +2,7 @@ collections:
   initiatives:
     output: true
     order:
-      - HEARTS Book.md
+      - SportCares HEARTS Book.md
       - Coaching Opportunities.md
       - SportCares Bursary.md
       - Communities of Care Grant.md
