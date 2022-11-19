@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - SportCares Awards/SportCares Awards 2019.md
       - SportCares Awards/.keep
       - SportCares HEARTS Book.md
       - Coaching Opportunities.md
