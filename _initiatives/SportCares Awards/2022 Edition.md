@@ -10,7 +10,7 @@ The SportCares Awards was first established in 2019 to honour individuals, corpo
 
 After a two-year hiatus due to COVID-19, this 2nd edition of the Award features three categories: 
 
-**The Corporate Giving Inspirational Award** recognises organisations or individuals who have made significant and consistent financial and in-kind support to SportCares’ events and programmes. This award also recognises and appreciates them for their passion to drive social change, do good for society through sport and in so doing inspire those around them to do likewise in a sustainable manner.
+**The Corporate Giving Inspiration Award** recognises organisations or individuals who have made significant and consistent financial and in-kind support to SportCares’ events and programmes. This award also recognises and appreciates them for their passion to drive social change, do good for society through sport and in so doing inspire those around them to do likewise in a sustainable manner.
 
 **The Sporting Inspiration Award** recognises and celebrates individuals or teams, volunteers, and organisations who, through sport, have dedicated their time and effort to care for, motivate and inspire others to make positive changes.
 
