@@ -6,10 +6,6 @@ permalink: /
 sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
-      key_highlights:
-        - title: Donate to SportCares
-          description: Join us on our journey!
-          url: https://www.giving.sg/vision2030/sportcares2022
   - infopic:
       title: Kampong of Care @ Jalan Kukoh
       subtitle: "What's new at Sportcares? "
@@ -38,7 +34,5 @@ sections:
       url: https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-programmes/
       image: /images/Website-Hero-Banner.jpg
       alt: Image alt text
-notification: "We celebrate 10 years of Changing Lives Through Sport this year!
-  And you can join us on the SportCares Journey by giving to our cause via the
-  link below this image. "
+notification: ""
 ---
