@@ -25,7 +25,7 @@ sections:
       image: /images/Main Photo for KOC 2022.png
   - infopic:
       title: SportCares Bursary
-      subtitle: "Our Initiatives "
+      subtitle: Communities of Care Initiative
       description: "The SportCares Bursary aims to increase opportunities for children
         and youth from low-income families to learn a sport at ActiveSG
         Academies and Clubs. "
@@ -35,7 +35,7 @@ sections:
       alt: Image alt text
   - infopic:
       title: Sport for PWDs
-      subtitle: Inclusive sport initiatives
+      subtitle: Inclusive sport initiative
       description: "By working with our community partners and partcipants, we have
         designed various programmes that serve different needs in the disability
         sports sector. "
