@@ -7,6 +7,15 @@ sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
   - infopic:
+      title: Join us on the SportCares Journey!
+      subtitle: Donations
+      description: "Your donation today will give a better tomorrow to the communities
+        we serve.  "
+      button: Donate now
+      url: https://www.giving.sg/vision2030/sportcares2023
+      image: /images/GivingSG2023.png
+      alt: Image alt text
+  - infopic:
       title: Kampong of Care @ Jalan Kukoh
       subtitle: "What's new at Sportcares? "
       description: "Here's more on our second 10th Year Anniversary Celebration event!  "
