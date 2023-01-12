@@ -28,7 +28,7 @@ The evening also saw the title-deciding match for the Men’s Open category betw
 
 > “Today, as a player-coach, I am thrilled that my team had reached the finals. Throughout the HEARTS League, we pushed through each match more determined and instilled in the players self-belief, that with hard work, success can be achieved.”
 
-Mr Marcus Tan, Chief of Sport Development Group, Sport Singapore, who oversees SportCares and is the organiser of SportCares 10YA HEARTS Football League, added, “Over the past few months, the HEARTS Football League has provided youths from our flagship Saturday Night Lights football programme the opportunity to practice what they have learnt during their training, from technical skills to values, in a competitive environment.
+Mr Marcus Tan, Chief, Sport Development Group, Sport Singapore, who oversees SportCares and is the organiser of SportCares 10YA HEARTS Football League, added, “Over the past few months, the HEARTS Football League has provided youths from our flagship Saturday Night Lights football programme the opportunity to practice what they have learnt during their training, from technical skills to values, in a competitive environment.
 
 “In SportCares’ 10 years, we have seen the benefits of leveraging team sport to build communities of care around youths from disadvantaged backgrounds, and today’s performances indeed show how our constituents have grown from strength to strength over the course of the programme.
 
@@ -40,12 +40,12 @@ In the meantime, we leave you with the list of award winners and the top three t
 
 The list is as follow: 
 
-**Top Three Teams** 
-* Under-17 Boys League: **Spex Titans (Champions)**, Hawks (1st Runner-Up), Football Plus (2nd Runner-Up)
+**Top Three Teams** *(for final league standing, click on the league category below)*
+* [Under-17 Boys](https://go.gov.sg/u17-table-heartsleague2022): **Spex Titans (Champions)**, Hawks (1st Runner-Up), Football Plus (2nd Runner-Up)
 
-* Women’s Open League: **Singapore Cricket Club (Champions)**, Arion (1st Runner-Up), NTU (2nd Runner-Up)
+* [Women’s Open](https://go.gov.sg/womensopen-table-heartsleague2022): **Singapore Cricket Club (Champions)**, Arion (1st Runner-Up), NTU (2nd Runner-Up)
 
-* Men’s Open League: **SNL Alumni (Champions)**, District West United (1st Runner-Up), The New Team (2nd Runner-Up) 
+* [Men's Open](https://go.gov.sg/mensopen-table-heartsleague2022): **SNL Alumni (Champions)**, District West United (1st Runner-Up), The New Team (2nd Runner-Up) 
 
 **Fair Play Award**:
 
