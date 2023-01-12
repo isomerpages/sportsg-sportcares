@@ -16,13 +16,13 @@ sections:
       image: /images/GivingSG2023.png
       alt: Image alt text
   - infopic:
-      title: Kampong of Care @ Jalan Kukoh
+      title: Celebrating 10 years of SportCares
       subtitle: "What's new at Sportcares? "
-      description: "Here's more on our second 10th Year Anniversary Celebration event!  "
+      description: "Here's more on our 10th Year Anniversary Celebration dinner event!  "
       button: "read now "
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/koc2022/
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/celebrating10yearsofsportcares/
       alt: Image alt text
-      image: /images/Main Photo for KOC 2022.png
+      image: /images/HeartsBookLaunch_2022.jpg
   - infopic:
       title: SportCares Bursary
       subtitle: Communities of Care Initiative
