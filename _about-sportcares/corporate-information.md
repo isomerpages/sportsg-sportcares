@@ -24,4 +24,4 @@ Disability sport:  <inclusivesport@sport.gov.sg>
 
 ### Donation
 
-[SportCares on giving.sg](https://www.giving.sg/vision2030/sportcares2022)
+[SportCares on giving.sg](https://www.giving.sg/vision2030/sportcares2023)
