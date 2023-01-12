@@ -7,10 +7,10 @@ sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
   - infopic:
-      title: Join us on the SportCares Journey!
+      title: Changing Lives Through Sport
       subtitle: Donations
       description: "Your donation today will give a better tomorrow to the communities
-        we serve.  "
+        we serve. Join us today on the SportCares Journey!   "
       button: Donate now
       url: https://www.giving.sg/vision2030/sportcares2023
       image: /images/GivingSG2023.png
