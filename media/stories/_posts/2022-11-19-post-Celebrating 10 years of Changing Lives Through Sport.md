@@ -14,6 +14,7 @@ The HEARTS book was launched by SportCares patron President Halimah Yacob at the
 
 The [SportCares Awards](https://go.gov.sg/scawards2022) also made a return at the event, after a two-year hiatus during the COVID-19 pandemic. This year's edition honoured 19 individuals, including a group of youth instructors, and five organisations, that have been exemplary in using sport to empower at-risk and/or underprivileged children and youths, isolated seniors and PwDs to make positive changes in their lives.
 
+![](/images/HeartsBookLaunch_2022.jpg)
 
 > At the event, President Halimah commended the awardees and other SportCares’ community partners for their contributions: “All of us have a role to play in building a more inclusive sporting Singapore. It is through the collective effort of all that we are able to realise a common vision of serving our communities, and it is attributed to every single one of you for coming together and championing the use of sport as a force for good.”
 
