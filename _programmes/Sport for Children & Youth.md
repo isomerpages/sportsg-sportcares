@@ -4,9 +4,6 @@ permalink: /programmes/children-and-youth/
 breadcrumb: children-and-youth
 description: ""
 ---
-![Alternative text for screen readers](/images/Children_youth_programme.png)
-
-
 SportCares uses sport and coach-mentoring to work with children and youth to build self-esteem, learn life skills and enable a strong sense of independence through personal development. 
 
 Across our programmes, sport is the platform we use to engage participants, encourage health and wellbeing, and achieve positive development. Friendships and relationships built through sport also remove them from negative influences, including anti-social peer groups, dependence & addiction, low self-esteem and boredom. 
