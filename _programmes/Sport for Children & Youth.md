@@ -15,13 +15,15 @@ And mentioned below are the community programmes that we currently manage with t
 * Community Basketball Programme
 * Community Swimming Programme 
 * CareRunners (Athletics)
-* Project Kind (Multi-Sport) 
+* FUN Starters (Multi-Sport) 
+* School Holiday Programmes
 
 ##### SportCares Programmes for Youth:
 * Saturday Night Lights (Football)
 * Let's Sepak (Sepak Takraw) 
 * Multi-Sport Programme (Running, Swimming, Cycling) 
 * SportCares Champions (Leadership Programme) 
+* School Holiday Programmes
 
 #### Featured SportCares Programme
 ###### SATURDAY NIGHT LIGHTS
