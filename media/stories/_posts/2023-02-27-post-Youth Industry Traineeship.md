@@ -7,7 +7,7 @@ description: ""
 image: ""
 ---
 ![](/images/YIT_2.jpeg)
-*A group photo at one of the YIT engagement sessions. Last November, YIT participants engaged Sport Singapore’s CEO, Lim Teck Yin, at a fireside chat where they discussed various career related topics. Photo: SportCares
+*A group photo at one of the YIT engagement sessions. Last November, YIT participants engaged Sport Singapore’s CEO, Lim Teck Yin, at a fireside chat where they discussed various career related topics. Photo: SportCares*
 
 Early last year, we started exploring avenues that would further strengthen the lives of our participants, specifically for the young adults who were about to take the all-important step into building a career path in areas of their interest.
 
