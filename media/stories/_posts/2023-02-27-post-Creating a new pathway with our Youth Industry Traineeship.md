@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![](/images/YIT_2.jpeg)
 *A group photo at one of the YIT engagement sessions. Last November, YIT participants engaged Sport Singapore’s CEO, Lim Teck Yin, at a fireside chat where they discussed various career related topics. Photo: SportCares.*
 
@@ -26,6 +25,6 @@ We have also had our youth share with us their increased self-esteem, improved c
 ![](/images/YIT_1.jpeg)
 *A group photo at one of the YIT engagement sessions. YIT participants, Khalifah, Izzan and Shahirah interviewed with Ms. Pearline Chan, Director, Business Operations & Marketing Communications at SportFive as part of the YIT programme plan. Photo: SportCares.*
 
-To our pioneer batch of YIT participants, thank you for letting us journey with you on this exciting phase of your life.
+To our pioneer batch of YIT participants, thank you for letting us journey with you on this exciting phase of your life. 
 
-To all our partners, internal and external, we thank you for your valuable insights from the moment we reached out to you and the extensive support you continue to share with us.
+And to all our partners, internal and external, we thank you for your valuable insights from the moment we reached out to you and the extensive support you continue to share with us.
