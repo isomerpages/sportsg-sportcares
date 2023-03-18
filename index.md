@@ -7,6 +7,14 @@ sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
   - infopic:
+      title: "Launching FUN Starters in the community "
+      subtitle: "What's new at Sportcares? "
+      description: "Here's more on our latest addition in the community!   "
+      button: "read now "
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/launchoffunstarters/
+      alt: Image alt text
+      image: /images/FUN Starters Coach Ridhwan.jpg
+  - infopic:
       title: Changing Lives Through Sport
       subtitle: Donations
       description: "Your donation today will give a better tomorrow to the communities
@@ -15,14 +23,6 @@ sections:
       url: https://www.giving.sg/vision2030/sportcares2023
       image: /images/GivingSG2023.png
       alt: Image alt text
-  - infopic:
-      title: Celebrating 10 years of SportCares
-      subtitle: "What's new at Sportcares? "
-      description: "Here's more on our 10th Year Anniversary Celebration dinner event!  "
-      button: "read now "
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/celebrating10yearsofsportcares/
-      alt: Image alt text
-      image: /images/HeartsBookLaunch_2022.jpg
   - infopic:
       title: SportCares Bursary
       subtitle: Communities of Care Initiative
