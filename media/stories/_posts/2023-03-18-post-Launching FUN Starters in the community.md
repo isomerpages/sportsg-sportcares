@@ -31,6 +31,6 @@ Mr Lim Hock Chuan, Head of Programmes at Temasek Foundation said: "Participating
 FUN Starters will offer a range of sport activities depending on interest amongst the children,over four terms annually, with each term lasting about 10 weeks. The sport will be led by experienced coaches who will tailor the programme plan to meet the needs and interests of the children. There will also be workshops and training sessions on related topics, such as nutrition, injury prevention, and sportsmanship, with some opportunities for family members to participate.
 
 ![](/images/FUN%20Starters%20Coach%20Ridhwan.jpg)
-*Coach Ridhwan engaging an event attendee with a boxing drill. Photo: SportCares*
+*One of our coaches from Legends Fight Sport engaging an event attendee with a boxing drill. Photo: SportCares*
 
 > Speaking at the launch, 35-year-old Head Coach of Legends Fight Sport and three-time SEA Games (2011, 2013 and 2015) bronze medallist, Muhamad Ridhwan, said, “It has been a great experience for me and my team of coaches to be involved in FUN Starters. All of us at Legends are always looking out for opportunities to give back to the community and at the same time, introduce the sport of boxing to children and youth. So, when we connected with SportCares last year and the offer to partner on this initiative came about, we did not have to think twice about it."
