@@ -16,13 +16,12 @@ sections:
       image: /images/GivingSG2023.png
       alt: Image alt text
   - infopic:
-      title: Celebrating 10 years of SportCares
+      title: "Launching FUN Starters in the community "
       subtitle: "What's new at Sportcares? "
-      description: "Here's more on our 10th Year Anniversary Celebration dinner event!  "
+      description: "Here's more on our latest addition in the community!   "
       button: "read now "
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/celebrating10yearsofsportcares/
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/launchoffunstarters/
       alt: Image alt text
-      image: /images/HeartsBookLaunch_2022.jpg
   - infopic:
       title: SportCares Bursary
       subtitle: Communities of Care Initiative
