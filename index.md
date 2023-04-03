@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Sport Singapore - SportCares
-description: Changing Lives through Sports
+title: SportCares
+description: Description
 permalink: /
 sections:
   - hero:
@@ -44,4 +44,5 @@ sections:
       image: /images/Website-Hero-Banner.jpg
       alt: Image alt text
 notification: ""
+image: /images/isomer-logo.svg
 ---
