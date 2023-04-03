@@ -5,7 +5,7 @@ description: Description
 permalink: /
 sections:
   - hero:
-      background: /images/FA_041120_SportCares Website Banner.jpg
+      background: /images/Website-Hero-Banner.jpg
   - infopic:
       title: "Launching FUN Starters in the community "
       subtitle: "What's new at Sportcares? "
