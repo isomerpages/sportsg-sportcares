@@ -1,6 +1,6 @@
 ---
 title: SportCares Bursary
-permalink: /initiatives/SportCaresBursary
+permalink: /initiatives/SportCaresBursary/
 description: ""
 ---
 ![](/images/communities-of-care-1.jpg)
@@ -31,9 +31,10 @@ All SportCares Bursary Recipients are expected to attend at least 70% of the tra
 
 **Bursary Application**
 -
-* To start your application process, click [here](https://go.gov.sg/sportcaresbursaries-applicationform).  
+We are currently reviewing our application process and will share more details soon. 
 
-Please note the following before filling up the application form:
-* Head over to the ActiveSG [website](https://www.myactivesg.com/programmes/academy) to find out about the venues, session details (dates and timing) for the various A&Cs before applying. You will be asked to indicate your preferred venue, session day and time on the application form. 
-* Applicants must be current recipients of a financial assistance scheme. For verification, you will be asked to submit proof of the financial assistance scheme. This submission can be in the form of a confirmation letter or email from the relevant agency and you are required to upload it in PDF or JPEG format.
-* If your application is successful, you will be contacted by the respective A&C with the administrative details at least two weeks before the start of the A&C season.
+For existing Bursary recipients, please speak to your coach at your training venue and let them know of your interest to continue with the Bursary. By doing so, our colleagues at the respective A&C can process your application for the next season. 
+
+For new applicants: 
+* **Individuals**: We request that individual applicants reach out to us via sportcares@sport.gov.sg, with details of your name, contact number and postal code of your current residential location. We will be in touch with you within seven (7) working days.
+* **[NEW] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first before reaching out to us via sportcares@sport.gov.sg. We will be in touch with you within seven (7) working days.
