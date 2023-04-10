@@ -30,13 +30,11 @@ All SportCares Bursary Recipients are expected to attend at least 70% of the tra
 
 ## How to Apply? 
 
-We are currently reviewing our application process and will share more details soon. 
-
 ### Existing Bursary recipients 
 Please speak to your coach at your training venue and let them know of your interest to continue with the Bursary. By doing so, our colleagues at the respective A&C can process your application for the next season.
 
 ### New applicants
 
-**Individuals**: We request that individual applicants reach out to us via sportcares@sport.gov.sg, with details of your name, contact number and postal code of your current residential location. We will be in touch with you within seven (7) working days.
+**Individuals**: We request that individual applicants reach out to us via [ sportcares@sport.gov.sg]( sportcares@sport.gov.sg), with details of your name, contact number and postal code of your current residential location. We will be in touch with you within seven (7) working days.
 
-**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first before reaching out to us via sportcares@sport.gov.sg. We will be in touch with you within seven (7) working days.
+**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first before reaching out to us via [ sportcares@sport.gov.sg]( sportcares@sport.gov.sg). We will be in touch with you within seven (7) working days.
