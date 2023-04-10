@@ -28,7 +28,7 @@ The bursary will cover seasonal participation fees for ten (10) ActiveSG Academi
 -
 All SportCares Bursary Recipients are expected to attend at least 70% of the training sessions per season and display sportsmanship conduct during all A&C related sessions. Failure to meet the attendance requirement of 70% per season may result in the suspension of the Bursary. 
 
-# Bursary Application
+## How to Apply? 
 
 We are currently reviewing our application process and will share more details soon. 
 
