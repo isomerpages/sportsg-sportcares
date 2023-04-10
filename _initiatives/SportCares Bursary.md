@@ -35,6 +35,6 @@ Please speak to your coach at your training venue and let them know of your inte
 
 ### New applicants
 
-**Individuals**: We request that individual applicants reach out to us via [ sportcares@sport.gov.sg]( sportcares@sport.gov.sg), with details of your name, contact number and postal code of your current residential location. We will be in touch with you within seven (7) working days.
+**Individuals**: We request that individual applicants write to us [here](mailto:sportcares@sport.gov.sg), with details of your name, contact number and postal code of your current residential location. We will be in touch with you within seven (7) working days.
 
-**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first before reaching out to us via [ sportcares@sport.gov.sg]( sportcares@sport.gov.sg). We will be in touch with you within seven (7) working days.
+**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first then write to us [here](mailto:sportcares@sport.gov.sg). We will be in touch with you within seven (7) working days.
