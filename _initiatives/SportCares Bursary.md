@@ -33,7 +33,7 @@ All SportCares Bursary Recipients are expected to attend at least 70% of the tra
 -
 We are currently reviewing our application process and will share more details soon.
 
-#### Existing Bursary recipients 
+### Existing Bursary recipients 
 Please speak to your coach at your training venue and let them know of your interest to continue with the Bursary. By doing so, our colleagues at the respective A&C can process your application for the next season.
 
 ### New applicants
