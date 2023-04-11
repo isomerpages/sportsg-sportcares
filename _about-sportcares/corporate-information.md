@@ -10,18 +10,18 @@ Vision 2030 Fund (UEN: T14CC0007H)
 3 Stadium Drive, Singapore 397630
 
 ### Enquiries
-General:  <sportcares@sport.gov.sg>
+General:  Write to us [here.](mailto:sportcares@sport.gov.sg)
 
-Disability sport:  <inclusivesport@sport.gov.sg>
+Disability sport:  Write to us [here.](mailto:inclusivesport@sport.gov.sg)
 
 ### Social Media
 
-[SportCares Facebook page](https://www.facebook.com/SportCaresSG)
+[Facebook](https://www.facebook.com/SportCaresSG)
 
-[SportCares Instagram page](https://www.instagram.com/sportcares)
+[Instagram](https://www.instagram.com/sportcares)
 
-[SportCaresTV YouTube page](https://www.go.gov.sg/sportcarestv)
+[YouTube](https://www.youtube.com/@SportCaresTV/featured)
 
 ### Donation
 
-[[SportCares on giving.sg]](https://www.giving.sg/vision2030/sportcares2023)
+Find us on [giving.sg.](https://www.giving.sg/vision2030/sportcares2023)
