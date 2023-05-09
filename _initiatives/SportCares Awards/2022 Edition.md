@@ -1,6 +1,6 @@
 ---
 title: 2022 Edition
-permalink: /initiatives/SportCares-Awards-2022/
+permalink: /initiatives/sportcares-awards-2022/
 description: ""
 third_nav_title: SportCares Awards
 ---

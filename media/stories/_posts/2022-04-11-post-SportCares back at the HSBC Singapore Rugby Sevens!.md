@@ -1,6 +1,6 @@
 ---
 title: SportCares back at the HSBC Singapore Rugby Sevens!
-permalink: /media/stories/sportcaresatsg7s
+permalink: /media/stories/sportcaresatsg7s/
 date: 2022-04-11
 layout: post
 description: HSBC Singapore Rugby Sevens 2022, Project Kind

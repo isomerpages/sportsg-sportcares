@@ -1,6 +1,6 @@
 ---
 title: SportCares Bursary
-permalink: /initiatives/SportCaresBursary/
+permalink: /initiatives/sportcaresbursary/
 description: ""
 ---
 ![](/images/communities-of-care-1.jpg)
