@@ -1,6 +1,6 @@
 ---
 title: 'For Youths at Risk'
-permalink: /testing2
+permalink: /testing2/
 breadcrumb: 'For Youth at Risk'
 
 ---

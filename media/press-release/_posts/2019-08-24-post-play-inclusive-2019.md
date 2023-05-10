@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Play Inclusive 2019'
-permalink: /media/press-release/play-inclusive-2019
+permalink: /media/press-release/play-inclusive-2019/
 category: 'press-release'
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Run For Inclusion 2020'
-permalink: /media/events/run-for-inclusion
+permalink: /media/events/run-for-inclusion/
 category: events
 
 ---

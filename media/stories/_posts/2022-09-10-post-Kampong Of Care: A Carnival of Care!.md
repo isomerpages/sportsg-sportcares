@@ -1,6 +1,6 @@
 ---
 title: "Kampong Of Care: A Carnival of Care!"
-permalink: /media/stories/KOC2022/
+permalink: /media/stories/koc2022/
 date: 2022-09-10
 layout: post
 description: ""

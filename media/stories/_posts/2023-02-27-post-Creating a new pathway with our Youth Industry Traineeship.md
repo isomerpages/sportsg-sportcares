@@ -1,6 +1,6 @@
 ---
 title: Creating a new pathway with our Youth Industry Traineeship
-permalink: /media/stories/YIT2023/
+permalink: /media/stories/yit2023/
 date: 2023-02-27
 layout: post
 description: ""

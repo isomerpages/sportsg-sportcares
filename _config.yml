@@ -31,8 +31,8 @@ colors:
       color: "#0054A6"
     - title: media-color-five
       color: "#BA0C2F"
-staging: https://isomer-sportcares-staging.netlify.app
-prod: https://isomer-sportcares-prod.netlify.app
+staging: https://staging.d3u2gnyi1vmtir.amplifyapp.com/
+prod: https://master.d3u2gnyi1vmtir.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets

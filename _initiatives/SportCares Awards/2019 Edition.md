@@ -1,6 +1,6 @@
 ---
 title: 2019 Edition
-permalink: /initiatives/SportCares-Awards-2019/
+permalink: /initiatives/sportcares-awards-2019/
 breadcrumb: sportcares awards
 description: ""
 third_nav_title: SportCares Awards

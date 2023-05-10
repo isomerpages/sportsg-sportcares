@@ -1,6 +1,6 @@
 ---
 title: Communities of Care Grant
-permalink: /initiatives/COC-Grants/
+permalink: /initiatives/coc-grants/
 breadcrumb: sportcares grants
 description: Looking for funding to bring a sports programme to the community
   you live or work in?  SportCares offers two types of Communities of Care (COC)

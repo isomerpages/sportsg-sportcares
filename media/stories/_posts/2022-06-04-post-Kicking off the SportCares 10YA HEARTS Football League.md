@@ -1,6 +1,6 @@
 ---
 title: Kicking off the SportCares 10YA HEARTS Football League
-permalink: /media/stories/Kick-Off-10YA-HEARTS-Football-League
+permalink: /media/stories/kick-off-10ya-hearts-football-league/
 date: 2022-06-04
 layout: post
 description: ""

@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /persons-with-disabilities/Inclusive-Sports-Facilities/
+permalink: /persons-with-disabilities/inclusive-sports-facilities/
 breadcrumb: 'Sports Facilities'
 third_nav_title: 'Inclusive Sport Facilities'
 
