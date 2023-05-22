@@ -2,7 +2,6 @@ collections:
   children-and-youth:
     output: true
     order:
-      - who-we-serve.md
       - programmes.md
       - train-at-home/.keep
       - train-at-home/football.md
