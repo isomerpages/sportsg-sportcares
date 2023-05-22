@@ -21,9 +21,9 @@ These are the sessions that are currently ongoing:
 
 * Equipment provided
 
-* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or email us at [inclusivesport@sport.gov.sg](inclusivesport@sport.gov.sg) for more information. 
+* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or click [here](mailto:inclusivesport@sport.gov.sg) to contact us via email for more information. 
 
-*(Information is correct as of 22 June 2022)*
+*(Information is correct as of 22 May 2023)*
 
 
 #### 2) **Soundball (Blind Tennis)**
