@@ -52,9 +52,9 @@ third_nav_title: Resources
 - Contact: +65-90505398 / admin@runninghour.com
 
 **Table Tennis Association for the Disabled (Singapore)**
-- Website: [https://www.facebook.com/pg/TTADS.SG/](https://www.facebook.com/pg/TTADS.SG/ "https://www.facebook.com/pg/TTADS.SG/")
+- Facebook Page: [https://www.facebook.com/pg/TTADS.SG/](https://www.facebook.com/pg/TTADS.SG/ "https://www.facebook.com/pg/TTADS.SG/")
 - Contact: ttads.adm@gmail.com 
 
 **Wheelchair Basketball Association of Singapore**
-- Website: [https://www.facebook.com/WheelchairBasketballAssociationSingapore](https://www.facebook.com/WheelchairBasketballAssociationSingapore "https://www.facebook.com/WheelchairBasketballAssociationSingapore")
-- Contact: https://www.facebook.com/WheelchairBasketballAssociationSingapore
+- Instagram Page: [WBA Singapore](https://www.instagram.com/wba_singapore/?hl=en) 
+- Contact: [WBAS](https://www.instagram.com/wba_singapore/?hl=en)
