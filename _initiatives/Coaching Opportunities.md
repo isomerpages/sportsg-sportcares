@@ -6,9 +6,9 @@ image: /images/Istana_Picnic_2.jpg
 ---
 ![](/images/Istana_Picnic_2.jpg)
 
-Our coaches play an integral role in our programmes, covering key developmental components while creating a safe and engaging environment for our participants. And we are looking for motivated coaches to join us in our journey to change lives through sport. 
+Our coaches play an integral role in our programmes, covering key developmental components while creating a safe and engaging environment for our participants. 
 
-If you are passionate, kind, patient and eager about guiding and mentoring participants, submit your interest [here!](https://go.gov.sg/sc-coach-recruitment)
+And we are looking for motivated coaches to join us in our journey to change lives through sport. So if you are passionate, kind, patient and eager about guiding and mentoring participants, submit your interest [here!](https://go.gov.sg/sc-coach-recruitment)
 
 
 All applications will be evaluated, and successful applicants will be contacted.
