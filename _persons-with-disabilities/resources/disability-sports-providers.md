@@ -48,13 +48,13 @@ third_nav_title: Resources
 - Contact:  6250 0176 / mail@rdasingapore.org.sg
 
 **Runninghour**
-- Website: [https://runninghour.com/](https://runninghour.com/ "https://runninghour.com/")
+- Website: [Runninghour](https://runninghour.com/)
 - Contact: +65-90505398 / admin@runninghour.com
 
 **Table Tennis Association for the Disabled (Singapore)**
-- Facebook Page: [https://www.facebook.com/pg/TTADS.SG/](https://www.facebook.com/pg/TTADS.SG/ "https://www.facebook.com/pg/TTADS.SG/")
+- Website: [TTADS](https://sdsc.org.sg/sdsc_sport_type/table-tennis/)
 - Contact: ttads.adm@gmail.com 
 
 **Wheelchair Basketball Association of Singapore**
-- Instagram Page: [WBA Singapore](https://www.instagram.com/wba_singapore/?hl=en) 
-- Contact: [WBAS](https://www.instagram.com/wba_singapore/?hl=en)
+- Website: [WBA Singapore](https://sdsc.org.sg/sdsc_sport_type/wheelchair-basketball/)
+- Contact: [WBAS Instagram](https://www.instagram.com/wba_singapore/?hl=en)
