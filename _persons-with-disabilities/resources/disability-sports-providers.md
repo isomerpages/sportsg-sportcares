@@ -1,12 +1,9 @@
 ---
-title: 'Disability Sports Providers'
+title: Disability Sports Providers
 permalink: /persons-with-disabilities/resources/
-breadcrumb: 'Resources and Useful Links'
+breadcrumb: Resources and Useful Links
 third_nav_title: Resources
-
 ---
-
-
 ### National Sports Associations (NSA)
 
 **Singapore Disability Sports Council**
@@ -31,7 +28,7 @@ third_nav_title: Resources
 - Contact:  9380 4355 / bads.ndsa@gmail.com
 
 **Goalball Singapore**
-- Website: [https://goalball.sg/](https://goalball.sg/ "https://goalball.sg/")
+- Facebook Page: [GoalballSG](https://www.facebook.com/goalballsg/)
 - Contact:  (65) 9221 4705 / team@athlete.sg
 
 **Lawn Bowls Association for the Disabled**
@@ -61,4 +58,3 @@ third_nav_title: Resources
 **Wheelchair Basketball Association of Singapore**
 - Website: [https://www.facebook.com/WheelchairBasketballAssociationSingapore](https://www.facebook.com/WheelchairBasketballAssociationSingapore "https://www.facebook.com/WheelchairBasketballAssociationSingapore")
 - Contact: https://www.facebook.com/WheelchairBasketballAssociationSingapore
-
