@@ -11,7 +11,7 @@ third_nav_title: Resources
 - Contact: (65) 6342 3501 / [Online Contact Form](https://sdsc.org.sg/contact/ "Online Contact Form")
 
 **Special Olympics Singapore**
-- Facebook Page: [Special Olympics Singapore](https://www.facebook.com/SpecialOlympicsSingapore)
+- Website: [SOSG ](https://www.specialolympics.org.sg/)
 - Contact: +65-6293 3182 / admin@specialolympics.org.sg
 
 **Deaf Sports Association (Singapore)**
@@ -41,7 +41,7 @@ third_nav_title: Resources
 
 **Para Cycling Federation of Singapore**
 - Website:  [PCFS](https://www.paracycling.sg/)
-- Contact:  [http://www.paracycling.sg/contact-us/](http://www.paracycling.sg/contact-us/ "http://www.paracycling.sg/contact-us/")
+- Contact: [PCFS Contact Form](http://www.paracycling.sg/contact-us/)
 
 **Riding for the Disabled Association Singapore (RDA Singapore)**
 - Website: [RDA Singapore](http://rdasingapore.org/)
