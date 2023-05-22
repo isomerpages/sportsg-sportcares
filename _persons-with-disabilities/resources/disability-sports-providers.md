@@ -24,7 +24,7 @@ third_nav_title: Resources
 ### Para Sports Organisations / Service Providers
 
 **Bowling Association for the Disabled (Singapore)**
-- Website: [http://www.bads.org.sg/index.html](http://www.bads.org.sg/index.html "http://www.bads.org.sg/index.html")
+- Website: [BADS](http://www.bads.org.sg/)
 - Contact:  9380 4355 / bads.ndsa@gmail.com
 
 **Goalball Singapore**
@@ -32,7 +32,7 @@ third_nav_title: Resources
 - Contact:  (65) 9221 4705 / team@athlete.sg
 
 **Lawn Bowls Association for the Disabled**
-- Website: [http://parabowlsingapore.org/](http://parabowlsingapore.org/ "http://parabowlsingapore.org/")
+- Website: [Parabowl Singapore](https://parabowlsingapore.org/)
 - Contact: hello@parabowlsingapore.org
 
 **Para Athletics (Singapore)**
