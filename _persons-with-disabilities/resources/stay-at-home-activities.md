@@ -4,9 +4,9 @@ permalink: /persons-with-disabilities/stay-at-home-activities/
 breadcrumb: Resources and Useful Links
 third_nav_title: Resources
 ---
-#### Bookmark this Page for More Inclusive Fitness Workout Videos!
+Exercising at home can be just as fun for people of all abilities, and many of the moves in these series of videos have been adapted to suit people of all abilities and fitness levels. 
 
-The Circuit Breaker is no reason to stop exercising. Exercising at home can be just as fun for people of all abilities, and many of the moves in these series of videos have been adapted to suit people of all abilities and fitness levels. Grab your parents and siblings and get active together with these inclusive fitness workouts!
+Get active together with everyone at home using these inclusive fitness workouts!
 
 To get notified whenever a new video is uploaded, subscribe to [SportCaresTV Inclusive Sport Playlist](https://www.youtube.com/playlist?list=PLcB7q5Kh1WQqOysgj66n-76HgNqt_8sKi).
 
@@ -41,8 +41,3 @@ Do these workouts seated or standing!
 
 *Inclusive Latin Salsa Fitness Workout* 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ai7H6wnsZjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-*K-Kardio Fitness Workout* 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xczSrB9Q9Jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-*These workouts were created by the SportCares Disability Sports Masterplan team in collaboration with the sports and fitness industry to encourage persons with disabilities to stay active. 
