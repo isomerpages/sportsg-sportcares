@@ -1,24 +1,21 @@
 ---
-title: 'Disability Sports Providers'
+title: Disability Sports Providers
 permalink: /persons-with-disabilities/resources/
-breadcrumb: 'Resources and Useful Links'
+breadcrumb: Resources and Useful Links
 third_nav_title: Resources
-
 ---
-
-
 ### National Sports Associations (NSA)
 
 **Singapore Disability Sports Council**
-- Website: [https://sdsc.org.sg/](https://sdsc.org.sg/ "https://sdsc.org.sg/")
+- Website: [SDSC](https://sdsc.org.sg/) 
 - Contact: (65) 6342 3501 / [Online Contact Form](https://sdsc.org.sg/contact/ "Online Contact Form")
 
 **Special Olympics Singapore**
-- Facebook page: [Special Olympics Singapore](https://www.facebook.com/SpecialOlympicsSingapore)
+- Website: [SOSG ](https://www.specialolympics.org.sg/)
 - Contact: +65-6293 3182 / admin@specialolympics.org.sg
 
 **Deaf Sports Association (Singapore)**
-- Website: https://dsa.org.sg/
+- Website: [DSA](https://dsa.org.sg/)
 - Contact: info@dsa.org.sg / [Online Contact Form](https://dsa.org.sg/contact-us/ "Online Contact Form")
 
 
@@ -27,38 +24,37 @@ third_nav_title: Resources
 ### Para Sports Organisations / Service Providers
 
 **Bowling Association for the Disabled (Singapore)**
-- Website: [http://www.bads.org.sg/index.html](http://www.bads.org.sg/index.html "http://www.bads.org.sg/index.html")
+- Website: [BADS](http://www.bads.org.sg/)
 - Contact:  9380 4355 / bads.ndsa@gmail.com
 
 **Goalball Singapore**
-- Website: [https://goalball.sg/](https://goalball.sg/ "https://goalball.sg/")
+- Facebook Page: [GoalballSG](https://www.facebook.com/goalballsg/)
 - Contact:  (65) 9221 4705 / team@athlete.sg
 
 **Lawn Bowls Association for the Disabled**
-- Website: [http://parabowlsingapore.org/](http://parabowlsingapore.org/ "http://parabowlsingapore.org/")
+- Website: [Parabowl Singapore](https://parabowlsingapore.org/)
 - Contact: hello@parabowlsingapore.org
 
 **Para Athletics (Singapore)**
-- Website: [https://para-athletics.org.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
+- Website: [Para Athletics (Singapore)](https://para-athletics.org.sg/)
 - Contact:  info@para-athletics.org.sg
 
 **Para Cycling Federation of Singapore**
-- Website: [http://www.paracycling.sg/](https://para-athletics.org.sg/ "https://para-athletics.org.sg/")
-- Contact:  [http://www.paracycling.sg/contact-us/](http://www.paracycling.sg/contact-us/ "http://www.paracycling.sg/contact-us/")
+- Website:  [PCFS](https://www.paracycling.sg/)
+- Contact: [PCFS Contact Form](http://www.paracycling.sg/contact-us/)
 
 **Riding for the Disabled Association Singapore (RDA Singapore)**
-- Website: [http://rdasingapore.org/](http://rdasingapore.org/ "http://rdasingapore.org/")
+- Website: [RDA Singapore](http://rdasingapore.org/)
 - Contact:  6250 0176 / mail@rdasingapore.org.sg
 
 **Runninghour**
-- Website: [https://runninghour.com/](https://runninghour.com/ "https://runninghour.com/")
+- Website: [Runninghour](https://runninghour.com/)
 - Contact: +65-90505398 / admin@runninghour.com
 
 **Table Tennis Association for the Disabled (Singapore)**
-- Website: [https://www.facebook.com/pg/TTADS.SG/](https://www.facebook.com/pg/TTADS.SG/ "https://www.facebook.com/pg/TTADS.SG/")
+- Website: [TTADS](https://sdsc.org.sg/sdsc_sport_type/table-tennis/)
 - Contact: ttads.adm@gmail.com 
 
 **Wheelchair Basketball Association of Singapore**
-- Website: [https://www.facebook.com/WheelchairBasketballAssociationSingapore](https://www.facebook.com/WheelchairBasketballAssociationSingapore "https://www.facebook.com/WheelchairBasketballAssociationSingapore")
-- Contact: https://www.facebook.com/WheelchairBasketballAssociationSingapore
-
+- Website: [WBA Singapore](https://sdsc.org.sg/sdsc_sport_type/wheelchair-basketball/)
+- Contact: [WBAS Instagram](https://www.instagram.com/wba_singapore/?hl=en)
