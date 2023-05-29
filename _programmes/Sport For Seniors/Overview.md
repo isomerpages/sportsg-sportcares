@@ -9,6 +9,6 @@ description: ""
 
 ### Connecting Seniors Through Sport 
 
-SportCares, in partnership with [Active Health](https://www.activesgcircle.gov.sg/activehealth) and [Active Masters](https://www.myactivesg.com/Programmes/For-Masters-and-Seniors), continues to proliferate adaptive sport programmes to vulnerable seniors. 
+SportCares, in partnership with Active Health and [Active Masters](https://www.myactivesg.com/Programmes/For-Masters-and-Seniors), continues to provide adaptive sport programmes to vulnerable seniors. 
 
 Working alongside nursing homes, senior care centres and senior activity centres, SportCares uses its resources on efforts like developing a toolkit and creating simple instructional videos, as well as facilitating silver sports days and inter-home sport competitions.
