@@ -5,7 +5,7 @@ breadcrumb: Ongoing Programmes
 third_nav_title: Sports Programmes
 ---
 ### Play-Ability Sessions
-[Play-Ability](https://www.temasekfoundation-cares.org.sg/journal/13/the-joy-of-play) is a recreational sports programme for persons with disabilities launched in partnership with Temasek Foundation Cares. The programme aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. 
+Play-Ability is a recreational sports programme for persons with disabilities launched in partnership with Temasek Foundation Cares. The programme aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. 
 
 These are the sessions that are currently ongoing: 
 
