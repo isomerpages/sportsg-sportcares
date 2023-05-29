@@ -24,7 +24,6 @@ third_nav_title: Resources
 ### Para Sports Organisations / Service Providers
 
 **Bowling Association for the Disabled (Singapore)**
-- Website: [BADS](http://www.bads.org.sg/)
 - Contact:  9380 4355 / bads.ndsa@gmail.com
 
 **Goalball Singapore**
