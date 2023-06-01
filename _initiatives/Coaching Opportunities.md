@@ -22,10 +22,13 @@ All applications will be evaluated, and successful applicants will be contacted.
 * Completed the Safe Sport Workshop
 
 **Preferred Skills (in addition to above mentioned qualifications):** 
-* Experience in working with children and youth from vulnerable communities or Persons with Disabilities (PwDs) or seniors.  
+* Experience in working with: 
+	* Children and youth from vulnerable communities
+	* Persons with Disabilities (PwDs)
+	* Seniors
 
 **And here’s a quick look at some of the coaching opportunities at SportCares:** 
-* Community Programmes for children and youth covering various sports such as football, rugby, sepak takraw, swimming, futsal, athletics, basketball and others
+* Community Programmes for children and youth covering various sports such as football, rugby, sepak takraw, swimming, basketball and others
 
 * Programmes for PwDs (i.e., Play-Ability, Yes! I Can), covering various sports such as football, swimming, basketball, tennis, badminton and others
 
