@@ -19,7 +19,7 @@ Chairman, Kallang Alive Sports Management; <br>
 Board Member, Sport Singapore
 
 **Board Members**<br>
-Mdm Tuminah Sapawi <br>
+Madam Tuminah Sapawi <br>
 CEO, PPIS - Singapore Muslim Women Association
 
 Dr Wong Loong Mun <br>
