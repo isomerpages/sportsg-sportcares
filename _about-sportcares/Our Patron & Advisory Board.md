@@ -4,46 +4,34 @@ permalink: /about-sportcares/patron-advisoryboard/
 breadcrumb: patron and advisory board
 description: ""
 ---
-#### SportCares Patron
-###### Madam Halimah Yacob, President of the Republic of Singapore 
+#### **SportCares Patron** <br> 
+Madam Halimah Yacob, President of the Republic of Singapore
 
-#### SportCares Advisory Board 
-**Co-Chair**
-
-Mr Alan Goh
-
+#### **SportCares Advisory Board** <br> 
+**Co-Chair** <br>
+Mr Alan Goh <br>
 CEO, Sport Singapore
 
-**Co-Chair**
-
-Mr Keith Magnus, CEO, Evercore; 
-
-Chairman, Kallang Alive Sports Management; 
-
+**Co-Chair**<br>
+Mr Keith Magnus <br> 
+CEO, Evercore; <br>
+Chairman, Kallang Alive Sports Management; <br>
 Board Member, Sport Singapore
 
-**Board Members**
-
-Mdm Tuminah Sapawi
-
+**Board Members**<br>
+Mdm Tuminah Sapawi <br>
 CEO, PPIS - Singapore Muslim Women Association
 
-Dr Wong Loong Mun
-
+Dr Wong Loong Mun <br>
 Principal Consultant, Agency for Integrated Care
 
-Mr Lim Teck Kiat
+Mr Lim Teck Kiat <br>
+Senior Director, Social Support Group &amp; Rehabilitation and Social Mobility Policy, Ministry of Social and Family Development
 
-Senior Director, Social Support Group & Rehabilitation and Social Mobility Policy, Ministry of Social and Family Development
-
-Dr Teo-Koh Sock Miang 
-
-President, Singapore Disability Sports Council; 
-
-President, Special Olympics Singapore; 
-
+Dr Teo-Koh Sock Miang <br>
+President, Singapore Disability Sports Council; <br>
+President, Special Olympics Singapore; <br>
 Chairman, Singapore National Paralympic Council
 
-Mr Marcus Tan
-
+Mr Marcus Tan <br>
 Chief, Sport Development Group, Sport Singapore
