@@ -4,8 +4,8 @@ permalink: /about-sportcares/patron-advisoryboard/
 breadcrumb: patron and advisory board
 description: ""
 ---
-#### **SportCares Patron** <br> 
-Madam Halimah Yacob, President of the Republic of Singapore
+#### **SportCares Patron**
+Madam Halimah Yacob <br> President of the Republic of Singapore
 
 #### **SportCares Advisory Board** <br> 
 **Co-Chair** <br>
