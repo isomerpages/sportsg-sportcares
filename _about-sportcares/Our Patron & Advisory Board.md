@@ -4,8 +4,8 @@ permalink: /about-sportcares/patron-advisoryboard/
 breadcrumb: patron and advisory board
 description: ""
 ---
-#### **SportCares Patron** <br> 
-Madam Halimah Yacob, President of the Republic of Singapore
+#### **SportCares Patron**
+Madam Halimah Yacob <br> President of the Republic of Singapore
 
 #### **SportCares Advisory Board** <br> 
 **Co-Chair** <br>
@@ -15,11 +15,11 @@ CEO, Sport Singapore
 **Co-Chair**<br>
 Mr Keith Magnus <br> 
 CEO, Evercore; <br>
-Chairman, Kallang Alive Sports Management; <br>
+Chairman, Kallang Alive Sport Management Co Pte Ltd; <br>
 Board Member, Sport Singapore
 
 **Board Members**<br>
-Mdm Tuminah Sapawi <br>
+Madam Tuminah Sapawi <br>
 CEO, PPIS - Singapore Muslim Women Association
 
 Dr Wong Loong Mun <br>
