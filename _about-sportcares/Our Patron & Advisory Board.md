@@ -15,7 +15,7 @@ CEO, Sport Singapore
 **Co-Chair**<br>
 Mr Keith Magnus <br> 
 CEO, Evercore; <br>
-Chairman, Kallang Alive Sports Management; <br>
+Chairman, Kallang Alive Sport Management; <br>
 Board Member, Sport Singapore
 
 **Board Members**<br>
