@@ -1,6 +1,6 @@
 ---
 title: Our Patron & Advisory Board
-permalink: /about-sportcares/patron-advisoryboard/
+permalink: /about-sportcares/advisory-board/
 breadcrumb: patron and advisory board
 description: ""
 ---
