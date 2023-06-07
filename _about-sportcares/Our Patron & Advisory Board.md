@@ -46,6 +46,4 @@ Chairman, Singapore National Paralympic Council
 
 Mr Marcus Tan
 
-Chief, Sport Development Group, Sport Singapore 
-
-
+Chief, Sport Development Group, Sport Singapore
