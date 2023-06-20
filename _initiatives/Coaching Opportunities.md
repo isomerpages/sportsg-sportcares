@@ -8,8 +8,7 @@ image: /images/Istana_Picnic_2.jpg
 
 Our coaches play an integral role in our programmes, covering key developmental components while creating a safe and engaging environment for our participants. 
 
-And we are looking for motivated coaches to join us in our journey to change lives through sport. So if you are passionate, kind, patient and eager about guiding and mentoring participants, submit your interest [here!](https://go.gov.sg/sc-coach-recruitment)
-
+And we are looking for motivated coaches to join us in our journey to change lives through sport. If you are passionate, patient and eager about guiding and mentoring participants, submit your interest [here](https://go.gov.sg/sc-coaches-recruitment-form). 
 
 All applications will be evaluated, and successful applicants will be contacted.
 
@@ -21,13 +20,12 @@ All applications will be evaluated, and successful applicants will be contacted.
 * Standard First Aid + AED Certification
 * Completed the Safe Sport Workshop
 
-**Preferred Skills (in addition to above mentioned qualifications):** 
-* Experience in working with: 
-	* Children and youth from vulnerable communities
-	* Persons with Disabilities (PwDs)
-	* Seniors
+**Preferred Skills (in addition to above mentioned qualifications):** <br> Experience in working with at least one of the following participants' profile:
+ * Children and youth from vulnerable communities
+* Persons with Disabilities (PwDs)
+* Seniors
 
-**And here’s a quick look at some of the coaching opportunities at SportCares:** 
+**For reference, here’s a quick look at some of the coaching opportunities at SportCares:** 
 * Community Programmes for children and youth covering various sports such as football, rugby, sepak takraw, swimming, basketball and others
 
 * Programmes for PwDs (i.e., Play-Ability, Yes! I Can), covering various sports such as football, swimming, basketball, tennis, badminton and others
