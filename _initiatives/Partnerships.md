@@ -4,7 +4,6 @@ permalink: /initiatives/partnerships/
 description: ""
 image: ""
 ---
-
 ![](/images/GivingSG2023.png)
 
 ## Join us in our journey of Changing Lives Through Sport!
@@ -15,4 +14,4 @@ image: ""
 
 * **Share** – Let everyone know about our events and programmes. 
 
-For more details, reach out to us here, with details of your name, contact number and company name (if applicable). We will be in touch with you within seven (7) working days.
+For more details, reach out to us [here](mailto:sportcares@sport.gov.sg), with details of your name, contact number and company name (if applicable). We will be in touch with you within seven (7) working days.
