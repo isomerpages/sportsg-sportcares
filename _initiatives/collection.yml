@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - Partnerships.md
       - SportCares HEARTS Book.md
       - SportCares Awards/.keep
       - SportCares Awards/2022 Edition.md
