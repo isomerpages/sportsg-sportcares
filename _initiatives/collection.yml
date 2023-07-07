@@ -2,11 +2,11 @@ collections:
   initiatives:
     output: true
     order:
+      - Communities of Care Grant.md
       - Partnerships.md
+      - SportCares Bursary.md
       - SportCares HEARTS Book.md
+      - Coaching Opportunities.md
       - SportCares Awards/.keep
       - SportCares Awards/2022 Edition.md
       - SportCares Awards/2019 Edition.md
-      - SportCares Bursary.md
-      - Communities of Care Grant.md
-      - Coaching Opportunities.md
