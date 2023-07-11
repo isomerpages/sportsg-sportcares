@@ -5,9 +5,9 @@ breadcrumb: vulnerable-seniors
 third_nav_title: Sport For Seniors
 description: ""
 ---
-![](/images/Marcus%20Tan%20at%20KOC%202022.png)
+### Connecting seniors through Sport 
 
-### Connecting Seniors Through Sport 
+![](/images/Marcus%20Tan%20at%20KOC%202022.png)
 
 SportCares, in partnership with Active Health and [Active Masters](https://www.myactivesg.com/Programmes/For-Masters-and-Seniors), continues to provide adaptive sport programmes to vulnerable seniors. 
 
