@@ -26,11 +26,11 @@ We constantly work towards creating safe spaces for our participants and mention
 * Saturday Night Lights (Football)
 * Let's Sepak (Sepak Takraw) 
 * Multi-Sport Programme (Running, Swimming, Cycling) 
-* SportCares Champions (Youth Leadership Programme) 
 * School Holiday Programmes
-
-#### Featured SportCares Programme
-###### SATURDAY NIGHT LIGHTS
-Saturday Night Lights (SNL), is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
+* Project Bounce Back (In-institution programming using a series of sports)
+* SportCares Champions (Youth Leadership Programme) 
+* Youth Industry Traineeship
+* Youth Coaching Development Programme
+* Youth Mentoring Programme
 
 If you are keen to support or contribute to our programmes, reach out to us [here]() to start your journey in changing lives through sport!
