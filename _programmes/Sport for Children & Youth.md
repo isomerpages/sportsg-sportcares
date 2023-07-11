@@ -4,6 +4,8 @@ permalink: /programmes/children-and-youth/
 breadcrumb: children-and-youth
 description: ""
 ---
+![](/images/duathlon_2.JPG)
+
 SportCares uses sport and coach-mentoring to work with children and youth to build self-esteem, learn life skills and enable a strong sense of independence through personal development. Friendships and relationships made through sport also remove them from negative influences they may experience in their routine environment.
 
 We constantly work towards creating safe spaces for our participants and mentioned below are the community programmes we manage, with the support of various community partners and donors.
@@ -15,6 +17,8 @@ We constantly work towards creating safe spaces for our participants and mention
 * Multi-Sport Programme (Running, Swimming, Cycling) 
 * FUN Starters (Multi-Sport) 
 * School Holiday Programmes
+
+![](/images/snl-2022-1.JPG)
 
 ##### SportCares Programmes for Youth:
 * Saturday Night Lights (Football)
