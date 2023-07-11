@@ -31,5 +31,4 @@ We constantly work towards creating safe spaces for our participants and mention
 ###### SATURDAY NIGHT LIGHTS
 Saturday Night Lights (SNL), is a football-based development programme that gives vulnerable youths aged 13 to 21 the chance to build values through the sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
 
-
 If you are keen to support or contribute to our programmes, reach out to us [here]() to start your journey in changing lives through sport!
