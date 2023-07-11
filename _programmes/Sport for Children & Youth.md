@@ -33,4 +33,4 @@ We constantly work towards creating safe spaces for our participants and mention
 * Youth Coaching Development Programme
 * Youth Mentoring Programme
 
-If you are keen to support or contribute to our programmes, reach out to us  to start your journey in changing lives through sport!
+If you are keen to support or contribute to our programmes, reach out to us [here](mailto:sportcares@sport.gov.sg)  to start your journey in changing lives through sport!
