@@ -6,7 +6,7 @@ description: ""
 ---
 SportCares uses sport and coach-mentoring to work with children and youth to build self-esteem, learn life skills and enable a strong sense of independence through personal development. 
 
-Across our programmes, sport is the platform we use to engage participants, encourage health and wellbeing, and achieve positive development. Friendships and relationships built through sport also remove them from negative influences, including anti-social peer groups, dependence & addiction, low self-esteem and boredom. 
+Across our programmes, sport is the platform we use to engage participants, encourage health and wellbeing, and achieve positive development. Friendships and relationships built through sport also remove them from negative influences, including anti-social peer groups, low self-esteem and boredom. 
 
 And mentioned below are the community programmes that we currently manage with the support of various community partners and donors. 
 
@@ -14,7 +14,7 @@ And mentioned below are the community programmes that we currently manage with t
 * Community Futsal Programme
 * Community Basketball Programme
 * Community Swimming Programme 
-* CareRunners (Athletics)
+* Multi-Sport Programme (Running, Swimming, Cycling) 
 * FUN Starters (Multi-Sport) 
 * School Holiday Programmes
 
@@ -22,7 +22,7 @@ And mentioned below are the community programmes that we currently manage with t
 * Saturday Night Lights (Football)
 * Let's Sepak (Sepak Takraw) 
 * Multi-Sport Programme (Running, Swimming, Cycling) 
-* SportCares Champions (Leadership Programme) 
+* SportCares Champions (Youth Leadership Programme) 
 * School Holiday Programmes
 
 #### Featured SportCares Programme
