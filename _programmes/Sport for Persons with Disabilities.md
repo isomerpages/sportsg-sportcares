@@ -4,7 +4,7 @@ permalink: /programmes/persons-with-disabilities/
 breadcrumb: persons-with-disabilities
 description: ""
 ---
-### Building an Inclusive Society Through Sport
+### Building an inclusive society through Sport
 
 Since 2017, SportCares led inclusion efforts in the community by promoting play and sport opportunities for persons with disabilities and special needs, including empowering those who can, to give back to the community. 
 
