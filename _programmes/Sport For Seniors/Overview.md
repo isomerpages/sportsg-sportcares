@@ -16,3 +16,5 @@ Working alongside nursing homes, senior care centres and senior activity centres
 We also manage a community programme, Morning Exercises with SportCares, designed to engage isolated seniors through weekly morning exercise routines at a community space close to their homes. All sessions are led by certified trainers and tailored to meet the physical needs of our participants.
 
 Currently, through our partner, Kreta Ayer Seniors Activity Centre, we have established the programme at their branches located at Jalan Kukoh, Chin Swee Road and Banda Street, engaging up to 140 seniors per session.
+
+If you are keen to support or contribute to our programmes, reach out to us [here](mailto:sportcares@sport.gov.sg)  to start your journey in changing lives through sport!
