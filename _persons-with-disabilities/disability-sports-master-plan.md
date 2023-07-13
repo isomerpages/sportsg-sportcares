@@ -16,5 +16,5 @@ The DSMP aims to benefit people who have been medically certified to have one of
 - Physical Disability
 - Intellectual Disability
 - Visual Impairment
-- Hearing Impairment
+- Deaf and Hard of hearing
 - Autism Spectrum Disorder
