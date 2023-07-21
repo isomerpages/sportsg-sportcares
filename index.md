@@ -17,10 +17,9 @@ sections:
       alt: Image alt text
       image: /images/smol-2.jpg
   - infopic:
-      title: Changing Lives Through Sport
-      subtitle: Donations
-      description: Your donation today will give a better tomorrow to the communities
-        we serve. Join us on the SportCares Journey!
+      title: Join us in Changing Lives Through Sport
+      description: "Your donation today will give a better tomorrow to the communities
+        we serve. "
       button: Donate now
       url: https://www.giving.sg/vision2030/sportcares2023
       image: /images/GivingSG2023.png
