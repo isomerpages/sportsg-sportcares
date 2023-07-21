@@ -27,7 +27,6 @@ sections:
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
-      subtitle: Communities of Care Initiative
       description: The SportCares Bursary aims to increase opportunities for children
         and youth from low-income families to learn a sport at ActiveSG
         Academies and Clubs.
