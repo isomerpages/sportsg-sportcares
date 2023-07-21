@@ -10,9 +10,7 @@ image: ""
 
  ![](/images/smol-1.jpg)
 
-In 2019, after we launched the Communities of Care (COC) Grant initiative, a passionate floorball coach, Sonia Teo, contacted us with an idea for a community programme, engaging children and youth through sport. 
-
-After several meetings and draft consultations on her grant proposal, we settled on a programme model and curriculum aligned with our grant criteria and social outcomes. 
+In 2019, after we launched the Communities of Care (COC) Grant initiative, a passionate floorball coach, Sonia Teo, contacted us with an idea for a community sports programme engaging children and youth. After several meetings and draft consultations on her grant proposal, we settled on a programme model and curriculum aligned with our grant criteria and social outcomes. 
 
 As we worked on the administrative matters for the grant in early 2020, the Covid-19 pandemic forced us into a corner, and we had to put it all on hold. While we waited for clarity from the relevant authorities to resume work on the programme, Sonia did not give up on her idea. She was determined to engage her community of participants living in Ang Mo Kio through sport. 
 
