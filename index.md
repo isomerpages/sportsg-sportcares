@@ -7,13 +7,14 @@ sections:
   - hero:
       background: /images/FA_041120_SportCares Website Banner.jpg
   - infopic:
-      title: Launching FUN Starters in the community
+      title: Building a community of care with TGIFloorball
       subtitle: What's new at Sportcares?
-      description: Here's more on our latest addition in the community!
+      description: "Find out more about the work our Communities of Care Grantee does
+        in Kebun Baru and Cheng San using floorball! "
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/launchoffunstarters/
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/coc-grant-tgifloorball/
       alt: Image alt text
-      image: /images/FUN Starters Coach Ridhwan.jpg
+      image: /images/smol-2.jpg
   - infopic:
       title: Changing Lives Through Sport
       subtitle: Donations
@@ -32,16 +33,6 @@ sections:
       button: Find out more
       url: https://sportcares.sportsingapore.gov.sg/initiatives/sportcaresbursary
       image: /images/7sClinic2022groupphoto.jpg
-      alt: Image alt text
-  - infopic:
-      title: Sport for PWDs
-      subtitle: Inclusive sport initiative
-      description: By working with our community partners and partcipants, we have
-        designed various programmes that serve different needs in the disability
-        sports sector.
-      button: More details here
-      url: https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-programmes/
-      image: /images/Website-Hero-Banner.jpg
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg
