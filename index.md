@@ -5,12 +5,12 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/FA_041120_SportCares Website Banner.jpg
+      background: /images/26952937-3300-494A-8AB4-CD414CD75B83.png
   - infopic:
       title: Building a community of care with TGIFloorball
       subtitle: What's new at Sportcares?
-      description: "Find out more about the work our Communities of Care Grantee does
-        in Kebun Baru and Cheng San using floorball! "
+      description: Find out more about the work our Communities of Care Grantee does
+        in Kebun Baru and Cheng San using floorball!
       button: read now
       url: https://sportcares.sportsingapore.gov.sg/media/stories/coc-grant-tgifloorball/
       alt: Image alt text
