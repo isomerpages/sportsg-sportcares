@@ -36,4 +36,4 @@ Sonia and her team have built a community of care here in Kebun Baru CC, with th
 
 If you are keen to do something similar in your community, head over to our [COC Grant](https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/) page for more details. We are eager to speak to you about your idea and build a community of care together.
 
-Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG)  to stay updated on all that we do in the community! 
+Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG)  to stay updated on all that we do in the community!
