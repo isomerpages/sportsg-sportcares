@@ -5,7 +5,8 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/26952937-3300-494A-8AB4-CD414CD75B83.png
+      background: /images/FUN Starters Launch.jpg
+      title: Changing Lives Through Sport
   - infopic:
       title: Building a community of care with TGIFloorball
       subtitle: What's new at Sportcares?
