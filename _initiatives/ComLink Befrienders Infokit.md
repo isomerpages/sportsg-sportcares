@@ -17,6 +17,10 @@ Here are some programmes and initiatives that you can share with the families yo
 * It is currently offered island-wide at nine stadiums across Singapore, serving close to 450 youth.
 * Eligibility: Youth aged 13 – 21. And eligible participants will be matched to the nearest available training location using their residential address.
 
+![](/images/snl-2022-1.JPG)
+
+<br> 
+
 &gt; FunStarters&nbsp;&nbsp;&nbsp;&nbsp;
 
 * FUN Starters is a multi-sport programme that seeks to engage, support and uplift children from vulnerable communities through curated sport, physical, health and wellness programmes. &nbsp;&nbsp;
@@ -44,6 +48,11 @@ We pair participants with verified mentors to help them successfully navigate th
 &gt; Youth Industry Traineeship
 
 The Youth Industry Traineeship aims to provide our youth with valuable opportunities to develop employability skills and understand the work industry and employer expectations.
+
+![](/images/YIT_2.jpeg)
+
+<br> 
+
 &gt; Youth Coaching Development Programme
 
 The Youth Coaching Development Programme is a structured training and skills development programme for our youth who aspire to take up sport coaching as a career in future. The programme provides a training pathway for the youths to obtain full membership in the National Registry of Coaches (NROC). <br> Through the learnings, exposure and experience obtained in this programme, they will also serve as role models and inspire other participants to pursue the passion.  They will be required to give back through volunteer coaching assignments within the programme offered by SportCares in the community.
@@ -51,9 +60,8 @@ The Youth Coaching Development Programme is a structured training and skills dev
 ![](/images/HEARTS-League-Serangoon-4June.jpg)
 <br> 
 
-
 &gt; SportCares Scholarship and Education Award
-&gt; 
+
 Beyond our programmes and sport, we are keen to provide a platform for our participants to continually set themselves up for success. The SportCares Scholarship and Education Awards support continue their academic pursuit by supporting them through tertiary education in terms of tuition fee coverage, allowance, and related costs.
 
 &gt; SportCares Champions Leadership Programme
