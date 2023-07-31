@@ -3,7 +3,6 @@ title: ComLink Befrienders Infokit
 permalink: /initiatives/comlink-befrienders-infokit/
 description: ""
 ---
-
 ![](/images/Fun%20Starters%20attendees.jpg)
 
 Since the launch of the Community Link (ComLink) by the Ministry of Social and Family Development (MSF), SportCares has been strengthening its efforts to engage more citizens in each ComLink town through its partnership with MSF's network of Social Service Offices and community partners.
@@ -62,3 +61,5 @@ Beyond our programmes and sport, we are keen to provide a platform for our parti
 As part of their journey with us, we provide aspiring youth leaders relevant and present platforms to volunteer, lead service projects, and gain other opportunities to develop their character and leadership skills.
 
 To refer interested participants to us or for more information, please reach out to us at [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg).
+
+You can also text us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG). And feel free to follow us to stay updated on all that we do in the community!
