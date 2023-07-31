@@ -27,15 +27,15 @@ Here are some programmes and initiatives that you can share with the families yo
 
 * Let’s SEPAK is a collaboration between SportCares and PERSES (the national sporting association for Sepak Takraw) aimed at using Sepak Takraw to positively nurture and care for its participants.
 * The programme is currently available at four locations across the island, Heartbeat@Bedok, Crest Secondary School, NorthLand Secondary School, and Pertapis Centre for Women and Girls.
-* Eligibility: Youth aged 13 – 21. Participants will be matched to the nearest available training location using their residential address.
+* Eligibility: Youth aged 13 – 21. And eligible participants will be matched to the nearest available training location using their residential address.
 
 
 ![](/images/duathlon_2.JPG)
 
 ##### SportCares Bursary Scheme
 
-* The SportCares Bursary is offered to children &amp; youth on public financial assistance schemes to participate in various ActiveSG Academies and Clubs programmes. &nbsp;
-* Eligibility: Children and youth aged 3 – 16 years old who are Singapore Citizens and Permanent Residents are welcome to apply. 
+* The [SportCares Bursary](https://sportcares.sportsingapore.gov.sg/initiatives/sportcaresbursary/) is offered to children &amp; youth on public financial assistance schemes to participate in various ActiveSG Academies and Clubs programmes. &nbsp;
+* Eligibility: Children and youth aged 3 – 18 years old who are Singapore Citizens and Permanent Residents are welcome to apply. 
 
 By joining a SportCares programme, the participants will have access to other SportCares initiatives such as:
 ##### SportCares Mentorship Programme
