@@ -8,30 +8,61 @@ description: ""
 
 
 
-The SportCares Bursary aims to increase opportunities for children and youth from low-income families to participate in various programmes offered by ActiveSG Academies and Clubs (A&Cs). 
+The SportCares Bursary aims to increase opportunities for children and youth from low-income families to participate in various programmes offered by ActiveSG Academies and Clubs (A&amp;Cs). 
 
 Our aspiration through this initiative is to see SportCares Bursary recipients engage in a healthy lifestyle, learn a new sport, and build a sense of belonging in the community they live in.   
 
 **Eligibility** **Criteria**
 -
 * Singapore Citizens and Permanent Residents are welcome to apply. 
-* Children and youth aged 3 – 16 years old. 
-* The Bursary recipient and/or applicant must be currently receiving financial assistance from a government or non-profit organisation. Please refer to the table below for examples of eligible financial assistance schemes. 
+* Children and youth aged 3 – 18 years old. 
+* The Bursary recipient and/or applicant must be currently receiving financial assistance from a government or non-profit organisation. 
 
-![Financial Assistance Schemes](/images/FA%20Schemes_Website.png)
+Please refer to the list below for examples of eligible financial assistance schemes: 
 
-**Bursary** **Coverage** 
+**Ministry of Social and Family Development** <br>	 
+* ComCare Short-to-Medium Term Assistance
+* ComCare Long-Term Assistance
+* ComCare Interim Assistance
+* Student Care Fee Assistance (SCFA)
+* Child Care Financial Assistance (CCFA)
+
+**Ministry of Education** <br>
+* MOE Financial Assistance Scheme
+* Higher Education Community Bursary (Tier 1 and 2 only)
+* Diploma Foundation Bursary
+
+**The Straits Times**
+* Straits Times School Pocket Money Fund
+
+**Chinese Development Assistance Council**
+* CDAC Family Assistance Programme
+
+**Singapore Indian Development Association**
+* School Pocket Money Fund
+* Pre-School Bursary
+* SINDA Bursary
+
+**Majlis Ugama Islam Singapura (MUIS)**
+* Progress Fund Madrasah Assistance Scheme (PROMAS)
+* MUIS Zakat
+
+**Mendaki**
+* Education Trust Fund School Assistance Scheme (ETF-SAS)
+* MENDAKI-Muis Preschool Grant (MMPG)
+
+**Bursary Coverage**
 - 
-The bursary will cover seasonal participation fees for eight (8) ActiveSG Academies & Clubs (A&C): Athletics, Basketball, Hockey, Tennis, Volleyball, Water Polo, Canoe, and Table Tennis.
+The bursary will cover seasonal participation fees for nine (9) ActiveSG Academies &amp; Clubs (A&amp;C): Athletics, Basketball, Football, Hockey, Tennis, Volleyball, Water Polo, Canoe, and Table Tennis.
 
 **Expectations of Bursary Recipients**
 -
-All SportCares Bursary Recipients are expected to attend at least 70% of the training sessions per season and display sportsmanship conduct during all A&C related sessions. Failure to meet the attendance requirement of 70% per season may result in the suspension of the Bursary. 
+All SportCares Bursary Recipients are expected to attend at least 70% of the training sessions per season and display sportsmanship conduct during all A&amp;C related sessions. Failure to meet the attendance requirement of 70% per season may result in the suspension of the Bursary. 
 
 ## How to Apply? 
 
 ### Existing Bursary recipients 
-Please speak to your coach at your training venue and let them know of your interest to continue with the Bursary. By doing so, our colleagues at the respective A&C can process your application for the next season.
+Please write to us in to us [here](mailto:sportcares@sport.gov.sg), with details of your full name and contact number and let us know of your interest to continue with the Bursary for the next season.
 
 ### New applicants
 
