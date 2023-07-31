@@ -18,16 +18,18 @@ Our aspiration through this initiative is to see SportCares Bursary recipients e
 * Children and youth aged 3 – 18 years old. 
 * The Bursary recipient and/or applicant must be currently receiving financial assistance from a government or non-profit organisation. 
 
-Please refer to the list below for examples of eligible financial assistance schemes: 
+Please refer to the list below for examples of eligible financial assistance schemes. 
 
-**Ministry of Social and Family Development** <br>	 
+The list is as follow: 
+
+**Ministry of Social and Family Development** 
 * ComCare Short-to-Medium Term Assistance
 * ComCare Long-Term Assistance
 * ComCare Interim Assistance
 * Student Care Fee Assistance (SCFA)
 * Child Care Financial Assistance (CCFA)
 
-**Ministry of Education** <br>
+**Ministry of Education**
 * MOE Financial Assistance Scheme
 * Higher Education Community Bursary (Tier 1 and 2 only)
 * Diploma Foundation Bursary
