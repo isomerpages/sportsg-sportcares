@@ -2,6 +2,7 @@ collections:
   initiatives:
     output: true
     order:
+      - ComLink Befrienders Infokit.md
       - Communities of Care Grant.md
       - Partnerships.md
       - SportCares Bursary.md
