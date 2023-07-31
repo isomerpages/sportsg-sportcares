@@ -9,9 +9,9 @@ Since the launch of the Community Link (ComLink) by the Ministry of Social and F
 
 Sport is an appealing tool that can used by the community when planning outreach and engagement initiatives as it provides various opportunities for children and families to participate in fun activities, build social connections, and develop new skills.
 
-Here are some programmes and initiatives that you can share with the families you are engaging on your befriending sessions:
+Here are some programmes and initiatives that you can share with the families you are engaging on your befriending sessions: <br>
 
-&gt; Saturday Night Lights (SNL)
+**Saturday Night Lights (SNL)** 
 
 * SNL, one of our flagship programmes, is a football-based development programme that gives vulnerable youth aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
 * It is currently offered island-wide at nine stadiums across Singapore, serving close to 450 youth.
@@ -21,12 +21,12 @@ Here are some programmes and initiatives that you can share with the families yo
 
 <br> 
 
-&gt; FunStarters&nbsp;&nbsp;&nbsp;&nbsp;
+**FunStarters**
 
 * FUN Starters is a multi-sport programme that seeks to engage, support and uplift children from vulnerable communities through curated sport, physical, health and wellness programmes. &nbsp;&nbsp;
 * Eligibility: Children aged 5 to 12.
 
-&gt; Let’s SEPAK&nbsp;&nbsp;&nbsp;&nbsp;
+**Let’s SEPAK**
 
 * Let’s SEPAK is a collaboration between SportCares and PERSES (the national sporting association for Sepak Takraw) aimed at using Sepak Takraw to positively nurture and care for its participants.
 * The programme is currently available at four locations across the island, Heartbeat@Bedok, Crest Secondary School, NorthLand Secondary School, and Pertapis Centre for Women and Girls. &nbsp;&nbsp;
