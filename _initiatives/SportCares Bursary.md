@@ -62,7 +62,7 @@ All SportCares Bursary Recipients are expected to attend at least 70% of the tra
 ## How to Apply? 
 
 ### Existing Bursary recipients 
-Please write to us in to us [here](mailto:sportcares@sport.gov.sg), with details of your full name and contact number and let us know of your interest to continue with the Bursary for the next season.
+Please write to us [here](mailto:sportcares@sport.gov.sg), with details of your full name, contact number and let us know of your interest to continue with the Bursary for the next season. <br> It is advisable to inform us at least three weeks before the current season ends. 
 
 ### New applicants
 
