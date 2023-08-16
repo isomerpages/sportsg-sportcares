@@ -7,7 +7,7 @@ description: ""
 
 Since the launch of the Community Link (ComLink) by the Ministry of Social and Family Development (MSF), SportCares has been strengthening its efforts to engage more citizens in each ComLink town through its partnership with MSF's network of Social Service Offices and community partners.
 
-Sport is an appealing tool that can be used by the community when planning outreach and engagement initiatives, as it provides various opportunities for children and families to participate in fun activities, build social connections, develop new skills and adopt suitable health and wellness routines.
+Sport is an appealing tool that can be used by the community when planning outreach and engagement initiatives, as it provides various opportunities for children and families to participate in fun activities, build social connections, develop new skills, and adopt suitable health and wellness routines.
 
 Here are some programmes and initiatives that you can share with the families you are engaging on your befriending sessions: 
 ##### Saturday Night Lights (SNL) 
