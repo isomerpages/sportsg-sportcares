@@ -5,7 +5,7 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/FUN Starters Launch.jpg
+      background: /images/msp duathlon 2022.jpg
       title: Changing Lives Through Sport
   - infopic:
       title: Building a community of care with TGIFloorball
