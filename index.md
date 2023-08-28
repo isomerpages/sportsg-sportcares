@@ -8,14 +8,14 @@ sections:
       background: /images/img_7951 (2).jpg
       title: Changing Lives Through Sport
   - infopic:
-      title: Building a community of care with TGIFloorball
+      title: More unified partners at Play Inclusive 2023
       subtitle: What's new at Sportcares?
-      description: Find out more about the work our Communities of Care Grantee does
-        in Kebun Baru and Cheng San using floorball!
+      description: Get all the details on this year's edition of the Singapore’s
+        biggest unified sport competition!
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/coc-grant-tgifloorball/
+      url: https://sportcares.sportsingapore.gov.sg/media/press-release/playinclusive-2023/
       alt: Image alt text
-      image: /images/smol-2.jpg
+      image: /images/play lnclusive 2023_1.jpg
   - infopic:
       title: Join us in Changing Lives Through Sport
       description: Your donation today will give a better tomorrow to the communities
