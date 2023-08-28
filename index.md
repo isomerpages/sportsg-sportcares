@@ -10,8 +10,8 @@ sections:
   - infopic:
       title: More unified partners at Play Inclusive 2023
       subtitle: What's new at Sportcares?
-      description: Get all the details on this year's edition of the Singapore’s
-        biggest unified sport competition!
+      description: Get all the details on this year's edition of Singapore’s biggest
+        unified sport competition here!
       button: read now
       url: https://sportcares.sportsingapore.gov.sg/media/press-release/playinclusive-2023/
       alt: Image alt text
