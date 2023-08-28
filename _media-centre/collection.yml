@@ -1,4 +1,5 @@
 collections:
   media-centre:
     output: true
-    order: []
+    order:
+      - Media Release/.keep
