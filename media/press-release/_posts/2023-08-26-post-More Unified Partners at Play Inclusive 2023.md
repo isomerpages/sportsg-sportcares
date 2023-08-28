@@ -22,7 +22,7 @@ Mr Marcus Tan, Chief of Sport Development Group at Sport Singapore is grateful t
 
 Play Inclusive has seen strong support from various stakeholders including schools, corporates and organisations. This year, corporates such as Certis and RSVP Singapore The Organisation of Senior Volunteers, participated in the event for the first time. On its partnership with Muscular Dystrophy Association (Singapore), Ms Edna Claudine Leong, Executive Director of RSVP Singapore shared, “As a society, we must have the conviction that everyone can contribute to the larger society in which we appreciate and value one another. Through initiatives like Play Inclusive, our senior volunteers get to team up with younger players in boccia and form intergeneration bonds. We believe that seniors can help instil the importance of inclusivity and use the power of sport to bring persons of all abilities together."
 
-![](/images/play%20inclusive%202023_3.jpg)
+![](/images/play%20inclusive%202023_5.jpeg)
 
 Anglican High School has been teaming up with St Andrew's Autism School (SAAS) in Unified basketball and badminton in 2019, 2022 and 2023. Mr Alaric Leong, teacher at Anglican High School commented, “I have witnessed firsthand the positive impact of inclusive physical education and sport on our students. Through these activities, students of all abilities come together, gaining a better understanding and appreciation of one another. This is what we are inculcating in our students, to contribute to the larger society where we appreciate each other."
 
