@@ -14,9 +14,10 @@ At Play Inclusive, athletes with intellectual disabilities are teamed up with un
 
 Unified teams have to train together in the respective sports for a minimum of eight weeks to qualify for Play Inclusive.  Sports featured in Play Inclusive include badminton, basketball, football and floorball.  In 2019, the sport of goalball was included in the competition, and fielded, for the first time, athletes with visual impairment. 
 
-Here's information on each edition of Play Inclusive: 
+Here's more information on Play Inclusive over the years: 
 * [2018](https://sportcares.sportsingapore.gov.sg/media/press-release/play-inclusive-2018/)
 * [2019](https://sportcares.sportsingapore.gov.sg/media/press-release/play-inclusive-2019/)
 * [2020](https://www.activesgcircle.gov.sg/read/reimagine-play-play-inclusive-2020)
 * [2021](https://www.activesgcircle.gov.sg/read/close-to-200-students-participated-in-4th-annual-edition-of-play-inclusive)
-* [2022](https://youtu.be/yZ_ZDgfUdMg)
+* [2022](https://www.activesgcircle.gov.sg/read/play-inclusive-singapores-biggest-unified-sports-competition-returns-to-sports-hub-after-two-years)
+* [2023](https://sportcares.sportsingapore.gov.sg/media/press-release/playinclusive-2023/)

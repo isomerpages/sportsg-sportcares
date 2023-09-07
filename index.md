@@ -22,7 +22,7 @@ sections:
         we serve.
       button: Donate now
       url: https://www.giving.sg/vision2030/sportcares2023
-      image: /images/GivingSG2023.png
+      image: /images/Inclusive_Sports_Festival.jpg
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
