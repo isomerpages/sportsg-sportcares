@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Keeping Our Seniors Fit And Happy Through Adaptive Sports
-permalink: /media/media-release/adaptive-sports-toolkit/
-category: press-release
-date: 2020-12-01
-description: ""
-image: ""
+title: 'Keeping Our Seniors Fit And Happy Through Adaptive Sports'
+permalink: /media/press-release/adaptive-sports-toolkit/
+category: 'press-release'
+
 ---
+
+
 ![Adaptive Sports Toolkit](/images/adaptive_sports_toolkit_v2.png)
 
 ### Keeping Our Seniors Fit and Happy Through Adaptive Sports
