@@ -7,7 +7,7 @@ safe: false
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
-resources_name: media
+resources_name: media-centre
 favicon: /images/SSC.png
 google_analytics: UA-38157167-4
 permalink: none
