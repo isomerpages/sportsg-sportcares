@@ -7,7 +7,6 @@ description: ""
 image: ""
 ---
 ![](/images/play%20lnclusive%202023_1.jpg)
-
 Play Inclusive, Singapore’s biggest unified sport competition will have more than 650 athletes with disabilities and their Unified Partners (UP), players without disabilities, taking part in its sixth edition. Held over two days, on 26 August and 16 September 2023, Play Inclusive 2023 will also see the highest number of organisations taking part as UP – a total of 31 organisations, up from 27 in 2019 – partnering Special Education (SPED) schools and disability centres across six sports. This year, the six sports are Badminton, Basketball, Boccia, Floorball, Football and Goalball.
 
 Play Inclusive 2023 was officially opened by Guest-of-Honour Mr Eric Chua, Senior Parliamentary Secretary for Ministry of Culture, Community and Youth & Ministry of Social and Family Development. The first day of competition at OCBC Arena saw about 310 athletes with disabilities playing alongside their UP across four sports - Basketball, Boccia, Floorball and Goalball. About 340 participants are expected to compete on the second day of the competition (16 September) in Badminton and Football.
