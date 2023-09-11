@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Play Inclusive 2020 Reimagines Play'
-permalink: /media/press-release/play-inclusive-2020/
-category: 'press-release'
-
+title: Play Inclusive 2020 Reimagines Play
+permalink: /media/media-release/play-inclusive-2020/
+category: press-release
+date: 2020-11-09
+description: ""
+image: ""
 ---
-
-
 ![Play Inclusive Article](/images/Play_Inclusive_Article.jpg)
 
 ### Play Inclusive 2020 Reimagines Play

@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Play Inclusive 2019'
-permalink: /media/press-release/play-inclusive-2019/
-category: 'press-release'
-
+title: Play Inclusive 2019
+permalink: /media/media-release/play-inclusive-2019/
+category: press-release
+date: 2019-08-24
+description: ""
+image: ""
 ---
-
-
 ![Play Inclusive 2019](/images/Play_Inclusive_2019.jpg)
 
 ### Singapore’s biggest unified sports competition returns to include persons with visual impairment
@@ -37,6 +37,3 @@ As with any other team sports, to better understand each other’s strength and 
 Changkat Primary School and Metta School were among partner schools participating in badminton. 11-year-old Muhammad Arif Ruzainee bin Mohamed Taufeek, from Changkat Primary School, was full of anticipation for the event, “I look forward to meeting students from other schools, and also learning more about sportsmanship.” Echoing his enthusiasm, 13-year-old Nabil Qusyairi bin Adi Hasri, from Metta School, said, “I've learnt to be more appreciative of my team mates and I hope to lead my team to victory.
 
 Prior to this event, unified competition in Singapore were typically single sport events, and involved persons with intellectual disabilities only.
-
-
-
