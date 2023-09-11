@@ -13,7 +13,7 @@ sections:
       description: Get all the details on this year's edition of Singapore’s biggest
         unified sport competition here!
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/
+      url: https://sportcares.sportsingapore.gov.sg/media/press-release/playinclusive-2023/
       alt: Image alt text
       image: /images/play inclusive 2023_2.jpg
   - infopic:
@@ -22,7 +22,7 @@ sections:
         we serve.
       button: Donate now
       url: https://www.giving.sg/vision2030/sportcares2023
-      image: /images/Inclusive_Sports_Festival.jpg
+      image: /images/GivingSG2023.png
       alt: Image alt text
   - infopic:
       title: SportCares Bursary

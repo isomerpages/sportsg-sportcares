@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Official Launch of Play Ability
-date: 2018-03-17
-permalink: /media/media-release/playability-launch/
-description: ""
-image: ""
+title: 'Official Launch - Play-Ability'
+date: 2018-03-17T00:00:00.000Z
+permalink: /media/press-release/playability-launch/
+
 ---
+
+
 #### Sport ‘Play-Ability’ For All
 
 *Pilot programme by Temasek Foundation Cares and SportCares enables persons with disabilities to access and participate regularly in community-based sports*
@@ -32,6 +33,7 @@ So far, four experienced coaches have been working closely with 30 volunteers fr
 
 Jared Chew, a student volunteer from ITE College West shared his experience on volunteering for the programme. Being new to interacting with a participant with intellectual disabilities, Jared shared about some of his challenges and how he learnt to overcome this. “On the first day when I got to know the participant I was assigned to, I was a bit lost on how to talk to him. I even got quite frustrated when he did not want to listen to me. Once I realised that he took to certain words and counting from 1 to 3 calmed him down and helped him to pay attention, things got easier. I feel like we are friends now and we get along really well.”  
 
-Interested parties can log on to  or email  for more details.
+Interested parties can log on to <www.sportcares.sg> or email <sportcares@sport.gov.sg> for more details.
 
 This Media Release was originally published [here](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2018/3/Sport-Play-Ability-For-All)
+
