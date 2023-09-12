@@ -14,4 +14,4 @@ Minister for Culture, Community & Youth, Ms Grace Fu said, “Sport has the abil
 
 The Inclusive Sports Festival will take place at Our Tampines Hub on Saturday & Sunday, 29 – 30 July at Our Tampines Hub from 10am to 7pm.
 
-This Media Release was originally published [here](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2017/7/Inclusive-Sports-Festival)
+This [media release](https://www.sportsingapore.gov.sg/media-centre/media-release/inclusive-sports-festival/) was originally published by Sport Singapore. 
