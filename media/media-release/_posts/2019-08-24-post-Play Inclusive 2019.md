@@ -9,8 +9,6 @@ image: ""
 ---
 ![Play Inclusive 2019](/images/Play_Inclusive_2019.jpg)
 
-### Singapore’s biggest unified sports competition returns to include persons with visual impairment
-
 Play Inclusive, Singapore’s largest unified sports competition for persons with and without disabilities, returned for a second year with the addition of goalball, a sport for persons with visual impairment, expanding the participating disability types to include both intellectual and visual disability. More than 700 participants teamed up as unified teams to compete in badminton, basketball, football, floorball and goalball.
 
 Minister in the Prime Minister’s Office and Second Minister for Finance and Education, Ms Indranee Rajah, opened the Games at the Singapore Sports Hub’s OCBC Arena this morning, emphasised the importance of embracing diversity within the community. 
@@ -36,4 +34,3 @@ As with any other team sports, to better understand each other’s strength and 
 
 Changkat Primary School and Metta School were among partner schools participating in badminton. 11-year-old Muhammad Arif Ruzainee bin Mohamed Taufeek, from Changkat Primary School, was full of anticipation for the event, “I look forward to meeting students from other schools, and also learning more about sportsmanship.” Echoing his enthusiasm, 13-year-old Nabil Qusyairi bin Adi Hasri, from Metta School, said, “I've learnt to be more appreciative of my team mates and I hope to lead my team to victory.
 
-Prior to this event, unified competition in Singapore were typically single sport events, and involved persons with intellectual disabilities only.

@@ -10,10 +10,10 @@ sections:
   - infopic:
       title: More unified partners at Play Inclusive 2023
       subtitle: What's new at Sportcares?
-      description: Get all the details on this year's edition of Singapore’s biggest
-        unified sport competition here!
+      description: A total of 31 organisations have come onboard as unified partners
+        this year, up from 27 in 2019!
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/press-release/playinclusive-2023/
+      url: https://sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/https://sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/
       alt: Image alt text
       image: /images/play inclusive 2023_2.jpg
   - infopic:
@@ -31,7 +31,7 @@ sections:
         Academies and Clubs.
       button: Find out more
       url: https://sportcares.sportsingapore.gov.sg/initiatives/sportcaresbursary
-      image: /images/7sClinic2022groupphoto.jpg
+      image: /images/website collage_12sep.jpg
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg

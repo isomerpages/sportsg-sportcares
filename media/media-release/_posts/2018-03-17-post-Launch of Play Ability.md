@@ -1,18 +1,18 @@
 ---
 layout: post
-title: Official Launch of Play Ability
+title: Launch of Play Ability
 date: 2018-03-17
 permalink: /media/media-release/playability-launch/
 description: ""
 image: ""
 ---
-#### Sport ‘Play-Ability’ For All
+![](/images/play%20ability_launch_2018.jpg)
 
-*Pilot programme by Temasek Foundation Cares and SportCares enables persons with disabilities to access and participate regularly in community-based sports*
-
-*Singapore, 17 March 2018* – ‘Everyone should play’ is the inner belief that prompted Temasek Foundation Cares and SportCares to pilot the ‘Temasek Foundation Cares - Play-Ability’ programme in partnership with Special Education (SPED) schools and Voluntary Welfare Organisations serving persons with disabilities.
+'Everyone should play’ is the inner belief that prompted Temasek Foundation Cares and SportCares to pilot the ‘Temasek Foundation Cares - Play-Ability’ programme in partnership with Special Education (SPED) schools and Voluntary Welfare Organisations serving persons with disabilities.
 
 Temasek Foundation Cares has committed $615,000 to support this programme over a three-year period. The programme will offer greater support for Persons with Disabilities (PWDs) to participate in recreational sport activities and provide more opportunities for social interaction and relationship building with all in the community. It is designed specifically to use recreational sport opportunities as a vehicle through which PWDs can have fun, meet new people and adopt an active lifestyle. Ongoing sessions are facilitated by coaches, who are closely assisted by volunteers from Team Nila and ITE College West.
+
+![](/images/play%20ability_launch_2018%20-%203.jfif)
 
 Patron of SportCares, President Halimah Yacob officially launched the Temasek Foundation Cares - Play-Ability programme at Heartbeat@Bedok today. Minister for Culture, Community and Youth, Ms Grace Fu was also present at the event this morning. The launch saw over 100 PWDs from the community coming together to play sports such as Badminton, Basketball, Boccia, Sitting Volleyball, Table Tennis and Futsal.
 
@@ -24,14 +24,12 @@ Play-Ability also aims to address some of the barriers of entry to participation
 
 Play-Ability leverages on ActiveSG’s inclusive sports facilities and schools (under Dual-Use Scheme[1]) to provide safe and conducive spaces for PWDs, their caregivers, families and friends to bond through recreational sport. The sport facilities chosen will have disability-friendly options such as wheelchair ramps in swimming pools.
 
-As a start, PWDs can look forward to participating in Badminton, Aqua Activities such as Flippa Ball, Basketball, Wheelchair Rugby and Futsal. These sports were chosen based on popularity in the community as well as being able to cater to people with different degrees of disabilities. Each of these programmes will run on an 8-12 week cycles to allow participants to experience the benefit of regular sport participation, and to build a lasting relationship between participants and volunteers.
+As a start, PWDs can look forward to participating in Badminton, Aqua Activities such as Flippa Ball, Basketball, Wheelchair Rugby and Futsal. These sports were chosen based on popularity in the community as well as being able to cater to people with different degrees of disabilities. Each of these programmes will run on an 8-12 week cycles to allow participants to experience the benefit of regular sport participation, and to build a lasting relationship between participants and volunteers. 
 
-Volunteers lead the way
+![](/images/play%20ability_launch_2018%20-%202.jfif)
 
 So far, four experienced coaches have been working closely with 30 volunteers from Team Nila and ITE College West in weekly sessions. Play-Ability provides volunteers who show potential and interest in coaching with opportunities to further their skills through courses such as the International Paralympic Committee (IPC) Introduction to Para Sports Coaching course. Provision of free or subsidised training under the Play-Ability programme and serves to equip volunteers with the skills necessary to lead and coach sessions in the future. Building a base of trained volunteer coaches is key to the sustainability of this programme.
 
-Jared Chew, a student volunteer from ITE College West shared his experience on volunteering for the programme. Being new to interacting with a participant with intellectual disabilities, Jared shared about some of his challenges and how he learnt to overcome this. “On the first day when I got to know the participant I was assigned to, I was a bit lost on how to talk to him. I even got quite frustrated when he did not want to listen to me. Once I realised that he took to certain words and counting from 1 to 3 calmed him down and helped him to pay attention, things got easier. I feel like we are friends now and we get along really well.”  
+Jared Chew, a student volunteer from ITE College West shared his experience on volunteering for the programme. Being new to interacting with a participant with intellectual disabilities, Jared shared about some of his challenges and how he learnt to overcome this. “On the first day when I got to know the participant I was assigned to, I was a bit lost on how to talk to him. I even got quite frustrated when he did not want to listen to me. Once I realised that he took to certain words and counting from 1 to 3 calmed him down and helped him to pay attention, things got easier. I feel like we are friends now and we get along really well.”
 
-Interested parties can log on to  or email  for more details.
-
-This Media Release was originally published [here](https://www.sportsingapore.gov.sg/Newsroom/Media-Releases/2018/3/Sport-Play-Ability-For-All)
+This [media release](https://www.sportsingapore.gov.sg/media-centre/media-release/sport-play-ability-for-all/) was originally published by Sport Singapore.
