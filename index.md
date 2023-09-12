@@ -13,7 +13,7 @@ sections:
       description: A total of 31 organisations have come onboard as unified partners
         this year, up from 27 in 2019!
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/
+      url: sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/
       alt: Image alt text
       image: /images/play inclusive 2023_2.jpg
   - infopic:
