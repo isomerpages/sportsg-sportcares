@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: SportCares
+title: SportCares, the philanthropic arm of Sport Singapore
 description: Changing Lives through Sports
 permalink: /
 sections:
