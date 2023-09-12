@@ -6,11 +6,7 @@ permalink: /media/media-release/play-inclusive-2018/
 description: ""
 image: ""
 ---
-#### The biggest unified sport competition in Singapore
-
-*Special Olympics Singapore and SportCares team up to co-organise Singapore’s biggest unified competition for athletes with intellectual disabilities and students from mainstream schools*
-
-**Singapore, 14 July 2018** – Over 450 participants comprising of athletes with intellectual disabilities and their unified partners from mainstream schools came together on Saturday to contest four sports – badminton, basketball, floorball, and football – in the inaugural Play Inclusive 2018 event, Singapore’s biggest unified competition to date.
+Over 450 participants comprising of athletes with intellectual disabilities and their unified partners from mainstream schools came together on Saturday to contest four sports – badminton, basketball, floorball, and football – in the inaugural Play Inclusive 2018 event, Singapore’s biggest unified competition to date.
 
 The event was co-organised by Special Olympics Singapore and SportCares with the support of the Ministry of Education. Play Inclusive 2018 is the culmination of a 6-month long campaign to promote social inclusion through shared sport and competition experiences between persons with and without intellectual disabilities, using sport as the common language to break down barriers. Minister for Education, Mr Ong Ye Kung opened the Games at the Singapore Sports Hub’s OCBC Arena this morning.
 
