@@ -6,7 +6,6 @@ permalink: /media/media-release/careventures-2018/
 description: ""
 image: ""
 ---
-
 ![](/images/careventures-3.jfif)
 
 For some 28 youths from Delta Senior School and ITE College West, the weekend at the combined camp at Sarimbun Scout Camp was more than learning the basics of outdoor adventure skills. They built friendships and widened their existing social circles.
@@ -25,6 +24,8 @@ Dr Goh Mong Song, principal of ITE College West shared, “The CareVentures prog
 
 Ms Michelle Tan, Head of Fitness and Health, CCA at Delta Senior School shared, “APSN Delta Senior School is grateful to be part of this collaboration with SportCares and ITE College West. This programme has indeed benefitted our students. Not only did they pick up valuable survival skills, they have also learnt to communicate more effectively with mainstream peers from ITE College West. In the process, students were exposed to a number of challenging situations. They learnt to move out of their comfort zones and apply problem solving skills such as asking for help. We look forward to future collaborations so that more students can benefit.”
 
+![](/images/careventures-2.JPG)
+
 Mohammad Syahiran Bin Mohamed Salleh, 17, from ITE College West shared his experience from this combined camp, “I felt like the other campers and I knew each other for a long time although we only got to know each other for a short time. In the camp, we had to guide each other along the way and although one of the students from Delta Senior School was timid at the beginning, he eventually opened up to me and we started talking. This programme was like a training for me to be more confident. I shared with some of my friends here that if you take small steps, you can accomplish big things.”
 
-This  [media release](https://www.sportsingapore.gov.sg/media-centre/media-release/careventures-strangers-to-friends/) was originally published by Sport Singapore. 
+This  [media release](https://www.sportsingapore.gov.sg/media-centre/media-release/careventures-strangers-to-friends/) was originally published by Sport Singapore.
