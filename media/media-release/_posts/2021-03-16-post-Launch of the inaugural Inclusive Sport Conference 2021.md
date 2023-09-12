@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'President Encourages Persons With Disabilities To Play Sport Regularly At The Inaugural Inclusive Sport Conference 2021'
-permalink: /media/press-release/inclusive-sport-conference/
-category: 'press-release'
-
+title: Launch of the inaugural Inclusive Sport Conference 2021
+permalink: /media/media-release/inclusive-sport-conference/
+category: press-release
+date: 2021-03-16
+description: ""
+image: ""
 ---
-
-
 #### President Encourages Persons With Disabilities To Play Sport Regularly At The Inaugural Inclusive Sport Conference 2021
 
 Singapore, 16 March 2021 – Sport Singapore (SportSG) will introduce a new Social Service Corporate Membership scheme, which will be rolled out from June this year. The scheme aims to encourage organised, regular sports and exercise sessions for persons with disabilities (PwDs) at ActiveSG sport centres. This will include curated programming with partner organisations, as well as free access for their beneficiaries to ActiveSG swimming pools and gyms. The new scheme was announced by SportCares Patron and Guest-of-Honour President Halimah Yacob at the inaugural Inclusive Sport Conference 2021.

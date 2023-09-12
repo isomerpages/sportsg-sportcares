@@ -1,13 +1,11 @@
 ---
 layout: post
-title: 'CareVentures Pilot'
-date: 2018-06-30T00:00:00.000Z
-permalink: /media/press-release/careventures-2018/
-
+title: CareVentures Pilot
+date: 2018-06-30
+permalink: /media/media-release/careventures-2018/
+description: ""
+image: ""
 ---
-
-
-
 #### CareVentures – Strangers to Friends
 
 *Pilot programme designed to enable youth of all abilities to build friendship through better understanding of each other’s strengths and differences*
