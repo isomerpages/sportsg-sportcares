@@ -15,6 +15,7 @@ sections:
       button: read now
       url: https://sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/
       image: /images/play inclusive 2023_2.jpg
+      alt: Image alt text
   - infopic:
       title: Join us in Changing Lives Through Sport
       description: Your donation today will give a better tomorrow to the communities
