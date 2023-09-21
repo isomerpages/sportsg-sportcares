@@ -1,17 +1,12 @@
 logo: /images/sportcares-logo.png
 links:
-  - title: Who we are
-    false_collection: true
-    url: /about-sportcares/who-we-are/
+  - title: About Us
+    url: /permalink
     sublinks:
-      - title: About SportCares
+      - title: Our Mission
         url: /about-sportcares/who-we-are/
-      - title: Patron & Advisory Board
+      - title: Advisory Board
         url: /about-sportcares/advisory-board/
-      - title: Communities of Care
-        url: /about-sportcares/communities-of-care/
-      - title: Corporate Information
-        url: /about-sportcares/corporate-information/
   - title: Programmes
     collection: programmes
   - title: Initiatives
