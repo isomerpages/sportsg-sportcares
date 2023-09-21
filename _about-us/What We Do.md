@@ -10,4 +10,4 @@ In addition, SportCares cultivates a spirit of sport philanthropy among corporat
 
 
 
- **Find us on social media**: [Facebook](https://www.facebook.com/SportCaresSG)|[Instagram](https://www.instagram.com/sportcares)|[YouTube](https://www.youtube.com/@SportCaresTV/featured)
+ **Find us on social media**: [Facebook](https://www.facebook.com/SportCaresSG), [Instagram](https://www.instagram.com/sportcares), [YouTube](https://www.youtube.com/@SportCaresTV/featured)
