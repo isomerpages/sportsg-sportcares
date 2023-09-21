@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - What We Do.md
+      - Advisory Board.md

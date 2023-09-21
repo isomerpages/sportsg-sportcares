@@ -1,22 +1,17 @@
 logo: /images/sportcares-logo.png
 links:
-  - title: Who we are
-    false_collection: true
-    url: /about-sportcares/who-we-are/
+  - title: About Us
+    url: /about-us/what-we-do/
     sublinks:
-      - title: About SportCares
-        url: /about-sportcares/who-we-are/
-      - title: Patron & Advisory Board
-        url: /about-sportcares/advisory-board/
-      - title: Communities of Care
-        url: /about-sportcares/communities-of-care/
-      - title: Corporate Information
-        url: /about-sportcares/corporate-information/
+      - title: What We Do
+        url: /about-us/what-we-do/
+      - title: Advisory Board
+        url: /about-us/advisory-board/
   - title: Programmes
     collection: programmes
   - title: Initiatives
     collection: initiatives
-  - title: Sport for Pwd
+  - title: Inclusive Sport
     collection: persons-with-disabilities
   - title: Media Centre
     resource_room: true
