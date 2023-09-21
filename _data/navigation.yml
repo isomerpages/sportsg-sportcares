@@ -1,12 +1,12 @@
 logo: /images/sportcares-logo.png
 links:
   - title: About Us
-    url: about-sportcares/who-we-are/
+    url: /about-us/what-we-do/
     sublinks:
-      - title: Our Mission
-        url: /about-sportcares/who-we-are/
+      - title: What We Do
+        url: /about-us/what-we-do/
       - title: Advisory Board
-        url: /about-sportcares/advisory-board/
+        url: /about-us/advisory-board/
   - title: Programmes
     collection: programmes
   - title: Initiatives
