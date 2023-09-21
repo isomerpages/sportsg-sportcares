@@ -13,7 +13,7 @@ links:
     collection: initiatives
   - title: Sport for Pwd
     collection: persons-with-disabilities
-  - title: Media Centre
-    resource_room: true
   - title: Contact Us
     url: /contact-us/
+  - title: New single page
+    url: /permalink
