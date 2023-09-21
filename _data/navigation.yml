@@ -1,7 +1,7 @@
 logo: /images/sportcares-logo.png
 links:
   - title: About Us
-    url: /permalink
+    url: about-sportcares/who-we-are/
     sublinks:
       - title: Our Mission
         url: /about-sportcares/who-we-are/
