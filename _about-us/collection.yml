@@ -1,5 +1,5 @@
 collections:
-  about-sportcares:
+  about-us:
     output: true
     order:
       - about-sportcares.md
