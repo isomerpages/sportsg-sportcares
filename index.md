@@ -5,7 +5,7 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/play lnclusive 2023_1.jpg
+      background: /images/Inclusive_Sports_Festival.jpg
       title: Changing Lives Through Sport
   - infopic:
       title: More unified partners at Play Inclusive 2023
