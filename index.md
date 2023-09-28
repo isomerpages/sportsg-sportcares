@@ -36,8 +36,8 @@ sections:
       alt: Image alt text
   - infopic:
       title: Inclusive Sport
-      description: "Get all the details on SportSG's Disability Sport Master Plan and
-        the various community based sport initiatives for PwDs. "
+      description: Get all the details on SportSG's Disability Sport Master Plan and
+        the various community based sport initiatives for PwDs.
       button: Find out more
       url: https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-master-plan/
       image: /images/Website-Main-Image.jpg
