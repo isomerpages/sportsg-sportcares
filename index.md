@@ -5,8 +5,18 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/play lnclusive 2023_1.jpg
+      background: /images/Inclusive_Sports_Festival.jpg
       title: Changing Lives Through Sport
+      key_highlights:
+        - title: Donate
+          description: Support our cause
+          url: https://www.giving.sg/vision2030/sportcares2023
+        - title: HEARTS Book
+          description: Use sport for social good
+          url: https://sportcares.sportsingapore.gov.sg/initiatives/heartsbook/
+        - title: Communities of Care Grant
+          description: Bring sport to your community
+          url: https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/
   - infopic:
       title: More unified partners at Play Inclusive 2023
       subtitle: What's new at Sportcares?
