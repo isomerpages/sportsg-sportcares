@@ -27,20 +27,20 @@ sections:
       image: /images/play inclusive 2023_2.jpg
       alt: Image alt text
   - infopic:
-      title: Join us in Changing Lives Through Sport
-      description: Your donation today will give a better tomorrow to the communities
-        we serve.
-      button: Donate now
-      url: https://www.giving.sg/vision2030/sportcares2023
-      image: /images/GivingSG2023.png
-      alt: Image alt text
-  - infopic:
       title: SportCares Bursary
       description: The SportCares Bursary aims to increase opportunities for children
         and youth to learn a sport at ActiveSG Academies and Clubs.
       button: Find out more
       url: https://sportcares.sportsingapore.gov.sg/initiatives/sportcaresbursary
       image: /images/website collage_12sep.jpg
+      alt: Image alt text
+  - infopic:
+      title: Inclusive Sport
+      description: Get all the details on SportSG's Disability Sport Master Plan and
+        the various community based sport initiatives for PwDs.
+      button: Find out more
+      url: https://sportcares.sportsingapore.gov.sg/persons-with-disabilities/disability-sports-master-plan/
+      image: /images/Website-Main-Image.jpg
       alt: Image alt text
 notification: ""
 image: /images/isomer-logo.svg
