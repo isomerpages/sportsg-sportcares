@@ -12,7 +12,7 @@ CEO, Sport Singapore
 **Co-Chair**<br>
 Mr Keith Magnus <br> 
 Chairman, Evercore Asia; <br>
-Deputy Chairman, Sport Singapore; <br> Chairman, Kallang Alive Sport Management Co Pte Ltd
+Deputy Chairman, Sport Singapore; <br> Chairman, Kallang Alive Sport Management Co
 
 **Board Members**<br>
 Madam Tuminah Sapawi <br>
