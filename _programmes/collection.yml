@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Children/SportCares Bursary.md
       - Children/Community Swimming Programme.md
       - Children/Community Basketball Programme.md
       - Children/Community Futsal Programme.md
