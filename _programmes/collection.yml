@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Overview.md
+      - Children/Community Basketball Programme.md
       - Children/Community Futsal Programme.md
       - Children/Multi Sport Programme.md
       - Children/.keep
