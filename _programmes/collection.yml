@@ -3,13 +3,13 @@ collections:
     output: true
     order:
       - Overview.md
-      - Children/SportCares Bursary.md
-      - Children/Community Swimming Programme.md
+      - Children/.keep
+      - Children/Multi Sport Programme.md
+      - Children/FUN Starters.md
       - Children/Community Basketball Programme.md
       - Children/Community Futsal Programme.md
-      - Children/Multi Sport Programme.md
-      - Children/.keep
-      - Children/FUN Starters.md
+      - Children/Community Swimming Programme.md
+      - Children/SportCares Bursary.md
       - Youth/.keep
       - Youth/Saturday Night Lights.md
       - Youth/Multi Sport Programme.md
