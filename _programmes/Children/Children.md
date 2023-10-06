@@ -5,7 +5,7 @@ breadcrumb: children-and-youth
 description: ""
 third_nav_title: Children
 ---
-### Engaging children and youth through Sport
+### Engaging children through Sport
 
 ![](/images/duathlon_2.JPG)
 
@@ -20,18 +20,5 @@ We constantly work towards creating safe spaces for our participants and mention
 * Multi-Sport Programme (Running, Swimming, Cycling) 
 * FUN Starters (Multi-Sport) 
 * School Holiday Programmes
-
-![](/images/snl-2022-1.JPG)
-
-##### SportCares Programmes for Youth:
-* Saturday Night Lights (Football)
-* Let's Sepak (Sepak Takraw) 
-* Multi-Sport Programme (Running, Swimming, Cycling) 
-* School Holiday Programmes
-* Project Bounce Back (In-institution programming using a series of sports)
-* SportCares Champions (Youth Leadership Programme) 
-* Youth Industry Traineeship
-* Youth Coaching Development Programme
-* Youth Mentoring Programme
 
 If you are keen to support or contribute to our programmes, reach out to us [here](mailto:sportcares@sport.gov.sg)  to start your journey in changing lives through sport!
