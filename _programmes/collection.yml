@@ -2,9 +2,9 @@ collections:
   programmes:
     output: true
     order:
-      - Children/FUN Starters.md
-      - Children/Children.md
       - Children/.keep
+      - Children/Children.md
+      - Children/FUN Starters.md
       - Youth/.keep
       - Seniors/.keep
       - Seniors/Overview.md
