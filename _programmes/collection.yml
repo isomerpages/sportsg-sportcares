@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Children/.keep
-      - Children.md
       - Youth/.keep
       - Seniors/.keep
       - Seniors/Overview.md
