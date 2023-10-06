@@ -2,8 +2,8 @@ collections:
   programmes:
     output: true
     order:
-      - Youth/.keep
       - Children.md
+      - Youth/.keep
       - Seniors/.keep
       - Seniors/Overview.md
       - Seniors/Adaptive Sports Toolkit & CareMasters Funding.md
