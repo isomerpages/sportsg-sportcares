@@ -14,9 +14,9 @@ The programme is offered free of charge, and all equipment and materials will be
 
 ![](/images/FUN%20Starters%20Coach%20Ridhwan.jpg)
 
-SportCares also works closely with community leaders, MSF Social Services Offices (SSOs), and other organisations to ensure that the children receive the support they need to succeed both on and off the field. 
+SportCares also works closely with community leaders, MSF Social Services Offices (SSOs), and other organisations to ensure that the participants receive the support they need to succeed both on and off the field. 
 
-In addition, SportCares will engage the parents of our partcipants on building healthy habits through relevant workshops and national campaigns.
+In addition, SportCares will engage the parents of our participants on building healthy habits through relevant workshops and campaigns.
 
 FUN Starters is currently present in six (6) locations islandwide: 
 * **Jalan Kukoh** <br>	Community Partners: MSF SSO@Kreta Ayer, Montfort Care
