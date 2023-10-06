@@ -5,8 +5,6 @@ breadcrumb: children-and-youth
 description: ""
 third_nav_title: Children
 ---
-### Engaging children through Sport
-
 ![](/images/duathlon_2.JPG)
 
 SportCares uses sport and coach-mentoring to work with children and youth to build self-esteem, learn life skills and enable a strong sense of independence through personal development. Friendships and relationships made through sport also remove them from negative influences they may experience in their routine environment.
