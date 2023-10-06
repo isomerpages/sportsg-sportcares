@@ -5,8 +5,6 @@ breadcrumb: vulnerable-seniors
 third_nav_title: Seniors
 description: ""
 ---
-### "Fit &amp; Fun" Adaptive Sports Toolkit
-
 Jointly developed by the trainers from the Agency for Integrated Care (AIC) and Sport Singapore (SportSG), the "Fit &amp; Fun" Adaptive Sports Toolkit is targeted at community care partners, as a resource pack to help them keep seniors fit and happy.  The toolkit includes modified games that are suitable for seniors of all abilities, including seniors on wheelchairs, stroke-recovery patients and seniors with early/intermediate stages of dementia.  The toolkit aims to improve the physical, mental and emotional wellbeing of our seniors as they stay fit, active and socially connected when playing the sport activities.
 
 The free toolkit provides facilitation tips and step-by-step instructions on setting up and executing the games for the seniors, with additional assistance offered through instructional videos.  These resources are provided for Community Care staff and volunteers to organise and facilitate the sports sessions confidently.
