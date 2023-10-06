@@ -8,4 +8,8 @@ Saturday Night Ligths (SNL) is a football-based development programme for youth 
 
 It is currently offered island-wide at nine stadiums across Singapore, serving close to 450 youth.
 
-Eligibility: Youth aged 13 – 21. And eligible participants will be matched to the nearest available training location using their residential address.
+It is open to youth aged 13 – 21 and eligible participants will be matched to the nearest available training location using their residential address.
+
+To sign up for the programme or refer interested participants, please contact us at [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg). 
+
+You can also reach out to us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG). And follow us too for updates on all that we do in the community!
