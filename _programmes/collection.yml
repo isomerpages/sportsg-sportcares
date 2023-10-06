@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Youth/.keep
-      - FUN Starters.md
       - Sport for Children & Youth.md
       - Sport For Seniors/.keep
       - Sport For Seniors/Overview.md
