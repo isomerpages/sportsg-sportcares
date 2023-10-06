@@ -2,6 +2,7 @@ collections:
   programmes:
     output: true
     order:
+      - Children/Children.md
       - Children/.keep
       - Youth/.keep
       - Seniors/.keep
