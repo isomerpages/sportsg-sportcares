@@ -4,11 +4,11 @@ permalink: /programmes/youth/snl/
 description: ""
 third_nav_title: Youth
 ---
-Saturday Night Ligths (SNL) is a football-based development programme for youth aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
+![](/images/snl-2022-1.JPG)
 
-It is currently offered island-wide at nine stadiums across Singapore, serving close to 450 youth.
+Saturday Night Lights (SNL) is a football-based development programme for youth aged 13 to 21, the chance to build value through sport and opportunities to pick up relevant life skills through non-sport initiatives and courses.
 
-It is open to youth aged 13 – 21 and eligible participants will be matched to the nearest available training location using their residential address.
+SNL has nine (9) training venues island-wide, serving about 450 participants. All eligible participants will be matched to the nearest training location using their residential address. 
 
 To sign up for the programme or refer interested participants, please contact us at [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg). 
 
