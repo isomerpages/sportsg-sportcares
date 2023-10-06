@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Youth/.keep
-      - Sport for Children & Youth.md
+      - Children.md
       - Sport For Seniors/.keep
       - Sport For Seniors/Overview.md
       - Sport For Seniors/Adaptive Sports Toolkit & CareMasters Funding.md
