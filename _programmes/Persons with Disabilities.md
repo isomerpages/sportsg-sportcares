@@ -1,5 +1,5 @@
 ---
-title: Sport for Persons with Disabilities
+title: Persons with Disabilities
 permalink: /programmes/persons-with-disabilities/
 breadcrumb: persons-with-disabilities
 description: ""

@@ -45,6 +45,6 @@ By joining a SportCares programme, participants will have access to other non-sp
 * SportCares Scholarship and Education Award
 * SportCares Champions Leadership Programme
 
-To refer interested participants to us or for more information, please reach out to us at [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg).
+To refer interested participants to us or for more information, please contact us at [sportcares@sport.gov.sg](mailto:sportcares@sport.gov.sg). 
 
-You can also text us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG). And follow us to stay updated on all that we do in the community!
+You can also reach out to us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG). And follow us too for updates all that we do in the community!
