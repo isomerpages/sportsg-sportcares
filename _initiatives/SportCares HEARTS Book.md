@@ -11,3 +11,4 @@ The key reflections and learnings from delivering programmes to the communities 
 
 To download a copy of the SportCares HEARTS book, click [here](https://go.gov.sg/sportcares-hearts-book-2022).
 
+Follow us on [Instagram](https://www.instagram.com/sportcares/) or [Facebook](https://www.facebook.com/SportCaresSG)  for updates on all that we do in the community!
