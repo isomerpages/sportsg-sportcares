@@ -14,4 +14,4 @@ Programmes such as Play-Ability and Yes! I Can offer participants with sport opp
 
 For more information on sport opportunities for persons with disabilities and special needs, click [here](/persons-with-disabilities/disability-sports-master-plan/).
 
-If you are keen to support or contribute to our programmes, reach out to us [here](mailto:sportcares@sport.gov.sg)  to start your journey in changing lives through sport!
+Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
