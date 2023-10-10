@@ -19,7 +19,7 @@ SportCares also works closely with community leaders, MSF Social Services Office
 In addition, SportCares will engage the parents of our participants on building healthy habits through relevant workshops and campaigns.
 
 FUN Starters is currently present in six (6) locations islandwide: 
-* **Jalan Kukoh** <br>	Community Partners: MSF SSO@Kreta Ayer, Montfort Care
+* **Jalan Kukoh** <br>	Community Partners: MSF SSO@Kreta Ayer, Yong-en Care Centre
 
 * **Commonwealth Drive** <br>	Community Partners: MSF SSO@Queenstown, FaithActs
 
