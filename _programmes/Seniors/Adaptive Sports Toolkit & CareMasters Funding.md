@@ -25,7 +25,7 @@ __Who can apply__
 Staff &amp; volunteers from the Community Care sector and SportSG. 
 
 
-### "CareMasters" Funding
+### CareMasters Funding
 
 The 3-year scheme aims to equip and support Community Care sector partners with the necessary training and funding required to introduce and implement adaptive sports in their facilities.  Funding includes the purchase of sport equipment, refreshments and transportation costs.  Each community care partner may receive up to $2,000 per year as part of this scheme.
 
@@ -44,6 +44,6 @@ __Obligations for Funding__
 * Send minimum 2 staff to attend the Adaptive Sports Trainings organised by SportSG &amp; AIC
 * Participate in Senior Sports Day and/or other designated events held by SportSG 
 
-[Register interest for "CareMasters" funding](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz) 
+To submit your interest for the CareMasters funding, click [here](https://share.hsforms.com/1dKwqsElLQ0G42FHdRjtQVQ3p5mz). 
 
-For enquiries on "CareMasters" funding, please contact Ms Vivian Gao at
+Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
