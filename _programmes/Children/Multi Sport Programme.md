@@ -12,12 +12,11 @@ Using running, swimming and cycling as the core sports in the programme, partici
 
 With the support of our donor, [Li Foundation](https://www.lifoundationsg.com/home/featured-projects/sportcares-li-foundation-multisport-programme/), the programme is set to grow and extend its reach in the community with more participants coming on board in the next few months. 
 
-MSP is currently present in four (4) locations:
+MSP is currently present in three (3) locations:
 
-* **Bukit Batok** <br> Community Partner: Bukit Batok Youth Network
 * **Changi** <br> Community Partner: MIJ Hub Changi
 * **Woodlands** <br> Community Partner:	MIJ Hub Woodlands
-* **Singapore Sports Hub** <br> Community Partners: Muhammadiyah Welfare Home, NorthLight School, 7oaks Student Care (Bedok), 7oaks Student Care (Jurong)
+* **Singapore Sports Hub** <br> Community Partners: 7oaks Student Care (Bedok), 7oaks Student Care (Jurong)
 
 
 If you are keen to have this programme in your community or want to learn more about it, reach out to us&nbsp;[here](mailto:sportcares@sport.gov.sg), with your details and we will contact you within seven (7) working days with more information.
