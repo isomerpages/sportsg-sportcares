@@ -11,4 +11,4 @@ Our Adaptive Morning Exercises are designed to engage seniors on a weekly basis 
 
 Currently, through our partner, Kreta Ayer Seniors Activity Centre, we have established the programme at their branches located at Jalan Kukoh, Chin Swee Road and Banda Street, engaging up to 140 seniors per session.
 
-If you are keen to support or contribute to our programmes, reach out to us [here](mailto:sportcares@sport.gov.sg)  to start your journey in changing lives through sport!
+Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
