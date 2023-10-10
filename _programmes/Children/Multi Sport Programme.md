@@ -4,9 +4,13 @@ permalink: /programmes/children/msp/
 description: ""
 third_nav_title: Children
 ---
+![](/images/msp%20duathlon%202022.jpg)
+
 The SportCares - Li Foundation Multi Sport Programme (MSP) is a sport-based development programme managed by SportCares in partnership with community groups based in the neighbourhood. 
 
 Using running, swimming and cycling as the core sports in the programme, participants are engaged by coaches from Triathlon Singapore and Singapore Aquatics on a weekly basis. 
+
+With the support of our donor, [Li Foundation](https://www.lifoundationsg.com/home/featured-projects/sportcares-li-foundation-multisport-programme/), the programme is set to grow and extend its reach in the community with more participants coming on board in the next few months. 
 
 MSP is currently present in four (4) locations:
 
