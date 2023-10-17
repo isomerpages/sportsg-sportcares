@@ -6,8 +6,6 @@ layout: post
 description: Shoban
 image: ""
 ---
-> by [Shoban](https://www.linkedin.com/in/justshoban)
-
  ![](/images/smol-1.jpg)
 
 In 2019, after we launched the Communities of Care (COC) Grant initiative, a passionate floorball coach, Sonia Teo, contacted us with an idea for a community sports programme engaging children and youth. After several meetings and draft consultations on her grant proposal, we settled on a programme model and curriculum aligned with our grant criteria and social outcomes. 
