@@ -54,15 +54,15 @@ Our vision is clear. As these recipients graduate and embark on their profession
 
 In our quest to provide holistic development, we have introduced the YIT programme. This short-term education and training initiative aims at equipping SportCares youths aged 18 to 24 with essential skills and work experience, especially if they are treading on a path unfamiliar to them.
 
-Our inaugural batch of 12 enthusiastic individuals gained valuable experience at esteemed institutions, including SportSG's Para Sport Academy, Sport Science Institute, and SportFive, a renowned local sports marketing agency.
+Our inaugural batch of 12 enthusiastic individuals gained valuable experience at esteemed institutions, including SportSG's Para Sport Academy, Sport Science Institute, and SPORTFIVE, a renowned sports marketing agency.
 
 Here's more details of the 12 YIT participants and their traineeship: 
 
-* **Muhammad Izzan Bin Razak**&nbsp;<br> Events and Operations Trainee with SportFive
+* **Muhammad Izzan Bin Razak**&nbsp;<br> Events and Operations Trainee with SPORTFIVE
 
-* **Nur Shahirah**&nbsp;<br> Events and Operations Trainee with SportFive
+* **Nur Shahirah**&nbsp;<br> Events and Operations Trainee with SPORTFIVE
 
-* **Khalifah Ibnu Katsier Bin Ridhuan** <br> Corporate Partnership Trainee with SportFive
+* **Khalifah Ibnu Katsier Bin Ridhuan** <br> Corporate Partnership Trainee with SPORTFIVE
 
 * **Ryan Lee** <br> Physiotherapy Trainee with Singapore Sport Institute
 
@@ -85,4 +85,4 @@ Here's more details of the 12 YIT participants and their traineeship:
 Our message is hope, perseverance, and commitment. And we're not just championing sports but championing futures. Here's to a brighter, more robust community and the unwavering spirit of our youths!
 
 
-You can follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community. 
+You can follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community.
