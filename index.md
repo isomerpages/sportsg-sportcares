@@ -5,7 +5,7 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/Inclusive_Sports_Festival.jpg
+      background: /images/sportcares iwd2023.jpg
       title: Changing Lives Through Sport
       key_highlights:
         - title: Donate
@@ -20,9 +20,9 @@ sections:
   - infopic:
       title: Preparing our youths for tomorrow
       subtitle: What's new at Sportcares?
-      description: "Meet our second batch of SportCares Scholarship/Education Award
+      description: Meet our second batch of SportCares Scholarship/Education Award
         recipients and our pioneer batch of Youth Industry Traineeship
-        participants. "
+        participants.
       button: read now
       url: https://sportcares.sportsingapore.gov.sg/media/stories/ssea-yit2023/
       image: /images/ssea-yit_3.jpg
