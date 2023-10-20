@@ -18,7 +18,7 @@ sections:
           description: Bring sport to your community
           url: https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/
   - infopic:
-      title: Preparing Our Youths for Tomorrow
+      title: Preparing our youths for tomorrow
       subtitle: What's new at Sportcares?
       description: "Meet our second batch of SportCares Scholarship/Education Award
         recipients and our pioneer batch of Youth Industry Traineeship
