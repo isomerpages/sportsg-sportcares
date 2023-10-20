@@ -18,13 +18,14 @@ sections:
           description: Bring sport to your community
           url: https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/
   - infopic:
-      title: More unified partners at Play Inclusive 2023
+      title: Preparing Our Youths for Tomorrow
       subtitle: What's new at Sportcares?
-      description: A total of 31 organisations have come onboard as unified partners
-        this year, up from 27 in 2019!
+      description: "Meet our second batch of SportCares Scholarship/Education Award
+        recipients and our pioneer batch of Youth Industry Traineeship
+        participants. "
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/media-release/playinclusive-2023/
-      image: /images/play inclusive 2023_2.jpg
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/ssea-yit2023/
+      image: /images/ssea-yit_3.jpg
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
