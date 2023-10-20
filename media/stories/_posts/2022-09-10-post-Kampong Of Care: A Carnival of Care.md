@@ -1,9 +1,10 @@
 ---
-title: "Kampong Of Care: A Carnival of Care!"
+title: "Kampong Of Care: A Carnival of Care"
 permalink: /media/stories/koc2022/
 date: 2022-09-10
 layout: post
 description: ""
+image: ""
 ---
 ![](/images/Main%20Photo%20for%20KOC%202022.png)
 

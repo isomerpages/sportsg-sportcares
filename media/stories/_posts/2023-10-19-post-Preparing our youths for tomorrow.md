@@ -1,5 +1,5 @@
 ---
-title: Preparing Our Youths for Tomorrow
+title: Preparing our youths for tomorrow
 permalink: /media/stories/ssea-yit2023/
 date: 2023-10-19
 layout: post

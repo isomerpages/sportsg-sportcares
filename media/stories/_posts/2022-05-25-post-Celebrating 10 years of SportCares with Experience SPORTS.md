@@ -1,9 +1,10 @@
 ---
-title: Celebrating 10 years of SportCares with Experience SPORTS!
+title: Celebrating 10 years of SportCares with Experience SPORTS
 permalink: /media/stories/experiencesports-25052022/
 date: 2022-05-25
 layout: post
 description: ""
+image: ""
 ---
 SportCares officially kicked off its 10th Year celebrations today with Experience SPORTS!, a three-day sports tryouts event for persons with disabilities (PwDs), held at Heartbeat@Bedok. 
 

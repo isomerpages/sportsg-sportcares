@@ -1,5 +1,5 @@
 ---
-title: Football With A Heart 2023 raised a record $1,238,350 for seven beneficiaries!
+title: Football With A Heart 2023 raised a record $1,238,350 for seven beneficiaries
 permalink: /media/stories/fwah2023/
 date: 2023-08-13
 layout: post
