@@ -31,7 +31,7 @@ sections:
       title: SportCares Bursary
       description: The SportCares Bursary aims to increase opportunities for children
         and youth to learn a sport at ActiveSG Academies and Clubs.
-      button: Find out more
+      button: sign up
       url: https://sportcares.sportsingapore.gov.sg/initiatives/sportcaresbursary
       image: /images/website collage_12sep.jpg
       alt: Image alt text
