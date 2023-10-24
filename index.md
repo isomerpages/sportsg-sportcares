@@ -5,7 +5,7 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/sportcares iwd2023.jpg
+      background: /images/snl launch_sportcares_2013.jpg
       title: Changing Lives Through Sport
       key_highlights:
         - title: Donate

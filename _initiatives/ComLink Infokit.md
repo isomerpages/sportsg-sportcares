@@ -1,6 +1,6 @@
 ---
-title: ComLink Befrienders Infokit
-permalink: /initiatives/comlink-befrienders-infokit/
+title: ComLink Infokit
+permalink: /initiatives/comlink-infokit/
 description: ""
 ---
 ![](/images/Fun%20Starters%20attendees.jpg)
@@ -12,7 +12,7 @@ Sport is an appealing tool that can be used by the community when planning outre
 Here are some programmes and initiatives that you can share with the families you are engaging on your befriending sessions: 
 ##### Saturday Night Lights (SNL) 
 
-* SNL, one of our flagship programmes, is a football-based development programme that gives vulnerable youth aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
+* [SNL](https://sportcares.sportsingapore.gov.sg/programmes/youth/snl), one of our flagship programmes, is a football-based development programme that gives vulnerable youth aged 13 to 21 the chance to build values through the sport, opportunities to pick up relevant life skills through non-sport initiatives and courses.
 * It is currently offered island-wide at nine stadiums across Singapore, serving close to 450 youth.
 * Eligibility: Youth aged 13 – 21. And eligible participants will be matched to the nearest available training location using their residential address.
 
@@ -20,12 +20,12 @@ Here are some programmes and initiatives that you can share with the families yo
 
 ##### FunStarters
 
-* FUN Starters is a multi-sport programme that seeks to engage, support and uplift children from vulnerable communities through curated sport, physical, health and wellness programmes. &nbsp;&nbsp;
+* [FUN Starters](https://sportcares.sportsingapore.gov.sg/programmes/children/funstarters/) is a multi-sport programme that seeks to engage, support and uplift children from vulnerable communities through curated sport, physical, health and wellness programmes. &nbsp;&nbsp;
 * Eligibility: Children aged 5 to 12.
 
 ##### Let’s SEPAK
 
-* Let’s SEPAK is a collaboration between SportCares and PERSES (the national sporting association for Sepak Takraw) aimed at using Sepak Takraw to positively nurture and care for its participants.
+* [Let's SEPAK](https://sportcares.sportsingapore.gov.sg/programmes/youth/letssepak/) is a collaboration between SportCares and PERSES (the national sporting association for Sepak Takraw) aimed at using Sepak Takraw to positively nurture and care for its participants.
 * The programme is currently available at Heartbeat@Bedok, Crest Secondary School and Northland Secondary School.
 * Eligibility: Youth aged 13 – 21. And eligible participants will be matched to the nearest available training location using their residential address.
 
