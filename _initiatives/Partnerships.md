@@ -14,7 +14,7 @@ image: ""
 
 **Partner – Collaborate with us to make sport possible and accessible for everyone.** 
 <br> We are always looking to work with the wider community to bring sport closer to suitable venues located in the neighbourhood. If you have a programme idea or community group in mind that can benefit through a partnership, connect with us to start a conversation. 
-<br> For more details on our current line-up of programmes, see [here](https://sportcares.sportsingapore.gov.sg/programmes/children-and-youth/). <br> 
+<br> For more details on our current line-up of programmes, see [here]( https://sportcares.sportsingapore.gov.sg/programmes/overview/). <br> 
 
 
 **Share – Let everyone know about our events and programmes.** 
