@@ -1,0 +1,25 @@
+collections:
+  programmes:
+    output: true
+    order:
+      - Overview.md
+      - Children/.keep
+      - Children/FUN Starters.md
+      - Children/Multi Sport Programme.md
+      - Children/Community Basketball Programme.md
+      - Children/Community Futsal Programme.md
+      - Children/Community Swimming Programme.md
+      - Children/SportCares Bursary.md
+      - Youth/.keep
+      - Youth/Saturday Night Lights.md
+      - Youth/Multi Sport Programme.md
+      - Youth/Let’s SEPAK.md
+      - Youth/Project Bounce Back.md
+      - Youth/Youth Coaching Development Programme.md
+      - Youth/SportCares Champions Leadership Programme.md
+      - Youth/Youth Mentoring Programme.md
+      - Youth/Youth Industry Traineeship.md
+      - Seniors/.keep
+      - Seniors/Adaptive Morning Exercises.md
+      - Seniors/Adaptive Sports Toolkit & CareMasters Funding.md
+      - Persons with Disabilities.md
