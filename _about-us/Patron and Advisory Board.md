@@ -3,8 +3,12 @@ title: Patron and Advisory Board
 permalink: /about-us/patron-advisory-board/
 breadcrumb: patron and advisory board
 description: ""
-variant: tiptap
+variant: markdown
 ---
+#### **Patron** <br>
+Mr Tharman Shanmugaratnam  
+President of the Republic of Singapore <br>
+
 #### **SportCares Advisory Board** <br> 
 **Co-Chair** <br>
 Mr Alan Goh <br>
