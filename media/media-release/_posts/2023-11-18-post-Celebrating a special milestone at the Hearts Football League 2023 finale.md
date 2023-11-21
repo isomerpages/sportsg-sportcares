@@ -57,7 +57,7 @@ And mentioned below is the list of award winners and the champions of each categ
 
 * Under-17 Boys: Dani Ziqry from Lions United
 * Women’s Open: Dinah Sajidah from Unity SC
-* Men’s Open: Kavin Ganesan from Eagles
+* Men’s Open: Muhammad Danish from East Warriors
 
 #### Golden Glove Award
 
