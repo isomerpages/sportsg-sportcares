@@ -61,15 +61,15 @@ And mentioned below is the list of award winners and the champions of each categ
 
 #### Golden Glove Award
 
-Under-17 Boys: Barron Nurhakim from Tasek Sailors (4 clean sheets)
-Women’s Open: Yeoh Yiping from Royal Arion Women’s FC (5 clean sheets)
-Men’s Open: Rejit Nair from The New Team (6 clean sheets)
+* Under-17 Boys: Barron Nurhakim from Tasek Sailors (4 clean sheets)
+* Women’s Open: Yeoh Yiping from Royal Arion Women’s FC (5 clean sheets)
+* Men’s Open: Rejit Nair from The New Team (6 clean sheets)
 
 #### Golden Boot Award
 
-Under-17 Boys: Muhammad Nor Hazman from Tasek Sailors (8 goals)
-Women’s Open:Reaka Ee from Singapore Management University (7 goals)
-Men’s Open: Haresh Sasitaran, Hiyaku (15 goals)
+* Under-17 Boys: Muhammad Nor Hazman from Tasek Sailors (8 goals)
+* Women’s Open:Reaka Ee from Singapore Management University (7 goals)
+* Men’s Open: Haresh Sasitaran, Hiyaku (18 goals)
 
 
 Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
