@@ -18,14 +18,14 @@ sections:
           description: Bring sport to your community
           url: https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/
   - infopic:
-      title: Preparing our youths for tomorrow
+      title: An Evening of Celebration at Woodlands Stadium
       subtitle: What's new at Sportcares?
-      description: Meet our second batch of SportCares Scholarship/Education Award
-        recipients and our pioneer batch of Youth Industry Traineeship
-        participants.
+      description: "We had the opportunity to host our Patron, President Tharman
+        Shanmugaratnam at his first SportCares event which saw celebrations,
+        both on and off the pitch. "
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/stories/ssea-yit2023/
-      image: /images/ssea-yit_3.jpg
+      url: https://sportcares.sportsingapore.gov.sg//media/media-release/10yrs-snl-2023-hearts-league/
+      image: /images/DSC_8386.JPG
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
