@@ -37,3 +37,39 @@ SportCares introduced the HEARTS Football League in 2022 to provide more competi
 During the prize presentation, three League Champions – Singapore Management University (Women’s Open), Tasek Sailors (Under-17 Boys) and The New Team (Men’s Open) – received medals and trophies from President Tharman, who is also the Patron for SportCares.
 
 A photo exhibition featuring a compilation of photographs taken by three SNL youths – Diyanah Ismail, Nur Syafinie Putri Rashid and Nur Syafina Putri Rashid, were also on display alongside images from the SportCares repository that captured key moments of the SNL football programme.
+
+And mentioned below is the list of award winners and the champions of each category of the SportCares Hearts Football League 2023: 
+
+#### League Champions  
+
+* Under-17 Boys: Tasek Sailors
+* Women’s Open: Singapore Management University
+* Men’s Open: The New Team
+
+#### Singapore Pools Fair Play Award
+
+* Under-17 Boys: District West United
+* Women’s Open: District West Girl
+* Men’s Open:  Serangoon Samba
+
+
+#### Singapore Pools Sportsmanship Award
+
+* Under-17 Boys: Dani Ziqry from Lions United
+* Women’s Open: Dinah Sajidah from Unity SC
+* Men’s Open: Kavin Ganesan from Eagles
+
+#### Golden Glove Award
+
+Under-17 Boys: Barron Nurhakim from Tasek Sailors (4 clean sheets)
+Women’s Open: Yeoh Yiping from Royal Arion Women’s FC (5 clean sheets)
+Men’s Open: Rejit Nair from The New Team (6 clean sheets)
+
+#### Golden Boot Award
+
+Under-17 Boys: Muhammad Nor Hazman from Tasek Sailors (8 goals)
+Women’s Open:Reaka Ee from Singapore Management University (7 goals)
+Men’s Open: Haresh Sasitaran, Hiyaku (15 goals)
+
+
+Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
