@@ -72,5 +72,4 @@ Women’s Open:Reaka Ee from Singapore Management University (7 goals)
 Men’s Open: Haresh Sasitaran, Hiyaku (15 goals)
 
 
-You can follow us on Instagram or Facebook  for updates on all that we do in the community.
-
+Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
