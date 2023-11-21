@@ -46,7 +46,7 @@ And mentioned below is the list of award winners and the champions of each categ
 * Women’s Open: Singapore Management University
 * Men’s Open: The New Team
 
-#### Singapore Pools Fair Play Award:
+#### Singapore Pools Fair Play Award
 
 * Under-17 Boys: District West United
 * Women’s Open: District West Girl
@@ -59,13 +59,13 @@ And mentioned below is the list of award winners and the champions of each categ
 * Women’s Open: Dinah Sajidah from Unity SC
 * Men’s Open: Kavin Ganesan from Eagles
 
-#### Golden Glove Award:
+#### Golden Glove Award
 
 Under-17 Boys: Barron Nurhakim from Tasek Sailors (4 clean sheets)
 Women’s Open: Yeoh Yiping from Royal Arion Women’s FC (5 clean sheets)
 Men’s Open: Rejit Nair from The New Team (6 clean sheets)
 
-#### Golden Boot Award:
+#### Golden Boot Award
 
 Under-17 Boys: Muhammad Nor Hazman from Tasek Sailors (8 goals)
 Women’s Open:Reaka Ee from Singapore Management University (7 goals)
