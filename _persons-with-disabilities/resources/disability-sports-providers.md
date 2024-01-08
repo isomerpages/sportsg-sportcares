@@ -3,6 +3,7 @@ title: Disability Sports Providers
 permalink: /persons-with-disabilities/resources/
 breadcrumb: Resources and Useful Links
 third_nav_title: Resources
+variant: markdown
 ---
 ### National Sports Associations (NSA)
 
@@ -55,5 +56,5 @@ third_nav_title: Resources
 - Contact: ttads.adm@gmail.com 
 
 **Wheelchair Basketball Association of Singapore**
-- Website: [WBA Singapore](https://sdsc.org.sg/sdsc_sport_type/wheelchair-basketball/)
-- Contact: [WBAS Instagram](https://www.instagram.com/wba_singapore/?hl=en)
+- Website: [WBA Singapore](https://www.wba.org.sg)
+- Contact: [WBAS Instagram](https://www.instagram.com/wheelchairbasketballsg/)
