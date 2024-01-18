@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: Donate
           description: Support our cause
-          url: https://www.giving.sg/vision2030/sportcares2023
+          url: https://go.gov.sg/givingsg-sportcares
         - title: HEARTS Book
           description: Use sport for social good
           url: https://sportcares.sportsingapore.gov.sg/initiatives/heartsbook/
