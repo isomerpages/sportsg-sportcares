@@ -29,6 +29,8 @@ to engaging the broader community through sport.</p>
 Ridzal, two youth coaches who have come through the YCDP initiative and
 embraced their roles in Fun Starters with enthusiasm, making a significant
 impact on the lives of the participants in Yishun.</p>
+<p></p>
+<p></p>
 <p>Fadhil, a former SportCares participant, found his calling in coaching
 through SportCares. He said, "Being part of YCDP was transformative. It's
 not just about teaching sports skills; it's about building character and
@@ -57,6 +59,11 @@ expertise of sports coaching and understand the social dynamics of the
 communities they serve. By fostering a sense of ownership and responsibility
 among these coaches, SportCares aims to create a sustainable model for
 community development through sport.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3703_1.jpg">
+</div>
 <p>As Fun Starters gains momentum in Yishun, the influence on the community
 becomes clear. Parents share updates with the team of administrators and
 coaches on the positive changes they observe in their children. The camaraderie
