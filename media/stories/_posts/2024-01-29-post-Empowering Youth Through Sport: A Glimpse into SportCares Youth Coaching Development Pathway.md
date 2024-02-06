@@ -77,6 +77,6 @@ commitment, a community can be uplifted, one participant at a time.</p>
 impact of SportCares' vision – changing lives through sport.</p>
 <p></p>
 <p>You can follow us on&nbsp;<a href="https://www.instagram.com/sportcares/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>&nbsp;or&nbsp;
-<a href="https://www.facebook.com/SportCaresSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u>
+<a href="https://www.facebook.com/SportCaresSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u> 
 </a>&nbsp; for updates on all that we do in the community.</p>
 <p></p>
