@@ -26,7 +26,7 @@ such initiative aimed at nurturing youth coaches who, in turn, contribute
 to engaging the broader community through sport.</p>
 <p></p>
 <p>Meet 28-year-old Muhammad Fadhil Bin Ishak and 21-year-old Matin Nufael
-Ridzal, two youth coaches who have come through the YCDP initiative and
+Rizal, two youth coaches who have come through the YCDP initiative and
 embraced their roles in Fun Starters with enthusiasm, making a significant
 impact on the lives of the participants in Yishun.</p>
 <p></p>
