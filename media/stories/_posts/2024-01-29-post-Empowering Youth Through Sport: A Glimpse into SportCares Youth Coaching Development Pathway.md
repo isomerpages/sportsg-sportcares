@@ -72,7 +72,11 @@ among the children fosters a community spirit that extends beyond the programme.
 skilled coaches; it's cultivating community leaders who are shaping the
 future through sport. Fadhil and Matin demonstrate the transformative power
 of sports coaching, proving that with the proper guidance, passion, and
-commitment, a community can be uplifted, one participant at a time. And
-the Fun Starters programme in Yishun is a testament to the continuing impact
-of SportCares' vision – changing lives through sport.</p>
+commitment, a community can be uplifted, one participant at a time.</p>
+<p>And the Fun Starters programme in Yishun is a testament to the continuing
+impact of SportCares' vision – changing lives through sport.</p>
+<p></p>
+<p>You can follow us on&nbsp;<a href="https://www.instagram.com/sportcares/" rel="noopener noreferrer nofollow" target="_blank"><u>Instagram</u></a>&nbsp;or&nbsp;
+<a href="https://www.facebook.com/SportCaresSG" rel="noopener noreferrer nofollow" target="_blank"><u>Facebook</u>
+</a>&nbsp; for updates on all that we do in the community.</p>
 <p></p>
