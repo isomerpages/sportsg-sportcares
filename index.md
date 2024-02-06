@@ -18,14 +18,14 @@ sections:
           description: Bring sport to your community
           url: https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/
   - infopic:
-      title: An Evening of Celebrations at Woodlands Stadium
+      title: Empowering Youth Through Sport
       subtitle: What's new at Sportcares?
-      description: We had the opportunity to host our Patron, President Tharman
-        Shanmugaratnam at his first SportCares event which saw celebrations,
-        both on and off the pitch.
+      description: "Meet two youth coaches who have come through our Youth Coaching
+        Development Pathway initiative, making an impact on the lives of our
+        participants in Yishun. "
       button: read now
-      url: https://sportcares.sportsingapore.gov.sg/media/media-release/10yrs-snl-2023-hearts-league/
-      image: /images/DSC_8386.JPG
+      url: https://sportcares.sportsingapore.gov.sg/media/stories/glimpseofycdp
+      image: /images/IMG_3703_1.jpg
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
