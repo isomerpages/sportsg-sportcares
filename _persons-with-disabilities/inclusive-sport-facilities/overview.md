@@ -7,7 +7,7 @@ variant: markdown
 ---
 ##### Inclusive ActiveSG Facilities
 
-Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. If you would like to organise a sport centre orientation for a group, please email inclusivesport@sport.gov.sg.
+Over the next few years, [ActiveSG](https://www.myactivesg.com/About-ActiveSG) is committed to upgrading facilities and providing training to sport centre staff to make sports facilities more accessible to persons with disabilities and special needs. If you would like to organise a sport centre orientation for a group, please click&nbsp;[here](mailto:inclusivesport@sport.gov.sg)&nbsp;to contact us. 
 
 ##### Why Use ActiveSG Facilities?
 *This video describes how the ActiveSG inclusive gym has benefitted members Natalie and Leonard. The video contains subtitles and audio.*
