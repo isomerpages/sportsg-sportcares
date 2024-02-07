@@ -6,9 +6,9 @@ third_nav_title: Sports Programmes
 variant: tiptap
 ---
 <h3>Play-Ability</h3>
-<p>Play-Ability aims to provide weekly sports and play for persons with disabilities
-and special needs who may have limited access to sports activities and/or
-public sports facilities on a regular basis.</p>
+<p>Play-Ability provides recreational sports opportunities for PWDs with
+limited access to sports. PWDs will have access to community sports facilities
+so they can socialise and stay active on a regular basis.</p>
 <p>These are the sessions that are currently ongoing:</p>
 <ol data-tight="true" class="tight">
 <li>
