@@ -12,4 +12,4 @@ We are looking for regular sports buddies to serve as befrienders to beneficiari
 * Assist the coaches with activity demonstration if needed
 * Most importantly, put a smile on someone's face!
 
-Sign up [here](https://www.volunteer.gov.sg/) for volunteering opportunities with causes tagged under ‘Special Needs/Disabilities’ and under agency indicate ‘Team Nila’. 
+Sign up [here](https://www.volunteer.gov.sg/) for volunteering opportunities and choose ‘Special Needs/Disabilities’ using the 'Causes' tab followed by ‘Team Nila’ for the 'Agency/Scheme' tab. 
