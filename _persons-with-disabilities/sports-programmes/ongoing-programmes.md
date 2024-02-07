@@ -22,7 +22,7 @@ so they can socialise and stay active on a regular basis.</p>
 6pm</p>
 </li>
 <li>
-<p>Venue: MOE (Evans) Tennis Centre</p>
+<p>Venue: MOE (Evans) Tennis Centre, 21 Evans Rd, S259366</p>
 </li>
 <li>
 <p>Suitable for Persons with Visual Impairment</p>
