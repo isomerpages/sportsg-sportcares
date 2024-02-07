@@ -1,11 +1,9 @@
 ---
-title: 'Volunteering Opportunities'
+title: Volunteering Opportunities
 permalink: /persons-with-disabilities/volunteer/
-breadcrumb: 'Volunteering Opportunities'
-
+breadcrumb: Volunteering Opportunities
+variant: markdown
 ---
-
-
 #### Play-Ability Sports Buddy
 We are looking for regular sports buddies to serve as befrienders to beneficiaries of the programme! As a Sports Buddy, you will:
 
@@ -14,4 +12,4 @@ We are looking for regular sports buddies to serve as befrienders to beneficiari
 * Assist the coaches with activity demonstration if needed
 * Most importantly, put a smile on someone's face!
 
-All programmes are currently on hold till further notice. To stay updated about upcoming volunteering opportunities with SportCares Disability Sports team, sign up for our mailing list [here](https://go.gov.sg/dsmp-mailinglist), or email <inclusivesport@sport.gov.sg>.
+Sign up [here](https://www.volunteer.gov.sg/) for volunteering opportunities with causes tagged under ‘Special Needs/Disabilities’ and under agency indicate ‘Team Nila’. 
