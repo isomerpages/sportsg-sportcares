@@ -3,21 +3,36 @@ title: Ongoing Programmes
 permalink: /persons-with-disabilities/ongoing-programmes/
 breadcrumb: Ongoing Programmes
 third_nav_title: Sports Programmes
-variant: markdown
+variant: tiptap
 ---
-### Play-Ability
-Play-Ability aims to provide weekly sports and play for persons with disabilities and special needs who may have limited access to sports activities and/or public sports facilities on a regular basis. 
-
-These are the sessions that are currently ongoing: 
-
-1. **Soundball (Blind Tennis)**
-
-* Date & Time: Every Wednesday, 7pm – 9pm and Every Saturday, 4pm – 6pm
-
-*   Venue: MOE (Evans) Tennis Centre
-
-* Suitable for Persons with Visual Impairment
-
-* Equipment provided
-
-* Interested participants may register [here](https://go.gov.sg/dsmp-mailinglist) or click [here](mailto:inclusivesport@sport.gov.sg) to contact us via email for more information. 
+<h3>Play-Ability</h3>
+<p>Play-Ability aims to provide weekly sports and play for persons with disabilities
+and special needs who may have limited access to sports activities and/or
+public sports facilities on a regular basis.</p>
+<p>These are the sessions that are currently ongoing:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Soundball (Blind Tennis)</strong>
+</p>
+</li>
+</ol>
+<ul>
+<li>
+<p>Date &amp; Time: Every Wednesday, 7pm – 9pm and Every Saturday, 4pm –
+6pm</p>
+</li>
+<li>
+<p>Venue: MOE (Evans) Tennis Centre</p>
+</li>
+<li>
+<p>Suitable for Persons with Visual Impairment</p>
+</li>
+<li>
+<p>Equipment provided</p>
+</li>
+<li>
+<p>Interested participants may register <a href="https://go.gov.sg/dsmp-mailinglist" rel="noopener noreferrer nofollow" target="_blank">here</a> or click <a href="mailto:inclusivesport@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+contact us via email for more information.</p>
+</li>
+</ul>
+<p></p>
