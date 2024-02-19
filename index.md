@@ -5,7 +5,7 @@ description: Changing Lives through Sports
 permalink: /
 sections:
   - hero:
-      background: /images/snl launch_sportcares_2013.jpg
+      background: /images/snl-2022-1.JPG
       title: Changing Lives Through Sport
       key_highlights:
         - title: Donate
@@ -17,12 +17,16 @@ sections:
         - title: Communities of Care Grant
           description: Bring sport to your community
           url: https://sportcares.sportsingapore.gov.sg/initiatives/coc-grants/
+      variant: side
+      backgroundColor: gray
+      size: md
+      alignment: left
   - infopic:
       title: Empowering Youth Through Sport
       subtitle: What's new at Sportcares?
-      description: "Meet two youth coaches who have come through our Youth Coaching
+      description: Meet two youth coaches who have come through our Youth Coaching
         Development Pathway initiative, making an impact on the lives of our
-        participants in Yishun. "
+        participants in Yishun.
       button: read now
       url: https://sportcares.sportsingapore.gov.sg/media/stories/glimpseofycdp
       image: /images/IMG_3703_1.jpg
