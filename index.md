@@ -29,7 +29,7 @@ sections:
         participants in Yishun.
       button: read now
       url: https://sportcares.sportsingapore.gov.sg/media/stories/glimpseofycdp
-      image: /images/IMG_3703_1.jpg
+      image: /images/IMG_3692.jpg
       alt: Image alt text
   - infopic:
       title: SportCares Bursary
