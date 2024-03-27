@@ -2,6 +2,7 @@
 title: SportCares Bursary
 permalink: /initiatives/sportcaresbursary/
 description: ""
+variant: markdown
 ---
 ![](/images/communities-of-care-1.jpg)
 
@@ -18,7 +19,7 @@ Our aspiration through this initiative is to see SportCares Bursary recipients e
 * Children and youth aged 3 – 18 years old. 
 * The Bursary recipient and/or applicant must be currently receiving financial assistance from a government or non-profit organisation. 
 
-Please refer to the list below for examples of eligible financial assistance schemes. 
+Please refer to the list below of the eligible financial assistance schemes. 
 
 The list is as follow: 
 
@@ -64,10 +65,10 @@ All SportCares Bursary Recipients are expected to attend at least 70% of the tra
 ## How to Apply? 
 
 ### Existing Bursary recipients 
-Please write to us [here](mailto:sportcares@sport.gov.sg), with details of your full name, contact number and let us know of your interest to continue with the Bursary for the next season. <br> It is advisable to inform us at least three weeks before the current season ends. 
+You will be notified via email when the next application window is open. If your contact details have changed since your last application, please write to us [here](mailto:sportcares@sport.gov.sg), with your updated contact information and we will make the necessary changes on our mailing list. 
 
 ### New applicants
 
-**Individuals**: We request that individual applicants write to us [here](mailto:sportcares@sport.gov.sg), with details of your name, contact number and postal code of your current residential location. We will be in touch with you within seven (7) working days.
+**Individuals**: We request that individual applicants write to us [here](mailto:sportcares@sport.gov.sg), with their contact details and we will add you to our mailing list so that you will be notified when the next application window is open. 
 
-**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first then write to us [here](mailto:sportcares@sport.gov.sg). We will be in touch with you within seven (7) working days.
+**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first then write to us [here](mailto:sportcares@sport.gov.sg). 
