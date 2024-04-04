@@ -1,6 +1,6 @@
 ---
 title: Privacy Statement
-permalink: /privacy-statement/
+permalink: sportsingapore.gov.sg/privacy/
 variant: tiptap
 description: ""
 ---
