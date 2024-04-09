@@ -21,9 +21,9 @@ assistance offered through instructional videos. These resources are provided
 for Community Care staff and volunteers to organise and facilitate the
 sports sessions confidently.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/fitandfunadaptivesportstoolkit_resized.png">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/fitandfunadaptivesportstoolkit_resized.png">
 </div>
-<p>Click here to Scan the QR code or visit <a href="https://for.sg/fit-fun-toolkit" rel="noopener noreferrer nofollow" target="_blank">fit &amp; fun toolkit</a> to download
+<p>Scan the QR code or visit <a href="https://for.sg/fit-fun-toolkit" rel="noopener noreferrer nofollow" target="_blank">fit &amp; fun toolkit</a> to download
 an e-copy of the "Fit &amp; Fun" Adaptive Sports Toolkit.</p>
 <h3>Adaptive Sports Toolkit Training</h3>
 <p>Register for our training session <a href="https://go.gov.sg/sportcares-ast-training-2022" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.</p>
