@@ -3,6 +3,7 @@ title: SportCares Bursary
 permalink: /programmes/children/scbursary/
 description: ""
 third_nav_title: Children
+variant: markdown
 ---
 ![](/images/0bd52268-236e-4da6-b983-817cd57f57bb.jpg)
 
