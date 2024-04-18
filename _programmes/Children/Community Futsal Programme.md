@@ -3,6 +3,7 @@ title: Community Futsal Programme
 permalink: /programmes/children/cfp/
 description: ""
 third_nav_title: Children
+variant: markdown
 ---
 ![](/images/cfp_2017.jpg)
 
@@ -12,18 +13,19 @@ CFP is currently present in six (6) locations islandwide:
 
 * **Bedok** <br> Community Partner: Kaki Bukit Ville RC
 
-* **Telok Blangah** <br> Community Partner: Life Community Services - MKFC
-
 * **Bukit Merah** <br> Community Partner: Kim Tian West RC
-
-* **Marine Crescent** <br> Community Partner: The Hut
 
 * **Hougang** <br> Community Partner: Life Community Services
 
-* **Tampines** <br> Community Partner: SSO@Tampines
-
 * **Khatib** <br>Community Partner: Life Community Services
 
-If you are keen to have this programme in your community or want to learn more about it, reach out to us&nbsp;[here](mailto:sportcares@sport.gov.sg), with your details and we will contact you within seven (7) working days with more information.
+* **Marine Crescent** <br> Community Partner: The Hut
+
+* **Tampines** <br> Community Partner: SSO@Tampines
+
+* **Telok Blangah** <br> Community Partner: Life Community Services - MKFC
+
+
+If you are keen to have this programme in your community or want to learn more about it, reach out to us&nbsp;[here](mailto:sportcares@sport.gov.sg), with your details and we will contact you with more information.
 
 Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!

@@ -55,8 +55,8 @@ building healthy habits through relevant workshops and campaigns.</p>
 <br>Community Partners: Singapore Red Cross</p>
 </li>
 </ul>
-<p>If you are keen to have FUN Starters in your community or want to learn
-more about it, reach out to us <a href="mailto:sportcares@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your contact details
-and we will be in touch with more information.</p>
+<p>If you are keen to have this programme in your community or want to learn
+more about it, reach out to us&nbsp;<a href="mailto:sportcares@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your details and we
+will contact you with more information.</p>
 <p>Follow us on&nbsp;<a href="https://www.instagram.com/sportcares/" rel="noopener noreferrer nofollow" target="_blank">Instagram</a>&nbsp;or&nbsp;
 <a href="https://www.facebook.com/SportCaresSG" rel="noopener noreferrer nofollow" target="_blank">Facebook</a>&nbsp; for updates on all that we do in the community!</p>
