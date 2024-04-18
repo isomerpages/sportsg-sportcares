@@ -3,6 +3,7 @@ title: Multi Sport Programme
 permalink: /programmes/children/msp/
 description: ""
 third_nav_title: Children
+variant: markdown
 ---
 ![](/images/msp%20duathlon%202022.jpg)
 
@@ -19,6 +20,6 @@ MSP is currently present in three (3) locations:
 * **Singapore Sports Hub** <br> Community Partners: 7oaks Student Care (Bedok), 7oaks Student Care (Jurong)
 
 
-If you are keen to have this programme in your community or want to learn more about it, reach out to us&nbsp;[here](mailto:sportcares@sport.gov.sg), with your details and we will contact you within seven (7) working days with more information.
+If you are keen to have this programme in your community or want to learn more about it, reach out to us&nbsp;[here](mailto:sportcares@sport.gov.sg), with your details and we will contact you with more information.
 
 Follow us on&nbsp;[Instagram](https://www.instagram.com/sportcares/)&nbsp;or&nbsp;[Facebook](https://www.facebook.com/SportCaresSG)&nbsp; for updates on all that we do in the community!
