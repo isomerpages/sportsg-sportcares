@@ -28,7 +28,7 @@ building healthy habits through relevant workshops and campaigns.</p>
 <ul>
 <li>
 <p><strong>Ang Mo Kio </strong>
-<br>Community Partners: MSF SSO@AMK/Yishun</p>
+<br>Community Partners: MSF SSO@AMK, MSF SSO@Yishun</p>
 </li>
 <li>
 <p><strong>Boon Lay</strong> 
