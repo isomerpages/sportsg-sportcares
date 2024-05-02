@@ -6,11 +6,6 @@ third_nav_title: Children
 variant: markdown
 ---
 The Community Basketball Programme (CBP) is a sport-based development programme managed by SportCares in partnership with community groups based in the neighbourhood. 
- 
-CBP is currently present in one (1) location:
-
-* **Marine Crescent** <br> Community Partner: The Hut
-
 
 If you are keen to have this programme in your community or want to learn more about it, reach out to us&nbsp;[here](mailto:sportcares@sport.gov.sg), with your details and we will contact you with more information.
 
