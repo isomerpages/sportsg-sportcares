@@ -25,7 +25,7 @@ receive the support they need to succeed both on and off the field. In
 addition, SportCares will engage the parents of our participants on building
 healthy habits through relevant workshops and campaigns.</p>
 <p>FUN Starters is currently present in different parts of Singapore, with
-each training venue hosting up to two dedicated community partners.</p>
+each programme venue hosting up to two dedicated community partners.</p>
 <p>If you are keen to have this programme in your community or want to learn
 more about it, reach out to us&nbsp;<a href="mailto:sportcares@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your details and we
 will contact you with more information.</p>
