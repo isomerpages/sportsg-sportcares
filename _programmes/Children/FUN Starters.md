@@ -21,40 +21,11 @@ to the participants’ residential location.</p>
 </div>
 <p>SportCares also works closely with community leaders, MSF Social Services
 Offices (SSOs), and other organisations to ensure that the participants
-receive the support they need to succeed both on and off the field.</p>
-<p>In addition, SportCares will engage the parents of our participants on
-building healthy habits through relevant workshops and campaigns.</p>
-<p>FUN Starters is currently present in seven (7) locations islandwide:</p>
-<ul>
-<li>
-<p><strong>Ang Mo Kio </strong>
-<br>Community Partners: MSF SSO@AMK, MSF SSO@Yishun</p>
-</li>
-<li>
-<p><strong>Boon Lay</strong> 
-<br>Community Partners: MOH Office for Healthcare Transformation, 3 Pumpkins</p>
-</li>
-<li>
-<p><strong>Commonwealth Drive</strong> 
-<br>Community Partners: MSF SSO@Queenstown, FaithActs</p>
-</li>
-<li>
-<p><strong>Jalan Kukoh</strong> 
-<br>Community Partners: MSF SSO@Kreta Ayer, Yong-en Care Centre</p>
-</li>
-<li>
-<p><strong>Lengkok Bahru</strong> 
-<br>Community Partners: Beyond Social Services</p>
-</li>
-<li>
-<p><strong>Macpherson</strong> 
-<br>Community Partners: Brighton Connection Student Care</p>
-</li>
-<li>
-<p><strong>Yishun</strong> 
-<br>Community Partners: Singapore Red Cross</p>
-</li>
-</ul>
+receive the support they need to succeed both on and off the field. In
+addition, SportCares will engage the parents of our participants on building
+healthy habits through relevant workshops and campaigns.</p>
+<p>FUN Starters is currently present in different parts of Singapore, with
+each programme venue hosting up to two dedicated community partners.</p>
 <p>If you are keen to have this programme in your community or want to learn
 more about it, reach out to us&nbsp;<a href="mailto:sportcares@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your details and we
 will contact you with more information.</p>

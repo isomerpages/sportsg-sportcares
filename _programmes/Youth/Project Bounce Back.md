@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Youth
 variant: markdown
 ---
-SportCares works with institutions such as Singapore Prisons Services, Singapore Boys Home, Singapore Girls Home, and Singapore Boys’ Hostel to support the in-care, rehabilitation and reintegration journey for young offenders & youth in need through sport.
+SportCares works with institutions such as Singapore Prisons Services, Singapore Boys Home and Singapore Girls Home to support the in-care, rehabilitation and reintegration journey for young offenders & youth in need through sport.
 
 Throughcare collaboration starts in these institutions and continues into the community to provide the participants an opportunity to develop and maintain a pro-social network. 
  
