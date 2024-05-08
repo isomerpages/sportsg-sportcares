@@ -5,12 +5,8 @@ permalink: /media/stories/istana-picnic/
 category: stories
 date: 2019-01-30
 description: ""
+variant: markdown
 ---
-
-
-
-
-
 ![Istana Picnic](/images/Istana_Picnic_2.jpg)
 
 A collective of six individuals and organisations was recognised at the inaugural SportCares Awards on Saturday (19 Jan) for their efforts to change lives through sport.
@@ -28,5 +24,3 @@ The award ceremony hosted at the Istana was held in conjunction with a picnic or
 President Halimah said: “Using athletics, basketball, football, outdoor adventure, rugby, sailing, swimming and tennis as key channels for social development through sport, SportCares today mentors close to 1,000 children and youths. They have, in turn, collectively contributed more than 20,000 hours of volunteerism in the community.
 
 “It is timely for us to acknowledge and recognise the contributions of individuals and organisations who have supported SportCares in their initiatives.”
-
-This article first appeared on [myactivesg.com](https://www.myactivesg.com/read/2019/1/unsung-heroes-lauded-at-sportcares-awards-2019) on 20 January 2019.
