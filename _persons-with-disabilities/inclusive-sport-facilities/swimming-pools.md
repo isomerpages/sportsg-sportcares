@@ -35,10 +35,10 @@ pool wheelchairs to enter the pool.</p>
 <p>30 Yuan Ching Road, Singapore 618664</p>
 </li>
 <li>
-<p>Closed on Wednesday for maintenance</p>
+<p>Closed on Wednesdays for maintenance</p>
 </li>
 <li>
-<p><a href="https://www.myactivesg.com/Facilities/jurong-lake-gardens-pool" rel="noopener noreferrer nofollow" target="_blank">Operating Hours</a>
+<p><a href="https://www.activesgcircle.gov.sg/facilities/jurong-lake-gardens-pool" rel="noopener noreferrer nofollow" target="_blank">Operating Hours</a>
 </p>
 </li>
 </ul>
@@ -55,7 +55,7 @@ pool wheelchairs to enter the pool.</p>
 <p>Closed on Tuesday for maintenance</p>
 </li>
 <li>
-<p><a href="https://www.activesgcircle.gov.sg/facilities/jurong-lake-gardens-pool" rel="noopener noreferrer nofollow" target="_blank">Operating Hours</a>
+<p><a href="https://www.activesgcircle.gov.sg/facilities/jurong-west-swimming-complex" rel="noopener noreferrer nofollow" target="_blank">Operating Hours</a>
 </p>
 </li>
 </ul>
