@@ -6,6 +6,7 @@ description: Looking for funding to bring a sports programme to the community
   you live or work in?  SportCares offers two types of Communities of Care (COC)
   grants to help individuals and organisations bring their programmes to the
   communities we serve.
+variant: markdown
 ---
 ![](/images/26952937-3300-494A-8AB4-CD414CD75B83.png)
 
@@ -50,7 +51,7 @@ __Active Lifestyle:__ Programme increases engagement in physical activities and 
 
 ### COC Grant Application
 
-We are accepting new applications for **Starter Grants** only. The application window for Development Grants is currently closed. 
+We are accepting new applications for both Starter & Development Grants.
 
 To submit your application, please follow the steps below. 
 
