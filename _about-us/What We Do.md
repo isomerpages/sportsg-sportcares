@@ -3,6 +3,7 @@ title: What We Do
 permalink: /about-us/what-we-do/
 breadcrumb: who we are
 description: ""
+variant: markdown
 ---
 Established in 2012 as the philanthropic arm of Sport Singapore, SportCares is dedicated to empowering participants from vulnerable backgrounds, including children and youth at-risk, isolated seniors and persons with disabilities and special needs, by providing them with opportunities to experience the transformative power of sport. 
 
