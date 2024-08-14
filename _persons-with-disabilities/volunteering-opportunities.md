@@ -1,7 +1,10 @@
 ---
 title: Volunteering Opportunities
 permalink: /persons-with-disabilities/volunteer/
-description: Discover how you can make a difference through volunteering with SportCares. Learn about opportunities to support persons with disabilities in sports and help foster an inclusive community. Join us in creating positive change and enriching lives through sport.
+description: Discover how you can make a difference through volunteering with
+  SportCares. Learn about opportunities to support persons with disabilities in
+  sports and help foster an inclusive community. Join us in creating positive
+  change and enriching lives through sport.
 breadcrumb: Volunteering Opportunities
 variant: markdown
 ---
