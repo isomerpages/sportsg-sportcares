@@ -57,7 +57,7 @@ To submit your application, please follow the steps below.
 
 __Step 1__: Read the [COC Grant Infokit](https://go.gov.sg/coc-infokit-grantees)
 
-__Step 2__: Complete the [COC Grant Supporting Details Form](https://go.gov.sg/coc-grant-form-supporting-details)
+__Step 2__: Complete the [COC Grant Supporting Details Form](https://go.gov.sg/coc-grant-application-form-supporting-details)
 
 __Step 3__: Complete the [COC Grant Application Form](https://form.gov.sg/61e14d9b80623800132494fd )  
 (*You will be asked to attach the completed COC Grant Supporting Details form (see Step 2) when submitting this form)*
