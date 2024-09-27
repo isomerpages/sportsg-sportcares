@@ -2,7 +2,10 @@
 title: Persons with Disabilities
 permalink: /programmes/persons-with-disabilities/
 breadcrumb: persons-with-disabilities
-description: ""
+description: Discover how you can make a difference by volunteering with
+  SportCares. Learn about opportunities to support persons with disabilities
+  through inclusive sports programmes, and contribute to creating a more
+  accessible and supportive community.
 variant: markdown
 ---
 ### Building an inclusive society through Sport

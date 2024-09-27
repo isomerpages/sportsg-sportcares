@@ -3,7 +3,7 @@ title: Adaptive Sports Toolkit
 permalink: /programmes/adaptive-sports-toolkit/
 breadcrumb: vulnerable-seniors
 third_nav_title: Seniors
-description: ""
+description: A resource pack for vulnerable and isolated seniors under SportCares.
 variant: tiptap
 ---
 <p>Jointly developed by the trainers from the Agency for Integrated Care

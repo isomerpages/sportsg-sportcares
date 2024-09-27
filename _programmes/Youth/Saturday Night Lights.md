@@ -1,7 +1,7 @@
 ---
 title: Saturday Night Lights
 permalink: /programmes/youth/snl/
-description: ""
+description: "Explore SportCares' SNL program, designed to empower youth through sports and leadership development. Learn how the initiative fosters teamwork, resilience, and personal growth while promoting active lifestyles and community engagement."
 third_nav_title: Youth
 variant: tiptap
 ---
