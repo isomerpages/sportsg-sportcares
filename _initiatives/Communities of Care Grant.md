@@ -55,7 +55,7 @@ We are accepting new applications for both Starter & Development Grants.
 
 To submit your application, please follow the steps below. 
 
-__Step 1__: Read the [COC Grant Infokit](https://go.gov.sg/coc-infokit-grantees)
+__Step 1__: Read the [COC Grant Infokit](https://go.gov.sg/infokit-for-potential-grantees)
 
 __Step 2__: Complete the [COC Grant Supporting Details Form](https://go.gov.sg/coc-grant-application-form-supporting-details)
 
