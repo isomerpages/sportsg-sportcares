@@ -62,13 +62,8 @@ The bursary will cover seasonal participation fees for nine (9) ActiveSG Academi
 -
 All SportCares Bursary Recipients are expected to attend at least 70% of the training sessions per season and display sportsmanship conduct during all A&amp;C related sessions. Failure to meet the attendance requirement of 70% per season may result in the suspension of the Bursary. 
 
-## How to Apply? 
+**How to Apply?** 
+- 
+Interested individuals will be notified via email when the next application window is open. To join our mailing list, please add your email address via this [form](https://form.gov.sg/67a45f0cdd4157c04a2eb4a6).
 
-### Existing Bursary recipients 
-You will be notified via email when the next application window is open. If your contact details have changed since your last application, please write to us [here](mailto:sportcares@sport.gov.sg), with your updated contact information and we will make the necessary changes on our mailing list. 
-
-### New applicants
-
-**Individuals**: We request that individual applicants write to us [here](mailto:sportcares@sport.gov.sg), with their contact details and we will add you to our mailing list so that you will be notified when the next application window is open. 
-
-**\[NEW\] Group Sign-Up**: For community groups, social service agencies and schools, we request that you consolidate a list of interested applicants first then write to us [here](mailto:sportcares@sport.gov.sg). 
+For community groups, social service agencies and schools, we request that you write to us [here](mailto:sportcares@sport.gov.sg).
