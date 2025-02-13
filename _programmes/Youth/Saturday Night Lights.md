@@ -1,7 +1,10 @@
 ---
 title: Saturday Night Lights
 permalink: /programmes/youth/snl/
-description: "Explore SportCares' SNL program, designed to empower youth through sports and leadership development. Learn how the initiative fosters teamwork, resilience, and personal growth while promoting active lifestyles and community engagement."
+description: Explore SportCares' SNL program, designed to empower youth through
+  sports and leadership development. Learn how the initiative fosters teamwork,
+  resilience, and personal growth while promoting active lifestyles and
+  community engagement.
 third_nav_title: Youth
 variant: tiptap
 ---
@@ -16,6 +19,7 @@ sport and opportunities to pick up relevant life skills through non-sport
 initiatives and courses. With various training venues spread across the
 island, eligible participants will be matched to the nearest training location
 using their residential address.</p>
+<p>If you are keen to join SNL, please fill up this form with your details.</p>
 <p>If you are keen to have this programme in your community or want to learn
 more about it, reach out to us&nbsp;<a href="mailto:sportcares@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your details and we
 will contact you with more information.</p>
