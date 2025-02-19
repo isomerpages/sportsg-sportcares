@@ -19,7 +19,7 @@ sport and opportunities to pick up relevant life skills through non-sport
 initiatives and courses. With various training venues spread across the
 island, eligible participants will be matched to the nearest training location
 using their residential address.</p>
-<p>If you are keen to join SNL, please fill up this <a href="https://go.gov.sg/snl-2025" rel="noopener nofollow" target="_blank">form</a> with your details.</p>
+<p>If you are keen to join SNL, please fill up this <a href="https://form.gov.sg/67a4710854453bbff3de1731" rel="noopener nofollow" target="_blank">form</a> with your details.</p>
 <p>If you are keen to have this programme in your community or want to learn
 more about it, reach out to us&nbsp;<a href="mailto:sportcares@sport.gov.sg" rel="noopener noreferrer nofollow" target="_blank">here</a>, with your details and we
 will contact you with more information.</p>
