@@ -29,6 +29,8 @@ The list is as follow:
 * ComCare Interim Assistance
 * Student Care Fee Assistance (SCFA)
 * Child Care Financial Assistance (CCFA)
+* Kindergarten Fee Assistance Scheme (KiFAS)
+* KiFAS Startup Grant 
 
 **Ministry of Education**
 * MOE Financial Assistance Scheme
@@ -45,10 +47,6 @@ The list is as follow:
 * School Pocket Money Fund
 * Pre-School Bursary
 * SINDA Bursary
-
-**Majlis Ugama Islam Singapura (MUIS)**
-* Progress Fund Madrasah Assistance Scheme (PROMAS)
-* MUIS Zakat
 
 **Mendaki**
 * Education Trust Fund School Assistance Scheme (ETF-SAS)
