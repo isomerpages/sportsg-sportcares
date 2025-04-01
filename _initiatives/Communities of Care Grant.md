@@ -22,17 +22,13 @@ The objectives of the COC grants are to:
 
 ### Types of COC Grants
 
+SportCares offers two types of COC grants:
 
 __Starter Grant__  
-This grant, based on a one-year funding timeline, aims to develop the capabilities of community-based organisations to deliver sport-based development programmes and increase engagement in the community. 
+Provides seed funding of up to $50,000 to support individuals and/or groups who wish to organise a smaller scale sport-based development programme in the community. The grant is for one year. 
 
-It is renewable yearly (up to a maximum of three years) and renewal assessment will be based on key performance indicators during past grant timelines. 
-
-
-__Development Grant__                                                                               
-This grant will be based on a three-year funding timeline, with the funding quantum decreasing each year. 
-
-To ensure continuity after the initial grant timeline, we encourage potential grantees to bring on board corporate partners or donors who can work with them to provide longer term funding support.
+__Development Grant__ 
+Provides multi-year funding to intermediary organisations to invest in holistic sport-based programmes for the vulnerable and underserved, while using the programme to build and strengthen community. This grant will be based on a three-year funding timeline. Grant funding will be up to $200,000 in the first year, with the funding quantum decreasing with each subsequent year.
 
 ### Our Key Focus Areas for COC Grants                                              
 
