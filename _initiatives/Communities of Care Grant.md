@@ -27,18 +27,13 @@ SportCares offers two types of COC grants:
 __Starter Grant__  
 Provides seed funding of up to $50,000 to support individuals and/or groups who wish to organise a smaller scale sport-based development programme in the community. The grant is for one year. 
 
-__Development Grant__ 
+__Development Grant__          
 Provides multi-year funding to intermediary organisations to invest in holistic sport-based programmes for the vulnerable and underserved, while using the programme to build and strengthen community. This grant will be based on a three-year funding timeline. Grant funding will be up to $200,000 in the first year, with the funding quantum decreasing with each subsequent year.
 
-For detailed information on the COC grants, please refer to the [COC Grant Infokit](https://go.gov.sg/infokit-for-potential-grantees).
+For detailed information on the grants, please refer to the [COC Grant Infokit](https://go.gov.sg/infokit-for-potential-grantees).
 
 ### COC Grant Application
 
 To submit your application, please apply on the [Our SG Grants portal](https://go.gov.sg/coc-grants-application).
 
-__Step 2__: Complete the [COC Grant Supporting Details Form](https://go.gov.sg/coc-grant-application-form-supporting-details)
-
-__Step 3__: Complete the [COC Grant Application Form](https://form.gov.sg/61e14d9b80623800132494fd )  
-(*You will be asked to attach the completed COC Grant Supporting Details form (see Step 2) when submitting this form)*
-
-If you require further assistance, write to us [here.](mailto:sportcares@sport.gov.sg)
+Require further assistance? [Email us]((mailto:sportcares@sport.gov.sg).
