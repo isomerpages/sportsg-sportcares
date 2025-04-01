@@ -12,9 +12,13 @@ variant: markdown
 
 ### SportCares Communities of Care Grants
 
-Looking for funding to bring a sports programme to the community you live or work in? 
+The SportCares Communities of Care (COC) grants support the development of sports programmes that promote social good. The grants aim to empower individuals and organisations who are focused on using sport as a tool for community development. 
 
-SportCares offers two types of Communities of Care (COC) grants to help individuals and organisations bring their programmes to the communities we serve. 
+The objectives of the COC grants are to:
+* Support long-term, regular programmes that empower the vulnerable and underserved groups through sport;
+* Foster equal access to sports opportunities for the vulnerable and underserved groups;
+* Promote innovative and collaborative efforts that uses sport to build communities and achieve social inclusion; and
+* Establish sustainable strategic partnerships with organisations that promote prosocial initiatives.
 
 ### Types of COC Grants
 
