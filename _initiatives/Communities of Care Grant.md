@@ -30,6 +30,8 @@ Provides seed funding of up to $50,000 to support individuals and/or groups who 
 __Development Grant__ 
 Provides multi-year funding to intermediary organisations to invest in holistic sport-based programmes for the vulnerable and underserved, while using the programme to build and strengthen community. This grant will be based on a three-year funding timeline. Grant funding will be up to $200,000 in the first year, with the funding quantum decreasing with each subsequent year.
 
+For detailed information on the COC grants, please refer to the [COC Grant Infokit](https://go.gov.sg/infokit-for-potential-grantees).
+
 ### Our Key Focus Areas for COC Grants                                              
 
 __Enabling Access:__ Creating grounds-up community initiatives to empower persons from vulnerable communities to thrive and have opportunities for meaningful engagement through sport.
