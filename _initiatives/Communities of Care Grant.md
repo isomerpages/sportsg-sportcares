@@ -12,54 +12,28 @@ variant: markdown
 
 ### SportCares Communities of Care Grants
 
-Looking for funding to bring a sports programme to the community you live or work in? 
+The SportCares Communities of Care (COC) grants support the development of sports programmes that promote social good. The grants aim to empower individuals and organisations who are focused on using sport as a tool for community development. 
 
-SportCares offers two types of Communities of Care (COC) grants to help individuals and organisations bring their programmes to the communities we serve. 
+The objectives of the COC grants are to:
+* Support long-term, regular programmes that empower the vulnerable and underserved groups through sport;
+* Foster equal access to sports opportunities for the vulnerable and underserved groups;
+* Promote innovative and collaborative efforts that uses sport to build communities and achieve social inclusion; and
+* Establish sustainable strategic partnerships with organisations that promote prosocial initiatives.
 
 ### Types of COC Grants
 
+SportCares offers two types of COC grants:
 
 __Starter Grant__  
-This grant, based on a one-year funding timeline, aims to develop the capabilities of community-based organisations to deliver sport-based development programmes and increase engagement in the community. 
+Provides seed funding of up to $50,000 to support individuals and/or groups who wish to organise a smaller scale sport-based development programme in the community. The grant is for one year. 
 
-It is renewable yearly (up to a maximum of three years) and renewal assessment will be based on key performance indicators during past grant timelines. 
+__Development Grant__          
+Provides multi-year funding to intermediary organisations to invest in holistic sport-based programmes for the vulnerable and underserved, while using the programme to build and strengthen community. This grant will be based on a three-year funding timeline. Grant funding will be up to $200,000 in the first year, with the funding quantum decreasing with each subsequent year.
 
-
-__Development Grant__                                                                               
-This grant will be based on a three-year funding timeline, with the funding quantum decreasing each year. 
-
-To ensure continuity after the initial grant timeline, we encourage potential grantees to bring on board corporate partners or donors who can work with them to provide longer term funding support.
-
-### Our Key Focus Areas for COC Grants                                              
-
-__Enabling Access:__ Creating grounds-up community initiatives to empower persons from vulnerable communities to thrive and have opportunities for meaningful engagement through sport.
-
-__Fostering Learning:__ Promote learning and conversations in the community, bringing attention to sport-based efforts that are impactful in uplifting the lives of the underserved and the vulnerable in Singapore.
-
-__Building Communities:__ Build networks in neighbourhoods across Singapore, using sport to reach and connect across social divides, promote volunteerism, and create a more inclusive sporting society.
-
-### Our Desired Programme Outcomes                                  
-__Wellness:__ Participants experience increased psychological, emotional, and social well-being. 
-
-__Values:__ Participants build positive values through sport. 
-
-__Inclusion:__ Programme enhances a narrative of inclusion and strengthens bonds in the community. 
-
-__Active Lifestyle:__ Programme increases engagement in physical activities and a healthy lifestyle. 
-
-
+For detailed information on the grants, please refer to the [COC Grant Infokit](https://go.gov.sg/infokit-for-potential-grantees).
 
 ### COC Grant Application
 
-We are accepting new applications for both Starter & Development Grants.
+To submit your application, please apply on the [Our SG Grants portal](https://go.gov.sg/coc-grants-application).
 
-To submit your application, please follow the steps below. 
-
-__Step 1__: Read the [COC Grant Infokit](https://go.gov.sg/infokit-for-potential-grantees)
-
-__Step 2__: Complete the [COC Grant Supporting Details Form](https://go.gov.sg/coc-grant-application-form-supporting-details)
-
-__Step 3__: Complete the [COC Grant Application Form](https://form.gov.sg/61e14d9b80623800132494fd )  
-(*You will be asked to attach the completed COC Grant Supporting Details form (see Step 2) when submitting this form)*
-
-If you require further assistance, write to us [here.](mailto:sportcares@sport.gov.sg)
+Require further assistance? [Email us]((mailto:sportcares@sport.gov.sg).
